@@ -162,23 +162,6 @@
       </tags>
   </entry>
   <entry>
-    <title>服务器一键LNMP</title>
-    <url>/2020/10/02/%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%80%E9%94%AELNMP/</url>
-    <content><![CDATA[<h1 id="让你的LINUX电脑或者服务器一键LNMP！"><a href="#让你的LINUX电脑或者服务器一键LNMP！" class="headerlink" title="让你的LINUX电脑或者服务器一键LNMP！"></a>让你的LINUX电脑或者服务器一键LNMP！</h1><p>LINUX服务器配置的时候如果使用包管理很多时候会出现无法解析PHP脚本等疑难杂症。。。<del>大概是我水平问题</del><br>所以！！！这里有一个方便的一键配置脚本！！！</p>
-<a id="more"></a>
-<p>这个脚本是有更新的，请随时关注<a href="https://lnmp.org/">https://lnmp.org/</a></p>
-<p>对于服务器，这样使用它（此时最新为1.7）</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">wget http://soft.vpser.net/lnmp/lnmp1.7.tar.gz</span><br><span class="line">tar -xzvf lnmp*</span><br></pre></td></tr></table></figure>
-<p>接着进入目录执行脚本即可，当中需要对参数进行一些基础配置，然后就可以使用你的服务器了!</p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>Linux</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>打包软件到AUR</title>
     <url>/2020/11/12/%E6%89%93%E5%8C%85%E8%BD%AF%E4%BB%B6%E5%88%B0AUR/</url>
     <content><![CDATA[<h1 id="打包软件并共享到AUR"><a href="#打包软件并共享到AUR" class="headerlink" title="打包软件并共享到AUR"></a>打包软件并共享到AUR</h1><p>对于Arch Linux的用户来说，AUR软件仓库是常常为人所津津乐道的优势。其优点就在于极大的开放性。那么我们也可以打包软件上传到AUR，从白嫖进化到贡献者！</p>
@@ -190,6 +173,23 @@
 <p>然后上传</p>
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git push</span><br></pre></td></tr></table></figure>
 <p>接着在AUR上就可以看到你的软件了，可以用yay安装了！！</p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>Linux</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>服务器一键LNMP</title>
+    <url>/2020/10/02/%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%80%E9%94%AELNMP/</url>
+    <content><![CDATA[<h1 id="让你的LINUX电脑或者服务器一键LNMP！"><a href="#让你的LINUX电脑或者服务器一键LNMP！" class="headerlink" title="让你的LINUX电脑或者服务器一键LNMP！"></a>让你的LINUX电脑或者服务器一键LNMP！</h1><p>LINUX服务器配置的时候如果使用包管理很多时候会出现无法解析PHP脚本等疑难杂症。。。<del>大概是我水平问题</del><br>所以！！！这里有一个方便的一键配置脚本！！！</p>
+<a id="more"></a>
+<p>这个脚本是有更新的，请随时关注<a href="https://lnmp.org/">https://lnmp.org/</a></p>
+<p>对于服务器，这样使用它（此时最新为1.7）</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">wget http://soft.vpser.net/lnmp/lnmp1.7.tar.gz</span><br><span class="line">tar -xzvf lnmp*</span><br></pre></td></tr></table></figure>
+<p>接着进入目录执行脚本即可，当中需要对参数进行一些基础配置，然后就可以使用你的服务器了!</p>
 ]]></content>
       <categories>
         <category>从晴朗的朝色泛起之际开始</category>
@@ -276,20 +276,6 @@
       </tags>
   </entry>
   <entry>
-    <title>速写札记-By_EF_Cosmos</title>
-    <url>/2020/10/02/%E9%80%9F%E5%86%99%E6%9C%AD%E8%AE%B0-By-EF-Cosmos/</url>
-    <content><![CDATA[<p><img src="https://ftp.bmp.ovh/imgs/2020/10/d953f82bbfc9aebb.jpg" alt="EF_Cosmos 板绘"></p>
-<p><img src="https://ftp.bmp.ovh/imgs/2020/10/7ce64efdcc79507e.jpg" alt="EF_Cosmos 板绘"></p>
-<p>每日速写<br><em>2020/10/02 by EF_Cosmos</em></p>
-]]></content>
-      <categories>
-        <category>EF_Cosmos</category>
-      </categories>
-      <tags>
-        <tag>EF_Cosmos的板绘</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>给picom开启高性能模糊透明</title>
     <url>/2020/12/04/%E7%BB%99picom%E5%BC%80%E5%90%AF%E9%AB%98%E6%80%A7%E8%83%BD%E6%A8%A1%E7%B3%8A%E9%80%8F%E6%98%8E/</url>
     <content><![CDATA[<h1 id="picom混成器模糊透明来了！"><a href="#picom混成器模糊透明来了！" class="headerlink" title="picom混成器模糊透明来了！"></a>picom混成器模糊透明来了！</h1><p>使用windows manager的图形界面的话，如果不想忍受单薄的画面，当然少不了一个窗口混成器。现在kwin，mutter这些集成在DE里面的wm都整合了混成器。但是像i3这种wm，就需要一个外置混成器来撑撑排面了。</p>
@@ -311,6 +297,20 @@
       </categories>
       <tags>
         <tag>Linux</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>速写札记-By_EF_Cosmos</title>
+    <url>/2020/10/02/%E9%80%9F%E5%86%99%E6%9C%AD%E8%AE%B0-By-EF-Cosmos/</url>
+    <content><![CDATA[<p><img src="https://ftp.bmp.ovh/imgs/2020/10/d953f82bbfc9aebb.jpg" alt="EF_Cosmos 板绘"></p>
+<p><img src="https://ftp.bmp.ovh/imgs/2020/10/7ce64efdcc79507e.jpg" alt="EF_Cosmos 板绘"></p>
+<p>每日速写<br><em>2020/10/02 by EF_Cosmos</em></p>
+]]></content>
+      <categories>
+        <category>EF_Cosmos</category>
+      </categories>
+      <tags>
+        <tag>EF_Cosmos的板绘</tag>
       </tags>
   </entry>
 </search>
