@@ -6,7 +6,7 @@
   <link href="https://blog.zhaose.cyou/atom.xml" rel="self"/>
   
   <link href="https://blog.zhaose.cyou/"/>
-  <updated>2021-05-16T11:03:31.395Z</updated>
+  <updated>2021-07-10T20:40:50.227Z</updated>
   <id>https://blog.zhaose.cyou/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>用racket重写随机图片API！</title>
+    <link href="https://blog.zhaose.cyou/2021/07/11/Racket-Random-Pic/"/>
+    <id>https://blog.zhaose.cyou/2021/07/11/Racket-Random-Pic/</id>
+    <published>2021-07-10T20:33:09.000Z</published>
+    <updated>2021-07-10T20:40:50.227Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="用racket重写随机图片API！"><a href="#用racket重写随机图片API！" class="headerlink" title="用racket重写随机图片API！"></a>用racket重写随机图片API！</h1><p>之前我写过一篇用nodejs进行随机图片的API，作为一个lisp信徒我决定用racket——一门sheme的方言来重写它</p><h3 id="先安装racket"><a href="#先安装racket" class="headerlink" title="先安装racket"></a>先安装racket</h3><p>以下是Ubuntu上的安装方法</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo apt install racket</span><br></pre></td></tr></table></figure><p>然后在一个目录下新建data.txt，把你的图片的链接都放进去</p><p>接着新建一个web.rkt：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br></pre></td><td class="code"><pre><span class="line">#lang racket</span><br><span class="line"></span><br><span class="line">(require web-server&#x2F;servlet)</span><br><span class="line">(require web-server&#x2F;servlet-env)</span><br><span class="line"></span><br><span class="line">(define url-list &#39;())</span><br><span class="line"></span><br><span class="line">(call-with-input-file &quot;data.txt&quot;</span><br><span class="line">  (lambda (in)</span><br><span class="line">    (let loop ((this-line (read-line in)))</span><br><span class="line">      (cond ((not (eof-object? this-line)) (set! url-list (append url-list (list this-line)))</span><br><span class="line">                                          (loop (read-line in))</span><br><span class="line">                                          )</span><br><span class="line">           )</span><br><span class="line">      )))</span><br><span class="line"></span><br><span class="line">(define (random-url req)</span><br><span class="line">  (response&#x2F;xexpr (list-ref url-list (random (length url-list))))</span><br><span class="line">  )</span><br><span class="line"></span><br><span class="line">(define (random-html req)</span><br><span class="line"></span><br><span class="line">  (response&#x2F;xexpr &#96;(html (head (title &quot;zhaose&#39;s api&quot;))</span><br><span class="line">                        (body (h1 &quot;zhaose&#39;s api&quot;)</span><br><span class="line">                             (p (img (( src ,(list-ref url-list (random (length url-list)))))))</span><br><span class="line">                             )</span><br><span class="line">                        )</span><br><span class="line">                 ))</span><br><span class="line"></span><br><span class="line">(define (my-random req)</span><br><span class="line">  (if (empty? (url-query (request-uri req))) (random-html req)</span><br><span class="line">     (random-url req)</span><br><span class="line">     ))</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">(serve&#x2F;servlet my-random #:port 8080 #:listen-ip &quot;0.0.0.0&quot; #:servlet-path &quot;&#x2F;&quot;)</span><br></pre></td></tr></table></figure><p>保存好之后用racket web.rkt就可以运行了</p><p>这是要注意的是如果你不加get请求参数返回的是一个html界百，加了get请求参数的话则会返回一个链接，可以用于机器人等的使用，如：</p><p><a href="http://49.234.70.34:8080/">http://49.234.70.34:8080</a>是html界面</p><p><a href="http://49.234.70.34:8080/?x=1">http://49.234.70.34:8080?x=1</a>返回的是链接</p><p>这确实是lisper的自我修养</p><p><strong>by 从晴朗的朝色泛起之际开始</strong></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;用racket重写随机图片API！&quot;&gt;&lt;a href=&quot;#用racket重写随机图片API！&quot; class=&quot;headerlink&quot; title=&quot;用racket重写随机图片API！&quot;&gt;&lt;/a&gt;用racket重写随机图片API！&lt;/h1&gt;&lt;p&gt;之前我写过一篇用no</summary>
+      
+    
+    
+    
+    <category term="从晴朗的朝色泛起之际开始" scheme="https://blog.zhaose.cyou/categories/%E4%BB%8E%E6%99%B4%E6%9C%97%E7%9A%84%E6%9C%9D%E8%89%B2%E6%B3%9B%E8%B5%B7%E4%B9%8B%E9%99%85%E5%BC%80%E5%A7%8B/"/>
+    
+    
+    <category term="Linux" scheme="https://blog.zhaose.cyou/tags/Linux/"/>
+    
+  </entry>
   
   <entry>
     <title>GAME_1</title>
