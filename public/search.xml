@@ -68,6 +68,21 @@
       </tags>
   </entry>
   <entry>
+    <title>Random_Pic</title>
+    <url>/2021/03/29/Random-Pic/</url>
+    <content><![CDATA[<h1 id="随机图！！！"><a href="#随机图！！！" class="headerlink" title="随机图！！！"></a>随机图！！！</h1><p>快点点进来！</p>
+<a id="more"></a>
+
+<p><img src="http://49.234.70.34:8080/?mode=jump" alt="zhaoseapi"></p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>有趣</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>用racket重写随机图片API！</title>
     <url>/2021/07/11/Racket-Random-Pic/</url>
     <content><![CDATA[<h1 id="用racket重写随机图片API！"><a href="#用racket重写随机图片API！" class="headerlink" title="用racket重写随机图片API！"></a>用racket重写随机图片API！</h1><p>之前我写过一篇用nodejs进行随机图片的API，作为一个lisp信徒我决定用racket——一门sheme的方言来重写它</p>
@@ -91,21 +106,6 @@
       </categories>
       <tags>
         <tag>Linux</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Random_Pic</title>
-    <url>/2021/03/29/Random-Pic/</url>
-    <content><![CDATA[<h1 id="随机图！！！"><a href="#随机图！！！" class="headerlink" title="随机图！！！"></a>随机图！！！</h1><p>快点点进来！</p>
-<a id="more"></a>
-
-<p><img src="http://49.234.70.34:8080/?mode=jump" alt="zhaoseapi"></p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>有趣</tag>
       </tags>
   </entry>
   <entry>
@@ -172,26 +172,6 @@
       </tags>
   </entry>
   <entry>
-    <title>打包软件到AUR</title>
-    <url>/2020/11/12/%E6%89%93%E5%8C%85%E8%BD%AF%E4%BB%B6%E5%88%B0AUR/</url>
-    <content><![CDATA[<h1 id="打包软件并共享到AUR"><a href="#打包软件并共享到AUR" class="headerlink" title="打包软件并共享到AUR"></a>打包软件并共享到AUR</h1><p>对于Arch Linux的用户来说，AUR软件仓库是常常为人所津津乐道的优势。其优点就在于极大的开放性。那么我们也可以打包软件上传到AUR，从白嫖进化到贡献者！</p>
-<p>首先到AUR注册一个账户，并且填入在本机生成的ssh密钥。然后克隆一个空仓库：</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git <span class="built_in">clone</span> ssh://aur@aur.archlinux.org/gwm-git.git</span><br></pre></td></tr></table></figure>
-<a id="more"></a>
-<p>像这样，然后放入pkgbuild和校验文件</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git add PKGBUILD .SRCINFO</span><br></pre></td></tr></table></figure>
-<p>然后上传</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git push</span><br></pre></td></tr></table></figure>
-<p>接着在AUR上就可以看到你的软件了，可以用yay安装了！！</p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>Linux</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>2020年10月12日</title>
     <url>/2020/10/12/%E6%88%91%E4%BB%AC%E6%B4%BB%E5%9C%A8%E4%BD%95%E5%A4%84/</url>
     <content><![CDATA[<p>#写于2020-10-12</p>
@@ -224,35 +204,23 @@
       </tags>
   </entry>
   <entry>
-    <title>板绘札记-By_EF_Cosmos</title>
-    <url>/2020/10/02/%E6%9D%BF%E7%BB%98%E6%9C%AD%E8%AE%B0-By-Cosmos/</url>
-    <content><![CDATA[<p><img src="https://ftp.bmp.ovh/imgs/2020/10/774dd4eca2fa1c03.png" alt="Cosmos 板绘"></p>
-<p>我心中有颗树苗<br>路过的人都会为它浇水<br>我在等一个人<br>他可以陪我在树下乘凉<br><em>2020/9/6 by EF_Cosmos</em></p>
-]]></content>
-      <categories>
-        <category>EF_Cosmos</category>
-      </categories>
-      <tags>
-        <tag>EF_Cosmos的板绘</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>点墨的小Y文</title>
-    <url>/2021/02/17/%E7%82%B9%E5%A2%A8%E7%9A%84%E5%B0%8FY%E6%96%87/</url>
-    <content><![CDATA[<h1 id="点墨的同人小Y文"><a href="#点墨的同人小Y文" class="headerlink" title="点墨的同人小Y文"></a>点墨的同人小Y文</h1><p>身边女性的芳香使点墨心乱神迷，他目不转睛地盯着身边的美人。<br>“虽说胸只要不太小就行，但是这波涛汹涌，谁顶得住啊。”</p>
-<p>点墨暗自感叹道，他的双手情不自禁地在她的翘臀上轻抚。</p>
+    <title>打包软件到AUR</title>
+    <url>/2020/11/12/%E6%89%93%E5%8C%85%E8%BD%AF%E4%BB%B6%E5%88%B0AUR/</url>
+    <content><![CDATA[<h1 id="打包软件并共享到AUR"><a href="#打包软件并共享到AUR" class="headerlink" title="打包软件并共享到AUR"></a>打包软件并共享到AUR</h1><p>对于Arch Linux的用户来说，AUR软件仓库是常常为人所津津乐道的优势。其优点就在于极大的开放性。那么我们也可以打包软件上传到AUR，从白嫖进化到贡献者！</p>
+<p>首先到AUR注册一个账户，并且填入在本机生成的ssh密钥。然后克隆一个空仓库：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git <span class="built_in">clone</span> ssh://aur@aur.archlinux.org/gwm-git.git</span><br></pre></td></tr></table></figure>
 <a id="more"></a>
-<p>感觉到屁股上传来的热度，苏雪的脸色羞红，但是眼眸中却满是笑意，这个男孩子看起来年纪还不大，竟然这般的色眯眯，真是不知羞耻。她的手臂不由自主地挽上了点墨的脖颈，将他拉进怀里。</p>
-<p>感觉着那温软而柔嫩的娇躯紧贴在自己的胸膛，点墨忍不住将嘴唇贴近了那饱满而光滑的额头，轻吻了上去。<br>他的嘴唇很冰凉，但是却带着丝丝的火热，令苏雪感觉到浑身酥麻。<br>“我好像喜欢上你了怎么办？你会不会拒绝？”苏雪轻声问道，她现在已经完全沉浸于他那充满阳刚之气的怀抱。</p>
-<p>“怎么会？”<br>点墨的声音听起来很平静。<br>苏雪抬头看向眼前这个看起来年纪并不大的男生，他长得倒也不算很丑，棱角分明的脸庞，浓眉大眼，挺直的鼻梁，还有那双薄厚适中，如同花瓣般的嘴唇。<br>她顺从自己的内心吻了了去，两人的唾液就这样交合在一起，不分彼此。<br>感觉到她那柔软的舌头在他的口中纠缠，点墨感觉到了一种异样的快感。<br>他不再犹豫，加深了自己的亲吻。</p>
-<p>“嗯~~！”<br>苏雪发出了一声闷哼。<br>两人相互吮吸，直至彼此的气息混乱、呼吸急促，这才停了下来。<br>“小丫头！”<br>看着那张粉嘟嘟的俏丽容颜，点墨心中一荡，情不自禁地喊道。<br>他伸手在她那光洁细腻的脸蛋上轻抚。<br>他的手指在她的肌肤上摩挲着，带起一阵阵战栗，令苏雪情不自禁地颤抖起来。</p>
-<p>苏雪低着头，眼睛一眨不眨地盯着自己的脚尖，似乎在考虑着什么。<br>她的身体在不断颤抖着，脸颊红润的几乎可以滴出血来，这令点墨看得心里痒痒的。</p>
+<p>像这样，然后放入pkgbuild和校验文件</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git add PKGBUILD .SRCINFO</span><br></pre></td></tr></table></figure>
+<p>然后上传</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git push</span><br></pre></td></tr></table></figure>
+<p>接着在AUR上就可以看到你的软件了，可以用yay安装了！！</p>
 ]]></content>
       <categories>
         <category>从晴朗的朝色泛起之际开始</category>
       </categories>
       <tags>
-        <tag>随手写</tag>
+        <tag>Linux</tag>
       </tags>
   </entry>
   <entry>
@@ -273,17 +241,16 @@
       </tags>
   </entry>
   <entry>
-    <title>玩过的ADV游戏</title>
-    <url>/2020/10/01/%E7%8E%A9%E8%BF%87%E7%9A%84ADV%E6%B8%B8%E6%88%8F/</url>
-    <content><![CDATA[<h1 id="我玩过的ADV游戏汇总（强推CLANNAD-Steins-Gate-！！！）"><a href="#我玩过的ADV游戏汇总（强推CLANNAD-Steins-Gate-！！！）" class="headerlink" title="我玩过的ADV游戏汇总（强推CLANNAD, Steins;Gate ！！！）"></a>我玩过的ADV游戏汇总（强推CLANNAD, Steins;Gate ！！！）</h1><p>红楼梦：林黛玉与北静王<br>恋爱与选举与巧克力<br>CLANNAD<br>KANNON<br>AIR</p>
-<a id="more"></a>
-<p>秋之回忆6：三角波澜<br>苍之彼方的四重奏<br>秋之回忆2<br>秋之回忆1<br>秋之回忆4：变成回忆的你<br>秋之回忆5：中断的胶片<br>秋之回忆3：想君<br>秋之回忆7：勾指起誓的回忆<br>秋之回忆6 FD<br>秋之回忆4 FD：从今以后<br>千恋万花<br>谜语小丑<br>纯白交响曲<br>恋花绽放樱飞时<br>天神乱漫<br>天色幻想岛<br>SPPL<br>CLOVER DAY’s<br>将军大人芳华正茂<br>将军大人芳华正茂FD<br>缘之空<br>悠之空<br>向日葵教会与长长的暑假<br>樱之诗（未完）<br>突然发现我已经恋上你<br>管乐恋曲<br>Making * Lovers!<br>Making * Lovers! vol.1<br>见习恋人<br>恋爱选举<br>花咲workingSpring!<br>夏梦渚<br>卡卢玛卢卡同好会<br>花之天使的夏日恋歌<br>牵绊闪耀的恋之伊吕波<br>流星 世界演绎者<br>LAMUNATION!<br>世界与世界的中心<br>秋之回忆8<br>在这片天空下展开一对翅膀<br>Steins;Gate<br>Meltymoments<br>Happiness2<br>与她*心渐近<br>魔女的夜宴<br>星光咖啡馆与死神之蝶<br>H2O赤沙印记<br>超级糖果～王道自有王道的理由<br>寄宿之恋<br>E × E<br>Noble Works<br>幼驯染与十年的夏<br>染成茜色的坂道<br>大图书馆的牧羊人<br>死神之吻乃离别之味<br>晓之护卫<br>鬼的捉迷藏<br>夜晚，徘徊在我们的辅导教室<br>古风萝莉之病娇默示录<br>DRACU-RIOT!<br>如月金星<br>从晴朗的朝色泛起之际开始</p>
+    <title>板绘札记-By_EF_Cosmos</title>
+    <url>/2020/10/02/%E6%9D%BF%E7%BB%98%E6%9C%AD%E8%AE%B0-By-Cosmos/</url>
+    <content><![CDATA[<p><img src="https://ftp.bmp.ovh/imgs/2020/10/774dd4eca2fa1c03.png" alt="Cosmos 板绘"></p>
+<p>我心中有颗树苗<br>路过的人都会为它浇水<br>我在等一个人<br>他可以陪我在树下乘凉<br><em>2020/9/6 by EF_Cosmos</em></p>
 ]]></content>
       <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
+        <category>EF_Cosmos</category>
       </categories>
       <tags>
-        <tag>随手写</tag>
+        <tag>EF_Cosmos的板绘</tag>
       </tags>
   </entry>
   <entry>
@@ -315,6 +282,39 @@
       </categories>
       <tags>
         <tag>Linux</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>点墨的小Y文</title>
+    <url>/2021/02/17/%E7%82%B9%E5%A2%A8%E7%9A%84%E5%B0%8FY%E6%96%87/</url>
+    <content><![CDATA[<h1 id="点墨的同人小Y文"><a href="#点墨的同人小Y文" class="headerlink" title="点墨的同人小Y文"></a>点墨的同人小Y文</h1><p>身边女性的芳香使点墨心乱神迷，他目不转睛地盯着身边的美人。<br>“虽说胸只要不太小就行，但是这波涛汹涌，谁顶得住啊。”</p>
+<p>点墨暗自感叹道，他的双手情不自禁地在她的翘臀上轻抚。</p>
+<a id="more"></a>
+<p>感觉到屁股上传来的热度，苏雪的脸色羞红，但是眼眸中却满是笑意，这个男孩子看起来年纪还不大，竟然这般的色眯眯，真是不知羞耻。她的手臂不由自主地挽上了点墨的脖颈，将他拉进怀里。</p>
+<p>感觉着那温软而柔嫩的娇躯紧贴在自己的胸膛，点墨忍不住将嘴唇贴近了那饱满而光滑的额头，轻吻了上去。<br>他的嘴唇很冰凉，但是却带着丝丝的火热，令苏雪感觉到浑身酥麻。<br>“我好像喜欢上你了怎么办？你会不会拒绝？”苏雪轻声问道，她现在已经完全沉浸于他那充满阳刚之气的怀抱。</p>
+<p>“怎么会？”<br>点墨的声音听起来很平静。<br>苏雪抬头看向眼前这个看起来年纪并不大的男生，他长得倒也不算很丑，棱角分明的脸庞，浓眉大眼，挺直的鼻梁，还有那双薄厚适中，如同花瓣般的嘴唇。<br>她顺从自己的内心吻了了去，两人的唾液就这样交合在一起，不分彼此。<br>感觉到她那柔软的舌头在他的口中纠缠，点墨感觉到了一种异样的快感。<br>他不再犹豫，加深了自己的亲吻。</p>
+<p>“嗯~~！”<br>苏雪发出了一声闷哼。<br>两人相互吮吸，直至彼此的气息混乱、呼吸急促，这才停了下来。<br>“小丫头！”<br>看着那张粉嘟嘟的俏丽容颜，点墨心中一荡，情不自禁地喊道。<br>他伸手在她那光洁细腻的脸蛋上轻抚。<br>他的手指在她的肌肤上摩挲着，带起一阵阵战栗，令苏雪情不自禁地颤抖起来。</p>
+<p>苏雪低着头，眼睛一眨不眨地盯着自己的脚尖，似乎在考虑着什么。<br>她的身体在不断颤抖着，脸颊红润的几乎可以滴出血来，这令点墨看得心里痒痒的。</p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>随手写</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>玩过的ADV游戏</title>
+    <url>/2020/10/01/%E7%8E%A9%E8%BF%87%E7%9A%84ADV%E6%B8%B8%E6%88%8F/</url>
+    <content><![CDATA[<h1 id="我玩过的ADV游戏汇总（强推CLANNAD-Steins-Gate-！！！）"><a href="#我玩过的ADV游戏汇总（强推CLANNAD-Steins-Gate-！！！）" class="headerlink" title="我玩过的ADV游戏汇总（强推CLANNAD, Steins;Gate ！！！）"></a>我玩过的ADV游戏汇总（强推CLANNAD, Steins;Gate ！！！）</h1><p>红楼梦：林黛玉与北静王<br>恋爱与选举与巧克力<br>CLANNAD<br>KANNON<br>AIR</p>
+<a id="more"></a>
+<p>秋之回忆6：三角波澜<br>苍之彼方的四重奏<br>秋之回忆2<br>秋之回忆1<br>秋之回忆4：变成回忆的你<br>秋之回忆5：中断的胶片<br>秋之回忆3：想君<br>秋之回忆7：勾指起誓的回忆<br>秋之回忆6 FD<br>秋之回忆4 FD：从今以后<br>千恋万花<br>谜语小丑<br>纯白交响曲<br>恋花绽放樱飞时<br>天神乱漫<br>天色幻想岛<br>SPPL<br>CLOVER DAY’s<br>将军大人芳华正茂<br>将军大人芳华正茂FD<br>缘之空<br>悠之空<br>向日葵教会与长长的暑假<br>樱之诗（未完）<br>突然发现我已经恋上你<br>管乐恋曲<br>Making * Lovers!<br>Making * Lovers! vol.1<br>见习恋人<br>恋爱选举<br>花咲workingSpring!<br>夏梦渚<br>卡卢玛卢卡同好会<br>花之天使的夏日恋歌<br>牵绊闪耀的恋之伊吕波<br>流星 世界演绎者<br>LAMUNATION!<br>世界与世界的中心<br>秋之回忆8<br>在这片天空下展开一对翅膀<br>Steins;Gate<br>Meltymoments<br>Happiness2<br>与她*心渐近<br>魔女的夜宴<br>星光咖啡馆与死神之蝶<br>H2O赤沙印记<br>超级糖果～王道自有王道的理由<br>寄宿之恋<br>E × E<br>Noble Works<br>幼驯染与十年的夏<br>染成茜色的坂道<br>大图书馆的牧羊人<br>死神之吻乃离别之味<br>晓之护卫<br>鬼的捉迷藏<br>夜晚，徘徊在我们的辅导教室<br>古风萝莉之病娇默示录<br>DRACU-RIOT!<br>如月金星<br>从晴朗的朝色泛起之际开始</p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>随手写</tag>
       </tags>
   </entry>
   <entry>
