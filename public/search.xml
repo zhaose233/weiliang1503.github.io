@@ -18,6 +18,21 @@
       </tags>
   </entry>
   <entry>
+    <title>GAME_1</title>
+    <url>/2021/05/16/GAME-1/</url>
+    <content><![CDATA[<p>第一话：</p>
+<p><img src="/images/manga_cn/70035405_p0.jpg" alt="70035405_p0"><br><img src="/images/manga_cn/70035405_p1.jpg" alt="70035405_p1"><br><img src="/images/manga_cn/70035405_p2.jpg" alt="70035405_p2"><br><img src="/images/manga_cn/70035405_p3.jpg" alt="70035405_p3"><br><img src="/images/manga_cn/70035405_p4.jpg" alt="70035405_p4"><br><img src="/images/manga_cn/70035405_p5.jpg" alt="70035405_p5"><br><img src="/images/manga_cn/70035405_p6.jpg" alt="70035405_p6"><br><img src="/images/manga_cn/70035405_p7.jpg" alt="70035405_p7"><br><img src="/images/manga_cn/70035405_p8.jpg" alt="70035405_p8"></p>
+<p>Pixiv链接：<a href="https://www.pixiv.net/artworks/70035405">https://www.pixiv.net/artworks/70035405</a><br>汉化很菜，请将就</p>
+<p><strong>by 从晴朗的朝色泛起之际开始</strong></p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>ゲーム好きな友達とゲームセンに行く話</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Nodejs实现随机图片API</title>
     <url>/2021/03/20/Nodejs%E5%AE%9E%E7%8E%B0%E9%9A%8F%E6%9C%BA%E5%9B%BE%E7%89%87API/</url>
     <content><![CDATA[<h1 id="用node-js实现随机图片API！"><a href="#用node-js实现随机图片API！" class="headerlink" title="用node.js实现随机图片API！"></a>用node.js实现随机图片API！</h1><p>前段时间我们的青河大佬自建了一个基于php的随机图API，然而由于我不愿随大流的性子，决定用不同的方法实现一个［滑稽］</p>
@@ -34,21 +49,6 @@
       </categories>
       <tags>
         <tag>Linux</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>GAME_1</title>
-    <url>/2021/05/16/GAME-1/</url>
-    <content><![CDATA[<p>第一话：</p>
-<p><img src="/images/manga_cn/70035405_p0.jpg" alt="70035405_p0"><br><img src="/images/manga_cn/70035405_p1.jpg" alt="70035405_p1"><br><img src="/images/manga_cn/70035405_p2.jpg" alt="70035405_p2"><br><img src="/images/manga_cn/70035405_p3.jpg" alt="70035405_p3"><br><img src="/images/manga_cn/70035405_p4.jpg" alt="70035405_p4"><br><img src="/images/manga_cn/70035405_p5.jpg" alt="70035405_p5"><br><img src="/images/manga_cn/70035405_p6.jpg" alt="70035405_p6"><br><img src="/images/manga_cn/70035405_p7.jpg" alt="70035405_p7"><br><img src="/images/manga_cn/70035405_p8.jpg" alt="70035405_p8"></p>
-<p>Pixiv链接：<a href="https://www.pixiv.net/artworks/70035405">https://www.pixiv.net/artworks/70035405</a><br>汉化很菜，请将就</p>
-<p><strong>by 从晴朗的朝色泛起之际开始</strong></p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>ゲーム好きな友達とゲームセンに行く話</tag>
       </tags>
   </entry>
   <entry>
@@ -94,21 +94,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Random_Pic</title>
-    <url>/2021/03/29/Random-Pic/</url>
-    <content><![CDATA[<h1 id="随机图！！！"><a href="#随机图！！！" class="headerlink" title="随机图！！！"></a>随机图！！！</h1><p>快点点进来！</p>
-<a id="more"></a>
-
-<p><img src="http://49.234.70.34:8080/?mode=jump" alt="zhaoseapi"></p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>有趣</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>i3窗口管理器配置</title>
     <url>/2021/04/02/i3%E7%AA%97%E5%8F%A3%E7%AE%A1%E7%90%86%E5%99%A8%E9%85%8D%E7%BD%AE/</url>
     <content><![CDATA[<h1 id="配置你的i3wm！（基于Arch-Linux，i3-gaps）"><a href="#配置你的i3wm！（基于Arch-Linux，i3-gaps）" class="headerlink" title="配置你的i3wm！（基于Arch Linux，i3-gaps）"></a>配置你的i3wm！（基于Arch Linux，i3-gaps）</h1><p>i3wm是一个动态窗口管理器。与通常的桌面环境不同，窗口管理器不含有各种轮子，所以非常轻量。常见的窗口管理器有openbox（堆叠），compiz（极至特效），i3（平铺），awesome（平铺），bspwm（平铺），dwm（平铺）。在这些窗口管理器中openbox与compiz配置好了之后几乎与桌面环境使用起来无异。</p>
@@ -150,22 +135,6 @@
       </tags>
   </entry>
   <entry>
-    <title>2020年10月12日</title>
-    <url>/2020/10/12/%E6%88%91%E4%BB%AC%E6%B4%BB%E5%9C%A8%E4%BD%95%E5%A4%84/</url>
-    <content><![CDATA[<p>#写于2020-10-12</p>
-<p>并非喜剧就能让人感到开心<br>常常一笑了之的背后<br>留下的是与欢乐不相称的孤独与寂莫<br>看在眼中的都是别人的欢乐</p>
-<a id="more"></a>
-<p>自己却没有获得的资格<br>只能感叹自己的不幸<br>没有欢乐<br>没有现实中触及得到的悲伤<br>只有自己一人不断地提醒自己<br>都是自己导致的后果<br>总是期望来自他人的奇迹<br>想要做出改变却从未开始<br>只有自己的情感逐渐麻木<br>到头来还是老样子</p>
-<p><em>by 从晴朗的朝色泛起之际开始</em></p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>随手写</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>在Linux系统上开直播</title>
     <url>/2020/11/26/%E5%9C%A8Linux%E7%B3%BB%E7%BB%9F%E4%B8%8A%E5%BC%80%E7%9B%B4%E6%92%AD/</url>
     <content><![CDATA[<h1 id="把你的屏幕分享给大家！"><a href="#把你的屏幕分享给大家！" class="headerlink" title="把你的屏幕分享给大家！"></a>把你的屏幕分享给大家！</h1><p>大家总是会有想要向别人展示东西的时候。也许是向几个同学，或者几个朋友展示自己的电脑展幕。在种时候用QQ或者Skype等等总是体验不太好，犹其在LINUX上的时候。</p>
@@ -185,6 +154,41 @@
       </categories>
       <tags>
         <tag>Linux</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2020年10月12日</title>
+    <url>/2020/10/12/%E6%88%91%E4%BB%AC%E6%B4%BB%E5%9C%A8%E4%BD%95%E5%A4%84/</url>
+    <content><![CDATA[<p>#写于2020-10-12</p>
+<p>并非喜剧就能让人感到开心<br>常常一笑了之的背后<br>留下的是与欢乐不相称的孤独与寂莫<br>看在眼中的都是别人的欢乐</p>
+<a id="more"></a>
+<p>自己却没有获得的资格<br>只能感叹自己的不幸<br>没有欢乐<br>没有现实中触及得到的悲伤<br>只有自己一人不断地提醒自己<br>都是自己导致的后果<br>总是期望来自他人的奇迹<br>想要做出改变却从未开始<br>只有自己的情感逐渐麻木<br>到头来还是老样子</p>
+<p><em>by 从晴朗的朝色泛起之际开始</em></p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>随手写</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>我关于许可证的看法</title>
+    <url>/2021/08/01/%E6%88%91%E5%85%B3%E4%BA%8E%E8%AE%B8%E5%8F%AF%E8%AF%81%E7%9A%84%E7%9C%8B%E6%B3%95/</url>
+    <content><![CDATA[<h1 id="我关于许可证的看法"><a href="#我关于许可证的看法" class="headerlink" title="我关于许可证的看法"></a>我关于许可证的看法</h1><p>先事先声明，我本人并不是专职的程序员，说实话也没有认真写过什么太多代码，所以以下就当做片面的个人看法观赏下好了。</p>
+<p>我写代码完全就是为了娱乐，自己的本职与计算机并没有什么关系，所以我从来不在意我的代码的私有权，我总是将它们公开。甚至不是代码的东西，比如我用hexo生成的博客，或者一个手写的仅几行的html用来挂在github pages上。</p>
+<p>对于我来说我不在乎别人是不是抄袭了我的代码，因为我的代码并没有好到让我自己骄傲的程度。不如说有人愿意看看我的代码是我的荣幸（虽然也没什么人看）。我不在乎我的commit是否写得很乱，因为我绝大多数的commit都是小打小闹，我几乎不会回滚也不会创建很多分支，因为那都太复杂了我用不到。</p>
+<p>我所有的东西基本都用挂着GPL协议。主要原因是我很喜欢GNU的思想，同时也对于这种维护自由的方式很中意。不过如果真的有人用了我的代码没有GPL开源我也并不在意，用GPL主要是希望能够让人们真的感受到自由罢了。</p>
+<p>面子公程对我来说无关紧要，纠结自己的东西是不是好看也很费神，所以我选择全都放出来，反正没人看。</p>
+<p>如果真的火起来了我相信我会有动力去把它做的好看的，但是即然没有火，那随便一点自在一点不好吗？</p>
+<p>与其在意别人的眼光或者藏着什么，全放出来不就好了嘛。</p>
+<p><strong>by 从晴朗的朝色泛起之际开始</strong></p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>随手写 Linux</tag>
       </tags>
   </entry>
   <entry>
@@ -208,38 +212,6 @@
       </tags>
   </entry>
   <entry>
-    <title>我关于许可证的看法</title>
-    <url>/2021/08/01/%E6%88%91%E5%85%B3%E4%BA%8E%E8%AE%B8%E5%8F%AF%E8%AF%81%E7%9A%84%E7%9C%8B%E6%B3%95/</url>
-    <content><![CDATA[<h1 id="我关于许可证的看法"><a href="#我关于许可证的看法" class="headerlink" title="我关于许可证的看法"></a>我关于许可证的看法</h1><p>先事先声明，我本人并不是专职的程序员，说实话也没有认真写过什么太多代码，所以以下就当做片面的个人看法观赏下好了。</p>
-<p>我写代码完全就是为了娱乐，自己的本职与计算机并没有什么关系，所以我从来不在意我的代码的私有权，我总是将它们公开。甚至不是代码的东西，比如我用hexo生成的博客，或者一个手写的仅几行的html用来挂在github pages上。</p>
-<p>对于我来说我不在乎别人是不是抄袭了我的代码，因为我的代码并没有好到让我自己骄傲的程度。不如说有人愿意看看我的代码是我的荣幸（虽然也没什么人看）。我不在乎我的commit是否写得很乱，因为我绝大多数的commit都是小打小闹，我几乎不会回滚也不会创建很多分支，因为那都太复杂了我用不到。</p>
-<p>我所有的东西基本都用挂着GPL协议。主要原因是我很喜欢GNU的思想，同时也对于这种维护自由的方式很中意。不过如果真的有人用了我的代码没有GPL开源我也并不在意，用GPL主要是希望能够让人们真的感受到自由罢了。</p>
-<p>面子公程对我来说无关紧要，纠结自己的东西是不是好看也很费神，所以我选择全都放出来，反正没人看。</p>
-<p>如果真的火起来了我相信我会有动力去把它做的好看的，但是即然没有火，那随便一点自在一点不好吗？</p>
-<p>与其在意别人的眼光或者藏着什么，全放出来不就好了嘛。</p>
-<p><strong>by 从晴朗的朝色泛起之际开始</strong></p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>随手写 Linux</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>板绘札记-By_EF_Cosmos</title>
-    <url>/2020/10/02/%E6%9D%BF%E7%BB%98%E6%9C%AD%E8%AE%B0-By-Cosmos/</url>
-    <content><![CDATA[<p><img src="https://ftp.bmp.ovh/imgs/2020/10/774dd4eca2fa1c03.png" alt="Cosmos 板绘"></p>
-<p>我心中有颗树苗<br>路过的人都会为它浇水<br>我在等一个人<br>他可以陪我在树下乘凉<br><em>2020/9/6 by EF_Cosmos</em></p>
-]]></content>
-      <categories>
-        <category>EF_Cosmos</category>
-      </categories>
-      <tags>
-        <tag>EF_Cosmos的板绘</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>服务器一键LNMP</title>
     <url>/2020/10/02/%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%80%E9%94%AELNMP/</url>
     <content><![CDATA[<h1 id="让你的LINUX电脑或者服务器一键LNMP！"><a href="#让你的LINUX电脑或者服务器一键LNMP！" class="headerlink" title="让你的LINUX电脑或者服务器一键LNMP！"></a>让你的LINUX电脑或者服务器一键LNMP！</h1><p>LINUX服务器配置的时候如果使用包管理很多时候会出现无法解析PHP脚本等疑难杂症。。。<del>大概是我水平问题</del><br>所以！！！这里有一个方便的一键配置脚本！！！</p>
@@ -254,6 +226,19 @@
       </categories>
       <tags>
         <tag>Linux</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>板绘札记-By_EF_Cosmos</title>
+    <url>/2020/10/02/%E6%9D%BF%E7%BB%98%E6%9C%AD%E8%AE%B0-By-Cosmos/</url>
+    <content><![CDATA[<p><img src="https://ftp.bmp.ovh/imgs/2020/10/774dd4eca2fa1c03.png" alt="Cosmos 板绘"></p>
+<p>我心中有颗树苗<br>路过的人都会为它浇水<br>我在等一个人<br>他可以陪我在树下乘凉<br><em>2020/9/6 by EF_Cosmos</em></p>
+]]></content>
+      <categories>
+        <category>EF_Cosmos</category>
+      </categories>
+      <tags>
+        <tag>EF_Cosmos的板绘</tag>
       </tags>
   </entry>
   <entry>
@@ -321,6 +306,19 @@
       </tags>
   </entry>
   <entry>
+    <title>病娇日志100搬运</title>
+    <url>/2021/08/15/%E7%97%85%E5%A8%87%E6%97%A5%E5%BF%97100%E6%90%AC%E8%BF%90/</url>
+    <content><![CDATA[<h1 id="来自PIXIV的搬运"><a href="#来自PIXIV的搬运" class="headerlink" title="来自PIXIV的搬运"></a>来自PIXIV的搬运</h1><p><img src="/images/yandere.jpg" alt="p1"></p>
+<p><strong>by 从晴朗的朝色泛起之际开始</strong></p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>随手写 病娇</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>给picom开启高性能模糊透明</title>
     <url>/2020/12/04/%E7%BB%99picom%E5%BC%80%E5%90%AF%E9%AB%98%E6%80%A7%E8%83%BD%E6%A8%A1%E7%B3%8A%E9%80%8F%E6%98%8E/</url>
     <content><![CDATA[<h1 id="picom混成器模糊透明来了！"><a href="#picom混成器模糊透明来了！" class="headerlink" title="picom混成器模糊透明来了！"></a>picom混成器模糊透明来了！</h1><p>使用windows manager的图形界面的话，如果不想忍受单薄的画面，当然少不了一个窗口混成器。现在kwin，mutter这些集成在DE里面的wm都整合了混成器。但是像i3这种wm，就需要一个外置混成器来撑撑排面了。</p>
@@ -345,19 +343,6 @@
       </tags>
   </entry>
   <entry>
-    <title>病娇日志100搬运</title>
-    <url>/2021/08/15/%E7%97%85%E5%A8%87%E6%97%A5%E5%BF%97100%E6%90%AC%E8%BF%90/</url>
-    <content><![CDATA[<h1 id="来自PIXIV的搬运"><a href="#来自PIXIV的搬运" class="headerlink" title="来自PIXIV的搬运"></a>来自PIXIV的搬运</h1><p><img src="/images/yandere.jpg" alt="p1"></p>
-<p><strong>by 从晴朗的朝色泛起之际开始</strong></p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>随手写 病娇</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>速写札记-By_EF_Cosmos</title>
     <url>/2020/10/02/%E9%80%9F%E5%86%99%E6%9C%AD%E8%AE%B0-By-EF-Cosmos/</url>
     <content><![CDATA[<p><img src="https://ftp.bmp.ovh/imgs/2020/10/d953f82bbfc9aebb.jpg" alt="EF_Cosmos 板绘"></p>
@@ -369,6 +354,21 @@
       </categories>
       <tags>
         <tag>EF_Cosmos的板绘</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Random_Pic</title>
+    <url>/2021/03/29/Random-Pic/</url>
+    <content><![CDATA[<h1 id="随机图！！！"><a href="#随机图！！！" class="headerlink" title="随机图！！！"></a>随机图！！！</h1><p>快点点进来！</p>
+<a id="more"></a>
+
+<p><img src="http://49.234.70.34:8080/?mode=jump" alt="zhaoseapi"></p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>有趣</tag>
       </tags>
   </entry>
 </search>
