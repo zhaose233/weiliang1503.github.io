@@ -6,7 +6,7 @@
   <link href="https://blog.zhaose.cyou/atom.xml" rel="self"/>
   
   <link href="https://blog.zhaose.cyou/"/>
-  <updated>2021-08-15T08:17:20.517Z</updated>
+  <updated>2021-09-12T11:55:56.547Z</updated>
   <id>https://blog.zhaose.cyou/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>使用开源的软件0成本成为vtuber</title>
+    <link href="https://blog.zhaose.cyou/2021/09/12/%E4%BD%BF%E7%94%A8%E5%BC%80%E6%BA%90%E7%9A%84%E8%BD%AF%E4%BB%B60%E6%88%90%E6%9C%AC%E6%88%90%E4%B8%BAvtuber/"/>
+    <id>https://blog.zhaose.cyou/2021/09/12/%E4%BD%BF%E7%94%A8%E5%BC%80%E6%BA%90%E7%9A%84%E8%BD%AF%E4%BB%B60%E6%88%90%E6%9C%AC%E6%88%90%E4%B8%BAvtuber/</id>
+    <published>2021-09-12T07:14:45.000Z</published>
+    <updated>2021-09-12T11:55:56.547Z</updated>
+    
+    <content type="html"><![CDATA[<p>vtuber是现今新兴的网络直播/出道方式，能够很方便地塑造一个人设，避免自己露脸的尴尬（</p><p>不过很多的vtuber使用的软件都有授权限制，包括live2d也是商业项目</p><p>所以！在这里你能够看到0成本的出道方式（硬件还是要成本的，最好有英伟达显卡），不过只能3D出道</p><p>项目网址：</p><ul><li>OpenSeeFace-gd：<a href="https://github.com/you-win/openseeface-gd">https://github.com/you-win/openseeface-gd</a></li><li>OpenSeeFace：<a href="https://github.com/emilianavt/OpenSeeFace">https://github.com/emilianavt/OpenSeeFace</a></li></ul><p>正文开始～始めるよ～</p><p>vtuber软件可以分为两个部分</p><ul><li>一个是你看到的跟随实体主播变化的虚拟形像（前端）</li><li>用来追踪你的五官或者身体的算法程序（后端）</li></ul><p>很多商业软件是将这两个部分整合起来的。因为这样更方便使用。</p><p><strong>OpenSeeface-GD的windows发布版本也是整合好的，直接就可以用</strong></p><p>朝色使用OpenSeeFace-gd作为前端：<br><img src="/images/21-09-12/front-end.png" alt="frontend"><br>下面的那个godot debug就是正在运行的程序</p><p>朝色使用的后端是OpenSeeFace脚本：<br><img src="/images/21-09-12/back-end.png" alt="backend"></p><p>如果你使用的是Windows系统，直接下截它提供的release即可，当然如果你的网络有点小问题不太方便，这是一个镜像站点的下截链接（写本文时最新）：</p><ul><li><a href="https://hub.fastgit.org/you-win/openseeface-gd/releases/download/0.6.0/OpenSeeFace-GD.zip">https://hub.fastgit.org/you-win/openseeface-gd/releases/download/0.6.0/OpenSeeFace-GD.zip</a></li></ul><p>下截好后解压运行exe即可，如果是linux自行按照readme来吧，挺顺利就弄好了（朝色我用的就是linux呢）</p><p>之后你只需要点击“run face tracker”开始追踪面部，如果姿势很奇怪的话点setoffset，然后按空格键就可以恢复到正面对着屏幕的姿势。<br><img src="/images/21-09-12/error.png" alt="error"><br>奇奇怪怪的bug</p><p>当然如果你现在的人物还是那只小黄鸭的话。。。你自然需要一个其它的模型啦。这个项目支持glb与vrm格式的人物模型。vrm的话有个网站上面有很多，有的甚至可以商用和二次发布。</p><ul><li><a href="https://3d.nicovideo.jp/">https://3d.nicovideo.jp</a><br>不知道访问情况如何，当然你也可以制做自己的vrm，steam上有pixiv的制做工具，上手还可以吧，不过linux下的兼容不行，比较麻烦。</li><li><a href="https://store.steampowered.com/app/1486350/VRoid_Studio_v0140/">VRoid Studio</a><br>再用Load Model找到你的vrm就行了<br><img src="/images/21-09-12/load-model.png" alt="loadmodel"></li></ul><p>加截之后如果要调整肢体姿势，在Pose里选上要调的关节，apply一下，用鼠标滚轮就能调啦</p><p>如果你还没看过我发在bilibili上的视频可以去看一下噢～</p><p><em>by 晴朗的朝色泛起之际开始</em></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;vtuber是现今新兴的网络直播/出道方式，能够很方便地塑造一个人设，避免自己露脸的尴尬（&lt;/p&gt;
+&lt;p&gt;不过很多的vtuber使用的软件都有授权限制，包括live2d也是商业项目&lt;/p&gt;
+&lt;p&gt;所以！在这里你能够看到0成本的出道方式（硬件还是要成本的，最好有英伟达显卡），</summary>
+      
+    
+    
+    
+    
+    <category term="vtuber Linux 随手写" scheme="https://blog.zhaose.cyou/tags/vtuber-Linux-%E9%9A%8F%E6%89%8B%E5%86%99/"/>
+    
+  </entry>
   
   <entry>
     <title>病娇日志100搬运</title>
@@ -453,27 +477,6 @@
     
     
     <category term="Linux" scheme="https://blog.zhaose.cyou/tags/Linux/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>玩过的ADV游戏</title>
-    <link href="https://blog.zhaose.cyou/2020/10/01/%E7%8E%A9%E8%BF%87%E7%9A%84ADV%E6%B8%B8%E6%88%8F/"/>
-    <id>https://blog.zhaose.cyou/2020/10/01/%E7%8E%A9%E8%BF%87%E7%9A%84ADV%E6%B8%B8%E6%88%8F/</id>
-    <published>2020-10-01T12:19:07.000Z</published>
-    <updated>2021-03-25T16:07:59.631Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="我玩过的ADV游戏汇总（强推CLANNAD-Steins-Gate-！！！）"><a href="#我玩过的ADV游戏汇总（强推CLANNAD-Steins-Gate-！！！）" class="headerlink" title="我玩过的ADV游戏汇总（强推CLANNAD, Steins;Gate ！！！）"></a>我玩过的ADV游戏汇总（强推CLANNAD, Steins;Gate ！！！）</h1><p>红楼梦：林黛玉与北静王<br>恋爱与选举与巧克力<br>CLANNAD<br>KANNON<br>AIR</p><a id="more"></a><p>秋之回忆6：三角波澜<br>苍之彼方的四重奏<br>秋之回忆2<br>秋之回忆1<br>秋之回忆4：变成回忆的你<br>秋之回忆5：中断的胶片<br>秋之回忆3：想君<br>秋之回忆7：勾指起誓的回忆<br>秋之回忆6 FD<br>秋之回忆4 FD：从今以后<br>千恋万花<br>谜语小丑<br>纯白交响曲<br>恋花绽放樱飞时<br>天神乱漫<br>天色幻想岛<br>SPPL<br>CLOVER DAY’s<br>将军大人芳华正茂<br>将军大人芳华正茂FD<br>缘之空<br>悠之空<br>向日葵教会与长长的暑假<br>樱之诗（未完）<br>突然发现我已经恋上你<br>管乐恋曲<br>Making * Lovers!<br>Making * Lovers! vol.1<br>见习恋人<br>恋爱选举<br>花咲workingSpring!<br>夏梦渚<br>卡卢玛卢卡同好会<br>花之天使的夏日恋歌<br>牵绊闪耀的恋之伊吕波<br>流星 世界演绎者<br>LAMUNATION!<br>世界与世界的中心<br>秋之回忆8<br>在这片天空下展开一对翅膀<br>Steins;Gate<br>Meltymoments<br>Happiness2<br>与她*心渐近<br>魔女的夜宴<br>星光咖啡馆与死神之蝶<br>H2O赤沙印记<br>超级糖果～王道自有王道的理由<br>寄宿之恋<br>E × E<br>Noble Works<br>幼驯染与十年的夏<br>染成茜色的坂道<br>大图书馆的牧羊人<br>死神之吻乃离别之味<br>晓之护卫<br>鬼的捉迷藏<br>夜晚，徘徊在我们的辅导教室<br>古风萝莉之病娇默示录<br>DRACU-RIOT!<br>如月金星<br>从晴朗的朝色泛起之际开始</p>]]></content>
-    
-    
-    <summary type="html">&lt;h1 id=&quot;我玩过的ADV游戏汇总（强推CLANNAD-Steins-Gate-！！！）&quot;&gt;&lt;a href=&quot;#我玩过的ADV游戏汇总（强推CLANNAD-Steins-Gate-！！！）&quot; class=&quot;headerlink&quot; title=&quot;我玩过的ADV游戏汇总（强推CLANNAD, Steins;Gate ！！！）&quot;&gt;&lt;/a&gt;我玩过的ADV游戏汇总（强推CLANNAD, Steins;Gate ！！！）&lt;/h1&gt;&lt;p&gt;红楼梦：林黛玉与北静王&lt;br&gt;恋爱与选举与巧克力&lt;br&gt;CLANNAD&lt;br&gt;KANNON&lt;br&gt;AIR&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="从晴朗的朝色泛起之际开始" scheme="https://blog.zhaose.cyou/categories/%E4%BB%8E%E6%99%B4%E6%9C%97%E7%9A%84%E6%9C%9D%E8%89%B2%E6%B3%9B%E8%B5%B7%E4%B9%8B%E9%99%85%E5%BC%80%E5%A7%8B/"/>
-    
-    
-    <category term="随手写" scheme="https://blog.zhaose.cyou/tags/%E9%9A%8F%E6%89%8B%E5%86%99/"/>
     
   </entry>
   
