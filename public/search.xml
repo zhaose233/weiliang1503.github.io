@@ -1,21 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>GAME_1</title>
-    <url>/2021/05/16/GAME-1/</url>
-    <content><![CDATA[<p>第一话：</p>
-<p><img src="/images/manga_cn/70035405_p0.jpg" alt="70035405_p0"><br><img src="/images/manga_cn/70035405_p1.jpg" alt="70035405_p1"><br><img src="/images/manga_cn/70035405_p2.jpg" alt="70035405_p2"><br><img src="/images/manga_cn/70035405_p3.jpg" alt="70035405_p3"><br><img src="/images/manga_cn/70035405_p4.jpg" alt="70035405_p4"><br><img src="/images/manga_cn/70035405_p5.jpg" alt="70035405_p5"><br><img src="/images/manga_cn/70035405_p6.jpg" alt="70035405_p6"><br><img src="/images/manga_cn/70035405_p7.jpg" alt="70035405_p7"><br><img src="/images/manga_cn/70035405_p8.jpg" alt="70035405_p8"></p>
-<p>Pixiv链接：<a href="https://www.pixiv.net/artworks/70035405">https://www.pixiv.net/artworks/70035405</a><br>汉化很菜，请将就</p>
-<p><strong>by 从晴朗的朝色泛起之际开始</strong></p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>ゲーム好きな友達とゲームセンに行く話</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>ADV制做计划</title>
     <url>/2021/01/06/ADV%E5%88%B6%E5%81%9A%E8%AE%A1%E5%88%92/</url>
     <content><![CDATA[<h1 id="ADV-Gal-AVG制做计划启动！"><a href="#ADV-Gal-AVG制做计划启动！" class="headerlink" title="ADV/Gal/AVG制做计划启动！"></a>ADV/Gal/AVG制做计划启动！</h1><p>2021年了，计划制做一部ADV（亦可称为AVG，Gal，视觉交互小说），大概的需求有：</p>
@@ -49,25 +34,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Nodejs实现随机图片API</title>
-    <url>/2021/03/20/Nodejs%E5%AE%9E%E7%8E%B0%E9%9A%8F%E6%9C%BA%E5%9B%BE%E7%89%87API/</url>
-    <content><![CDATA[<h1 id="用node-js实现随机图片API！"><a href="#用node-js实现随机图片API！" class="headerlink" title="用node.js实现随机图片API！"></a>用node.js实现随机图片API！</h1><p>前段时间我们的青河大佬自建了一个基于php的随机图API，然而由于我不愿随大流的性子，决定用不同的方法实现一个［滑稽］</p>
-<h3 id="都说了是基于node-js那当然要安装node-js啦！"><a href="#都说了是基于node-js那当然要安装node-js啦！" class="headerlink" title="都说了是基于node.js那当然要安装node.js啦！"></a>都说了是基于node.js那当然要安装node.js啦！</h3><p>首先要有一些图片，然后有这些图片的链接，把它们放到一个叫做data.txt的文本文件里，在相同目录下新建一个js文件：</p>
-<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="keyword">var</span> http = <span class="built_in">require</span>(<span class="string">&quot;http&quot;</span>);</span><br><span class="line"><span class="keyword">var</span> readline = <span class="built_in">require</span>(<span class="string">&#x27;readline&#x27;</span>);</span><br><span class="line"><span class="keyword">var</span> fs = <span class="built_in">require</span>(<span class="string">&#x27;fs&#x27;</span>);</span><br><span class="line"></span><br><span class="line"><span class="keyword">var</span> filearr;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">readarr</span>(<span class="params"> filename, callback </span>)</span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="keyword">var</span> file = fs.createReadStream( filename );</span><br><span class="line">    <span class="keyword">var</span> line_arr = readline.createInterface(</span><br><span class="line">        &#123;</span><br><span class="line">            input:file</span><br><span class="line">        &#125;</span><br><span class="line">    )</span><br><span class="line">    <span class="keyword">var</span> arr = <span class="keyword">new</span> <span class="built_in">Array</span>();</span><br><span class="line"></span><br><span class="line">    line_arr.on(<span class="string">&#x27;line&#x27;</span>, <span class="function">(<span class="params">line</span>) =&gt;</span> &#123;</span><br><span class="line">        arr.push( line );</span><br><span class="line"><span class="comment">//        console.log( arr );</span></span><br><span class="line">    &#125;)</span><br><span class="line"></span><br><span class="line">    line_arr.on(<span class="string">&#x27;close&#x27;</span>, <span class="function">() =&gt;</span>&#123;</span><br><span class="line">        filearr = arr.concat();</span><br><span class="line">        callback();</span><br><span class="line">    &#125;)</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">readarr( <span class="string">&#x27;data.txt&#x27;</span>, <span class="function">() =&gt;</span> &#123;</span><br><span class="line">    <span class="built_in">console</span>.log(<span class="string">&quot;Read data.txt Finished&quot;</span>);</span><br><span class="line">    <span class="built_in">console</span>.log( <span class="string">&quot;The file has &quot;</span> + filearr.length + <span class="string">&quot; lines&quot;</span> );</span><br><span class="line">&#125;)</span><br><span class="line"></span><br><span class="line">http.createServer( <span class="function">(<span class="params">req, res</span>) =&gt;</span> &#123;</span><br><span class="line"></span><br><span class="line">    res.writeHead(<span class="number">200</span>, &#123;<span class="string">&#x27;Content-Type&#x27;</span>: <span class="string">&#x27;text/plain&#x27;</span>&#125;);</span><br><span class="line"></span><br><span class="line">    <span class="keyword">var</span> whicharr = <span class="built_in">Math</span>.floor( <span class="built_in">Math</span>.random()*filearr.length );</span><br><span class="line"></span><br><span class="line">    res.end( filearr[whicharr] );</span><br><span class="line">&#125;).listen(<span class="number">2880</span>);</span><br><span class="line"></span><br><span class="line">http.createServer( <span class="function">(<span class="params">req, res</span>) =&gt;</span> &#123;</span><br><span class="line"></span><br><span class="line">    res.writeHead(<span class="number">200</span>, &#123;<span class="string">&#x27;Content-Type&#x27;</span>: <span class="string">&#x27;text/html; charset=utf-8&#x27;</span>&#125;);</span><br><span class="line"></span><br><span class="line">    <span class="keyword">var</span> whicharr = <span class="built_in">Math</span>.floor( <span class="built_in">Math</span>.random()*filearr.length );</span><br><span class="line"></span><br><span class="line">    res.end( <span class="string">`&lt;!DOCTYPE html&gt;</span></span><br><span class="line"><span class="string">&lt;html&gt;</span></span><br><span class="line"><span class="string">  &lt;head&gt;</span></span><br><span class="line"><span class="string">    &lt;meta charset=&quot;utf-8&quot;&gt;</span></span><br><span class="line"><span class="string">    &lt;title&gt;Zhaose&#x27;s repo&lt;/title&gt;</span></span><br><span class="line"><span class="string">    &lt;style&gt;</span></span><br><span class="line"><span class="string">      body</span></span><br><span class="line"><span class="string">      &#123;</span></span><br><span class="line"><span class="string">	  background-color:#d0e4fe;</span></span><br><span class="line"><span class="string">      &#125;</span></span><br><span class="line"><span class="string">      h1</span></span><br><span class="line"><span class="string">      &#123;</span></span><br><span class="line"><span class="string">	  color:orange;</span></span><br><span class="line"><span class="string">	  text-align:center;</span></span><br><span class="line"><span class="string">      &#125;</span></span><br><span class="line"><span class="string">      p</span></span><br><span class="line"><span class="string">      &#123;</span></span><br><span class="line"><span class="string">	  font-family:&quot;Times New Roman&quot;;</span></span><br><span class="line"><span class="string">	  font-size:20px;</span></span><br><span class="line"><span class="string">          background-color:#dddddd;</span></span><br><span class="line"><span class="string">          text-align: center;</span></span><br><span class="line"><span class="string">      &#125;</span></span><br><span class="line"><span class="string">    &lt;/style&gt;</span></span><br><span class="line"><span class="string">  &lt;/head&gt;</span></span><br><span class="line"><span class="string">  &lt;body&gt;</span></span><br><span class="line"><span class="string">    &lt;h1&gt;zhaose&#x27;s API&lt;/h1&gt;</span></span><br><span class="line"><span class="string">    &lt;p&gt;&lt;img src=&quot;`</span> + filearr[whicharr] + <span class="string">`&quot;/&gt;&lt;/p&gt;</span></span><br><span class="line"><span class="string">  &lt;/body&gt;</span></span><br><span class="line"><span class="string">&lt;/html&gt;`</span> );</span><br><span class="line">&#125;).listen(<span class="number">2881</span>);</span><br><span class="line"></span><br><span class="line">http.createServer( <span class="function">(<span class="params">req, res</span>) =&gt;</span> &#123;</span><br><span class="line"></span><br><span class="line">    <span class="keyword">var</span> whicharr = <span class="built_in">Math</span>.floor( <span class="built_in">Math</span>.random()*filearr.length );</span><br><span class="line"></span><br><span class="line">    <span class="keyword">var</span> url = filearr[whicharr]</span><br><span class="line"></span><br><span class="line">    res.writeHead(<span class="number">301</span>, &#123;<span class="string">&#x27;Location&#x27;</span>: url &#125;);</span><br><span class="line"></span><br><span class="line">    res.end();</span><br><span class="line">&#125;).listen(<span class="number">2882</span>);</span><br><span class="line"></span><br></pre></td></tr></table></figure>
-
-<p>把这些代码输入进去以后，使用</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ node XXX.js</span><br></pre></td></tr></table></figure>
-<p>就可以启动API服务了。其中访问2880端口是返回链接，2881是一个随机的html页面，2882是直接跳转到原图链接。<br>祝大家愉快！</p>
-<p>*by 从晴朗的朝色泛起之际开始</p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>Linux</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>用racket重写随机图片API！</title>
     <url>/2021/07/11/Racket-Random-Pic/</url>
     <content><![CDATA[<h1 id="用racket重写随机图片API！"><a href="#用racket重写随机图片API！" class="headerlink" title="用racket重写随机图片API！"></a>用racket重写随机图片API！</h1><p>之前我写过一篇用nodejs进行随机图片的API，作为一个lisp信徒我决定用racket——一门sheme的方言来重写它</p>
@@ -91,6 +57,40 @@
       </categories>
       <tags>
         <tag>Linux</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Nodejs实现随机图片API</title>
+    <url>/2021/03/20/Nodejs%E5%AE%9E%E7%8E%B0%E9%9A%8F%E6%9C%BA%E5%9B%BE%E7%89%87API/</url>
+    <content><![CDATA[<h1 id="用node-js实现随机图片API！"><a href="#用node-js实现随机图片API！" class="headerlink" title="用node.js实现随机图片API！"></a>用node.js实现随机图片API！</h1><p>前段时间我们的青河大佬自建了一个基于php的随机图API，然而由于我不愿随大流的性子，决定用不同的方法实现一个［滑稽］</p>
+<h3 id="都说了是基于node-js那当然要安装node-js啦！"><a href="#都说了是基于node-js那当然要安装node-js啦！" class="headerlink" title="都说了是基于node.js那当然要安装node.js啦！"></a>都说了是基于node.js那当然要安装node.js啦！</h3><p>首先要有一些图片，然后有这些图片的链接，把它们放到一个叫做data.txt的文本文件里，在相同目录下新建一个js文件：</p>
+<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="keyword">var</span> http = <span class="built_in">require</span>(<span class="string">&quot;http&quot;</span>);</span><br><span class="line"><span class="keyword">var</span> readline = <span class="built_in">require</span>(<span class="string">&#x27;readline&#x27;</span>);</span><br><span class="line"><span class="keyword">var</span> fs = <span class="built_in">require</span>(<span class="string">&#x27;fs&#x27;</span>);</span><br><span class="line"></span><br><span class="line"><span class="keyword">var</span> filearr;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">readarr</span>(<span class="params"> filename, callback </span>)</span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="keyword">var</span> file = fs.createReadStream( filename );</span><br><span class="line">    <span class="keyword">var</span> line_arr = readline.createInterface(</span><br><span class="line">        &#123;</span><br><span class="line">            input:file</span><br><span class="line">        &#125;</span><br><span class="line">    )</span><br><span class="line">    <span class="keyword">var</span> arr = <span class="keyword">new</span> <span class="built_in">Array</span>();</span><br><span class="line"></span><br><span class="line">    line_arr.on(<span class="string">&#x27;line&#x27;</span>, <span class="function">(<span class="params">line</span>) =&gt;</span> &#123;</span><br><span class="line">        arr.push( line );</span><br><span class="line"><span class="comment">//        console.log( arr );</span></span><br><span class="line">    &#125;)</span><br><span class="line"></span><br><span class="line">    line_arr.on(<span class="string">&#x27;close&#x27;</span>, <span class="function">() =&gt;</span>&#123;</span><br><span class="line">        filearr = arr.concat();</span><br><span class="line">        callback();</span><br><span class="line">    &#125;)</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">readarr( <span class="string">&#x27;data.txt&#x27;</span>, <span class="function">() =&gt;</span> &#123;</span><br><span class="line">    <span class="built_in">console</span>.log(<span class="string">&quot;Read data.txt Finished&quot;</span>);</span><br><span class="line">    <span class="built_in">console</span>.log( <span class="string">&quot;The file has &quot;</span> + filearr.length + <span class="string">&quot; lines&quot;</span> );</span><br><span class="line">&#125;)</span><br><span class="line"></span><br><span class="line">http.createServer( <span class="function">(<span class="params">req, res</span>) =&gt;</span> &#123;</span><br><span class="line"></span><br><span class="line">    res.writeHead(<span class="number">200</span>, &#123;<span class="string">&#x27;Content-Type&#x27;</span>: <span class="string">&#x27;text/plain&#x27;</span>&#125;);</span><br><span class="line"></span><br><span class="line">    <span class="keyword">var</span> whicharr = <span class="built_in">Math</span>.floor( <span class="built_in">Math</span>.random()*filearr.length );</span><br><span class="line"></span><br><span class="line">    res.end( filearr[whicharr] );</span><br><span class="line">&#125;).listen(<span class="number">2880</span>);</span><br><span class="line"></span><br><span class="line">http.createServer( <span class="function">(<span class="params">req, res</span>) =&gt;</span> &#123;</span><br><span class="line"></span><br><span class="line">    res.writeHead(<span class="number">200</span>, &#123;<span class="string">&#x27;Content-Type&#x27;</span>: <span class="string">&#x27;text/html; charset=utf-8&#x27;</span>&#125;);</span><br><span class="line"></span><br><span class="line">    <span class="keyword">var</span> whicharr = <span class="built_in">Math</span>.floor( <span class="built_in">Math</span>.random()*filearr.length );</span><br><span class="line"></span><br><span class="line">    res.end( <span class="string">`&lt;!DOCTYPE html&gt;</span></span><br><span class="line"><span class="string">&lt;html&gt;</span></span><br><span class="line"><span class="string">  &lt;head&gt;</span></span><br><span class="line"><span class="string">    &lt;meta charset=&quot;utf-8&quot;&gt;</span></span><br><span class="line"><span class="string">    &lt;title&gt;Zhaose&#x27;s repo&lt;/title&gt;</span></span><br><span class="line"><span class="string">    &lt;style&gt;</span></span><br><span class="line"><span class="string">      body</span></span><br><span class="line"><span class="string">      &#123;</span></span><br><span class="line"><span class="string">	  background-color:#d0e4fe;</span></span><br><span class="line"><span class="string">      &#125;</span></span><br><span class="line"><span class="string">      h1</span></span><br><span class="line"><span class="string">      &#123;</span></span><br><span class="line"><span class="string">	  color:orange;</span></span><br><span class="line"><span class="string">	  text-align:center;</span></span><br><span class="line"><span class="string">      &#125;</span></span><br><span class="line"><span class="string">      p</span></span><br><span class="line"><span class="string">      &#123;</span></span><br><span class="line"><span class="string">	  font-family:&quot;Times New Roman&quot;;</span></span><br><span class="line"><span class="string">	  font-size:20px;</span></span><br><span class="line"><span class="string">          background-color:#dddddd;</span></span><br><span class="line"><span class="string">          text-align: center;</span></span><br><span class="line"><span class="string">      &#125;</span></span><br><span class="line"><span class="string">    &lt;/style&gt;</span></span><br><span class="line"><span class="string">  &lt;/head&gt;</span></span><br><span class="line"><span class="string">  &lt;body&gt;</span></span><br><span class="line"><span class="string">    &lt;h1&gt;zhaose&#x27;s API&lt;/h1&gt;</span></span><br><span class="line"><span class="string">    &lt;p&gt;&lt;img src=&quot;`</span> + filearr[whicharr] + <span class="string">`&quot;/&gt;&lt;/p&gt;</span></span><br><span class="line"><span class="string">  &lt;/body&gt;</span></span><br><span class="line"><span class="string">&lt;/html&gt;`</span> );</span><br><span class="line">&#125;).listen(<span class="number">2881</span>);</span><br><span class="line"></span><br><span class="line">http.createServer( <span class="function">(<span class="params">req, res</span>) =&gt;</span> &#123;</span><br><span class="line"></span><br><span class="line">    <span class="keyword">var</span> whicharr = <span class="built_in">Math</span>.floor( <span class="built_in">Math</span>.random()*filearr.length );</span><br><span class="line"></span><br><span class="line">    <span class="keyword">var</span> url = filearr[whicharr]</span><br><span class="line"></span><br><span class="line">    res.writeHead(<span class="number">301</span>, &#123;<span class="string">&#x27;Location&#x27;</span>: url &#125;);</span><br><span class="line"></span><br><span class="line">    res.end();</span><br><span class="line">&#125;).listen(<span class="number">2882</span>);</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+<p>把这些代码输入进去以后，使用</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ node XXX.js</span><br></pre></td></tr></table></figure>
+<p>就可以启动API服务了。其中访问2880端口是返回链接，2881是一个随机的html页面，2882是直接跳转到原图链接。<br>祝大家愉快！</p>
+<p>*by 从晴朗的朝色泛起之际开始</p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>Linux</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>GAME_1</title>
+    <url>/2021/05/16/GAME-1/</url>
+    <content><![CDATA[<p>第一话：</p>
+<p><img src="/images/manga_cn/70035405_p0.jpg" alt="70035405_p0"><br><img src="/images/manga_cn/70035405_p1.jpg" alt="70035405_p1"><br><img src="/images/manga_cn/70035405_p2.jpg" alt="70035405_p2"><br><img src="/images/manga_cn/70035405_p3.jpg" alt="70035405_p3"><br><img src="/images/manga_cn/70035405_p4.jpg" alt="70035405_p4"><br><img src="/images/manga_cn/70035405_p5.jpg" alt="70035405_p5"><br><img src="/images/manga_cn/70035405_p6.jpg" alt="70035405_p6"><br><img src="/images/manga_cn/70035405_p7.jpg" alt="70035405_p7"><br><img src="/images/manga_cn/70035405_p8.jpg" alt="70035405_p8"></p>
+<p>Pixiv链接：<a href="https://www.pixiv.net/artworks/70035405">https://www.pixiv.net/artworks/70035405</a><br>汉化很菜，请将就</p>
+<p><strong>by 从晴朗的朝色泛起之际开始</strong></p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>ゲーム好きな友達とゲームセンに行く話</tag>
       </tags>
   </entry>
   <entry>
@@ -134,19 +134,6 @@
       </categories>
       <tags>
         <tag>Linux</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>图片-By_EF_Cosmos</title>
-    <url>/2020/10/08/%E5%9B%BE%E7%89%87-By-EF-Cosmos/</url>
-    <content><![CDATA[<p><img src="https://pic.downk.cc/item/5f7f345d1cd1bbb86bd52df9.png" alt="图片"></p>
-<p><em>2020/10/08</em></p>
-]]></content>
-      <categories>
-        <category>EF_Cosmos</category>
-      </categories>
-      <tags>
-        <tag>随手写</tag>
       </tags>
   </entry>
   <entry>
@@ -195,19 +182,30 @@
       </tags>
   </entry>
   <entry>
-    <title>在Linux系统上开直播</title>
-    <url>/2020/11/26/%E5%9C%A8Linux%E7%B3%BB%E7%BB%9F%E4%B8%8A%E5%BC%80%E7%9B%B4%E6%92%AD/</url>
-    <content><![CDATA[<h1 id="把你的屏幕分享给大家！"><a href="#把你的屏幕分享给大家！" class="headerlink" title="把你的屏幕分享给大家！"></a>把你的屏幕分享给大家！</h1><p>大家总是会有想要向别人展示东西的时候。也许是向几个同学，或者几个朋友展示自己的电脑展幕。在种时候用QQ或者Skype等等总是体验不太好，犹其在LINUX上的时候。</p>
+    <title>图片-By_EF_Cosmos</title>
+    <url>/2020/10/08/%E5%9B%BE%E7%89%87-By-EF-Cosmos/</url>
+    <content><![CDATA[<p><img src="https://pic.downk.cc/item/5f7f345d1cd1bbb86bd52df9.png" alt="图片"></p>
+<p><em>2020/10/08</em></p>
+]]></content>
+      <categories>
+        <category>EF_Cosmos</category>
+      </categories>
+      <tags>
+        <tag>随手写</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>打包软件到AUR</title>
+    <url>/2020/11/12/%E6%89%93%E5%8C%85%E8%BD%AF%E4%BB%B6%E5%88%B0AUR/</url>
+    <content><![CDATA[<h1 id="打包软件并共享到AUR"><a href="#打包软件并共享到AUR" class="headerlink" title="打包软件并共享到AUR"></a>打包软件并共享到AUR</h1><p>对于Arch Linux的用户来说，AUR软件仓库是常常为人所津津乐道的优势。其优点就在于极大的开放性。那么我们也可以打包软件上传到AUR，从白嫖进化到贡献者！</p>
+<p>首先到AUR注册一个账户，并且填入在本机生成的ssh密钥。然后克隆一个空仓库：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git <span class="built_in">clone</span> ssh://aur@aur.archlinux.org/gwm-git.git</span><br></pre></td></tr></table></figure>
 <a id="more"></a>
-
-<p>这种时候就把自己的展幕直播出去咯。用到的有一个LINUX系统（笔者用的是ARCH，比较方便，大部分发行版进行改动后都可行），一个带有RTMP模块编译的NGINX服务端，一个内网穿透服务（笔者用的是Sakura FRPC），和OBS录播系统。</p>
-<p>先安装NGINX-RTMP，笔者直接使用AUR安装了：</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">yay -S nginx-rtmp</span><br></pre></td></tr></table></figure>
-<p>然后是obs,直接pacman安装</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">sudo pacman -S obs-studio</span><br></pre></td></tr></table></figure>
-<p>启动nginx服务，开启obs进行串流，地址为rtmp://127.0.0.1/live<br>接着去frpc弄一个账号，进行内网穿透，内网端口就填127.0.0.1:1935，然后把你得到的外网端口改成RTMP格式的连接发给你的小伙伴，他就可以看见你的屏幕了！（RTMP通常使用VLC播放即可，POTPLAYER也可以）</p>
-<p>开直播吧</p>
-<p>*by 从晴朗的朝色泛起之际开始</p>
+<p>像这样，然后放入pkgbuild和校验文件</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git add PKGBUILD .SRCINFO</span><br></pre></td></tr></table></figure>
+<p>然后上传</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git push</span><br></pre></td></tr></table></figure>
+<p>接着在AUR上就可以看到你的软件了，可以用yay安装了！！</p>
 ]]></content>
       <categories>
         <category>从晴朗的朝色泛起之际开始</category>
@@ -233,6 +231,45 @@
       </tags>
   </entry>
   <entry>
+    <title>服务器一键LNMP</title>
+    <url>/2020/10/02/%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%80%E9%94%AELNMP/</url>
+    <content><![CDATA[<h1 id="让你的LINUX电脑或者服务器一键LNMP！"><a href="#让你的LINUX电脑或者服务器一键LNMP！" class="headerlink" title="让你的LINUX电脑或者服务器一键LNMP！"></a>让你的LINUX电脑或者服务器一键LNMP！</h1><p>LINUX服务器配置的时候如果使用包管理很多时候会出现无法解析PHP脚本等疑难杂症。。。<del>大概是我水平问题</del><br>所以！！！这里有一个方便的一键配置脚本！！！</p>
+<a id="more"></a>
+<p>这个脚本是有更新的，请随时关注<a href="https://lnmp.org/">https://lnmp.org/</a></p>
+<p>对于服务器，这样使用它（此时最新为1.7）</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">wget http://soft.vpser.net/lnmp/lnmp1.7.tar.gz</span><br><span class="line">tar -xzvf lnmp*</span><br></pre></td></tr></table></figure>
+<p>接着进入目录执行脚本即可，当中需要对参数进行一些基础配置，然后就可以使用你的服务器了!</p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>Linux</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>在Linux系统上开直播</title>
+    <url>/2020/11/26/%E5%9C%A8Linux%E7%B3%BB%E7%BB%9F%E4%B8%8A%E5%BC%80%E7%9B%B4%E6%92%AD/</url>
+    <content><![CDATA[<h1 id="把你的屏幕分享给大家！"><a href="#把你的屏幕分享给大家！" class="headerlink" title="把你的屏幕分享给大家！"></a>把你的屏幕分享给大家！</h1><p>大家总是会有想要向别人展示东西的时候。也许是向几个同学，或者几个朋友展示自己的电脑展幕。在种时候用QQ或者Skype等等总是体验不太好，犹其在LINUX上的时候。</p>
+<a id="more"></a>
+
+<p>这种时候就把自己的展幕直播出去咯。用到的有一个LINUX系统（笔者用的是ARCH，比较方便，大部分发行版进行改动后都可行），一个带有RTMP模块编译的NGINX服务端，一个内网穿透服务（笔者用的是Sakura FRPC），和OBS录播系统。</p>
+<p>先安装NGINX-RTMP，笔者直接使用AUR安装了：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">yay -S nginx-rtmp</span><br></pre></td></tr></table></figure>
+<p>然后是obs,直接pacman安装</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">sudo pacman -S obs-studio</span><br></pre></td></tr></table></figure>
+<p>启动nginx服务，开启obs进行串流，地址为rtmp://127.0.0.1/live<br>接着去frpc弄一个账号，进行内网穿透，内网端口就填127.0.0.1:1935，然后把你得到的外网端口改成RTMP格式的连接发给你的小伙伴，他就可以看见你的屏幕了！（RTMP通常使用VLC播放即可，POTPLAYER也可以）</p>
+<p>开直播吧</p>
+<p>*by 从晴朗的朝色泛起之际开始</p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>Linux</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>我关于许可证的看法</title>
     <url>/2021/08/01/%E6%88%91%E5%85%B3%E4%BA%8E%E8%AE%B8%E5%8F%AF%E8%AF%81%E7%9A%84%E7%9C%8B%E6%B3%95/</url>
     <content><![CDATA[<h1 id="我关于许可证的看法"><a href="#我关于许可证的看法" class="headerlink" title="我关于许可证的看法"></a>我关于许可证的看法</h1><p>先事先声明，我本人并不是专职的程序员，说实话也没有认真写过什么太多代码，所以以下就当做片面的个人看法观赏下好了。</p>
@@ -249,43 +286,6 @@
       </categories>
       <tags>
         <tag>随手写 Linux</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>打包软件到AUR</title>
-    <url>/2020/11/12/%E6%89%93%E5%8C%85%E8%BD%AF%E4%BB%B6%E5%88%B0AUR/</url>
-    <content><![CDATA[<h1 id="打包软件并共享到AUR"><a href="#打包软件并共享到AUR" class="headerlink" title="打包软件并共享到AUR"></a>打包软件并共享到AUR</h1><p>对于Arch Linux的用户来说，AUR软件仓库是常常为人所津津乐道的优势。其优点就在于极大的开放性。那么我们也可以打包软件上传到AUR，从白嫖进化到贡献者！</p>
-<p>首先到AUR注册一个账户，并且填入在本机生成的ssh密钥。然后克隆一个空仓库：</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git <span class="built_in">clone</span> ssh://aur@aur.archlinux.org/gwm-git.git</span><br></pre></td></tr></table></figure>
-<a id="more"></a>
-<p>像这样，然后放入pkgbuild和校验文件</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git add PKGBUILD .SRCINFO</span><br></pre></td></tr></table></figure>
-<p>然后上传</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git push</span><br></pre></td></tr></table></figure>
-<p>接着在AUR上就可以看到你的软件了，可以用yay安装了！！</p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>Linux</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>服务器一键LNMP</title>
-    <url>/2020/10/02/%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%80%E9%94%AELNMP/</url>
-    <content><![CDATA[<h1 id="让你的LINUX电脑或者服务器一键LNMP！"><a href="#让你的LINUX电脑或者服务器一键LNMP！" class="headerlink" title="让你的LINUX电脑或者服务器一键LNMP！"></a>让你的LINUX电脑或者服务器一键LNMP！</h1><p>LINUX服务器配置的时候如果使用包管理很多时候会出现无法解析PHP脚本等疑难杂症。。。<del>大概是我水平问题</del><br>所以！！！这里有一个方便的一键配置脚本！！！</p>
-<a id="more"></a>
-<p>这个脚本是有更新的，请随时关注<a href="https://lnmp.org/">https://lnmp.org/</a></p>
-<p>对于服务器，这样使用它（此时最新为1.7）</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">wget http://soft.vpser.net/lnmp/lnmp1.7.tar.gz</span><br><span class="line">tar -xzvf lnmp*</span><br></pre></td></tr></table></figure>
-<p>接着进入目录执行脚本即可，当中需要对参数进行一些基础配置，然后就可以使用你的服务器了!</p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>Linux</tag>
       </tags>
   </entry>
   <entry>
