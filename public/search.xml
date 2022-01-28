@@ -1,23 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>ADV制做计划</title>
-    <url>/2021/01/06/ADV%E5%88%B6%E5%81%9A%E8%AE%A1%E5%88%92/</url>
-    <content><![CDATA[<h1 id="ADV-Gal-AVG制做计划启动！"><a href="#ADV-Gal-AVG制做计划启动！" class="headerlink" title="ADV/Gal/AVG制做计划启动！"></a>ADV/Gal/AVG制做计划启动！</h1><p>2021年了，计划制做一部ADV（亦可称为AVG，Gal，视觉交互小说），大概的需求有：</p>
-<p>剧本，绘画，音乐，脚本，（CV，宣传）</p>
-<p>引擎的话计划是使用Ren’Py哦，感觉还是挺好用的（我才不告诉你是因为DDLC用的是Ren’Py）<br>万事开头难，一定要有气势！（其实做完大概更难XD）</p>
-<a id="more"></a>
-<p>在下比较穷，尽量还是靠个人兴趣参加吧<br>本人大概会负责脚本(Ren’py)和一部分剧本<br>来张从雨镇一下！！（贫乳loli谁不爱）</p>
-<p><img src="/images/congyu.png" alt="congyu"></p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>记事与通知</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>GAME_1</title>
     <url>/2021/05/16/GAME-1/</url>
     <content><![CDATA[<p>第一话：</p>
@@ -30,25 +13,6 @@
       </categories>
       <tags>
         <tag>ゲーム好きな友達とゲームセンに行く話</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Nodejs实现随机图片API</title>
-    <url>/2021/03/20/Nodejs%E5%AE%9E%E7%8E%B0%E9%9A%8F%E6%9C%BA%E5%9B%BE%E7%89%87API/</url>
-    <content><![CDATA[<h1 id="用node-js实现随机图片API！"><a href="#用node-js实现随机图片API！" class="headerlink" title="用node.js实现随机图片API！"></a>用node.js实现随机图片API！</h1><p>前段时间我们的青河大佬自建了一个基于php的随机图API，然而由于我不愿随大流的性子，决定用不同的方法实现一个［滑稽］</p>
-<h3 id="都说了是基于node-js那当然要安装node-js啦！"><a href="#都说了是基于node-js那当然要安装node-js啦！" class="headerlink" title="都说了是基于node.js那当然要安装node.js啦！"></a>都说了是基于node.js那当然要安装node.js啦！</h3><p>首先要有一些图片，然后有这些图片的链接，把它们放到一个叫做data.txt的文本文件里，在相同目录下新建一个js文件：</p>
-<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="keyword">var</span> http = <span class="built_in">require</span>(<span class="string">&quot;http&quot;</span>);</span><br><span class="line"><span class="keyword">var</span> readline = <span class="built_in">require</span>(<span class="string">&#x27;readline&#x27;</span>);</span><br><span class="line"><span class="keyword">var</span> fs = <span class="built_in">require</span>(<span class="string">&#x27;fs&#x27;</span>);</span><br><span class="line"></span><br><span class="line"><span class="keyword">var</span> filearr;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">readarr</span>(<span class="params"> filename, callback </span>)</span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="keyword">var</span> file = fs.createReadStream( filename );</span><br><span class="line">    <span class="keyword">var</span> line_arr = readline.createInterface(</span><br><span class="line">        &#123;</span><br><span class="line">            input:file</span><br><span class="line">        &#125;</span><br><span class="line">    )</span><br><span class="line">    <span class="keyword">var</span> arr = <span class="keyword">new</span> <span class="built_in">Array</span>();</span><br><span class="line"></span><br><span class="line">    line_arr.on(<span class="string">&#x27;line&#x27;</span>, <span class="function">(<span class="params">line</span>) =&gt;</span> &#123;</span><br><span class="line">        arr.push( line );</span><br><span class="line"><span class="comment">//        console.log( arr );</span></span><br><span class="line">    &#125;)</span><br><span class="line"></span><br><span class="line">    line_arr.on(<span class="string">&#x27;close&#x27;</span>, <span class="function">() =&gt;</span>&#123;</span><br><span class="line">        filearr = arr.concat();</span><br><span class="line">        callback();</span><br><span class="line">    &#125;)</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">readarr( <span class="string">&#x27;data.txt&#x27;</span>, <span class="function">() =&gt;</span> &#123;</span><br><span class="line">    <span class="built_in">console</span>.log(<span class="string">&quot;Read data.txt Finished&quot;</span>);</span><br><span class="line">    <span class="built_in">console</span>.log( <span class="string">&quot;The file has &quot;</span> + filearr.length + <span class="string">&quot; lines&quot;</span> );</span><br><span class="line">&#125;)</span><br><span class="line"></span><br><span class="line">http.createServer( <span class="function">(<span class="params">req, res</span>) =&gt;</span> &#123;</span><br><span class="line"></span><br><span class="line">    res.writeHead(<span class="number">200</span>, &#123;<span class="string">&#x27;Content-Type&#x27;</span>: <span class="string">&#x27;text/plain&#x27;</span>&#125;);</span><br><span class="line"></span><br><span class="line">    <span class="keyword">var</span> whicharr = <span class="built_in">Math</span>.floor( <span class="built_in">Math</span>.random()*filearr.length );</span><br><span class="line"></span><br><span class="line">    res.end( filearr[whicharr] );</span><br><span class="line">&#125;).listen(<span class="number">2880</span>);</span><br><span class="line"></span><br><span class="line">http.createServer( <span class="function">(<span class="params">req, res</span>) =&gt;</span> &#123;</span><br><span class="line"></span><br><span class="line">    res.writeHead(<span class="number">200</span>, &#123;<span class="string">&#x27;Content-Type&#x27;</span>: <span class="string">&#x27;text/html; charset=utf-8&#x27;</span>&#125;);</span><br><span class="line"></span><br><span class="line">    <span class="keyword">var</span> whicharr = <span class="built_in">Math</span>.floor( <span class="built_in">Math</span>.random()*filearr.length );</span><br><span class="line"></span><br><span class="line">    res.end( <span class="string">`&lt;!DOCTYPE html&gt;</span></span><br><span class="line"><span class="string">&lt;html&gt;</span></span><br><span class="line"><span class="string">  &lt;head&gt;</span></span><br><span class="line"><span class="string">    &lt;meta charset=&quot;utf-8&quot;&gt;</span></span><br><span class="line"><span class="string">    &lt;title&gt;Zhaose&#x27;s repo&lt;/title&gt;</span></span><br><span class="line"><span class="string">    &lt;style&gt;</span></span><br><span class="line"><span class="string">      body</span></span><br><span class="line"><span class="string">      &#123;</span></span><br><span class="line"><span class="string">	  background-color:#d0e4fe;</span></span><br><span class="line"><span class="string">      &#125;</span></span><br><span class="line"><span class="string">      h1</span></span><br><span class="line"><span class="string">      &#123;</span></span><br><span class="line"><span class="string">	  color:orange;</span></span><br><span class="line"><span class="string">	  text-align:center;</span></span><br><span class="line"><span class="string">      &#125;</span></span><br><span class="line"><span class="string">      p</span></span><br><span class="line"><span class="string">      &#123;</span></span><br><span class="line"><span class="string">	  font-family:&quot;Times New Roman&quot;;</span></span><br><span class="line"><span class="string">	  font-size:20px;</span></span><br><span class="line"><span class="string">          background-color:#dddddd;</span></span><br><span class="line"><span class="string">          text-align: center;</span></span><br><span class="line"><span class="string">      &#125;</span></span><br><span class="line"><span class="string">    &lt;/style&gt;</span></span><br><span class="line"><span class="string">  &lt;/head&gt;</span></span><br><span class="line"><span class="string">  &lt;body&gt;</span></span><br><span class="line"><span class="string">    &lt;h1&gt;zhaose&#x27;s API&lt;/h1&gt;</span></span><br><span class="line"><span class="string">    &lt;p&gt;&lt;img src=&quot;`</span> + filearr[whicharr] + <span class="string">`&quot;/&gt;&lt;/p&gt;</span></span><br><span class="line"><span class="string">  &lt;/body&gt;</span></span><br><span class="line"><span class="string">&lt;/html&gt;`</span> );</span><br><span class="line">&#125;).listen(<span class="number">2881</span>);</span><br><span class="line"></span><br><span class="line">http.createServer( <span class="function">(<span class="params">req, res</span>) =&gt;</span> &#123;</span><br><span class="line"></span><br><span class="line">    <span class="keyword">var</span> whicharr = <span class="built_in">Math</span>.floor( <span class="built_in">Math</span>.random()*filearr.length );</span><br><span class="line"></span><br><span class="line">    <span class="keyword">var</span> url = filearr[whicharr]</span><br><span class="line"></span><br><span class="line">    res.writeHead(<span class="number">301</span>, &#123;<span class="string">&#x27;Location&#x27;</span>: url &#125;);</span><br><span class="line"></span><br><span class="line">    res.end();</span><br><span class="line">&#125;).listen(<span class="number">2882</span>);</span><br><span class="line"></span><br></pre></td></tr></table></figure>
-
-<p>把这些代码输入进去以后，使用</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ node XXX.js</span><br></pre></td></tr></table></figure>
-<p>就可以启动API服务了。其中访问2880端口是返回链接，2881是一个随机的html页面，2882是直接跳转到原图链接。<br>祝大家愉快！</p>
-<p>*by 从晴朗的朝色泛起之际开始</p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>Linux</tag>
       </tags>
   </entry>
   <entry>
@@ -65,6 +29,23 @@
       </categories>
       <tags>
         <tag>有趣</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>ADV制做计划</title>
+    <url>/2021/01/06/ADV%E5%88%B6%E5%81%9A%E8%AE%A1%E5%88%92/</url>
+    <content><![CDATA[<h1 id="ADV-Gal-AVG制做计划启动！"><a href="#ADV-Gal-AVG制做计划启动！" class="headerlink" title="ADV/Gal/AVG制做计划启动！"></a>ADV/Gal/AVG制做计划启动！</h1><p>2021年了，计划制做一部ADV（亦可称为AVG，Gal，视觉交互小说），大概的需求有：</p>
+<p>剧本，绘画，音乐，脚本，（CV，宣传）</p>
+<p>引擎的话计划是使用Ren’Py哦，感觉还是挺好用的（我才不告诉你是因为DDLC用的是Ren’Py）<br>万事开头难，一定要有气势！（其实做完大概更难XD）</p>
+<a id="more"></a>
+<p>在下比较穷，尽量还是靠个人兴趣参加吧<br>本人大概会负责脚本(Ren’py)和一部分剧本<br>来张从雨镇一下！！（贫乳loli谁不爱）</p>
+<p><img src="/images/congyu.png" alt="congyu"></p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>记事与通知</tag>
       </tags>
   </entry>
   <entry>
@@ -94,6 +75,25 @@
       </tags>
   </entry>
   <entry>
+    <title>Nodejs实现随机图片API</title>
+    <url>/2021/03/20/Nodejs%E5%AE%9E%E7%8E%B0%E9%9A%8F%E6%9C%BA%E5%9B%BE%E7%89%87API/</url>
+    <content><![CDATA[<h1 id="用node-js实现随机图片API！"><a href="#用node-js实现随机图片API！" class="headerlink" title="用node.js实现随机图片API！"></a>用node.js实现随机图片API！</h1><p>前段时间我们的青河大佬自建了一个基于php的随机图API，然而由于我不愿随大流的性子，决定用不同的方法实现一个［滑稽］</p>
+<h3 id="都说了是基于node-js那当然要安装node-js啦！"><a href="#都说了是基于node-js那当然要安装node-js啦！" class="headerlink" title="都说了是基于node.js那当然要安装node.js啦！"></a>都说了是基于node.js那当然要安装node.js啦！</h3><p>首先要有一些图片，然后有这些图片的链接，把它们放到一个叫做data.txt的文本文件里，在相同目录下新建一个js文件：</p>
+<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="keyword">var</span> http = <span class="built_in">require</span>(<span class="string">&quot;http&quot;</span>);</span><br><span class="line"><span class="keyword">var</span> readline = <span class="built_in">require</span>(<span class="string">&#x27;readline&#x27;</span>);</span><br><span class="line"><span class="keyword">var</span> fs = <span class="built_in">require</span>(<span class="string">&#x27;fs&#x27;</span>);</span><br><span class="line"></span><br><span class="line"><span class="keyword">var</span> filearr;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">readarr</span>(<span class="params"> filename, callback </span>)</span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="keyword">var</span> file = fs.createReadStream( filename );</span><br><span class="line">    <span class="keyword">var</span> line_arr = readline.createInterface(</span><br><span class="line">        &#123;</span><br><span class="line">            input:file</span><br><span class="line">        &#125;</span><br><span class="line">    )</span><br><span class="line">    <span class="keyword">var</span> arr = <span class="keyword">new</span> <span class="built_in">Array</span>();</span><br><span class="line"></span><br><span class="line">    line_arr.on(<span class="string">&#x27;line&#x27;</span>, <span class="function">(<span class="params">line</span>) =&gt;</span> &#123;</span><br><span class="line">        arr.push( line );</span><br><span class="line"><span class="comment">//        console.log( arr );</span></span><br><span class="line">    &#125;)</span><br><span class="line"></span><br><span class="line">    line_arr.on(<span class="string">&#x27;close&#x27;</span>, <span class="function">() =&gt;</span>&#123;</span><br><span class="line">        filearr = arr.concat();</span><br><span class="line">        callback();</span><br><span class="line">    &#125;)</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">readarr( <span class="string">&#x27;data.txt&#x27;</span>, <span class="function">() =&gt;</span> &#123;</span><br><span class="line">    <span class="built_in">console</span>.log(<span class="string">&quot;Read data.txt Finished&quot;</span>);</span><br><span class="line">    <span class="built_in">console</span>.log( <span class="string">&quot;The file has &quot;</span> + filearr.length + <span class="string">&quot; lines&quot;</span> );</span><br><span class="line">&#125;)</span><br><span class="line"></span><br><span class="line">http.createServer( <span class="function">(<span class="params">req, res</span>) =&gt;</span> &#123;</span><br><span class="line"></span><br><span class="line">    res.writeHead(<span class="number">200</span>, &#123;<span class="string">&#x27;Content-Type&#x27;</span>: <span class="string">&#x27;text/plain&#x27;</span>&#125;);</span><br><span class="line"></span><br><span class="line">    <span class="keyword">var</span> whicharr = <span class="built_in">Math</span>.floor( <span class="built_in">Math</span>.random()*filearr.length );</span><br><span class="line"></span><br><span class="line">    res.end( filearr[whicharr] );</span><br><span class="line">&#125;).listen(<span class="number">2880</span>);</span><br><span class="line"></span><br><span class="line">http.createServer( <span class="function">(<span class="params">req, res</span>) =&gt;</span> &#123;</span><br><span class="line"></span><br><span class="line">    res.writeHead(<span class="number">200</span>, &#123;<span class="string">&#x27;Content-Type&#x27;</span>: <span class="string">&#x27;text/html; charset=utf-8&#x27;</span>&#125;);</span><br><span class="line"></span><br><span class="line">    <span class="keyword">var</span> whicharr = <span class="built_in">Math</span>.floor( <span class="built_in">Math</span>.random()*filearr.length );</span><br><span class="line"></span><br><span class="line">    res.end( <span class="string">`&lt;!DOCTYPE html&gt;</span></span><br><span class="line"><span class="string">&lt;html&gt;</span></span><br><span class="line"><span class="string">  &lt;head&gt;</span></span><br><span class="line"><span class="string">    &lt;meta charset=&quot;utf-8&quot;&gt;</span></span><br><span class="line"><span class="string">    &lt;title&gt;Zhaose&#x27;s repo&lt;/title&gt;</span></span><br><span class="line"><span class="string">    &lt;style&gt;</span></span><br><span class="line"><span class="string">      body</span></span><br><span class="line"><span class="string">      &#123;</span></span><br><span class="line"><span class="string">	  background-color:#d0e4fe;</span></span><br><span class="line"><span class="string">      &#125;</span></span><br><span class="line"><span class="string">      h1</span></span><br><span class="line"><span class="string">      &#123;</span></span><br><span class="line"><span class="string">	  color:orange;</span></span><br><span class="line"><span class="string">	  text-align:center;</span></span><br><span class="line"><span class="string">      &#125;</span></span><br><span class="line"><span class="string">      p</span></span><br><span class="line"><span class="string">      &#123;</span></span><br><span class="line"><span class="string">	  font-family:&quot;Times New Roman&quot;;</span></span><br><span class="line"><span class="string">	  font-size:20px;</span></span><br><span class="line"><span class="string">          background-color:#dddddd;</span></span><br><span class="line"><span class="string">          text-align: center;</span></span><br><span class="line"><span class="string">      &#125;</span></span><br><span class="line"><span class="string">    &lt;/style&gt;</span></span><br><span class="line"><span class="string">  &lt;/head&gt;</span></span><br><span class="line"><span class="string">  &lt;body&gt;</span></span><br><span class="line"><span class="string">    &lt;h1&gt;zhaose&#x27;s API&lt;/h1&gt;</span></span><br><span class="line"><span class="string">    &lt;p&gt;&lt;img src=&quot;`</span> + filearr[whicharr] + <span class="string">`&quot;/&gt;&lt;/p&gt;</span></span><br><span class="line"><span class="string">  &lt;/body&gt;</span></span><br><span class="line"><span class="string">&lt;/html&gt;`</span> );</span><br><span class="line">&#125;).listen(<span class="number">2881</span>);</span><br><span class="line"></span><br><span class="line">http.createServer( <span class="function">(<span class="params">req, res</span>) =&gt;</span> &#123;</span><br><span class="line"></span><br><span class="line">    <span class="keyword">var</span> whicharr = <span class="built_in">Math</span>.floor( <span class="built_in">Math</span>.random()*filearr.length );</span><br><span class="line"></span><br><span class="line">    <span class="keyword">var</span> url = filearr[whicharr]</span><br><span class="line"></span><br><span class="line">    res.writeHead(<span class="number">301</span>, &#123;<span class="string">&#x27;Location&#x27;</span>: url &#125;);</span><br><span class="line"></span><br><span class="line">    res.end();</span><br><span class="line">&#125;).listen(<span class="number">2882</span>);</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+<p>把这些代码输入进去以后，使用</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ node XXX.js</span><br></pre></td></tr></table></figure>
+<p>就可以启动API服务了。其中访问2880端口是返回链接，2881是一个随机的html页面，2882是直接跳转到原图链接。<br>祝大家愉快！</p>
+<p>*by 从晴朗的朝色泛起之际开始</p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>Linux</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Random_Pic</title>
     <url>/2021/03/29/Random-Pic/</url>
     <content><![CDATA[<h1 id="随机图！！！"><a href="#随机图！！！" class="headerlink" title="随机图！！！"></a>随机图！！！</h1><p>快点点进来！</p>
@@ -106,34 +106,6 @@
       </categories>
       <tags>
         <tag>有趣</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>i3窗口管理器配置</title>
-    <url>/2021/04/02/i3%E7%AA%97%E5%8F%A3%E7%AE%A1%E7%90%86%E5%99%A8%E9%85%8D%E7%BD%AE/</url>
-    <content><![CDATA[<h1 id="配置你的i3wm！（基于Arch-Linux，i3-gaps）"><a href="#配置你的i3wm！（基于Arch-Linux，i3-gaps）" class="headerlink" title="配置你的i3wm！（基于Arch Linux，i3-gaps）"></a>配置你的i3wm！（基于Arch Linux，i3-gaps）</h1><p>i3wm是一个动态窗口管理器。与通常的桌面环境不同，窗口管理器不含有各种轮子，所以非常轻量。常见的窗口管理器有openbox（堆叠），compiz（极至特效），i3（平铺），awesome（平铺），bspwm（平铺），dwm（平铺）。在这些窗口管理器中openbox与compiz配置好了之后几乎与桌面环境使用起来无异。</p>
-<p>然而，我们用wm只是为了轻量吗？不，当然还有平铺！</p>
-<p><em>在所有的平铺窗口管理器里，i3有着最为灵活的窗口布局方式，多叉树的结构可以排出各式各样的布局</em></p>
-<p>那么，今天就给大家分享一下i3-gaps的配置过程。首先安装一下i3:</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo pacman -S i3-gaps picom i3lock xss-lock polybar alacritty feh rofi</span><br></pre></td></tr></table></figure>
-<p>注意，如果装的不是i3wm那么是不支持窗口间隙的，需要安装i3-gaps这个包。上面的几个包中，picom是负责窗口特效的，诸如透明之类，i3lock是锁屏支持，xss-lock在systemd发出睡眠信号的时候自动调用锁屏，polybar是状态栏，可选。alacritty是个很棒的终端，可选。feh是壁纸支持，应当安装。rofi是应用程序启动器，也可以换成dmenu。</p>
-<p>另外，我本人还使用了一些xfce4以及KDE的组件，安装如下</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo pacman -S xfce4-notifyd xfce4-power-manager spectacle</span><br></pre></td></tr></table></figure>
-<p>分别是通知与电源管理，不装电源管理的话调节屏幕亮度会有点麻烦，建议安装。最后一个是KDE的截图软件，是我目前用过的最好用的截图！</p>
-<p>然后在~/.config/i3/config里进行配置</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">gaps inner 4</span><br><span class="line">gaps outer 3 </span><br><span class="line">exec --no-startup-id picom --experimental-backends</span><br><span class="line">exec --no-startup-id feh --bg-fill ~&#x2F;Pictures&#x2F;</span><br><span class="line">exec --no-startup-id xfce4-power-manager</span><br><span class="line">exec --no-startup-id xss-lock -- i3lock -n -c 000011</span><br><span class="line">exec --no-startup-id spectacle -s</span><br><span class="line">exec --no-startup-id &#x2F;usr&#x2F;lib&#x2F;xfce4&#x2F;notifyd&#x2F;xfce4-notifyd</span><br><span class="line"></span><br><span class="line">hide_edge_borders smart</span><br><span class="line">smart_gaps on</span><br><span class="line">default_border pixel 2</span><br><span class="line">default_floating_border pixel 2</span><br><span class="line"></span><br><span class="line">exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork</span><br></pre></td></tr></table></figure>
-<p>装以上的文字加入配置文件，登出重新进入应该就可以看到桌面了。（picom与polybar的配置是无底洞，这里不多说了）</p>
-<p>如有错误之处请自行更正，还望谅解！</p>
-<p>上图，看鄙人配置结果（由乃赛高！<del>夹带私货</del>）</p>
-<p><img src="/images/yuno.jpg" alt="我妻由乃赛高"></p>
-<p>诸君还可以加这个Q群玩耍哦～<br>859529818<br>（不是我的群）</p>
-<p><em>by从睛朗的朝色泛起之际开始</em></p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>Linux</tag>
       </tags>
   </entry>
   <entry>
@@ -182,19 +154,6 @@
       </tags>
   </entry>
   <entry>
-    <title>图片-By_EF_Cosmos</title>
-    <url>/2020/10/08/%E5%9B%BE%E7%89%87-By-EF-Cosmos/</url>
-    <content><![CDATA[<p><img src="https://pic.downk.cc/item/5f7f345d1cd1bbb86bd52df9.png" alt="图片"></p>
-<p><em>2020/10/08</em></p>
-]]></content>
-      <categories>
-        <category>EF_Cosmos</category>
-      </categories>
-      <tags>
-        <tag>随手写</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>在Linux系统上开直播</title>
     <url>/2020/11/26/%E5%9C%A8Linux%E7%B3%BB%E7%BB%9F%E4%B8%8A%E5%BC%80%E7%9B%B4%E6%92%AD/</url>
     <content><![CDATA[<h1 id="把你的屏幕分享给大家！"><a href="#把你的屏幕分享给大家！" class="headerlink" title="把你的屏幕分享给大家！"></a>把你的屏幕分享给大家！</h1><p>大家总是会有想要向别人展示东西的时候。也许是向几个同学，或者几个朋友展示自己的电脑展幕。在种时候用QQ或者Skype等等总是体验不太好，犹其在LINUX上的时候。</p>
@@ -217,22 +176,6 @@
       </tags>
   </entry>
   <entry>
-    <title>2020年10月12日</title>
-    <url>/2020/10/12/%E6%88%91%E4%BB%AC%E6%B4%BB%E5%9C%A8%E4%BD%95%E5%A4%84/</url>
-    <content><![CDATA[<p>#写于2020-10-12</p>
-<p>并非喜剧就能让人感到开心<br>常常一笑了之的背后<br>留下的是与欢乐不相称的孤独与寂莫<br>看在眼中的都是别人的欢乐</p>
-<a id="more"></a>
-<p>自己却没有获得的资格<br>只能感叹自己的不幸<br>没有欢乐<br>没有现实中触及得到的悲伤<br>只有自己一人不断地提醒自己<br>都是自己导致的后果<br>总是期望来自他人的奇迹<br>想要做出改变却从未开始<br>只有自己的情感逐渐麻木<br>到头来还是老样子</p>
-<p><em>by 从晴朗的朝色泛起之际开始</em></p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>随手写</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>我关于许可证的看法</title>
     <url>/2021/08/01/%E6%88%91%E5%85%B3%E4%BA%8E%E8%AE%B8%E5%8F%AF%E8%AF%81%E7%9A%84%E7%9C%8B%E6%B3%95/</url>
     <content><![CDATA[<h1 id="我关于许可证的看法"><a href="#我关于许可证的看法" class="headerlink" title="我关于许可证的看法"></a>我关于许可证的看法</h1><p>先事先声明，我本人并不是专职的程序员，说实话也没有认真写过什么太多代码，所以以下就当做片面的个人看法观赏下好了。</p>
@@ -249,6 +192,39 @@
       </categories>
       <tags>
         <tag>随手写 Linux</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2020年10月12日</title>
+    <url>/2020/10/12/%E6%88%91%E4%BB%AC%E6%B4%BB%E5%9C%A8%E4%BD%95%E5%A4%84/</url>
+    <content><![CDATA[<p>#写于2020-10-12</p>
+<p>并非喜剧就能让人感到开心<br>常常一笑了之的背后<br>留下的是与欢乐不相称的孤独与寂莫<br>看在眼中的都是别人的欢乐</p>
+<a id="more"></a>
+<p>自己却没有获得的资格<br>只能感叹自己的不幸<br>没有欢乐<br>没有现实中触及得到的悲伤<br>只有自己一人不断地提醒自己<br>都是自己导致的后果<br>总是期望来自他人的奇迹<br>想要做出改变却从未开始<br>只有自己的情感逐渐麻木<br>到头来还是老样子</p>
+<p><em>by 从晴朗的朝色泛起之际开始</em></p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>随手写</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>服务器一键LNMP</title>
+    <url>/2020/10/02/%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%80%E9%94%AELNMP/</url>
+    <content><![CDATA[<h1 id="让你的LINUX电脑或者服务器一键LNMP！"><a href="#让你的LINUX电脑或者服务器一键LNMP！" class="headerlink" title="让你的LINUX电脑或者服务器一键LNMP！"></a>让你的LINUX电脑或者服务器一键LNMP！</h1><p>LINUX服务器配置的时候如果使用包管理很多时候会出现无法解析PHP脚本等疑难杂症。。。<del>大概是我水平问题</del><br>所以！！！这里有一个方便的一键配置脚本！！！</p>
+<a id="more"></a>
+<p>这个脚本是有更新的，请随时关注<a href="https://lnmp.org/">https://lnmp.org/</a></p>
+<p>对于服务器，这样使用它（此时最新为1.7）</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">wget http://soft.vpser.net/lnmp/lnmp1.7.tar.gz</span><br><span class="line">tar -xzvf lnmp*</span><br></pre></td></tr></table></figure>
+<p>接着进入目录执行脚本即可，当中需要对参数进行一些基础配置，然后就可以使用你的服务器了!</p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>Linux</tag>
       </tags>
   </entry>
   <entry>
@@ -272,36 +248,6 @@
       </tags>
   </entry>
   <entry>
-    <title>服务器一键LNMP</title>
-    <url>/2020/10/02/%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%80%E9%94%AELNMP/</url>
-    <content><![CDATA[<h1 id="让你的LINUX电脑或者服务器一键LNMP！"><a href="#让你的LINUX电脑或者服务器一键LNMP！" class="headerlink" title="让你的LINUX电脑或者服务器一键LNMP！"></a>让你的LINUX电脑或者服务器一键LNMP！</h1><p>LINUX服务器配置的时候如果使用包管理很多时候会出现无法解析PHP脚本等疑难杂症。。。<del>大概是我水平问题</del><br>所以！！！这里有一个方便的一键配置脚本！！！</p>
-<a id="more"></a>
-<p>这个脚本是有更新的，请随时关注<a href="https://lnmp.org/">https://lnmp.org/</a></p>
-<p>对于服务器，这样使用它（此时最新为1.7）</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">wget http://soft.vpser.net/lnmp/lnmp1.7.tar.gz</span><br><span class="line">tar -xzvf lnmp*</span><br></pre></td></tr></table></figure>
-<p>接着进入目录执行脚本即可，当中需要对参数进行一些基础配置，然后就可以使用你的服务器了!</p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>Linux</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>板绘札记-By_EF_Cosmos</title>
-    <url>/2020/10/02/%E6%9D%BF%E7%BB%98%E6%9C%AD%E8%AE%B0-By-Cosmos/</url>
-    <content><![CDATA[<p><img src="https://ftp.bmp.ovh/imgs/2020/10/774dd4eca2fa1c03.png" alt="Cosmos 板绘"></p>
-<p>我心中有颗树苗<br>路过的人都会为它浇水<br>我在等一个人<br>他可以陪我在树下乘凉<br><em>2020/9/6 by EF_Cosmos</em></p>
-]]></content>
-      <categories>
-        <category>EF_Cosmos</category>
-      </categories>
-      <tags>
-        <tag>EF_Cosmos的板绘</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>朝色の/bin</title>
     <url>/2022/01/28/%E6%9C%9D%E8%89%B2%E3%81%AE-bin/</url>
     <content><![CDATA[<p>22-01-28</p>
@@ -309,6 +255,12 @@
 <li>不想做事情的原因很简单。因为做了的话会失败，不做虽然没有成功的可能性，但也没有了失败的风险。已经够了，什么都不做就行了。</li>
 <li>如果没有了过去，或者否定了过去，那么我还剩下什么是真正属于自己的呢。</li>
 <li>总是喜欢说可怜之人必有可恨之处，但是可恨之人呢？难道就没有可怜之处吗？</li>
+</ul>
+<p>22-01-29</p>
+<ul>
+<li>如果觉得自己很优秀，却看到了比自己更优秀的人一定不好受吧。而且我也明白自己是个废物，所以就把自己当成废物就行了。</li>
+<li>任何人的生命都是无价的，那法律为何得以凌驾于此之上，以死刑剥夺这份无价？</li>
+<li>劝说一个人向「善」是不负责任的，你并不知道ta在所谓的「恶」背后有着什么的故事，你更多的是自我满足，甚至伪善。</li>
 </ul>
 ]]></content>
       <categories>
@@ -490,6 +442,60 @@
       </categories>
       <tags>
         <tag>EF_Cosmos的板绘</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>i3窗口管理器配置</title>
+    <url>/2021/04/02/i3%E7%AA%97%E5%8F%A3%E7%AE%A1%E7%90%86%E5%99%A8%E9%85%8D%E7%BD%AE/</url>
+    <content><![CDATA[<h1 id="配置你的i3wm！（基于Arch-Linux，i3-gaps）"><a href="#配置你的i3wm！（基于Arch-Linux，i3-gaps）" class="headerlink" title="配置你的i3wm！（基于Arch Linux，i3-gaps）"></a>配置你的i3wm！（基于Arch Linux，i3-gaps）</h1><p>i3wm是一个动态窗口管理器。与通常的桌面环境不同，窗口管理器不含有各种轮子，所以非常轻量。常见的窗口管理器有openbox（堆叠），compiz（极至特效），i3（平铺），awesome（平铺），bspwm（平铺），dwm（平铺）。在这些窗口管理器中openbox与compiz配置好了之后几乎与桌面环境使用起来无异。</p>
+<p>然而，我们用wm只是为了轻量吗？不，当然还有平铺！</p>
+<p><em>在所有的平铺窗口管理器里，i3有着最为灵活的窗口布局方式，多叉树的结构可以排出各式各样的布局</em></p>
+<p>那么，今天就给大家分享一下i3-gaps的配置过程。首先安装一下i3:</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo pacman -S i3-gaps picom i3lock xss-lock polybar alacritty feh rofi</span><br></pre></td></tr></table></figure>
+<p>注意，如果装的不是i3wm那么是不支持窗口间隙的，需要安装i3-gaps这个包。上面的几个包中，picom是负责窗口特效的，诸如透明之类，i3lock是锁屏支持，xss-lock在systemd发出睡眠信号的时候自动调用锁屏，polybar是状态栏，可选。alacritty是个很棒的终端，可选。feh是壁纸支持，应当安装。rofi是应用程序启动器，也可以换成dmenu。</p>
+<p>另外，我本人还使用了一些xfce4以及KDE的组件，安装如下</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo pacman -S xfce4-notifyd xfce4-power-manager spectacle</span><br></pre></td></tr></table></figure>
+<p>分别是通知与电源管理，不装电源管理的话调节屏幕亮度会有点麻烦，建议安装。最后一个是KDE的截图软件，是我目前用过的最好用的截图！</p>
+<p>然后在~/.config/i3/config里进行配置</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">gaps inner 4</span><br><span class="line">gaps outer 3 </span><br><span class="line">exec --no-startup-id picom --experimental-backends</span><br><span class="line">exec --no-startup-id feh --bg-fill ~&#x2F;Pictures&#x2F;</span><br><span class="line">exec --no-startup-id xfce4-power-manager</span><br><span class="line">exec --no-startup-id xss-lock -- i3lock -n -c 000011</span><br><span class="line">exec --no-startup-id spectacle -s</span><br><span class="line">exec --no-startup-id &#x2F;usr&#x2F;lib&#x2F;xfce4&#x2F;notifyd&#x2F;xfce4-notifyd</span><br><span class="line"></span><br><span class="line">hide_edge_borders smart</span><br><span class="line">smart_gaps on</span><br><span class="line">default_border pixel 2</span><br><span class="line">default_floating_border pixel 2</span><br><span class="line"></span><br><span class="line">exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork</span><br></pre></td></tr></table></figure>
+<p>装以上的文字加入配置文件，登出重新进入应该就可以看到桌面了。（picom与polybar的配置是无底洞，这里不多说了）</p>
+<p>如有错误之处请自行更正，还望谅解！</p>
+<p>上图，看鄙人配置结果（由乃赛高！<del>夹带私货</del>）</p>
+<p><img src="/images/yuno.jpg" alt="我妻由乃赛高"></p>
+<p>诸君还可以加这个Q群玩耍哦～<br>859529818<br>（不是我的群）</p>
+<p><em>by从睛朗的朝色泛起之际开始</em></p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>Linux</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>板绘札记-By_EF_Cosmos</title>
+    <url>/2020/10/02/%E6%9D%BF%E7%BB%98%E6%9C%AD%E8%AE%B0-By-Cosmos/</url>
+    <content><![CDATA[<p><img src="https://ftp.bmp.ovh/imgs/2020/10/774dd4eca2fa1c03.png" alt="Cosmos 板绘"></p>
+<p>我心中有颗树苗<br>路过的人都会为它浇水<br>我在等一个人<br>他可以陪我在树下乘凉<br><em>2020/9/6 by EF_Cosmos</em></p>
+]]></content>
+      <categories>
+        <category>EF_Cosmos</category>
+      </categories>
+      <tags>
+        <tag>EF_Cosmos的板绘</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>图片-By_EF_Cosmos</title>
+    <url>/2020/10/08/%E5%9B%BE%E7%89%87-By-EF-Cosmos/</url>
+    <content><![CDATA[<p><img src="https://pic.downk.cc/item/5f7f345d1cd1bbb86bd52df9.png" alt="图片"></p>
+<p><em>2020/10/08</em></p>
+]]></content>
+      <categories>
+        <category>EF_Cosmos</category>
+      </categories>
+      <tags>
+        <tag>随手写</tag>
       </tags>
   </entry>
 </search>
