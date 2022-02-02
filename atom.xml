@@ -6,7 +6,7 @@
   <link href="https://blog.zhaose.cyou/atom.xml" rel="self"/>
   
   <link href="https://blog.zhaose.cyou/"/>
-  <updated>2022-02-02T19:10:00.118Z</updated>
+  <updated>2022-02-02T20:32:56.793Z</updated>
   <id>https://blog.zhaose.cyou/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>FedoraFun下线七日</title>
+    <link href="https://blog.zhaose.cyou/2022/02/03/FedoraFun%E4%B8%8B%E7%BA%BF%E4%B8%83%E6%97%A5/"/>
+    <id>https://blog.zhaose.cyou/2022/02/03/FedoraFun%E4%B8%8B%E7%BA%BF%E4%B8%83%E6%97%A5/</id>
+    <published>2022-02-02T19:56:52.000Z</published>
+    <updated>2022-02-02T20:32:56.793Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="国内知名-Fedora-社区-FedoraFun-官网今已下线七日"><a href="#国内知名-Fedora-社区-FedoraFun-官网今已下线七日" class="headerlink" title="国内知名 Fedora 社区 FedoraFun 官网今已下线七日"></a>国内知名 Fedora 社区 FedoraFun 官网今已下线七日</h1><p>2022年02月03日，正月初三，本应是喜汽洋洋过年的日子，我们却不得不告知一件令人忧伤的事实：<strong>FedoraFun 官网已经下线七天了</strong></p><p><img src="/images/22-02-03/521.png" alt="521"><br>FedoraFun 官网现状</p><p>FedoraFun 做为国内较知名的 Fedora 社区之一，致力于填补Fedora于日常易用性上的空白。自创始起就充满活力，在短时间内建成了官网，撰写了教程，搭建了软件仓库。幸运的是，目前软件仓库还能访问。不过上一次更新也已经有段时间了。</p><p><img src="/images/22-02-03/new.png" alt="new"><br>FedoraFun 的软件仓库 repo.fedora.fun 目前仍可访问</p><p>此次网站的失联问题，外界看来似乎来源于 FedoraFun 创始人兼管理者疏于关心。毕竟创始人本身并未失联，也就是说创始人在明知 FedoraFun 下线的情况下没有恢复网站。但是我们相信这背后是有原因的，于是我们进行了深入的调查。</p><p>首先是从创始人本人的方面，现在正值新春佳节，创始人虽是社交能手，但对于新年的各种事项也必定忙于应对。所以才将重建官网一事后延。</p><p><img src="/images/22-02-03/q.jpg" alt="question"><br>FedoraFun 是一个非常注重私生活的组织，做到了基本保证法定节假日休息</p><p>其实，用于构建 FedoraFun 官网的技术也并非易于理解。FedoraFun 创始人于1月28日晚欲对官网进行改良，但是由于 Nginx 十分不易于配置和使用，最后使得官网无法工作。Nginx是来源于国外的httpc服务器与反代软件，在使用过程中需要编写复杂的配置文件，并且可能含有不稳定的魔法因素。其实用于生成页面的 Hugo 也是如此。然而用于搭建软件仓库的 Onemanager则由国内程序员编写，软件仓库目前运行良好。故创始人此次失败也并非不可理解。</p><p>以下是 FedoraFun 从前官网的部分代码：</p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">footer</span> <span class="attr">class</span>=<span class="string">&quot;site-footer&quot;</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">section</span> <span class="attr">class</span>=<span class="string">&quot;copyright&quot;</span>&gt;</span></span><br><span class="line">        <span class="symbol">&amp;copy;</span> </span><br><span class="line">        </span><br><span class="line">            2021 - </span><br><span class="line">        </span><br><span class="line">        2022 Fedora生存指难</span><br><span class="line">    <span class="tag">&lt;/<span class="name">section</span>&gt;</span></span><br><span class="line">    </span><br><span class="line">    <span class="tag">&lt;<span class="name">section</span> <span class="attr">class</span>=<span class="string">&quot;powerby&quot;</span>&gt;</span></span><br><span class="line">        Built with <span class="tag">&lt;<span class="name">a</span> <span class="attr">href</span>=<span class="string">&quot;https://gohugo.io/&quot;</span> <span class="attr">target</span>=<span class="string">&quot;_blank&quot;</span> <span class="attr">rel</span>=<span class="string">&quot;noopener&quot;</span>&gt;</span>Hugo<span class="tag">&lt;/<span class="name">a</span>&gt;</span> <span class="tag">&lt;<span class="name">br</span> /&gt;</span></span><br><span class="line">        Theme <span class="tag">&lt;<span class="name">b</span>&gt;</span><span class="tag">&lt;<span class="name">a</span> <span class="attr">href</span>=<span class="string">&quot;https://github.com/CaiJimmy/hugo-theme-stack&quot;</span> <span class="attr">target</span>=<span class="string">&quot;_blank&quot;</span> <span class="attr">rel</span>=<span class="string">&quot;noopener&quot;</span> <span class="attr">data-version</span>=<span class="string">&quot;2.5.0&quot;</span>&gt;</span>Stack<span class="tag">&lt;/<span class="name">a</span>&gt;</span><span class="tag">&lt;/<span class="name">b</span>&gt;</span> designed by <span class="tag">&lt;<span class="name">a</span> <span class="attr">href</span>=<span class="string">&quot;https://jimmycai.com&quot;</span> <span class="attr">target</span>=<span class="string">&quot;_blank&quot;</span> <span class="attr">rel</span>=<span class="string">&quot;noopener&quot;</span>&gt;</span>Jimmy<span class="tag">&lt;/<span class="name">a</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;/<span class="name">section</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">footer</span>&gt;</span></span><br></pre></td></tr></table></figure><p>可见其中只有几个汉字能够辨认，非常繁杂</p><p>所以业内人士认为，综和以上来看，尊重人员的私生活以及法定节假日是值得肯定的行为，那么应当在技术的易用性上下功夫。这也在一定程度上反映了国外技术的不可信，违反直觉，难以使用；更加证明了国产化势在必行。FedoraFun 亦是将国外技术引进的组织之一，也应当更加注重这一点。</p><p>于此新春之际，祝愿大家新春快乐，同时，祝愿 FedoraFun 也能从此次变故中涅磐重生，继续作为国内知名技术社区发光发热。</p><p><em>朝色报</em></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;国内知名-Fedora-社区-FedoraFun-官网今已下线七日&quot;&gt;&lt;a href=&quot;#国内知名-Fedora-社区-FedoraFun-官网今已下线七日&quot; class=&quot;headerlink&quot; title=&quot;国内知名 Fedora 社区 FedoraFun 官</summary>
+      
+    
+    
+    
+    <category term="朝色报" scheme="https://blog.zhaose.cyou/categories/%E6%9C%9D%E8%89%B2%E6%8A%A5/"/>
+    
+    
+    <category term="新闻" scheme="https://blog.zhaose.cyou/tags/%E6%96%B0%E9%97%BB/"/>
+    
+  </entry>
   
   <entry>
     <title>朝色の/bin</title>
@@ -460,28 +484,6 @@
     
     
     <category term="Linux" scheme="https://blog.zhaose.cyou/tags/Linux/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2020年10月12日</title>
-    <link href="https://blog.zhaose.cyou/2020/10/12/%E6%88%91%E4%BB%AC%E6%B4%BB%E5%9C%A8%E4%BD%95%E5%A4%84/"/>
-    <id>https://blog.zhaose.cyou/2020/10/12/%E6%88%91%E4%BB%AC%E6%B4%BB%E5%9C%A8%E4%BD%95%E5%A4%84/</id>
-    <published>2020-10-11T16:58:20.000Z</published>
-    <updated>2020-11-04T13:21:48.495Z</updated>
-    
-    <content type="html"><![CDATA[<p>#写于2020-10-12</p><p>并非喜剧就能让人感到开心<br>常常一笑了之的背后<br>留下的是与欢乐不相称的孤独与寂莫<br>看在眼中的都是别人的欢乐</p><a id="more"></a><p>自己却没有获得的资格<br>只能感叹自己的不幸<br>没有欢乐<br>没有现实中触及得到的悲伤<br>只有自己一人不断地提醒自己<br>都是自己导致的后果<br>总是期望来自他人的奇迹<br>想要做出改变却从未开始<br>只有自己的情感逐渐麻木<br>到头来还是老样子</p><p><em>by 从晴朗的朝色泛起之际开始</em></p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;#写于2020-10-12&lt;/p&gt;
-&lt;p&gt;并非喜剧就能让人感到开心&lt;br&gt;常常一笑了之的背后&lt;br&gt;留下的是与欢乐不相称的孤独与寂莫&lt;br&gt;看在眼中的都是别人的欢乐&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="从晴朗的朝色泛起之际开始" scheme="https://blog.zhaose.cyou/categories/%E4%BB%8E%E6%99%B4%E6%9C%97%E7%9A%84%E6%9C%9D%E8%89%B2%E6%B3%9B%E8%B5%B7%E4%B9%8B%E9%99%85%E5%BC%80%E5%A7%8B/"/>
-    
-    
-    <category term="随手写" scheme="https://blog.zhaose.cyou/tags/%E9%9A%8F%E6%89%8B%E5%86%99/"/>
     
   </entry>
   
