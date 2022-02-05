@@ -6,7 +6,7 @@
   <link href="https://blog.zhaose.cyou/atom.xml" rel="self"/>
   
   <link href="https://blog.zhaose.cyou/"/>
-  <updated>2022-02-02T20:35:55.426Z</updated>
+  <updated>2022-02-05T16:56:26.312Z</updated>
   <id>https://blog.zhaose.cyou/</id>
   
   <author>
@@ -17,13 +17,37 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>FedoraFun 重新上线</title>
+    <link href="https://blog.zhaose.cyou/2022/02/06/FedoraFun-%E9%87%8D%E6%96%B0%E4%B8%8A%E7%BA%BF/"/>
+    <id>https://blog.zhaose.cyou/2022/02/06/FedoraFun-%E9%87%8D%E6%96%B0%E4%B8%8A%E7%BA%BF/</id>
+    <published>2022-02-05T16:16:17.000Z</published>
+    <updated>2022-02-05T16:56:26.312Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="FedoraFun-于下线约10日后重新上线"><a href="#FedoraFun-于下线约10日后重新上线" class="headerlink" title="FedoraFun 于下线约10日后重新上线"></a>FedoraFun 于下线约10日后重新上线</h1><p>2022年02月05日晚，下线许久的 FedoraFun 终于重新上线了。经由<a href="https://github.com/zxc3123857948">创始人</a>的努力，现在博客由 Halo 构建并且运行于独立服务器上。</p><p><img src="/images/22-02-06/new.jpg" alt="FedoraFun 新官网截图"></p><p>可以发现，相比之前使用 Hugo 构建的博客系统，更加美观，贴合国内大众审美，页面内容丰富，信息集中，具有交互感。</p><p>据悉，FedoraFun 最新官网使用了 Halo ，一款国人开发的博客框架系统进行构架。该框架运行于 Java ，并且源代码已经开源。这一定程度上也反映了现今国产化的蓬勃发展，产生了许多优于外国的解决方案。</p><p>另外，前次报道中出现了一处错误，这里予以更正：FedoraFun 软件存储仓库最后一次更新时间为01月31日，也就是除夕当日。</p><p><img src="/images/22-02-06/pkg.png" alt="FedoraFun 软件存储仓库的最新包"></p><p>其实创始人在除夕之夜，这个本应与家人共度的节日里，还不忘全国的 FeduraFun 用户们，更新了软件包。并且明明正值新春佳节，却耗费时间与精力修复了 FedoraFun 官网。可见创始人的道德之高尚，与国外弄虚作假，整日不喜上班，浑浑噩噩的所谓“合理劳动”形成了鲜明的反差。创始人正是贯彻社区主义核心价值观的典范。</p><p>最后，朝色报已经受到了 FedoraFun 创始人以及其它相关人员的关注。感谢大家的支持，如有疑问，建议可于评论中提出。</p><p>2022-02-06 <strong>刊号3</strong> <em>——朝色报</em></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;FedoraFun-于下线约10日后重新上线&quot;&gt;&lt;a href=&quot;#FedoraFun-于下线约10日后重新上线&quot; class=&quot;headerlink&quot; title=&quot;FedoraFun 于下线约10日后重新上线&quot;&gt;&lt;/a&gt;FedoraFun 于下线约10日后重新</summary>
+      
+    
+    
+    
+    <category term="朝色报" scheme="https://blog.zhaose.cyou/categories/%E6%9C%9D%E8%89%B2%E6%8A%A5/"/>
+    
+    
+    <category term="新闻" scheme="https://blog.zhaose.cyou/tags/%E6%96%B0%E9%97%BB/"/>
+    
+  </entry>
+  
+  <entry>
     <title>FedoraFun下线七日</title>
     <link href="https://blog.zhaose.cyou/2022/02/03/FedoraFun%E4%B8%8B%E7%BA%BF%E4%B8%83%E6%97%A5/"/>
     <id>https://blog.zhaose.cyou/2022/02/03/FedoraFun%E4%B8%8B%E7%BA%BF%E4%B8%83%E6%97%A5/</id>
     <published>2022-02-02T19:56:52.000Z</published>
-    <updated>2022-02-02T20:35:55.426Z</updated>
+    <updated>2022-02-05T16:55:43.844Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="国内知名-Fedora-社区-FedoraFun-官网今已下线七日"><a href="#国内知名-Fedora-社区-FedoraFun-官网今已下线七日" class="headerlink" title="国内知名 Fedora 社区 FedoraFun 官网今已下线七日"></a>国内知名 Fedora 社区 FedoraFun 官网今已下线七日</h1><p>2022年02月03日，正月初三，本应是喜汽洋洋过年的日子，我们却不得不告知一件令人忧伤的事实：<strong>FedoraFun 官网已经下线七天了</strong></p><p><img src="/images/22-02-03/521.png" alt="FedoraFun 官网现状"></p><p>FedoraFun 做为国内较知名的 Fedora 社区之一，致力于填补Fedora于日常易用性上的空白。自创始起就充满活力，在短时间内建成了官网，撰写了教程，搭建了软件仓库。幸运的是，目前软件仓库还能访问。不过上一次更新也已经有段时间了。</p><p><img src="/images/22-02-03/new.png" alt="FedoraFun 的软件仓库 repo.fedora.fun 目前仍可访问"></p><p>此次网站的失联问题，外界看来似乎来源于 FedoraFun 创始人兼管理者疏于关心。毕竟创始人本身并未失联，也就是说创始人在明知 FedoraFun 下线的情况下没有恢复网站。但是我们相信这背后是有原因的，于是我们进行了深入的调查。</p><p>首先是从创始人本人的方面，现在正值新春佳节，创始人虽是社交能手，但对于新年的各种事项也必定忙于应对。所以才将重建官网一事后延。</p><p><img src="/images/22-02-03/q.jpg" alt="FedoraFun 是一个非常注重私生活的组织，做到了基本保证法定节假日休息"></p><p>其实，用于构建 FedoraFun 官网的技术也并非易于理解。FedoraFun 创始人于1月28日晚欲对官网进行改良，但是由于 Nginx 十分不易于配置和使用，最后使得官网无法工作。Nginx是来源于国外的httpc服务器与反代软件，在使用过程中需要编写复杂的配置文件，并且可能含有不稳定的魔法因素。其实用于生成页面的 Hugo 也是如此。然而用于搭建软件仓库的 Onemanager则由国内程序员编写，软件仓库目前运行良好。故创始人此次失败也并非不可理解。</p><p>以下是 FedoraFun 从前官网的部分代码：</p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">footer</span> <span class="attr">class</span>=<span class="string">&quot;site-footer&quot;</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">section</span> <span class="attr">class</span>=<span class="string">&quot;copyright&quot;</span>&gt;</span></span><br><span class="line">        <span class="symbol">&amp;copy;</span> </span><br><span class="line">        </span><br><span class="line">            2021 - </span><br><span class="line">        </span><br><span class="line">        2022 Fedora生存指难</span><br><span class="line">    <span class="tag">&lt;/<span class="name">section</span>&gt;</span></span><br><span class="line">    </span><br><span class="line">    <span class="tag">&lt;<span class="name">section</span> <span class="attr">class</span>=<span class="string">&quot;powerby&quot;</span>&gt;</span></span><br><span class="line">        Built with <span class="tag">&lt;<span class="name">a</span> <span class="attr">href</span>=<span class="string">&quot;https://gohugo.io/&quot;</span> <span class="attr">target</span>=<span class="string">&quot;_blank&quot;</span> <span class="attr">rel</span>=<span class="string">&quot;noopener&quot;</span>&gt;</span>Hugo<span class="tag">&lt;/<span class="name">a</span>&gt;</span> <span class="tag">&lt;<span class="name">br</span> /&gt;</span></span><br><span class="line">        Theme <span class="tag">&lt;<span class="name">b</span>&gt;</span><span class="tag">&lt;<span class="name">a</span> <span class="attr">href</span>=<span class="string">&quot;https://github.com/CaiJimmy/hugo-theme-stack&quot;</span> <span class="attr">target</span>=<span class="string">&quot;_blank&quot;</span> <span class="attr">rel</span>=<span class="string">&quot;noopener&quot;</span> <span class="attr">data-version</span>=<span class="string">&quot;2.5.0&quot;</span>&gt;</span>Stack<span class="tag">&lt;/<span class="name">a</span>&gt;</span><span class="tag">&lt;/<span class="name">b</span>&gt;</span> designed by <span class="tag">&lt;<span class="name">a</span> <span class="attr">href</span>=<span class="string">&quot;https://jimmycai.com&quot;</span> <span class="attr">target</span>=<span class="string">&quot;_blank&quot;</span> <span class="attr">rel</span>=<span class="string">&quot;noopener&quot;</span>&gt;</span>Jimmy<span class="tag">&lt;/<span class="name">a</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;/<span class="name">section</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">footer</span>&gt;</span></span><br></pre></td></tr></table></figure><p>可见其中只有几个汉字能够辨认，非常繁杂</p><p>所以业内人士认为，综和以上来看，尊重人员的私生活以及法定节假日是值得肯定的行为，那么应当在技术的易用性上下功夫。这也在一定程度上反映了国外技术的不可信，违反直觉，难以使用；更加证明了国产化势在必行。FedoraFun 亦是将国外技术引进的组织之一，也应当更加注重这一点。</p><p>于此新春之际，祝愿大家新春快乐，同时，祝愿 FedoraFun 也能从此次变故中涅磐重生，继续作为国内知名技术社区发光发热。</p><p><em>朝色报</em></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="国内知名-Fedora-社区-FedoraFun-官网今已下线七日"><a href="#国内知名-Fedora-社区-FedoraFun-官网今已下线七日" class="headerlink" title="国内知名 Fedora 社区 FedoraFun 官网今已下线七日"></a>国内知名 Fedora 社区 FedoraFun 官网今已下线七日</h1><p>2022年02月03日，正月初三，本应是喜汽洋洋过年的日子，我们却不得不告知一件令人忧伤的事实：<strong>FedoraFun 官网已经下线七天了</strong></p><p><img src="/images/22-02-03/521.png" alt="FedoraFun 官网现状"></p><p>FedoraFun 做为国内较知名的 Fedora 社区之一，致力于填补Fedora于日常易用性上的空白。自创始起就充满活力，在短时间内建成了官网，撰写了教程，搭建了软件仓库。幸运的是，目前软件仓库还能访问。不过上一次更新也已经有段时间了。</p><p><img src="/images/22-02-03/new.png" alt="FedoraFun 的软件仓库 repo.fedora.fun 目前仍可访问"></p><p>此次网站的失联问题，外界看来似乎来源于 FedoraFun 创始人兼管理者疏于关心。毕竟创始人本身并未失联，也就是说创始人在明知 FedoraFun 下线的情况下没有恢复网站。但是我们相信这背后是有原因的，于是我们进行了深入的调查。</p><p>首先是从创始人本人的方面，现在正值新春佳节，创始人虽是社交能手，但对于新年的各种事项也必定忙于应对。所以才将重建官网一事后延。</p><p><img src="/images/22-02-03/q.jpg" alt="FedoraFun 是一个非常注重私生活的组织，做到了基本保证法定节假日休息"></p><p>其实，用于构建 FedoraFun 官网的技术也并非易于理解。FedoraFun 创始人于1月28日晚欲对官网进行改良，但是由于 Nginx 十分不易于配置和使用，最后使得官网无法工作。Nginx是来源于国外的httpc服务器与反代软件，在使用过程中需要编写复杂的配置文件，并且可能含有不稳定的魔法因素。其实用于生成页面的 Hugo 也是如此。然而用于搭建软件仓库的 Onemanager则由国内程序员编写，软件仓库目前运行良好。故创始人此次失败也并非不可理解。</p><p>以下是 FedoraFun 从前官网的部分代码：</p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">footer</span> <span class="attr">class</span>=<span class="string">&quot;site-footer&quot;</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">section</span> <span class="attr">class</span>=<span class="string">&quot;copyright&quot;</span>&gt;</span></span><br><span class="line">        <span class="symbol">&amp;copy;</span> </span><br><span class="line">        </span><br><span class="line">            2021 - </span><br><span class="line">        </span><br><span class="line">        2022 Fedora生存指难</span><br><span class="line">    <span class="tag">&lt;/<span class="name">section</span>&gt;</span></span><br><span class="line">    </span><br><span class="line">    <span class="tag">&lt;<span class="name">section</span> <span class="attr">class</span>=<span class="string">&quot;powerby&quot;</span>&gt;</span></span><br><span class="line">        Built with <span class="tag">&lt;<span class="name">a</span> <span class="attr">href</span>=<span class="string">&quot;https://gohugo.io/&quot;</span> <span class="attr">target</span>=<span class="string">&quot;_blank&quot;</span> <span class="attr">rel</span>=<span class="string">&quot;noopener&quot;</span>&gt;</span>Hugo<span class="tag">&lt;/<span class="name">a</span>&gt;</span> <span class="tag">&lt;<span class="name">br</span> /&gt;</span></span><br><span class="line">        Theme <span class="tag">&lt;<span class="name">b</span>&gt;</span><span class="tag">&lt;<span class="name">a</span> <span class="attr">href</span>=<span class="string">&quot;https://github.com/CaiJimmy/hugo-theme-stack&quot;</span> <span class="attr">target</span>=<span class="string">&quot;_blank&quot;</span> <span class="attr">rel</span>=<span class="string">&quot;noopener&quot;</span> <span class="attr">data-version</span>=<span class="string">&quot;2.5.0&quot;</span>&gt;</span>Stack<span class="tag">&lt;/<span class="name">a</span>&gt;</span><span class="tag">&lt;/<span class="name">b</span>&gt;</span> designed by <span class="tag">&lt;<span class="name">a</span> <span class="attr">href</span>=<span class="string">&quot;https://jimmycai.com&quot;</span> <span class="attr">target</span>=<span class="string">&quot;_blank&quot;</span> <span class="attr">rel</span>=<span class="string">&quot;noopener&quot;</span>&gt;</span>Jimmy<span class="tag">&lt;/<span class="name">a</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;/<span class="name">section</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">footer</span>&gt;</span></span><br></pre></td></tr></table></figure><p>可见其中只有几个汉字能够辨认，非常繁杂</p><p>所以业内人士认为，综和以上来看，尊重人员的私生活以及法定节假日是值得肯定的行为，那么应当在技术的易用性上下功夫。这也在一定程度上反映了国外技术的不可信，违反直觉，难以使用；更加证明了国产化势在必行。FedoraFun 亦是将国外技术引进的组织之一，也应当更加注重这一点。</p><p>于此新春之际，祝愿大家新春快乐，同时，祝愿 FedoraFun 也能从此次变故中涅磐重生，继续作为国内知名技术社区发光发热。</p><p>2022-02-03 <strong>刊号2</strong> <em>——朝色报</em></p>]]></content>
     
     
       
@@ -69,6 +93,30 @@
   </entry>
   
   <entry>
+    <title>FedoraFun 创始人宣布学习Rust</title>
+    <link href="https://blog.zhaose.cyou/2021/12/18/FedoraFun-%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%AE%A3%E5%B8%83%E5%AD%A6%E4%B9%A0Rust/"/>
+    <id>https://blog.zhaose.cyou/2021/12/18/FedoraFun-%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%AE%A3%E5%B8%83%E5%AD%A6%E4%B9%A0Rust/</id>
+    <published>2021-12-17T16:15:59.000Z</published>
+    <updated>2022-02-05T16:56:23.104Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="朝色报创刊号"><a href="#朝色报创刊号" class="headerlink" title="朝色报创刊号"></a>朝色报创刊号</h1><p><img src="/images/21-12-18/pic_version.jpg" alt="使用Word制作的第一则报道"></p><p>2021-12-18 <strong>刊号1</strong> <em>——朝色报</em></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;朝色报创刊号&quot;&gt;&lt;a href=&quot;#朝色报创刊号&quot; class=&quot;headerlink&quot; title=&quot;朝色报创刊号&quot;&gt;&lt;/a&gt;朝色报创刊号&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;/images/21-12-18/pic_version.jpg&quot; alt=&quot;使用Wor</summary>
+      
+    
+    
+    
+    <category term="朝色报" scheme="https://blog.zhaose.cyou/categories/%E6%9C%9D%E8%89%B2%E6%8A%A5/"/>
+    
+    
+    <category term="新闻" scheme="https://blog.zhaose.cyou/tags/%E6%96%B0%E9%97%BB/"/>
+    
+  </entry>
+  
+  <entry>
     <title>这样就好_四回目</title>
     <link href="https://blog.zhaose.cyou/2021/11/14/%E8%BF%99%E6%A0%B7%E5%B0%B1%E5%A5%BD-%E5%9B%9B%E5%9B%9E%E7%9B%AE/"/>
     <id>https://blog.zhaose.cyou/2021/11/14/%E8%BF%99%E6%A0%B7%E5%B0%B1%E5%A5%BD-%E5%9B%9B%E5%9B%9E%E7%9B%AE/</id>
@@ -93,30 +141,6 @@
   </entry>
   
   <entry>
-    <title>这样就好_二回目</title>
-    <link href="https://blog.zhaose.cyou/2021/11/09/%E8%BF%99%E6%A0%B7%E5%B0%B1%E5%A5%BD-%E4%BA%8C%E5%9B%9E%E7%9B%AE/"/>
-    <id>https://blog.zhaose.cyou/2021/11/09/%E8%BF%99%E6%A0%B7%E5%B0%B1%E5%A5%BD-%E4%BA%8C%E5%9B%9E%E7%9B%AE/</id>
-    <published>2021-11-09T12:53:36.000Z</published>
-    <updated>2021-11-09T12:58:26.729Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="遇见了「幽灵」少女觉得这样不好"><a href="#遇见了「幽灵」少女觉得这样不好" class="headerlink" title="遇见了「幽灵」少女觉得这样不好"></a>遇见了「幽灵」少女觉得这样不好</h1><p>我一时间没能反应过来。<br>「自杀？」<br>「嗯，自杀。」<br>「我为什么要自杀啊？」<br>「不知道，但是最终一定会变成那样」<br>「为什么这么肯定啊」<br>「因为我就是这样啊」<br>啊……有经历吗，那就没法反驳了。<br>嗯？她就是那样？自杀了？还站在这里？还在跟我说话？这该不会……<br>比起害怕，不如说是有点激动。碰到这样的灵异事件我还是头一次，虽然一直相信着超自然的存在，却一次都没有真正见到过。<br>「也就是说，你是亡灵？幽灵？怨魂？」<br>看到我这样激动地问她，她好像很不解。<br>「哎？哎……大概就是普通的亡灵吧，我想」<br>「诶……」我从上到下打量着她，不过几乎看不出来她有什么异样。除了这实在太妹味儿过重的打扮。<br>「不会是在开玩笑吧……你是怎么进到我家里的？」<br>「啊，那很简单的」她直接走到门口，从门穿了出去，又穿过门进来。<br>「……」说实话我不敢相信自己的眼睛。<br>「那你不会踩不到地板什么的吗？」看着她很正常地在走路，这确实是个很大的问题，从物理学上来说。<br>「说白了只是无法做出影响物质世界的行动而已，我想触碰到就能触碰到，但是地板也好，人也是，对我都没有感觉的」<br>「诶……」<br>「那么回到最根本的问题上来。为什么要到我家里来？」<br>「因为你一看就是个宅，想来蹭一下你的动漫看看」<br>「哈？」<br>「今天有个叫那什么的新番更新对吧。感觉想你这样的人肯定会看的，于是我就跟来，如果你看的话我就也能看到了。」<br>「这算是傍观者视角了吧哈哈哈……」<br>「不过你记错了哦，那个明天才更新。」<br>「什！？」她好像小声说了点什么，不过我还是当成没听到吧。<br>「呃……你不介意的话明天再来也行啊？我反正也没事情干，你要看的话我放就是了」<br>「不用了。出去转悠可能就找不到怎么回来了，我今天就呆在这里等着了」<br>「你原来记不住路吗……」<br>「怎么，有意见啊」她走到我床边坐下，双手放在身后撑着，还翘起了二郎腿。很随意的人啊，是因为幽灵当久了吗？<br>「我的床不怎么干净……」刚想这么说，即然她是幽灵（？）那大概没关系吧。<br>「反正难得有能看见我的人，偶尔说说话也不错吧」她仰头望着天花板。<br>「平时你都在干什么？」<br>「反正时间对我来说很廉价。一般就到处转转，到别人家里看看，看到有什么动漫就蹭蹭，然后记住更新的时间，感觉时间差不多了再找地方看下一集」<br>「其它时候就在路上走走，看到有什么热闹了去看看，没什么特别的事情。就这样过了一两年了吧」<br>「能看见我的活人还跟我说话的，你是第一个」<br>「去世一两年了啊……」这么一个人呆着这么久，一定会觉得难受的吧。<br>如果我也时日不多的话，能帮上别人，那怕是个幽灵，也算是行了一份善事，无憾于世了。<br>「那要不一起出门去逛逛？还是说你有什么想在网上看的东西吗，我找给你看。」<br>「哎？没必要做到那样的地步啊，愿意给我看看番剧什么的就已经足够了——」<br>「啊……是吗……」到头来还是谁都帮不上呢，连幽灵都嫌弃的程度哈哈哈哈……<br>「那我睡一会儿，电脑就在那里放着。要是到番剧更新的时间了我还没醒你就叫我好了」<br>「行」她说完从我的床上起来，坐上了我刚离开的椅子，向前趴在桌子上盯着电脑屏幕。<br>也许已经习惯了漫长的时间和等待了吧。<br>「你不用睡觉吗？」<br>「当然不用」<br>想想也是。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;遇见了「幽灵」少女觉得这样不好&quot;&gt;&lt;a href=&quot;#遇见了「幽灵」少女觉得这样不好&quot; class=&quot;headerlink&quot; title=&quot;遇见了「幽灵」少女觉得这样不好&quot;&gt;&lt;/a&gt;遇见了「幽灵」少女觉得这样不好&lt;/h1&gt;&lt;p&gt;我一时间没能反应过来。&lt;br&gt;「自杀</summary>
-      
-    
-    
-    
-    <category term="朝色的小说" scheme="https://blog.zhaose.cyou/categories/%E6%9C%9D%E8%89%B2%E7%9A%84%E5%B0%8F%E8%AF%B4/"/>
-    
-    
-    <category term="这样就好" scheme="https://blog.zhaose.cyou/tags/%E8%BF%99%E6%A0%B7%E5%B0%B1%E5%A5%BD/"/>
-    
-  </entry>
-  
-  <entry>
     <title>这样就好_三回目</title>
     <link href="https://blog.zhaose.cyou/2021/11/09/%E8%BF%99%E6%A0%B7%E5%B0%B1%E5%A5%BD-%E4%B8%89%E5%9B%9E%E7%9B%AE/"/>
     <id>https://blog.zhaose.cyou/2021/11/09/%E8%BF%99%E6%A0%B7%E5%B0%B1%E5%A5%BD-%E4%B8%89%E5%9B%9E%E7%9B%AE/</id>
@@ -129,6 +153,30 @@
       
       
     <summary type="html">&lt;h1 id=&quot;日常，再多一点就好&quot;&gt;&lt;a href=&quot;#日常，再多一点就好&quot; class=&quot;headerlink&quot; title=&quot;日常，再多一点就好&quot;&gt;&lt;/a&gt;日常，再多一点就好&lt;/h1&gt;&lt;p&gt;睁开眼，总觉得躺着很舒服。&lt;br&gt;从前不得不早起，现在却已经习惯了大段连续的睡眠与清</summary>
+      
+    
+    
+    
+    <category term="朝色的小说" scheme="https://blog.zhaose.cyou/categories/%E6%9C%9D%E8%89%B2%E7%9A%84%E5%B0%8F%E8%AF%B4/"/>
+    
+    
+    <category term="这样就好" scheme="https://blog.zhaose.cyou/tags/%E8%BF%99%E6%A0%B7%E5%B0%B1%E5%A5%BD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>这样就好_二回目</title>
+    <link href="https://blog.zhaose.cyou/2021/11/09/%E8%BF%99%E6%A0%B7%E5%B0%B1%E5%A5%BD-%E4%BA%8C%E5%9B%9E%E7%9B%AE/"/>
+    <id>https://blog.zhaose.cyou/2021/11/09/%E8%BF%99%E6%A0%B7%E5%B0%B1%E5%A5%BD-%E4%BA%8C%E5%9B%9E%E7%9B%AE/</id>
+    <published>2021-11-09T12:53:36.000Z</published>
+    <updated>2021-11-09T12:58:26.729Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="遇见了「幽灵」少女觉得这样不好"><a href="#遇见了「幽灵」少女觉得这样不好" class="headerlink" title="遇见了「幽灵」少女觉得这样不好"></a>遇见了「幽灵」少女觉得这样不好</h1><p>我一时间没能反应过来。<br>「自杀？」<br>「嗯，自杀。」<br>「我为什么要自杀啊？」<br>「不知道，但是最终一定会变成那样」<br>「为什么这么肯定啊」<br>「因为我就是这样啊」<br>啊……有经历吗，那就没法反驳了。<br>嗯？她就是那样？自杀了？还站在这里？还在跟我说话？这该不会……<br>比起害怕，不如说是有点激动。碰到这样的灵异事件我还是头一次，虽然一直相信着超自然的存在，却一次都没有真正见到过。<br>「也就是说，你是亡灵？幽灵？怨魂？」<br>看到我这样激动地问她，她好像很不解。<br>「哎？哎……大概就是普通的亡灵吧，我想」<br>「诶……」我从上到下打量着她，不过几乎看不出来她有什么异样。除了这实在太妹味儿过重的打扮。<br>「不会是在开玩笑吧……你是怎么进到我家里的？」<br>「啊，那很简单的」她直接走到门口，从门穿了出去，又穿过门进来。<br>「……」说实话我不敢相信自己的眼睛。<br>「那你不会踩不到地板什么的吗？」看着她很正常地在走路，这确实是个很大的问题，从物理学上来说。<br>「说白了只是无法做出影响物质世界的行动而已，我想触碰到就能触碰到，但是地板也好，人也是，对我都没有感觉的」<br>「诶……」<br>「那么回到最根本的问题上来。为什么要到我家里来？」<br>「因为你一看就是个宅，想来蹭一下你的动漫看看」<br>「哈？」<br>「今天有个叫那什么的新番更新对吧。感觉想你这样的人肯定会看的，于是我就跟来，如果你看的话我就也能看到了。」<br>「这算是傍观者视角了吧哈哈哈……」<br>「不过你记错了哦，那个明天才更新。」<br>「什！？」她好像小声说了点什么，不过我还是当成没听到吧。<br>「呃……你不介意的话明天再来也行啊？我反正也没事情干，你要看的话我放就是了」<br>「不用了。出去转悠可能就找不到怎么回来了，我今天就呆在这里等着了」<br>「你原来记不住路吗……」<br>「怎么，有意见啊」她走到我床边坐下，双手放在身后撑着，还翘起了二郎腿。很随意的人啊，是因为幽灵当久了吗？<br>「我的床不怎么干净……」刚想这么说，即然她是幽灵（？）那大概没关系吧。<br>「反正难得有能看见我的人，偶尔说说话也不错吧」她仰头望着天花板。<br>「平时你都在干什么？」<br>「反正时间对我来说很廉价。一般就到处转转，到别人家里看看，看到有什么动漫就蹭蹭，然后记住更新的时间，感觉时间差不多了再找地方看下一集」<br>「其它时候就在路上走走，看到有什么热闹了去看看，没什么特别的事情。就这样过了一两年了吧」<br>「能看见我的活人还跟我说话的，你是第一个」<br>「去世一两年了啊……」这么一个人呆着这么久，一定会觉得难受的吧。<br>如果我也时日不多的话，能帮上别人，那怕是个幽灵，也算是行了一份善事，无憾于世了。<br>「那要不一起出门去逛逛？还是说你有什么想在网上看的东西吗，我找给你看。」<br>「哎？没必要做到那样的地步啊，愿意给我看看番剧什么的就已经足够了——」<br>「啊……是吗……」到头来还是谁都帮不上呢，连幽灵都嫌弃的程度哈哈哈哈……<br>「那我睡一会儿，电脑就在那里放着。要是到番剧更新的时间了我还没醒你就叫我好了」<br>「行」她说完从我的床上起来，坐上了我刚离开的椅子，向前趴在桌子上盯着电脑屏幕。<br>也许已经习惯了漫长的时间和等待了吧。<br>「你不用睡觉吗？」<br>「当然不用」<br>想想也是。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;遇见了「幽灵」少女觉得这样不好&quot;&gt;&lt;a href=&quot;#遇见了「幽灵」少女觉得这样不好&quot; class=&quot;headerlink&quot; title=&quot;遇见了「幽灵」少女觉得这样不好&quot;&gt;&lt;/a&gt;遇见了「幽灵」少女觉得这样不好&lt;/h1&gt;&lt;p&gt;我一时间没能反应过来。&lt;br&gt;「自杀</summary>
       
     
     
@@ -431,52 +479,6 @@
     
     
     <summary type="html">&lt;h1 id=&quot;把你的屏幕分享给大家！&quot;&gt;&lt;a href=&quot;#把你的屏幕分享给大家！&quot; class=&quot;headerlink&quot; title=&quot;把你的屏幕分享给大家！&quot;&gt;&lt;/a&gt;把你的屏幕分享给大家！&lt;/h1&gt;&lt;p&gt;大家总是会有想要向别人展示东西的时候。也许是向几个同学，或者几个朋友展示自己的电脑展幕。在种时候用QQ或者Skype等等总是体验不太好，犹其在LINUX上的时候。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="从晴朗的朝色泛起之际开始" scheme="https://blog.zhaose.cyou/categories/%E4%BB%8E%E6%99%B4%E6%9C%97%E7%9A%84%E6%9C%9D%E8%89%B2%E6%B3%9B%E8%B5%B7%E4%B9%8B%E9%99%85%E5%BC%80%E5%A7%8B/"/>
-    
-    
-    <category term="Linux" scheme="https://blog.zhaose.cyou/tags/Linux/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>打包软件到AUR</title>
-    <link href="https://blog.zhaose.cyou/2020/11/12/%E6%89%93%E5%8C%85%E8%BD%AF%E4%BB%B6%E5%88%B0AUR/"/>
-    <id>https://blog.zhaose.cyou/2020/11/12/%E6%89%93%E5%8C%85%E8%BD%AF%E4%BB%B6%E5%88%B0AUR/</id>
-    <published>2020-11-12T12:37:50.000Z</published>
-    <updated>2020-11-12T12:47:35.270Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="打包软件并共享到AUR"><a href="#打包软件并共享到AUR" class="headerlink" title="打包软件并共享到AUR"></a>打包软件并共享到AUR</h1><p>对于Arch Linux的用户来说，AUR软件仓库是常常为人所津津乐道的优势。其优点就在于极大的开放性。那么我们也可以打包软件上传到AUR，从白嫖进化到贡献者！</p><p>首先到AUR注册一个账户，并且填入在本机生成的ssh密钥。然后克隆一个空仓库：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git <span class="built_in">clone</span> ssh://aur@aur.archlinux.org/gwm-git.git</span><br></pre></td></tr></table></figure><a id="more"></a><p>像这样，然后放入pkgbuild和校验文件</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git add PKGBUILD .SRCINFO</span><br></pre></td></tr></table></figure><p>然后上传</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git push</span><br></pre></td></tr></table></figure><p>接着在AUR上就可以看到你的软件了，可以用yay安装了！！</p>]]></content>
-    
-    
-    <summary type="html">&lt;h1 id=&quot;打包软件并共享到AUR&quot;&gt;&lt;a href=&quot;#打包软件并共享到AUR&quot; class=&quot;headerlink&quot; title=&quot;打包软件并共享到AUR&quot;&gt;&lt;/a&gt;打包软件并共享到AUR&lt;/h1&gt;&lt;p&gt;对于Arch Linux的用户来说，AUR软件仓库是常常为人所津津乐道的优势。其优点就在于极大的开放性。那么我们也可以打包软件上传到AUR，从白嫖进化到贡献者！&lt;/p&gt;
-&lt;p&gt;首先到AUR注册一个账户，并且填入在本机生成的ssh密钥。然后克隆一个空仓库：&lt;/p&gt;
-&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;git &lt;span class=&quot;built_in&quot;&gt;clone&lt;/span&gt; ssh://aur@aur.archlinux.org/gwm-git.git&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
-    
-    
-    
-    <category term="从晴朗的朝色泛起之际开始" scheme="https://blog.zhaose.cyou/categories/%E4%BB%8E%E6%99%B4%E6%9C%97%E7%9A%84%E6%9C%9D%E8%89%B2%E6%B3%9B%E8%B5%B7%E4%B9%8B%E9%99%85%E5%BC%80%E5%A7%8B/"/>
-    
-    
-    <category term="Linux" scheme="https://blog.zhaose.cyou/tags/Linux/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>用Linux服务器实现一起听歌</title>
-    <link href="https://blog.zhaose.cyou/2020/10/14/%E7%94%A8Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%AE%9E%E7%8E%B0%E4%B8%80%E8%B5%B7%E5%90%AC%E6%AD%8C/"/>
-    <id>https://blog.zhaose.cyou/2020/10/14/%E7%94%A8Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%AE%9E%E7%8E%B0%E4%B8%80%E8%B5%B7%E5%90%AC%E6%AD%8C/</id>
-    <published>2020-10-14T10:09:40.000Z</published>
-    <updated>2020-11-26T12:15:38.605Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="用服务器一起听歌！"><a href="#用服务器一起听歌！" class="headerlink" title="用服务器一起听歌！"></a>用服务器一起听歌！</h1><p>近来用了下QQ的一起听歌功能，感觉挺有意思，但是只能听QQ歌单里有的歌，十分受限。所以决定自己用服务器搭一个差不多的听歌方案。</p><p>一起听歌最重要的就是同步，所有人都同时听同一首曲子的同一个地方，这一点和直播很像，所以决定用比较常见的流媒体方式搭建，说白了就是开了一个音频直播。</p><p>我用的环境是CentOS7，当然这个教程对别的大部分发行版也适用。需要的软件有ffmpeg和make。</p><a id="more"></a><p>ffmpeg的安装不多说了，Debian系一般可以直接apt安装，其它发行版编译安装既可。</p><p>然后搭建流媒体服务器，用的是SRS，先下载源码包，编译安装：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">wget https:&#x2F;&#x2F;github.com&#x2F;ossrs&#x2F;srs&#x2F;archive&#x2F;v3.0-r0.tar.gz</span><br><span class="line">tar -zxvf srs-3.0-r0.tar.gz</span><br><span class="line">cd srs-3.0-r0&#x2F;trunk&#x2F;</span><br><span class="line">.&#x2F;configure</span><br><span class="line">make</span><br><span class="line">make install</span><br></pre></td></tr></table></figure><p>然后开启服务：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">ln -sf &#x2F;usr&#x2F;local&#x2F;srs&#x2F;etc&#x2F;init.d&#x2F;srs &#x2F;etc&#x2F;init.d&#x2F;srs</span><br><span class="line">cp -f &#x2F;usr&#x2F;local&#x2F;srs&#x2F;usr&#x2F;lib&#x2F;systemd&#x2F;system&#x2F;srs.service &#x2F;usr&#x2F;lib&#x2F;systemd&#x2F;system&#x2F;srs.service</span><br><span class="line">systemctl daemon-reload</span><br><span class="line">systemctl start srs</span><br></pre></td></tr></table></figure><p>如果想开机启动的话：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">systemctl enable srs</span><br></pre></td></tr></table></figure><p>然后我把要放的音乐都放到了/data下<br>下面要做的就是开始推流了，用ffmpeg推流：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ffmpeg -re -i &#x2F;data&#x2F;mymusic.mp3 -f flv -y rtmp:&#x2F;&#x2F;49.234.70.34&#x2F;live&#x2F;livestream</span><br></pre></td></tr></table></figure><p>这时候用vlc或者别的流媒体播放器就可以听音乐了，但是放完一首就会停止，可用性不高，于是我写了一个自动循环的脚本：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">#!&#x2F;bin&#x2F;bash</span><br><span class="line">while true</span><br><span class="line">do</span><br><span class="line">for file in $( ls &#x2F;data )</span><br><span class="line">do</span><br><span class="line">output&#x3D;&#96;ffmpeg -re -i &#x2F;data&#x2F;$file -f flv -y rtmp:&#x2F;&#x2F;49.234.70.34&#x2F;live&#x2F;livestream&#96;</span><br><span class="line">done</span><br><span class="line">done</span><br></pre></td></tr></table></figure><p>这个脚本会自动播放/data目录下的文件，文件名最好全英文，不然可能出问题。要用的话只要改一下我的ip就行了</p><p>然后你就可以用这个流媒体服务器和朋友们一起听任何你想听的歌了！！！</p><p>我的一起听歌服务器是rtmp://49.234.70.34/live/livestream，如果卡就是人太多了，自觉退出吧～～～（笑哭）</p><p><em>by 从晴朗的朝色泛起之际开始</em></p>]]></content>
-    
-    
-    <summary type="html">&lt;h1 id=&quot;用服务器一起听歌！&quot;&gt;&lt;a href=&quot;#用服务器一起听歌！&quot; class=&quot;headerlink&quot; title=&quot;用服务器一起听歌！&quot;&gt;&lt;/a&gt;用服务器一起听歌！&lt;/h1&gt;&lt;p&gt;近来用了下QQ的一起听歌功能，感觉挺有意思，但是只能听QQ歌单里有的歌，十分受限。所以决定自己用服务器搭一个差不多的听歌方案。&lt;/p&gt;
-&lt;p&gt;一起听歌最重要的就是同步，所有人都同时听同一首曲子的同一个地方，这一点和直播很像，所以决定用比较常见的流媒体方式搭建，说白了就是开了一个音频直播。&lt;/p&gt;
-&lt;p&gt;我用的环境是CentOS7，当然这个教程对别的大部分发行版也适用。需要的软件有ffmpeg和make。&lt;/p&gt;</summary>
     
     
     
