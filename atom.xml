@@ -6,7 +6,7 @@
   <link href="https://blog.zhaose.cyou/atom.xml" rel="self"/>
   
   <link href="https://blog.zhaose.cyou/"/>
-  <updated>2022-02-05T16:56:26.312Z</updated>
+  <updated>2022-02-16T16:19:08.099Z</updated>
   <id>https://blog.zhaose.cyou/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>聊天客户端军备竞赛，冷战恐暴发</title>
+    <link href="https://blog.zhaose.cyou/2022/02/16/%E8%81%8A%E5%A4%A9%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%86%9B%E5%A4%87%E7%AB%9E%E8%B5%9B%EF%BC%8C%E5%86%B7%E6%88%98%E6%81%90%E6%9A%B4%E5%8F%91/"/>
+    <id>https://blog.zhaose.cyou/2022/02/16/%E8%81%8A%E5%A4%A9%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%86%9B%E5%A4%87%E7%AB%9E%E8%B5%9B%EF%BC%8C%E5%86%B7%E6%88%98%E6%81%90%E6%9A%B4%E5%8F%91/</id>
+    <published>2022-02-16T15:53:17.000Z</published>
+    <updated>2022-02-16T16:19:08.099Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="由于保密原因，本报道不提供图片"><a href="#由于保密原因，本报道不提供图片" class="headerlink" title="由于保密原因，本报道不提供图片"></a>由于保密原因，本报道不提供图片</h1><p>2022年02月09日许，其于Gtk4与Vala的GtkChat雏型被公之于世。在此时间点前后，基于Python与Qt的QTalk以及基于Rust与GtkWebEngine的FQ也发布了它们的初始版本。这一系列事件于近几日间已被推向了舆论的巅峰。</p><p>聊天客户端的开发本身是一项高技术力的，高难度的，高成本的，高风险的工作。在此之前，有icalingua这一客户端的存在，其对全球造成了巨大的威慑。此次事件的起因，业内推测多与icalingua发生的变故有关。虽然具体的信息未得到披露，但是icalingua的影响力似乎有所减弱，这给了其它势力研发自己的聊天客户端的时间缺口。icalingua的集中威慑力首次受到了区大的威胁，这有可能是世界从单极化步入多极化的转折点。</p><p>当只有一个强大的存在时，人们都不得不折服于其强大。但是当有了势均力敌的存在那么势必会引发竞争。现阶段每个新兴聊天客户端都使用了最新的技术，并且试图于各方面完败对手，处于紧张的发展状态之中。而且由于它们之间的互不相容，可能会产生新的「冷战」格局，并且加强加速各自的军备开发。但是此格局与历史上苏联以及美国之间所爆发的冷战有所不同，因为苏联与美国的冷战是两个超强势力之间的冷战，而现在的状况则存在着多个互不相容的超强势力。它们都有各自的盟友，却又不可能跟其它超强势力结盟。这意味着更虽复杂的局势与更加不明郎的未来。</p><p>鉴于现阶段的紧张局势，未来难以预料但不容乐观。卷入军备竞赛势必会对它们的经济民生发展产生影响。如果你处于这几个势力范围内，应当做好提前准备应对突发情况，比如客户端崩溃，内存泄露，运行缓慢等等。另外建立自己的势力开发聊天客户端加入竞争当中，也许也有助于将强大的势力衬托成为许多强大的势力当中平庸的一者，有助于缓解现阶段的「多极冷战」局势。</p><p>在此历史性的时刻，能与大家一同目睹，是本报的荣幸。</p><p>2022-02-17 <strong>刊号4</strong> <em>——朝色报</em></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;由于保密原因，本报道不提供图片&quot;&gt;&lt;a href=&quot;#由于保密原因，本报道不提供图片&quot; class=&quot;headerlink&quot; title=&quot;由于保密原因，本报道不提供图片&quot;&gt;&lt;/a&gt;由于保密原因，本报道不提供图片&lt;/h1&gt;&lt;p&gt;2022年02月09日许，其于Gtk</summary>
+      
+    
+    
+    
+    <category term="朝色报" scheme="https://blog.zhaose.cyou/categories/%E6%9C%9D%E8%89%B2%E6%8A%A5/"/>
+    
+    
+    <category term="新闻" scheme="https://blog.zhaose.cyou/tags/%E6%96%B0%E9%97%BB/"/>
+    
+  </entry>
   
   <entry>
     <title>FedoraFun 重新上线</title>
@@ -458,27 +482,6 @@
     
     
     <summary type="html">&lt;h1 id=&quot;picom混成器模糊透明来了！&quot;&gt;&lt;a href=&quot;#picom混成器模糊透明来了！&quot; class=&quot;headerlink&quot; title=&quot;picom混成器模糊透明来了！&quot;&gt;&lt;/a&gt;picom混成器模糊透明来了！&lt;/h1&gt;&lt;p&gt;使用windows manager的图形界面的话，如果不想忍受单薄的画面，当然少不了一个窗口混成器。现在kwin，mutter这些集成在DE里面的wm都整合了混成器。但是像i3这种wm，就需要一个外置混成器来撑撑排面了。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="从晴朗的朝色泛起之际开始" scheme="https://blog.zhaose.cyou/categories/%E4%BB%8E%E6%99%B4%E6%9C%97%E7%9A%84%E6%9C%9D%E8%89%B2%E6%B3%9B%E8%B5%B7%E4%B9%8B%E9%99%85%E5%BC%80%E5%A7%8B/"/>
-    
-    
-    <category term="Linux" scheme="https://blog.zhaose.cyou/tags/Linux/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>在Linux系统上开直播</title>
-    <link href="https://blog.zhaose.cyou/2020/11/26/%E5%9C%A8Linux%E7%B3%BB%E7%BB%9F%E4%B8%8A%E5%BC%80%E7%9B%B4%E6%92%AD/"/>
-    <id>https://blog.zhaose.cyou/2020/11/26/%E5%9C%A8Linux%E7%B3%BB%E7%BB%9F%E4%B8%8A%E5%BC%80%E7%9B%B4%E6%92%AD/</id>
-    <published>2020-11-26T11:53:09.000Z</published>
-    <updated>2020-11-26T12:23:36.700Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="把你的屏幕分享给大家！"><a href="#把你的屏幕分享给大家！" class="headerlink" title="把你的屏幕分享给大家！"></a>把你的屏幕分享给大家！</h1><p>大家总是会有想要向别人展示东西的时候。也许是向几个同学，或者几个朋友展示自己的电脑展幕。在种时候用QQ或者Skype等等总是体验不太好，犹其在LINUX上的时候。</p><a id="more"></a><p>这种时候就把自己的展幕直播出去咯。用到的有一个LINUX系统（笔者用的是ARCH，比较方便，大部分发行版进行改动后都可行），一个带有RTMP模块编译的NGINX服务端，一个内网穿透服务（笔者用的是Sakura FRPC），和OBS录播系统。</p><p>先安装NGINX-RTMP，笔者直接使用AUR安装了：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">yay -S nginx-rtmp</span><br></pre></td></tr></table></figure><p>然后是obs,直接pacman安装</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo pacman -S obs-studio</span><br></pre></td></tr></table></figure><p>启动nginx服务，开启obs进行串流，地址为rtmp://127.0.0.1/live<br>接着去frpc弄一个账号，进行内网穿透，内网端口就填127.0.0.1:1935，然后把你得到的外网端口改成RTMP格式的连接发给你的小伙伴，他就可以看见你的屏幕了！（RTMP通常使用VLC播放即可，POTPLAYER也可以）</p><p>开直播吧</p><p>*by 从晴朗的朝色泛起之际开始</p>]]></content>
-    
-    
-    <summary type="html">&lt;h1 id=&quot;把你的屏幕分享给大家！&quot;&gt;&lt;a href=&quot;#把你的屏幕分享给大家！&quot; class=&quot;headerlink&quot; title=&quot;把你的屏幕分享给大家！&quot;&gt;&lt;/a&gt;把你的屏幕分享给大家！&lt;/h1&gt;&lt;p&gt;大家总是会有想要向别人展示东西的时候。也许是向几个同学，或者几个朋友展示自己的电脑展幕。在种时候用QQ或者Skype等等总是体验不太好，犹其在LINUX上的时候。&lt;/p&gt;</summary>
     
     
     
