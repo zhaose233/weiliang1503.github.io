@@ -6,7 +6,7 @@
   <link href="https://blog.zhaose.cyou/atom.xml" rel="self"/>
   
   <link href="https://blog.zhaose.cyou/"/>
-  <updated>2022-02-16T16:28:59.733Z</updated>
+  <updated>2022-03-05T16:09:29.576Z</updated>
   <id>https://blog.zhaose.cyou/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>实用主义已死</title>
+    <link href="https://blog.zhaose.cyou/2022/03/05/%E5%AE%9E%E7%94%A8%E4%B8%BB%E4%B9%89%E5%B7%B2%E6%AD%BB/"/>
+    <id>https://blog.zhaose.cyou/2022/03/05/%E5%AE%9E%E7%94%A8%E4%B8%BB%E4%B9%89%E5%B7%B2%E6%AD%BB/</id>
+    <published>2022-03-05T15:07:02.000Z</published>
+    <updated>2022-03-05T16:09:29.576Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="对于实用主义的批评"><a href="#对于实用主义的批评" class="headerlink" title="对于实用主义的批评"></a>对于实用主义的批评</h2><p>关于尼采，「上帝已死」这一说法非常出名。其指的是在现代人们失去了「上帝」这种绝对法则的存在，而陷入精神判的虚无，无法认定什么是正确的，什么是错误的，因为判断这一切的「上帝」死了。</p><p>在现今社会，或者是说中华五千年的文明以来，「实用主义」被广泛地认同。虽然很有可能是我知识不全导致的偏见，但是比对中西方的文明发展历程，就会发现中国人留名于史的智慧，大多都是「中国古代劳动人民的智慧」（当然不排除像祖冲之这样的真正的数学家的存在），而西方则对于较为抽像的概念有所偏爱。比如早时期西方的数学发展，偏向于剥离出来的定理。而《九章算数》之类则多以情景设定为主。</p><p>中国古代文明毫无疑问地在早期取得了优于西方的成绩。虽然也并非没有不同意见，但我并不怀疑四大发明源于中国这点。但是随着发展其弊端逐渐显现，西方科技于近代的暴发性进步，我认为并非巧合而正源于他们很早就「杀死了」或者「不太崇尚」实用主义。</p><p>其实我认为实用主义是一种「绝对」的思想，也就是试图以一种单一标准或者理论来度量世界的事物。这个单一的标准于信奉者中毫无疑问是正确的。于是实用主义就可以使其信奉者避免内心的迷茫，简单地使用「实用」这一标准来进行决策。也许有点奇怪，但我认为这与西方的主要宗教的想法基本是相同的。他们信奉上帝，而实用主义者信奉实用。文艺复兴杀死了上帝，但是中国的实用却没有被杀死。这样看来，各种古板的说教与规矩经久不衰，至今中国式家长仍以它们教育小孩子，也是实用主义的一种延伸。其危害性想必不言而谕了吧。</p><p>那么与实用主义相对的是什么主义呢？是很多主义的结合。或者说是一种没有绝对的，复杂的，有机的决策体系。实用主义用实用扼杀了很多个性的决策（虽然每个人对于实用的看法并不尽相同），那么就要将它们取回来。抛弃了实用之后带来的也许是虚无，不过也可以理解为是自由发挥的空间。实用主义的绝对性很大程度上阻止了其信奉者对于其它看法的吸纳，同时也使其信奉者难以提出对其它想法持有者有价值的观点。受到同一种绝对主义限制的人们之间容易产生共识，但是思想则高度重合，大家都很开心却没有什么新的想法产生。如果一群人遵循的是相对主义，那么不仅每个人愿意看到更多的东西，也更愿意接受别人的东西，进而自身的充实是受拘于唯一正确的理论的人们所不能比拟的。</p><p>上面讲述了太多个人的理论看法，其实本文还是想讲讲在开源社区中看到的问题的，所以下面就讲点实际的东西吧（</p><p>实用主义体现的最为明显的地方莫过于，软件的选择。喜欢简单易用的软件这并没有问题，但是坚信其为真理，就陷入了实用绝对主义之中了。这样子不仅否定了他人使用「没有那么实用」的软件的价值，同时也是对于他人价值观本身的否定。虽说看上去这只是让别人觉得不舒服，容易引起冲突而已，但刚才所说的绝对主义的弊端，也会于自身尽数显现。而且如果任凭实用主义横行，那么软件的垄断发生的可能性将会升高。IE 当年为什么占了99%的分额？因为方便，好用。为什么现在 Chrome 独占天下？因为大家都知道用 Chrome 出问题较少。背后有太多人觉得自己做出了唯一正确的选择，而且是相同的选择。</p><p>如果你于这当中多掺杂一些别的「信仰」，比如说看 Chrome 不爽，我非要用 Firefox。就是觉得闭源的不行，能不用就不用。这些「信仰」看上去好像也是一种绝对主义，却是针对每一个决策高度定制的不同标准。也就是越为复杂的决策树，有着越为丰富的内涵与可能性。同时保留个性避免趋同，也有助于多元化的发展（我相信绝大部分人应该还是希望多元化而非单极化的）。</p><p>嘛，其实呢，完全的实用主义者大概也不太存在吧。很多人虽然是实用主义，但也没有做到完全地绝对实用。所以说其实对于绝对，多多少少还是要违反一些的。那何不再多放开一点呢？</p><p>所有的权威都应当被质疑。单一真理的思想，那个单一的真理，有什么理由不去质疑它呢？</p><p>2022-03-06 <strong>刊号5</strong> <em>——朝色报</em></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;对于实用主义的批评&quot;&gt;&lt;a href=&quot;#对于实用主义的批评&quot; class=&quot;headerlink&quot; title=&quot;对于实用主义的批评&quot;&gt;&lt;/a&gt;对于实用主义的批评&lt;/h2&gt;&lt;p&gt;关于尼采，「上帝已死」这一说法非常出名。其指的是在现代人们失去了「上帝」这种绝对法则</summary>
+      
+    
+    
+    
+    <category term="朝色报" scheme="https://blog.zhaose.cyou/categories/%E6%9C%9D%E8%89%B2%E6%8A%A5/"/>
+    
+    
+    <category term="随手写 Linux" scheme="https://blog.zhaose.cyou/tags/%E9%9A%8F%E6%89%8B%E5%86%99-Linux/"/>
+    
+  </entry>
   
   <entry>
     <title>聊天客户端军备竞赛，冷战恐暴发</title>
@@ -468,27 +492,6 @@
     
     
     <category term="记事与通知" scheme="https://blog.zhaose.cyou/tags/%E8%AE%B0%E4%BA%8B%E4%B8%8E%E9%80%9A%E7%9F%A5/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>给picom开启高性能模糊透明</title>
-    <link href="https://blog.zhaose.cyou/2020/12/04/%E7%BB%99picom%E5%BC%80%E5%90%AF%E9%AB%98%E6%80%A7%E8%83%BD%E6%A8%A1%E7%B3%8A%E9%80%8F%E6%98%8E/"/>
-    <id>https://blog.zhaose.cyou/2020/12/04/%E7%BB%99picom%E5%BC%80%E5%90%AF%E9%AB%98%E6%80%A7%E8%83%BD%E6%A8%A1%E7%B3%8A%E9%80%8F%E6%98%8E/</id>
-    <published>2020-12-04T08:44:14.000Z</published>
-    <updated>2020-12-07T11:39:17.396Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="picom混成器模糊透明来了！"><a href="#picom混成器模糊透明来了！" class="headerlink" title="picom混成器模糊透明来了！"></a>picom混成器模糊透明来了！</h1><p>使用windows manager的图形界面的话，如果不想忍受单薄的画面，当然少不了一个窗口混成器。现在kwin，mutter这些集成在DE里面的wm都整合了混成器。但是像i3这种wm，就需要一个外置混成器来撑撑排面了。</p><a id="more"></a><p>现在比较流行的是picom，能够提供不亚于kwin之类的淡入淡出，透明效果，但是模糊背景一直表现不佳。从前的模糊方案只有kernel，能直接通占用10%以上的CPU。然而现在有了新的模糊方案了以后性能有了大幅的提升！</p><p>archlinux先填加archlinuxcn源：</p><figure class="highlight ini"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="section">[archlinuxcn]</span></span><br><span class="line"><span class="attr">SigLevel</span> = Optional TrustAll</span><br><span class="line"><span class="attr">Server</span> = https://mirrors.ustc.edu.cn/archlinuxcn/<span class="variable">$arch</span></span><br></pre></td></tr></table></figure><p>其它发行版可以自行从github下载源码安装。</p><p>在archlinux下</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo pacman -S picom-git</span><br></pre></td></tr></table></figure><p>然后将以下内容填加到picom.conf里：</p><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"> blur:</span><br><span class="line">&#123;</span><br><span class="line">  <span class="attr">method</span> = <span class="string">&quot;dual_kawase&quot;</span><span class="comment">;</span></span><br><span class="line">  <span class="attr">size</span> = <span class="number">10</span><span class="comment">;</span></span><br><span class="line">  <span class="attr">strength</span> = <span class="number">3</span><span class="comment">;</span></span><br><span class="line">  <span class="attr">deviation</span> = <span class="number">5.0</span><span class="comment">;</span></span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure><p>用picom –experimental-backends开启picom可以享受背景模糊了！</p><p>*by 从晴朗的朝色泛起之际开始</p>]]></content>
-    
-    
-    <summary type="html">&lt;h1 id=&quot;picom混成器模糊透明来了！&quot;&gt;&lt;a href=&quot;#picom混成器模糊透明来了！&quot; class=&quot;headerlink&quot; title=&quot;picom混成器模糊透明来了！&quot;&gt;&lt;/a&gt;picom混成器模糊透明来了！&lt;/h1&gt;&lt;p&gt;使用windows manager的图形界面的话，如果不想忍受单薄的画面，当然少不了一个窗口混成器。现在kwin，mutter这些集成在DE里面的wm都整合了混成器。但是像i3这种wm，就需要一个外置混成器来撑撑排面了。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="从晴朗的朝色泛起之际开始" scheme="https://blog.zhaose.cyou/categories/%E4%BB%8E%E6%99%B4%E6%9C%97%E7%9A%84%E6%9C%9D%E8%89%B2%E6%B3%9B%E8%B5%B7%E4%B9%8B%E9%99%85%E5%BC%80%E5%A7%8B/"/>
-    
-    
-    <category term="Linux" scheme="https://blog.zhaose.cyou/tags/Linux/"/>
     
   </entry>
   
