@@ -91,22 +91,6 @@
       </tags>
   </entry>
   <entry>
-    <title>PPET看板娘！</title>
-    <url>/2020/10/02/PPET%E7%9C%8B%E6%9D%BF%E5%A8%98%EF%BC%81/</url>
-    <content><![CDATA[<h1 id="PPET看板娘！"><a href="#PPET看板娘！" class="headerlink" title="PPET看板娘！"></a>PPET看板娘！</h1><p>右下角的看板娘是不是十分地养眼？你完全可以把她布署到你的桌面上喔！</p>
-<p>访问GITHUB地址：<a href="https://github.com/zenghongtu/PPet/releases">https://github.com/zenghongtu/PPet/releases</a></p>
-<a id="more"></a>
-<p>提供了Windows-exe，MacOS-dmg，Debian-deb格式，ArchLinux亲测debtap转包可行</p>
-<p>还支持导入模型（太赞了）</p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>有趣</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Nodejs实现随机图片API</title>
     <url>/2021/03/20/Nodejs%E5%AE%9E%E7%8E%B0%E9%9A%8F%E6%9C%BA%E5%9B%BE%E7%89%87API/</url>
     <content><![CDATA[<h1 id="用node-js实现随机图片API！"><a href="#用node-js实现随机图片API！" class="headerlink" title="用node.js实现随机图片API！"></a>用node.js实现随机图片API！</h1><p>前段时间我们的青河大佬自建了一个基于php的随机图API，然而由于我不愿随大流的性子，决定用不同的方法实现一个［滑稽］</p>
@@ -123,6 +107,22 @@
       </categories>
       <tags>
         <tag>Linux</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>PPET看板娘！</title>
+    <url>/2020/10/02/PPET%E7%9C%8B%E6%9D%BF%E5%A8%98%EF%BC%81/</url>
+    <content><![CDATA[<h1 id="PPET看板娘！"><a href="#PPET看板娘！" class="headerlink" title="PPET看板娘！"></a>PPET看板娘！</h1><p>右下角的看板娘是不是十分地养眼？你完全可以把她布署到你的桌面上喔！</p>
+<p>访问GITHUB地址：<a href="https://github.com/zenghongtu/PPet/releases">https://github.com/zenghongtu/PPet/releases</a></p>
+<a id="more"></a>
+<p>提供了Windows-exe，MacOS-dmg，Debian-deb格式，ArchLinux亲测debtap转包可行</p>
+<p>还支持导入模型（太赞了）</p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>有趣</tag>
       </tags>
   </entry>
   <entry>
@@ -275,22 +275,6 @@
       </tags>
   </entry>
   <entry>
-    <title>2020年10月12日</title>
-    <url>/2020/10/12/%E6%88%91%E4%BB%AC%E6%B4%BB%E5%9C%A8%E4%BD%95%E5%A4%84/</url>
-    <content><![CDATA[<p>#写于2020-10-12</p>
-<p>并非喜剧就能让人感到开心<br>常常一笑了之的背后<br>留下的是与欢乐不相称的孤独与寂莫<br>看在眼中的都是别人的欢乐</p>
-<a id="more"></a>
-<p>自己却没有获得的资格<br>只能感叹自己的不幸<br>没有欢乐<br>没有现实中触及得到的悲伤<br>只有自己一人不断地提醒自己<br>都是自己导致的后果<br>总是期望来自他人的奇迹<br>想要做出改变却从未开始<br>只有自己的情感逐渐麻木<br>到头来还是老样子</p>
-<p><em>by 从晴朗的朝色泛起之际开始</em></p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>随手写</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>实用主义已死</title>
     <url>/2022/03/05/%E5%AE%9E%E7%94%A8%E4%B8%BB%E4%B9%89%E5%B7%B2%E6%AD%BB/</url>
     <content><![CDATA[<h2 id="对于实用主义的批评"><a href="#对于实用主义的批评" class="headerlink" title="对于实用主义的批评"></a>对于实用主义的批评</h2><p>关于尼采，「上帝已死」这一说法非常出名。其指的是在现代人们失去了「上帝」这种绝对法则的存在，而陷入精神判的虚无，无法认定什么是正确的，什么是错误的，因为判断这一切的「上帝」死了。</p>
@@ -310,6 +294,22 @@
       </categories>
       <tags>
         <tag>随手写 Linux</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2020年10月12日</title>
+    <url>/2020/10/12/%E6%88%91%E4%BB%AC%E6%B4%BB%E5%9C%A8%E4%BD%95%E5%A4%84/</url>
+    <content><![CDATA[<p>#写于2020-10-12</p>
+<p>并非喜剧就能让人感到开心<br>常常一笑了之的背后<br>留下的是与欢乐不相称的孤独与寂莫<br>看在眼中的都是别人的欢乐</p>
+<a id="more"></a>
+<p>自己却没有获得的资格<br>只能感叹自己的不幸<br>没有欢乐<br>没有现实中触及得到的悲伤<br>只有自己一人不断地提醒自己<br>都是自己导致的后果<br>总是期望来自他人的奇迹<br>想要做出改变却从未开始<br>只有自己的情感逐渐麻木<br>到头来还是老样子</p>
+<p><em>by 从晴朗的朝色泛起之际开始</em></p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>随手写</tag>
       </tags>
   </entry>
   <entry>
@@ -453,6 +453,37 @@
       </tags>
   </entry>
   <entry>
+    <title>用Linux服务器实现一起听歌</title>
+    <url>/2020/10/14/%E7%94%A8Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%AE%9E%E7%8E%B0%E4%B8%80%E8%B5%B7%E5%90%AC%E6%AD%8C/</url>
+    <content><![CDATA[<h1 id="用服务器一起听歌！"><a href="#用服务器一起听歌！" class="headerlink" title="用服务器一起听歌！"></a>用服务器一起听歌！</h1><p>近来用了下QQ的一起听歌功能，感觉挺有意思，但是只能听QQ歌单里有的歌，十分受限。所以决定自己用服务器搭一个差不多的听歌方案。</p>
+<p>一起听歌最重要的就是同步，所有人都同时听同一首曲子的同一个地方，这一点和直播很像，所以决定用比较常见的流媒体方式搭建，说白了就是开了一个音频直播。</p>
+<p>我用的环境是CentOS7，当然这个教程对别的大部分发行版也适用。需要的软件有ffmpeg和make。</p>
+<a id="more"></a>
+<p>ffmpeg的安装不多说了，Debian系一般可以直接apt安装，其它发行版编译安装既可。</p>
+<p>然后搭建流媒体服务器，用的是SRS，先下载源码包，编译安装：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">wget https:&#x2F;&#x2F;github.com&#x2F;ossrs&#x2F;srs&#x2F;archive&#x2F;v3.0-r0.tar.gz</span><br><span class="line">tar -zxvf srs-3.0-r0.tar.gz</span><br><span class="line">cd srs-3.0-r0&#x2F;trunk&#x2F;</span><br><span class="line">.&#x2F;configure</span><br><span class="line">make</span><br><span class="line">make install</span><br></pre></td></tr></table></figure>
+<p>然后开启服务：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">ln -sf &#x2F;usr&#x2F;local&#x2F;srs&#x2F;etc&#x2F;init.d&#x2F;srs &#x2F;etc&#x2F;init.d&#x2F;srs</span><br><span class="line">cp -f &#x2F;usr&#x2F;local&#x2F;srs&#x2F;usr&#x2F;lib&#x2F;systemd&#x2F;system&#x2F;srs.service &#x2F;usr&#x2F;lib&#x2F;systemd&#x2F;system&#x2F;srs.service</span><br><span class="line">systemctl daemon-reload</span><br><span class="line">systemctl start srs</span><br></pre></td></tr></table></figure>
+<p>如果想开机启动的话：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">systemctl enable srs</span><br></pre></td></tr></table></figure>
+
+<p>然后我把要放的音乐都放到了/data下<br>下面要做的就是开始推流了，用ffmpeg推流：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">ffmpeg -re -i &#x2F;data&#x2F;mymusic.mp3 -f flv -y rtmp:&#x2F;&#x2F;49.234.70.34&#x2F;live&#x2F;livestream</span><br></pre></td></tr></table></figure>
+<p>这时候用vlc或者别的流媒体播放器就可以听音乐了，但是放完一首就会停止，可用性不高，于是我写了一个自动循环的脚本：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">#!&#x2F;bin&#x2F;bash</span><br><span class="line">while true</span><br><span class="line">do</span><br><span class="line">	for file in $( ls &#x2F;data )</span><br><span class="line">	do</span><br><span class="line">		output&#x3D;&#96;ffmpeg -re -i &#x2F;data&#x2F;$file -f flv -y rtmp:&#x2F;&#x2F;49.234.70.34&#x2F;live&#x2F;livestream&#96;</span><br><span class="line">	done</span><br><span class="line">done</span><br></pre></td></tr></table></figure>
+<p>这个脚本会自动播放/data目录下的文件，文件名最好全英文，不然可能出问题。要用的话只要改一下我的ip就行了</p>
+<p>然后你就可以用这个流媒体服务器和朋友们一起听任何你想听的歌了！！！</p>
+<p>我的一起听歌服务器是rtmp://49.234.70.34/live/livestream，如果卡就是人太多了，自觉退出吧～～～（笑哭）</p>
+<p><em>by 从晴朗的朝色泛起之际开始</em></p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>Linux</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>病娇日志100搬运</title>
     <url>/2021/08/15/%E7%97%85%E5%A8%87%E6%97%A5%E5%BF%97100%E6%90%AC%E8%BF%90/</url>
     <content><![CDATA[<h1 id="来自PIXIV的搬运"><a href="#来自PIXIV的搬运" class="headerlink" title="来自PIXIV的搬运"></a>来自PIXIV的搬运</h1><p><img src="/images/yandere.jpg" alt="p1"></p>
@@ -463,6 +494,30 @@
       </categories>
       <tags>
         <tag>随手写 病娇</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>给picom开启高性能模糊透明</title>
+    <url>/2020/12/04/%E7%BB%99picom%E5%BC%80%E5%90%AF%E9%AB%98%E6%80%A7%E8%83%BD%E6%A8%A1%E7%B3%8A%E9%80%8F%E6%98%8E/</url>
+    <content><![CDATA[<h1 id="picom混成器模糊透明来了！"><a href="#picom混成器模糊透明来了！" class="headerlink" title="picom混成器模糊透明来了！"></a>picom混成器模糊透明来了！</h1><p>使用windows manager的图形界面的话，如果不想忍受单薄的画面，当然少不了一个窗口混成器。现在kwin，mutter这些集成在DE里面的wm都整合了混成器。但是像i3这种wm，就需要一个外置混成器来撑撑排面了。</p>
+<a id="more"></a>
+
+<p>现在比较流行的是picom，能够提供不亚于kwin之类的淡入淡出，透明效果，但是模糊背景一直表现不佳。从前的模糊方案只有kernel，能直接通占用10%以上的CPU。然而现在有了新的模糊方案了以后性能有了大幅的提升！</p>
+<p>archlinux先填加archlinuxcn源：</p>
+<figure class="highlight ini"><table><tr><td class="code"><pre><span class="line"><span class="section">[archlinuxcn]</span></span><br><span class="line"><span class="attr">SigLevel</span> = Optional TrustAll</span><br><span class="line"><span class="attr">Server</span> = https://mirrors.ustc.edu.cn/archlinuxcn/<span class="variable">$arch</span></span><br></pre></td></tr></table></figure>
+<p>其它发行版可以自行从github下载源码安装。</p>
+<p>在archlinux下</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">sudo pacman -S picom-git</span><br></pre></td></tr></table></figure>
+<p>然后将以下内容填加到picom.conf里：</p>
+<figure class="highlight"><table><tr><td class="code"><pre><span class="line"> blur:</span><br><span class="line">&#123;</span><br><span class="line">  <span class="attr">method</span> = <span class="string">&quot;dual_kawase&quot;</span><span class="comment">;</span></span><br><span class="line">  <span class="attr">size</span> = <span class="number">10</span><span class="comment">;</span></span><br><span class="line">  <span class="attr">strength</span> = <span class="number">3</span><span class="comment">;</span></span><br><span class="line">  <span class="attr">deviation</span> = <span class="number">5.0</span><span class="comment">;</span></span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
+<p>用picom –experimental-backends开启picom可以享受背景模糊了！</p>
+<p>*by 从晴朗的朝色泛起之际开始</p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>Linux</tag>
       </tags>
   </entry>
   <entry>
@@ -500,30 +555,6 @@
       </tags>
   </entry>
   <entry>
-    <title>给picom开启高性能模糊透明</title>
-    <url>/2020/12/04/%E7%BB%99picom%E5%BC%80%E5%90%AF%E9%AB%98%E6%80%A7%E8%83%BD%E6%A8%A1%E7%B3%8A%E9%80%8F%E6%98%8E/</url>
-    <content><![CDATA[<h1 id="picom混成器模糊透明来了！"><a href="#picom混成器模糊透明来了！" class="headerlink" title="picom混成器模糊透明来了！"></a>picom混成器模糊透明来了！</h1><p>使用windows manager的图形界面的话，如果不想忍受单薄的画面，当然少不了一个窗口混成器。现在kwin，mutter这些集成在DE里面的wm都整合了混成器。但是像i3这种wm，就需要一个外置混成器来撑撑排面了。</p>
-<a id="more"></a>
-
-<p>现在比较流行的是picom，能够提供不亚于kwin之类的淡入淡出，透明效果，但是模糊背景一直表现不佳。从前的模糊方案只有kernel，能直接通占用10%以上的CPU。然而现在有了新的模糊方案了以后性能有了大幅的提升！</p>
-<p>archlinux先填加archlinuxcn源：</p>
-<figure class="highlight ini"><table><tr><td class="code"><pre><span class="line"><span class="section">[archlinuxcn]</span></span><br><span class="line"><span class="attr">SigLevel</span> = Optional TrustAll</span><br><span class="line"><span class="attr">Server</span> = https://mirrors.ustc.edu.cn/archlinuxcn/<span class="variable">$arch</span></span><br></pre></td></tr></table></figure>
-<p>其它发行版可以自行从github下载源码安装。</p>
-<p>在archlinux下</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">sudo pacman -S picom-git</span><br></pre></td></tr></table></figure>
-<p>然后将以下内容填加到picom.conf里：</p>
-<figure class="highlight"><table><tr><td class="code"><pre><span class="line"> blur:</span><br><span class="line">&#123;</span><br><span class="line">  <span class="attr">method</span> = <span class="string">&quot;dual_kawase&quot;</span><span class="comment">;</span></span><br><span class="line">  <span class="attr">size</span> = <span class="number">10</span><span class="comment">;</span></span><br><span class="line">  <span class="attr">strength</span> = <span class="number">3</span><span class="comment">;</span></span><br><span class="line">  <span class="attr">deviation</span> = <span class="number">5.0</span><span class="comment">;</span></span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
-<p>用picom –experimental-backends开启picom可以享受背景模糊了！</p>
-<p>*by 从晴朗的朝色泛起之际开始</p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>Linux</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>这样就好_三回目</title>
     <url>/2021/11/09/%E8%BF%99%E6%A0%B7%E5%B0%B1%E5%A5%BD-%E4%B8%89%E5%9B%9E%E7%9B%AE/</url>
     <content><![CDATA[<h1 id="日常，再多一点就好"><a href="#日常，再多一点就好" class="headerlink" title="日常，再多一点就好"></a>日常，再多一点就好</h1><p>睁开眼，总觉得躺着很舒服。<br>从前不得不早起，现在却已经习惯了大段连续的睡眠与清醒了，但是一直躺着也很无聊。<br>起来好了。<br>随意地把被子扔到床上的一角，然后就往枕头下面摸手机。<br>嗯……平时都是这样醒来的，但是今天家里多了个存在，还是稍微注意一下行为举止吧。<br>她没有保持趴在桌子上看电脑的姿势，而是转身趴在了窗台上眺望。<br>椅子放得离窗户的点远，感觉她这个姿势挺辛苦的。<br>「几点了？」这样问一下刚好能同时告诉她我醒了。<br>「马上十点，还有半个小时」她边说着边恢复到正常的坐姿。<br>「是吗」随便附合了一声，披上外套。然后弄点杯面吃好了，已经12多个小时没吃东西了，这样想着打开了储物柜。<br>「啊……没了啊。」这才想起来上次吃掉的是最后的了，马上在网上再买一点，不过现在需要去便利店解决了。<br>「那我稍微出去一趟，你等着？」<br>「去哪儿？」<br>「楼下便利店」<br>「那我也去好了。坐了10几个小时了，一直看窗外也看腻了」<br>总觉得是第一次有人听见我说要出门，提出要跟我一起去。<br>虽然……是个幽灵？<br>我稍微整顿了一下衣着，她跟在我后面出门了。<br>对话要说还是挺少的。不过她还是喜欢站在电梯中间。我一直觉得站在电梯正当中很让人局促不安，至少有一面能靠着墙才有安全感。或者说那种有可能被他人包围的场景我不太擅长。<br>「为什么你一直站在电梯正当中啊」<br>「基本上没人会站这里吧，也就不会有人会撞到我了」<br>原来如此……反正别人也看不到，就没什么好局促的，反而保住自己的空间是重要的。也许幽灵也觉得自己和别的东西重合了会怪怪的吧。<br>「欢迎光临，XX便利店」<br>总觉得听到这样的播报声有种仪式感。<br>我拿了一杯杯面，要了一瓶常喝的酒。<br>「你也喜欢喝这个啊，我之前也挺喜欢的」<br>哈，果真和外表一样不是那种「好孩子」呢，应该是相处起来比较轻松的类型。<br>「嗯，这种酒喝起来没什么特别浓重的「酒」的实感，但是有点度数，不用多少就能达到半醉的状态。可以说是「性价比」比较高的了。」<br>一不小心说了这么多，身边有个人还真是不一样。<br>「嗯嗯，确实确实」<br>收银员很诧异地看着我。<br>坏了……我看上去就好像在意义不明地自言自语一样。而且刚刚那段话对于自言自语来说实在是太长了。<br>「其实不用特别回应我也行的啦。毕竟会看起来很奇怪」<br>「哈哈哈……倒也没关系，本来我就够奇怪的了」<br>没要塑料袋，两只手分别拿着东西和她并排走着。<br>橙黄色的路灯透过她照射在人行道上，没有留下影子。<br>这让我有了「啊，她确实不属于这个世界」这样的实感。<br>不如说有点羡慕。</p>
@@ -548,37 +579,6 @@
       </categories>
       <tags>
         <tag>这样就好</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>用Linux服务器实现一起听歌</title>
-    <url>/2020/10/14/%E7%94%A8Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%AE%9E%E7%8E%B0%E4%B8%80%E8%B5%B7%E5%90%AC%E6%AD%8C/</url>
-    <content><![CDATA[<h1 id="用服务器一起听歌！"><a href="#用服务器一起听歌！" class="headerlink" title="用服务器一起听歌！"></a>用服务器一起听歌！</h1><p>近来用了下QQ的一起听歌功能，感觉挺有意思，但是只能听QQ歌单里有的歌，十分受限。所以决定自己用服务器搭一个差不多的听歌方案。</p>
-<p>一起听歌最重要的就是同步，所有人都同时听同一首曲子的同一个地方，这一点和直播很像，所以决定用比较常见的流媒体方式搭建，说白了就是开了一个音频直播。</p>
-<p>我用的环境是CentOS7，当然这个教程对别的大部分发行版也适用。需要的软件有ffmpeg和make。</p>
-<a id="more"></a>
-<p>ffmpeg的安装不多说了，Debian系一般可以直接apt安装，其它发行版编译安装既可。</p>
-<p>然后搭建流媒体服务器，用的是SRS，先下载源码包，编译安装：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">wget https:&#x2F;&#x2F;github.com&#x2F;ossrs&#x2F;srs&#x2F;archive&#x2F;v3.0-r0.tar.gz</span><br><span class="line">tar -zxvf srs-3.0-r0.tar.gz</span><br><span class="line">cd srs-3.0-r0&#x2F;trunk&#x2F;</span><br><span class="line">.&#x2F;configure</span><br><span class="line">make</span><br><span class="line">make install</span><br></pre></td></tr></table></figure>
-<p>然后开启服务：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">ln -sf &#x2F;usr&#x2F;local&#x2F;srs&#x2F;etc&#x2F;init.d&#x2F;srs &#x2F;etc&#x2F;init.d&#x2F;srs</span><br><span class="line">cp -f &#x2F;usr&#x2F;local&#x2F;srs&#x2F;usr&#x2F;lib&#x2F;systemd&#x2F;system&#x2F;srs.service &#x2F;usr&#x2F;lib&#x2F;systemd&#x2F;system&#x2F;srs.service</span><br><span class="line">systemctl daemon-reload</span><br><span class="line">systemctl start srs</span><br></pre></td></tr></table></figure>
-<p>如果想开机启动的话：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">systemctl enable srs</span><br></pre></td></tr></table></figure>
-
-<p>然后我把要放的音乐都放到了/data下<br>下面要做的就是开始推流了，用ffmpeg推流：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">ffmpeg -re -i &#x2F;data&#x2F;mymusic.mp3 -f flv -y rtmp:&#x2F;&#x2F;49.234.70.34&#x2F;live&#x2F;livestream</span><br></pre></td></tr></table></figure>
-<p>这时候用vlc或者别的流媒体播放器就可以听音乐了，但是放完一首就会停止，可用性不高，于是我写了一个自动循环的脚本：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">#!&#x2F;bin&#x2F;bash</span><br><span class="line">while true</span><br><span class="line">do</span><br><span class="line">	for file in $( ls &#x2F;data )</span><br><span class="line">	do</span><br><span class="line">		output&#x3D;&#96;ffmpeg -re -i &#x2F;data&#x2F;$file -f flv -y rtmp:&#x2F;&#x2F;49.234.70.34&#x2F;live&#x2F;livestream&#96;</span><br><span class="line">	done</span><br><span class="line">done</span><br></pre></td></tr></table></figure>
-<p>这个脚本会自动播放/data目录下的文件，文件名最好全英文，不然可能出问题。要用的话只要改一下我的ip就行了</p>
-<p>然后你就可以用这个流媒体服务器和朋友们一起听任何你想听的歌了！！！</p>
-<p>我的一起听歌服务器是rtmp://49.234.70.34/live/livestream，如果卡就是人太多了，自觉退出吧～～～（笑哭）</p>
-<p><em>by 从晴朗的朝色泛起之际开始</em></p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>Linux</tag>
       </tags>
   </entry>
   <entry>
