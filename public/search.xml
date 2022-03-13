@@ -91,22 +91,6 @@
       </tags>
   </entry>
   <entry>
-    <title>PPET看板娘！</title>
-    <url>/2020/10/02/PPET%E7%9C%8B%E6%9D%BF%E5%A8%98%EF%BC%81/</url>
-    <content><![CDATA[<h1 id="PPET看板娘！"><a href="#PPET看板娘！" class="headerlink" title="PPET看板娘！"></a>PPET看板娘！</h1><p>右下角的看板娘是不是十分地养眼？你完全可以把她布署到你的桌面上喔！</p>
-<p>访问GITHUB地址：<a href="https://github.com/zenghongtu/PPet/releases">https://github.com/zenghongtu/PPet/releases</a></p>
-<a id="more"></a>
-<p>提供了Windows-exe，MacOS-dmg，Debian-deb格式，ArchLinux亲测debtap转包可行</p>
-<p>还支持导入模型（太赞了）</p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>有趣</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Nodejs实现随机图片API</title>
     <url>/2021/03/20/Nodejs%E5%AE%9E%E7%8E%B0%E9%9A%8F%E6%9C%BA%E5%9B%BE%E7%89%87API/</url>
     <content><![CDATA[<h1 id="用node-js实现随机图片API！"><a href="#用node-js实现随机图片API！" class="headerlink" title="用node.js实现随机图片API！"></a>用node.js实现随机图片API！</h1><p>前段时间我们的青河大佬自建了一个基于php的随机图API，然而由于我不愿随大流的性子，决定用不同的方法实现一个［滑稽］</p>
@@ -123,6 +107,22 @@
       </categories>
       <tags>
         <tag>Linux</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>PPET看板娘！</title>
+    <url>/2020/10/02/PPET%E7%9C%8B%E6%9D%BF%E5%A8%98%EF%BC%81/</url>
+    <content><![CDATA[<h1 id="PPET看板娘！"><a href="#PPET看板娘！" class="headerlink" title="PPET看板娘！"></a>PPET看板娘！</h1><p>右下角的看板娘是不是十分地养眼？你完全可以把她布署到你的桌面上喔！</p>
+<p>访问GITHUB地址：<a href="https://github.com/zenghongtu/PPet/releases">https://github.com/zenghongtu/PPet/releases</a></p>
+<a id="more"></a>
+<p>提供了Windows-exe，MacOS-dmg，Debian-deb格式，ArchLinux亲测debtap转包可行</p>
+<p>还支持导入模型（太赞了）</p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>有趣</tag>
       </tags>
   </entry>
   <entry>
@@ -164,34 +164,6 @@
       </categories>
       <tags>
         <tag>有趣</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>i3窗口管理器配置</title>
-    <url>/2021/04/02/i3%E7%AA%97%E5%8F%A3%E7%AE%A1%E7%90%86%E5%99%A8%E9%85%8D%E7%BD%AE/</url>
-    <content><![CDATA[<h1 id="配置你的i3wm！（基于Arch-Linux，i3-gaps）"><a href="#配置你的i3wm！（基于Arch-Linux，i3-gaps）" class="headerlink" title="配置你的i3wm！（基于Arch Linux，i3-gaps）"></a>配置你的i3wm！（基于Arch Linux，i3-gaps）</h1><p>i3wm是一个动态窗口管理器。与通常的桌面环境不同，窗口管理器不含有各种轮子，所以非常轻量。常见的窗口管理器有openbox（堆叠），compiz（极至特效），i3（平铺），awesome（平铺），bspwm（平铺），dwm（平铺）。在这些窗口管理器中openbox与compiz配置好了之后几乎与桌面环境使用起来无异。</p>
-<p>然而，我们用wm只是为了轻量吗？不，当然还有平铺！</p>
-<p><em>在所有的平铺窗口管理器里，i3有着最为灵活的窗口布局方式，多叉树的结构可以排出各式各样的布局</em></p>
-<p>那么，今天就给大家分享一下i3-gaps的配置过程。首先安装一下i3:</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo pacman -S i3-gaps picom i3lock xss-lock polybar alacritty feh rofi</span><br></pre></td></tr></table></figure>
-<p>注意，如果装的不是i3wm那么是不支持窗口间隙的，需要安装i3-gaps这个包。上面的几个包中，picom是负责窗口特效的，诸如透明之类，i3lock是锁屏支持，xss-lock在systemd发出睡眠信号的时候自动调用锁屏，polybar是状态栏，可选。alacritty是个很棒的终端，可选。feh是壁纸支持，应当安装。rofi是应用程序启动器，也可以换成dmenu。</p>
-<p>另外，我本人还使用了一些xfce4以及KDE的组件，安装如下</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo pacman -S xfce4-notifyd xfce4-power-manager spectacle</span><br></pre></td></tr></table></figure>
-<p>分别是通知与电源管理，不装电源管理的话调节屏幕亮度会有点麻烦，建议安装。最后一个是KDE的截图软件，是我目前用过的最好用的截图！</p>
-<p>然后在~/.config/i3/config里进行配置</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">gaps inner 4</span><br><span class="line">gaps outer 3 </span><br><span class="line">exec --no-startup-id picom --experimental-backends</span><br><span class="line">exec --no-startup-id feh --bg-fill ~&#x2F;Pictures&#x2F;</span><br><span class="line">exec --no-startup-id xfce4-power-manager</span><br><span class="line">exec --no-startup-id xss-lock -- i3lock -n -c 000011</span><br><span class="line">exec --no-startup-id spectacle -s</span><br><span class="line">exec --no-startup-id &#x2F;usr&#x2F;lib&#x2F;xfce4&#x2F;notifyd&#x2F;xfce4-notifyd</span><br><span class="line"></span><br><span class="line">hide_edge_borders smart</span><br><span class="line">smart_gaps on</span><br><span class="line">default_border pixel 2</span><br><span class="line">default_floating_border pixel 2</span><br><span class="line"></span><br><span class="line">exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork</span><br></pre></td></tr></table></figure>
-<p>装以上的文字加入配置文件，登出重新进入应该就可以看到桌面了。（picom与polybar的配置是无底洞，这里不多说了）</p>
-<p>如有错误之处请自行更正，还望谅解！</p>
-<p>上图，看鄙人配置结果（由乃赛高！<del>夹带私货</del>）</p>
-<p><img src="/images/yuno.jpg" alt="我妻由乃赛高"></p>
-<p>诸君还可以加这个Q群玩耍哦～<br>859529818<br>（不是我的群）</p>
-<p><em>by从睛朗的朝色泛起之际开始</em></p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>Linux</tag>
       </tags>
   </entry>
   <entry>
@@ -240,6 +212,34 @@
       </tags>
   </entry>
   <entry>
+    <title>i3窗口管理器配置</title>
+    <url>/2021/04/02/i3%E7%AA%97%E5%8F%A3%E7%AE%A1%E7%90%86%E5%99%A8%E9%85%8D%E7%BD%AE/</url>
+    <content><![CDATA[<h1 id="配置你的i3wm！（基于Arch-Linux，i3-gaps）"><a href="#配置你的i3wm！（基于Arch-Linux，i3-gaps）" class="headerlink" title="配置你的i3wm！（基于Arch Linux，i3-gaps）"></a>配置你的i3wm！（基于Arch Linux，i3-gaps）</h1><p>i3wm是一个动态窗口管理器。与通常的桌面环境不同，窗口管理器不含有各种轮子，所以非常轻量。常见的窗口管理器有openbox（堆叠），compiz（极至特效），i3（平铺），awesome（平铺），bspwm（平铺），dwm（平铺）。在这些窗口管理器中openbox与compiz配置好了之后几乎与桌面环境使用起来无异。</p>
+<p>然而，我们用wm只是为了轻量吗？不，当然还有平铺！</p>
+<p><em>在所有的平铺窗口管理器里，i3有着最为灵活的窗口布局方式，多叉树的结构可以排出各式各样的布局</em></p>
+<p>那么，今天就给大家分享一下i3-gaps的配置过程。首先安装一下i3:</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo pacman -S i3-gaps picom i3lock xss-lock polybar alacritty feh rofi</span><br></pre></td></tr></table></figure>
+<p>注意，如果装的不是i3wm那么是不支持窗口间隙的，需要安装i3-gaps这个包。上面的几个包中，picom是负责窗口特效的，诸如透明之类，i3lock是锁屏支持，xss-lock在systemd发出睡眠信号的时候自动调用锁屏，polybar是状态栏，可选。alacritty是个很棒的终端，可选。feh是壁纸支持，应当安装。rofi是应用程序启动器，也可以换成dmenu。</p>
+<p>另外，我本人还使用了一些xfce4以及KDE的组件，安装如下</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo pacman -S xfce4-notifyd xfce4-power-manager spectacle</span><br></pre></td></tr></table></figure>
+<p>分别是通知与电源管理，不装电源管理的话调节屏幕亮度会有点麻烦，建议安装。最后一个是KDE的截图软件，是我目前用过的最好用的截图！</p>
+<p>然后在~/.config/i3/config里进行配置</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">gaps inner 4</span><br><span class="line">gaps outer 3 </span><br><span class="line">exec --no-startup-id picom --experimental-backends</span><br><span class="line">exec --no-startup-id feh --bg-fill ~&#x2F;Pictures&#x2F;</span><br><span class="line">exec --no-startup-id xfce4-power-manager</span><br><span class="line">exec --no-startup-id xss-lock -- i3lock -n -c 000011</span><br><span class="line">exec --no-startup-id spectacle -s</span><br><span class="line">exec --no-startup-id &#x2F;usr&#x2F;lib&#x2F;xfce4&#x2F;notifyd&#x2F;xfce4-notifyd</span><br><span class="line"></span><br><span class="line">hide_edge_borders smart</span><br><span class="line">smart_gaps on</span><br><span class="line">default_border pixel 2</span><br><span class="line">default_floating_border pixel 2</span><br><span class="line"></span><br><span class="line">exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork</span><br></pre></td></tr></table></figure>
+<p>装以上的文字加入配置文件，登出重新进入应该就可以看到桌面了。（picom与polybar的配置是无底洞，这里不多说了）</p>
+<p>如有错误之处请自行更正，还望谅解！</p>
+<p>上图，看鄙人配置结果（由乃赛高！<del>夹带私货</del>）</p>
+<p><img src="/images/yuno.jpg" alt="我妻由乃赛高"></p>
+<p>诸君还可以加这个Q群玩耍哦～<br>859529818<br>（不是我的群）</p>
+<p><em>by从睛朗的朝色泛起之际开始</em></p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>Linux</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>图片-By_EF_Cosmos</title>
     <url>/2020/10/08/%E5%9B%BE%E7%89%87-By-EF-Cosmos/</url>
     <content><![CDATA[<p><img src="https://pic.downk.cc/item/5f7f345d1cd1bbb86bd52df9.png" alt="图片"></p>
@@ -250,28 +250,6 @@
       </categories>
       <tags>
         <tag>随手写</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>在Linux系统上开直播</title>
-    <url>/2020/11/26/%E5%9C%A8Linux%E7%B3%BB%E7%BB%9F%E4%B8%8A%E5%BC%80%E7%9B%B4%E6%92%AD/</url>
-    <content><![CDATA[<h1 id="把你的屏幕分享给大家！"><a href="#把你的屏幕分享给大家！" class="headerlink" title="把你的屏幕分享给大家！"></a>把你的屏幕分享给大家！</h1><p>大家总是会有想要向别人展示东西的时候。也许是向几个同学，或者几个朋友展示自己的电脑展幕。在种时候用QQ或者Skype等等总是体验不太好，犹其在LINUX上的时候。</p>
-<a id="more"></a>
-
-<p>这种时候就把自己的展幕直播出去咯。用到的有一个LINUX系统（笔者用的是ARCH，比较方便，大部分发行版进行改动后都可行），一个带有RTMP模块编译的NGINX服务端，一个内网穿透服务（笔者用的是Sakura FRPC），和OBS录播系统。</p>
-<p>先安装NGINX-RTMP，笔者直接使用AUR安装了：</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">yay -S nginx-rtmp</span><br></pre></td></tr></table></figure>
-<p>然后是obs,直接pacman安装</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">sudo pacman -S obs-studio</span><br></pre></td></tr></table></figure>
-<p>启动nginx服务，开启obs进行串流，地址为rtmp://127.0.0.1/live<br>接着去frpc弄一个账号，进行内网穿透，内网端口就填127.0.0.1:1935，然后把你得到的外网端口改成RTMP格式的连接发给你的小伙伴，他就可以看见你的屏幕了！（RTMP通常使用VLC播放即可，POTPLAYER也可以）</p>
-<p>开直播吧</p>
-<p>*by 从晴朗的朝色泛起之际开始</p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>Linux</tag>
       </tags>
   </entry>
   <entry>
@@ -294,6 +272,28 @@
       </categories>
       <tags>
         <tag>随手写 Linux</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>在Linux系统上开直播</title>
+    <url>/2020/11/26/%E5%9C%A8Linux%E7%B3%BB%E7%BB%9F%E4%B8%8A%E5%BC%80%E7%9B%B4%E6%92%AD/</url>
+    <content><![CDATA[<h1 id="把你的屏幕分享给大家！"><a href="#把你的屏幕分享给大家！" class="headerlink" title="把你的屏幕分享给大家！"></a>把你的屏幕分享给大家！</h1><p>大家总是会有想要向别人展示东西的时候。也许是向几个同学，或者几个朋友展示自己的电脑展幕。在种时候用QQ或者Skype等等总是体验不太好，犹其在LINUX上的时候。</p>
+<a id="more"></a>
+
+<p>这种时候就把自己的展幕直播出去咯。用到的有一个LINUX系统（笔者用的是ARCH，比较方便，大部分发行版进行改动后都可行），一个带有RTMP模块编译的NGINX服务端，一个内网穿透服务（笔者用的是Sakura FRPC），和OBS录播系统。</p>
+<p>先安装NGINX-RTMP，笔者直接使用AUR安装了：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">yay -S nginx-rtmp</span><br></pre></td></tr></table></figure>
+<p>然后是obs,直接pacman安装</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">sudo pacman -S obs-studio</span><br></pre></td></tr></table></figure>
+<p>启动nginx服务，开启obs进行串流，地址为rtmp://127.0.0.1/live<br>接着去frpc弄一个账号，进行内网穿透，内网端口就填127.0.0.1:1935，然后把你得到的外网端口改成RTMP格式的连接发给你的小伙伴，他就可以看见你的屏幕了！（RTMP通常使用VLC播放即可，POTPLAYER也可以）</p>
+<p>开直播吧</p>
+<p>*by 从晴朗的朝色泛起之际开始</p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>Linux</tag>
       </tags>
   </entry>
   <entry>
