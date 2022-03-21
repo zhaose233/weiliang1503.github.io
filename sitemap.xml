@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.zhaose.cyou/2022/02/06/FedoraFun-%E9%87%8D%E6%96%B0%E4%B8%8A%E7%BA%BF/</loc>
+    
+    <lastmod>2022-03-21</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.zhaose.cyou/2022/03/13/%E8%B0%9C%E4%B9%8B%E7%94%9F%E7%89%A9%E8%A7%82%E5%AF%9F%E6%97%A5%E8%AE%B0/</loc>
     
     <lastmod>2022-03-21</lastmod>
@@ -40,13 +47,6 @@
     <loc>https://blog.zhaose.cyou/2022/02/16/%E8%81%8A%E5%A4%A9%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%86%9B%E5%A4%87%E7%AB%9E%E8%B5%9B%EF%BC%8C%E5%86%B7%E6%88%98%E6%81%90%E6%9A%B4%E5%8F%91/</loc>
     
     <lastmod>2022-02-16</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.zhaose.cyou/2022/02/06/FedoraFun-%E9%87%8D%E6%96%B0%E4%B8%8A%E7%BA%BF/</loc>
-    
-    <lastmod>2022-02-05</lastmod>
     
   </url>
   
@@ -270,14 +270,14 @@
 
   
   <url>
-    <loc>https://blog.zhaose.cyou/tags/%E6%96%B0%E9%97%BB/</loc>
+    <loc>https://blog.zhaose.cyou/tags/%E8%AE%B0%E4%BA%8B%E4%B8%8E%E9%80%9A%E7%9F%A5/</loc>
     <lastmod>2022-03-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.zhaose.cyou/tags/%E8%AE%B0%E4%BA%8B%E4%B8%8E%E9%80%9A%E7%9F%A5/</loc>
+    <loc>https://blog.zhaose.cyou/tags/%E6%96%B0%E9%97%BB/</loc>
     <lastmod>2022-03-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -356,14 +356,14 @@
 
   
   <url>
-    <loc>https://blog.zhaose.cyou/categories/%E6%9C%9D%E8%89%B2%E6%8A%A5/</loc>
+    <loc>https://blog.zhaose.cyou/categories/%E4%BB%8E%E6%99%B4%E6%9C%97%E7%9A%84%E6%9C%9D%E8%89%B2%E6%B3%9B%E8%B5%B7%E4%B9%8B%E9%99%85%E5%BC%80%E5%A7%8B/</loc>
     <lastmod>2022-03-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.zhaose.cyou/categories/%E4%BB%8E%E6%99%B4%E6%9C%97%E7%9A%84%E6%9C%9D%E8%89%B2%E6%B3%9B%E8%B5%B7%E4%B9%8B%E9%99%85%E5%BC%80%E5%A7%8B/</loc>
+    <loc>https://blog.zhaose.cyou/categories/%E6%9C%9D%E8%89%B2%E6%8A%A5/</loc>
     <lastmod>2022-03-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
