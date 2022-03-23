@@ -1,23 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>ADV制做计划</title>
-    <url>/2021/01/06/ADV%E5%88%B6%E5%81%9A%E8%AE%A1%E5%88%92/</url>
-    <content><![CDATA[<h1 id="ADV-Gal-AVG制做计划启动！"><a href="#ADV-Gal-AVG制做计划启动！" class="headerlink" title="ADV/Gal/AVG制做计划启动！"></a>ADV/Gal/AVG制做计划启动！</h1><p>2021年了，计划制做一部ADV（亦可称为AVG，Gal，视觉交互小说），大概的需求有：</p>
-<p>剧本，绘画，音乐，脚本，（CV，宣传）</p>
-<p>引擎的话计划是使用Ren’Py哦，感觉还是挺好用的（我才不告诉你是因为DDLC用的是Ren’Py）<br>万事开头难，一定要有气势！（其实做完大概更难XD）</p>
-<a id="more"></a>
-<p>在下比较穷，尽量还是靠个人兴趣参加吧<br>本人大概会负责脚本(Ren’py)和一部分剧本<br>来张从雨镇一下！！（贫乳loli谁不爱）</p>
-<p><img src="/images/congyu.png" alt="congyu"></p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>记事与通知</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>FedoraFun 创始人宣布学习Rust</title>
     <url>/2021/12/18/FedoraFun-%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%AE%A3%E5%B8%83%E5%AD%A6%E4%B9%A0Rust/</url>
     <content><![CDATA[<h1 id="朝色报创刊号"><a href="#朝色报创刊号" class="headerlink" title="朝色报创刊号"></a>朝色报创刊号</h1><p><img src="/images/21-12-18/pic_version.jpg" alt="使用Word制作的第一则报道"></p>
@@ -48,6 +31,23 @@
       </categories>
       <tags>
         <tag>新闻</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>ADV制做计划</title>
+    <url>/2021/01/06/ADV%E5%88%B6%E5%81%9A%E8%AE%A1%E5%88%92/</url>
+    <content><![CDATA[<h1 id="ADV-Gal-AVG制做计划启动！"><a href="#ADV-Gal-AVG制做计划启动！" class="headerlink" title="ADV/Gal/AVG制做计划启动！"></a>ADV/Gal/AVG制做计划启动！</h1><p>2021年了，计划制做一部ADV（亦可称为AVG，Gal，视觉交互小说），大概的需求有：</p>
+<p>剧本，绘画，音乐，脚本，（CV，宣传）</p>
+<p>引擎的话计划是使用Ren’Py哦，感觉还是挺好用的（我才不告诉你是因为DDLC用的是Ren’Py）<br>万事开头难，一定要有气势！（其实做完大概更难XD）</p>
+<a id="more"></a>
+<p>在下比较穷，尽量还是靠个人兴趣参加吧<br>本人大概会负责脚本(Ren’py)和一部分剧本<br>来张从雨镇一下！！（贫乳loli谁不爱）</p>
+<p><img src="/images/congyu.png" alt="congyu"></p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>记事与通知</tag>
       </tags>
   </entry>
   <entry>
@@ -91,32 +91,6 @@
       </tags>
   </entry>
   <entry>
-    <title>用racket重写随机图片API！</title>
-    <url>/2021/07/11/Racket-Random-Pic/</url>
-    <content><![CDATA[<h1 id="用racket重写随机图片API！"><a href="#用racket重写随机图片API！" class="headerlink" title="用racket重写随机图片API！"></a>用racket重写随机图片API！</h1><p>之前我写过一篇用nodejs进行随机图片的API，作为一个lisp信徒我决定用racket——一门sheme的方言来重写它</p>
-<h3 id="先安装racket"><a href="#先安装racket" class="headerlink" title="先安装racket"></a>先安装racket</h3><p>以下是Ubuntu上的安装方法</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">sudo apt install racket</span><br></pre></td></tr></table></figure>
-
-<p>然后在一个目录下新建data.txt，把你的图片的链接都放进去</p>
-<p>接着新建一个web.rkt：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">#lang racket</span><br><span class="line"></span><br><span class="line">(require web-server&#x2F;servlet)</span><br><span class="line">(require web-server&#x2F;servlet-env)</span><br><span class="line"></span><br><span class="line">(define url-list &#39;())</span><br><span class="line"></span><br><span class="line">(call-with-input-file &quot;data.txt&quot;</span><br><span class="line">  (lambda (in)</span><br><span class="line">    (let loop ((this-line (read-line in)))</span><br><span class="line">      (cond ((not (eof-object? this-line)) (set! url-list (append url-list (list this-line)))</span><br><span class="line">                                          (loop (read-line in))</span><br><span class="line">                                          )</span><br><span class="line">           )</span><br><span class="line">      )))</span><br><span class="line"></span><br><span class="line">(define (random-url req)</span><br><span class="line">  (response&#x2F;xexpr (list-ref url-list (random (length url-list))))</span><br><span class="line">  )</span><br><span class="line"></span><br><span class="line">(define (random-html req)</span><br><span class="line"></span><br><span class="line">  (response&#x2F;xexpr &#96;(html (head (title &quot;zhaose&#39;s api&quot;))</span><br><span class="line">                        (body (h1 &quot;zhaose&#39;s api&quot;)</span><br><span class="line">                             (p (img (( src ,(list-ref url-list (random (length url-list)))))))</span><br><span class="line">                             )</span><br><span class="line">                        )</span><br><span class="line">                 ))</span><br><span class="line"></span><br><span class="line">(define (my-random req)</span><br><span class="line">  (if (empty? (url-query (request-uri req))) (random-html req)</span><br><span class="line">     (random-url req)</span><br><span class="line">     ))</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">(serve&#x2F;servlet my-random #:port 8080 #:listen-ip &quot;0.0.0.0&quot; #:servlet-path &quot;&#x2F;&quot;)</span><br></pre></td></tr></table></figure>
-
-<p>保存好之后用racket web.rkt就可以运行了</p>
-<p>这是要注意的是如果你不加get请求参数返回的是一个html界百，加了get请求参数的话则会返回一个链接或者303跳转，可以用于机器人等的使用，如：</p>
-<p><a href="http://49.234.70.34:8080/">http://49.234.70.34:8080</a>是html界面</p>
-<p><a href="http://49.234.70.34:8080/?mode=text">http://49.234.70.34:8080?mode=text</a>返回的是链接</p>
-<p><a href="http://49.234.70.34:8080/?mode=jump">http://49.234.70.34:8080?mode=jump</a>是303跳转</p>
-<p>这确实是lisper的自我修养</p>
-<p><strong>by 从晴朗的朝色泛起之际开始</strong></p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>Linux</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Nodejs实现随机图片API</title>
     <url>/2021/03/20/Nodejs%E5%AE%9E%E7%8E%B0%E9%9A%8F%E6%9C%BA%E5%9B%BE%E7%89%87API/</url>
     <content><![CDATA[<h1 id="用node-js实现随机图片API！"><a href="#用node-js实现随机图片API！" class="headerlink" title="用node.js实现随机图片API！"></a>用node.js实现随机图片API！</h1><p>前段时间我们的青河大佬自建了一个基于php的随机图API，然而由于我不愿随大流的性子，决定用不同的方法实现一个［滑稽］</p>
@@ -152,18 +126,29 @@
       </tags>
   </entry>
   <entry>
-    <title>Random_Pic</title>
-    <url>/2021/03/29/Random-Pic/</url>
-    <content><![CDATA[<h1 id="随机图！！！"><a href="#随机图！！！" class="headerlink" title="随机图！！！"></a>随机图！！！</h1><p>快点点进来！</p>
-<a id="more"></a>
+    <title>用racket重写随机图片API！</title>
+    <url>/2021/07/11/Racket-Random-Pic/</url>
+    <content><![CDATA[<h1 id="用racket重写随机图片API！"><a href="#用racket重写随机图片API！" class="headerlink" title="用racket重写随机图片API！"></a>用racket重写随机图片API！</h1><p>之前我写过一篇用nodejs进行随机图片的API，作为一个lisp信徒我决定用racket——一门sheme的方言来重写它</p>
+<h3 id="先安装racket"><a href="#先安装racket" class="headerlink" title="先安装racket"></a>先安装racket</h3><p>以下是Ubuntu上的安装方法</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">sudo apt install racket</span><br></pre></td></tr></table></figure>
 
-<p><img src="http://49.234.70.34:8080/?mode=jump" alt="zhaoseapi"></p>
+<p>然后在一个目录下新建data.txt，把你的图片的链接都放进去</p>
+<p>接着新建一个web.rkt：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">#lang racket</span><br><span class="line"></span><br><span class="line">(require web-server&#x2F;servlet)</span><br><span class="line">(require web-server&#x2F;servlet-env)</span><br><span class="line"></span><br><span class="line">(define url-list &#39;())</span><br><span class="line"></span><br><span class="line">(call-with-input-file &quot;data.txt&quot;</span><br><span class="line">  (lambda (in)</span><br><span class="line">    (let loop ((this-line (read-line in)))</span><br><span class="line">      (cond ((not (eof-object? this-line)) (set! url-list (append url-list (list this-line)))</span><br><span class="line">                                          (loop (read-line in))</span><br><span class="line">                                          )</span><br><span class="line">           )</span><br><span class="line">      )))</span><br><span class="line"></span><br><span class="line">(define (random-url req)</span><br><span class="line">  (response&#x2F;xexpr (list-ref url-list (random (length url-list))))</span><br><span class="line">  )</span><br><span class="line"></span><br><span class="line">(define (random-html req)</span><br><span class="line"></span><br><span class="line">  (response&#x2F;xexpr &#96;(html (head (title &quot;zhaose&#39;s api&quot;))</span><br><span class="line">                        (body (h1 &quot;zhaose&#39;s api&quot;)</span><br><span class="line">                             (p (img (( src ,(list-ref url-list (random (length url-list)))))))</span><br><span class="line">                             )</span><br><span class="line">                        )</span><br><span class="line">                 ))</span><br><span class="line"></span><br><span class="line">(define (my-random req)</span><br><span class="line">  (if (empty? (url-query (request-uri req))) (random-html req)</span><br><span class="line">     (random-url req)</span><br><span class="line">     ))</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">(serve&#x2F;servlet my-random #:port 8080 #:listen-ip &quot;0.0.0.0&quot; #:servlet-path &quot;&#x2F;&quot;)</span><br></pre></td></tr></table></figure>
+
+<p>保存好之后用racket web.rkt就可以运行了</p>
+<p>这是要注意的是如果你不加get请求参数返回的是一个html界百，加了get请求参数的话则会返回一个链接或者303跳转，可以用于机器人等的使用，如：</p>
+<p><a href="http://49.234.70.34:8080/">http://49.234.70.34:8080</a>是html界面</p>
+<p><a href="http://49.234.70.34:8080/?mode=text">http://49.234.70.34:8080?mode=text</a>返回的是链接</p>
+<p><a href="http://49.234.70.34:8080/?mode=jump">http://49.234.70.34:8080?mode=jump</a>是303跳转</p>
+<p>这确实是lisper的自我修养</p>
+<p><strong>by 从晴朗的朝色泛起之际开始</strong></p>
 ]]></content>
       <categories>
         <category>从晴朗的朝色泛起之际开始</category>
       </categories>
       <tags>
-        <tag>有趣</tag>
+        <tag>Linux</tag>
       </tags>
   </entry>
   <entry>
@@ -237,6 +222,21 @@
 ]]></content>
       <tags>
         <tag>vtuber Linux 随手写</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Random_Pic</title>
+    <url>/2021/03/29/Random-Pic/</url>
+    <content><![CDATA[<h1 id="随机图！！！"><a href="#随机图！！！" class="headerlink" title="随机图！！！"></a>随机图！！！</h1><p>快点点进来！</p>
+<a id="more"></a>
+
+<p><img src="http://49.234.70.34:8080/?mode=jump" alt="zhaoseapi"></p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>有趣</tag>
       </tags>
   </entry>
   <entry>
@@ -316,19 +316,6 @@
       </categories>
       <tags>
         <tag>随手写 Linux</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>图片-By_EF_Cosmos</title>
-    <url>/2020/10/08/%E5%9B%BE%E7%89%87-By-EF-Cosmos/</url>
-    <content><![CDATA[<p><img src="https://pic.downk.cc/item/5f7f345d1cd1bbb86bd52df9.png" alt="图片"></p>
-<p><em>2020/10/08</em></p>
-]]></content>
-      <categories>
-        <category>EF_Cosmos</category>
-      </categories>
-      <tags>
-        <tag>随手写</tag>
       </tags>
   </entry>
   <entry>
@@ -439,6 +426,19 @@
       </tags>
   </entry>
   <entry>
+    <title>病娇日志100搬运</title>
+    <url>/2021/08/15/%E7%97%85%E5%A8%87%E6%97%A5%E5%BF%97100%E6%90%AC%E8%BF%90/</url>
+    <content><![CDATA[<h1 id="来自PIXIV的搬运"><a href="#来自PIXIV的搬运" class="headerlink" title="来自PIXIV的搬运"></a>来自PIXIV的搬运</h1><p><img src="/images/yandere.jpg" alt="p1"></p>
+<p><strong>by 从晴朗的朝色泛起之际开始</strong></p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>随手写 病娇</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>用Linux服务器实现一起听歌</title>
     <url>/2020/10/14/%E7%94%A8Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%AE%9E%E7%8E%B0%E4%B8%80%E8%B5%B7%E5%90%AC%E6%AD%8C/</url>
     <content><![CDATA[<h1 id="用服务器一起听歌！"><a href="#用服务器一起听歌！" class="headerlink" title="用服务器一起听歌！"></a>用服务器一起听歌！</h1><p>近来用了下QQ的一起听歌功能，感觉挺有意思，但是只能听QQ歌单里有的歌，十分受限。所以决定自己用服务器搭一个差不多的听歌方案。</p>
@@ -484,16 +484,16 @@
       </tags>
   </entry>
   <entry>
-    <title>病娇日志100搬运</title>
-    <url>/2021/08/15/%E7%97%85%E5%A8%87%E6%97%A5%E5%BF%97100%E6%90%AC%E8%BF%90/</url>
-    <content><![CDATA[<h1 id="来自PIXIV的搬运"><a href="#来自PIXIV的搬运" class="headerlink" title="来自PIXIV的搬运"></a>来自PIXIV的搬运</h1><p><img src="/images/yandere.jpg" alt="p1"></p>
-<p><strong>by 从晴朗的朝色泛起之际开始</strong></p>
+    <title>图片-By_EF_Cosmos</title>
+    <url>/2020/10/08/%E5%9B%BE%E7%89%87-By-EF-Cosmos/</url>
+    <content><![CDATA[<p><img src="https://pic.downk.cc/item/5f7f345d1cd1bbb86bd52df9.png" alt="图片"></p>
+<p><em>2020/10/08</em></p>
 ]]></content>
       <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
+        <category>EF_Cosmos</category>
       </categories>
       <tags>
-        <tag>随手写 病娇</tag>
+        <tag>随手写</tag>
       </tags>
   </entry>
   <entry>
@@ -541,7 +541,7 @@
     <title>谜之生物观察日记</title>
     <url>/2022/03/13/%E8%B0%9C%E4%B9%8B%E7%94%9F%E7%89%A9%E8%A7%82%E5%AF%9F%E6%97%A5%E8%AE%B0/</url>
     <content><![CDATA[<p><a href="https://twitter.com/pageratta">关注原作者！</a></p>
-<p><img src="/images/nazoikimono/03_22_(03_19_1)_cn.jpg" alt="3月19日 第22日"><br><img src="/images/nazoikimono/03_21_(03_18_1)_cn.jpg" alt="3月18日 第21日"><br><img src="/images/nazoikimono/03_20_(03_17_1)_cn.jpg" alt="3月17日 第20日"><br><img src="/images/nazoikimono/03_19_(03_16_1)_cn.jpg" alt="3月16日 第19日"><br><img src="/images/nazoikimono/03_18_(03_15_1)_cn.jpg" alt="3月15日 第18日"><br><img src="/images/nazoikimono/03_17_cn.jpg" alt="3月17日 第17日"><br><img src="/images/nazoikimono/03_16_cn.jpg" alt="3月16日 第16日"><br><img src="/images/nazoikimono/03_15_cn.jpg" alt="3月15日 第15日"><br><img src="/images/nazoikimono/03_14_cn.jpg" alt="3月14日 第14日"><br><img src="/images/nazoikimono/03_13_cn.jpg" alt="3月13日 第13日"><br><img src="/images/nazoikimono/03_12_cn.jpg" alt="3月12日 第12日"><br><img src="/images/nazoikimono/03_11_cn.jpg" alt="3月11日 第11日"><br><img src="/images/nazoikimono/03_10_cn.jpg" alt="3月10日 第10日"><br><img src="/images/nazoikimono/03_09_cn.jpg" alt="3月09日 第09日"><br><img src="/images/nazoikimono/03_08_cn.jpg" alt="3月08日 第08日"><br><img src="/images/nazoikimono/03_07_cn.jpg" alt="3月07日 第07日"><br><img src="/images/nazoikimono/03_06_cn.jpg" alt="3月06日 第06日"><br><img src="/images/nazoikimono/03_05_cn.jpg" alt="3月05日 第05日"><br><img src="/images/nazoikimono/03_04_cn.jpg" alt="3月04日 第04日"><br><img src="/images/nazoikimono/03_03_cn.jpg" alt="3月03日 第03日"><br><img src="/images/nazoikimono/03_02_cn.jpg" alt="3月02日 第02日"><br><img src="/images/nazoikimono/03_01_cn.jpg" alt="3月01日 第01日"></p>
+<p><img src="/images/nazoikimono/03_23_(03_20_1)_cn.jpg" alt="3月20日 第23日"><br><img src="/images/nazoikimono/03_22_(03_19_1)_cn.jpg" alt="3月19日 第22日"><br><img src="/images/nazoikimono/03_21_(03_18_1)_cn.jpg" alt="3月18日 第21日"><br><img src="/images/nazoikimono/03_20_(03_17_1)_cn.jpg" alt="3月17日 第20日"><br><img src="/images/nazoikimono/03_19_(03_16_1)_cn.jpg" alt="3月16日 第19日"><br><img src="/images/nazoikimono/03_18_(03_15_1)_cn.jpg" alt="3月15日 第18日"><br><img src="/images/nazoikimono/03_17_cn.jpg" alt="3月17日 第17日"><br><img src="/images/nazoikimono/03_16_cn.jpg" alt="3月16日 第16日"><br><img src="/images/nazoikimono/03_15_cn.jpg" alt="3月15日 第15日"><br><img src="/images/nazoikimono/03_14_cn.jpg" alt="3月14日 第14日"><br><img src="/images/nazoikimono/03_13_cn.jpg" alt="3月13日 第13日"><br><img src="/images/nazoikimono/03_12_cn.jpg" alt="3月12日 第12日"><br><img src="/images/nazoikimono/03_11_cn.jpg" alt="3月11日 第11日"><br><img src="/images/nazoikimono/03_10_cn.jpg" alt="3月10日 第10日"><br><img src="/images/nazoikimono/03_09_cn.jpg" alt="3月09日 第09日"><br><img src="/images/nazoikimono/03_08_cn.jpg" alt="3月08日 第08日"><br><img src="/images/nazoikimono/03_07_cn.jpg" alt="3月07日 第07日"><br><img src="/images/nazoikimono/03_06_cn.jpg" alt="3月06日 第06日"><br><img src="/images/nazoikimono/03_05_cn.jpg" alt="3月05日 第05日"><br><img src="/images/nazoikimono/03_04_cn.jpg" alt="3月04日 第04日"><br><img src="/images/nazoikimono/03_03_cn.jpg" alt="3月03日 第03日"><br><img src="/images/nazoikimono/03_02_cn.jpg" alt="3月02日 第02日"><br><img src="/images/nazoikimono/03_01_cn.jpg" alt="3月01日 第01日"></p>
 <p><em>从朝朗的朝色泛起之际开始</em></p>
 ]]></content>
       <categories>
@@ -559,21 +559,6 @@
 <p>从屏幕上移开疲劳了数小时的眼睛，窗户的玻璃上映出电脑辉光下苍白的脸。<br>这间屋子很小，但是我过得没什么不好。<br>从坐着不太舒服的椅子上起身，不用走两步就能躺到床上；相应卫生间也很近，是完全不用顾虑的距离；朝北的房间也没有烦人的日光，会愰得看不清屏幕。<br>窗帘一拉，暗下来与影院别无二致，虽然设备没有影晚那样完备，但是氛围还是到位的。<br>没有人会来打扰我，没有事情会来麻烦我，开心也好忧伤也罢，都不会影响到别人。<br>每个月有一点父母打来的生活费，但是大学早就没有去了。他们应该还不知道吧，不过知道了也无妨，毕竟我离开家对他们来说就是好事了。<br>至于以后怎么办，没有想过。<br>家里并非有着能养活我一辈子的存款什么的，但是我也懒得去考虑。<br>这个世界也不是我的，我只不过当作看电影一样看看眼前流过的事情，改变什么的从来没有想过。<br>这一样可以很有趣。<br>「这样的确算是NEET了吧……」<br>时不时地嘴里发出点自言自语，不然觉得有点寂静。<br>虽然觉得要是有个人能说说话就好了，不过合不来的人还是饶了我吧。<br>于是就没有人值得说话了。<br>但是再怎么说垃圾还是得处理的。我起身准备把垃圾处理掉，这算是唯数不多的外出活动，让肌肉们偶尔派上点用处吧。</p>
 <hr>
 <p>走进电梯，自觉得站到角落里。电梯里面的人基本上都在头看手机，我则戴着耳机，实在是不想听到别人外放的某音的背景音乐，听了感觉人都要魔怔了。<br>不过好像还是有人很无所事事的样子，就单单站在那里，让人觉得有点突兀。<br>身高一般，脸色发白，染着灰白的长发，耳朵上打满了耳钉。<br>衣服穿得一身黑，一看就是个不良妹，还站在电梯的正当中。<br>「还挺符合我的审美的……就当今天运气不错看到好东西了吧」我如是想到。<br>走过半个小区的路程，把垃圾甩进分类桶里，今天的外出算是完成了。<br>过了五分钟，又回到电脑前了。<br>但是总感觉坐立不安……因为每天就那么几样事情，游戏也好，动漫也好，都已经看了玩了好多了。<br>「睡吧，醒来也许就有事情想干了」<br>一转头。<br>身高一般，脸色发白，染着灰白的长发，耳朵上打满了耳钉。<br>衣服穿得一身黑，一看就是个不良妹的女孩，站在那里。<br>「呃……」<br>这是要用上许久不用的交流能力了吗。<br>「你，你好？」<br>她依旧看着我，好像我是动物园里的动物一样。<br>「呃……那个，为什么你会在我家里？」<br>她左右看了看，似乎意识到那是在跟她说话了，忽然有点惊讶。<br>「我吗？」<br>她用手指着自己，用这种非常经典地表示疑问的姿势问道。<br>「大概也只有你了吧……」<br>「啊、哈……哈哈……」<br>「你认真的，你能看得见我？」<br>「你不就在那里吗，为什么看不见」<br>实在不明白她在说什么，这么杵在别人前面还以为别人看不见她。<br>「是吗……」<br>她似乎感到很遗憾，用一只手握着另一只胳膊。<br>「看来你也不远了呢」<br>「什么不远了？」<br>「自杀。」</p>
-<p><strong>by 澄みわたる朝色</strong></p>
-]]></content>
-      <categories>
-        <category>朝色的小说</category>
-      </categories>
-      <tags>
-        <tag>这样就好</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>这样就好_三回目</title>
-    <url>/2021/11/09/%E8%BF%99%E6%A0%B7%E5%B0%B1%E5%A5%BD-%E4%B8%89%E5%9B%9E%E7%9B%AE/</url>
-    <content><![CDATA[<h1 id="日常，再多一点就好"><a href="#日常，再多一点就好" class="headerlink" title="日常，再多一点就好"></a>日常，再多一点就好</h1><p>睁开眼，总觉得躺着很舒服。<br>从前不得不早起，现在却已经习惯了大段连续的睡眠与清醒了，但是一直躺着也很无聊。<br>起来好了。<br>随意地把被子扔到床上的一角，然后就往枕头下面摸手机。<br>嗯……平时都是这样醒来的，但是今天家里多了个存在，还是稍微注意一下行为举止吧。<br>她没有保持趴在桌子上看电脑的姿势，而是转身趴在了窗台上眺望。<br>椅子放得离窗户的点远，感觉她这个姿势挺辛苦的。<br>「几点了？」这样问一下刚好能同时告诉她我醒了。<br>「马上十点，还有半个小时」她边说着边恢复到正常的坐姿。<br>「是吗」随便附合了一声，披上外套。然后弄点杯面吃好了，已经12多个小时没吃东西了，这样想着打开了储物柜。<br>「啊……没了啊。」这才想起来上次吃掉的是最后的了，马上在网上再买一点，不过现在需要去便利店解决了。<br>「那我稍微出去一趟，你等着？」<br>「去哪儿？」<br>「楼下便利店」<br>「那我也去好了。坐了10几个小时了，一直看窗外也看腻了」<br>总觉得是第一次有人听见我说要出门，提出要跟我一起去。<br>虽然……是个幽灵？<br>我稍微整顿了一下衣着，她跟在我后面出门了。<br>对话要说还是挺少的。不过她还是喜欢站在电梯中间。我一直觉得站在电梯正当中很让人局促不安，至少有一面能靠着墙才有安全感。或者说那种有可能被他人包围的场景我不太擅长。<br>「为什么你一直站在电梯正当中啊」<br>「基本上没人会站这里吧，也就不会有人会撞到我了」<br>原来如此……反正别人也看不到，就没什么好局促的，反而保住自己的空间是重要的。也许幽灵也觉得自己和别的东西重合了会怪怪的吧。<br>「欢迎光临，XX便利店」<br>总觉得听到这样的播报声有种仪式感。<br>我拿了一杯杯面，要了一瓶常喝的酒。<br>「你也喜欢喝这个啊，我之前也挺喜欢的」<br>哈，果真和外表一样不是那种「好孩子」呢，应该是相处起来比较轻松的类型。<br>「嗯，这种酒喝起来没什么特别浓重的「酒」的实感，但是有点度数，不用多少就能达到半醉的状态。可以说是「性价比」比较高的了。」<br>一不小心说了这么多，身边有个人还真是不一样。<br>「嗯嗯，确实确实」<br>收银员很诧异地看着我。<br>坏了……我看上去就好像在意义不明地自言自语一样。而且刚刚那段话对于自言自语来说实在是太长了。<br>「其实不用特别回应我也行的啦。毕竟会看起来很奇怪」<br>「哈哈哈……倒也没关系，本来我就够奇怪的了」<br>没要塑料袋，两只手分别拿着东西和她并排走着。<br>橙黄色的路灯透过她照射在人行道上，没有留下影子。<br>这让我有了「啊，她确实不属于这个世界」这样的实感。<br>不如说有点羡慕。</p>
-<hr>
-<p>看完新番之后，她到我家来此行的目的也就了结了。<br>「番剧你也看好了，下面你打算怎么办？」<br>「嗯……」仰面躺在床上的她没有立刻回答。<br>一想到家里马上又要只剩下一个「人」了，莫名觉得复杂。<br>「你如果想多呆一会儿也没关系啊。毕竟也不会给我添什么麻烦。」<br>她忽地坐起身。<br>「哈？把幽灵留在家里哎？你是认真的吗？」<br>确实是认真的。<br>跟我这么像的灵魂是第一次见到。追一样的番，喜欢差不多的食物，性恪感觉也很像。<br>真的有种找到了归宿的感觉。<br>我坐到她傍边，当然也没有挨得太近。<br>「总觉得还有不少事情想问的。你如果有什么想要知道的我也可以帮你不是吗？可以算是共赢了吧。」<br>「那倒也是……只要你不觉得晦气的话」<br>晦气什么的……其实我一直对黑魔法什么的很有兴趣的哈哈哈哈……<br>「其实呆在这里也挺开心的。那你愿意的话我就再呆一阵子好了」<br>「嗯」<br>于是和的有点丧的幽灵少女的同居日常就这么开始了。</p>
 <p><strong>by 澄みわたる朝色</strong></p>
 ]]></content>
       <categories>
@@ -650,6 +635,21 @@
       </categories>
       <tags>
         <tag>EF_Cosmos的板绘</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>这样就好_三回目</title>
+    <url>/2021/11/09/%E8%BF%99%E6%A0%B7%E5%B0%B1%E5%A5%BD-%E4%B8%89%E5%9B%9E%E7%9B%AE/</url>
+    <content><![CDATA[<h1 id="日常，再多一点就好"><a href="#日常，再多一点就好" class="headerlink" title="日常，再多一点就好"></a>日常，再多一点就好</h1><p>睁开眼，总觉得躺着很舒服。<br>从前不得不早起，现在却已经习惯了大段连续的睡眠与清醒了，但是一直躺着也很无聊。<br>起来好了。<br>随意地把被子扔到床上的一角，然后就往枕头下面摸手机。<br>嗯……平时都是这样醒来的，但是今天家里多了个存在，还是稍微注意一下行为举止吧。<br>她没有保持趴在桌子上看电脑的姿势，而是转身趴在了窗台上眺望。<br>椅子放得离窗户的点远，感觉她这个姿势挺辛苦的。<br>「几点了？」这样问一下刚好能同时告诉她我醒了。<br>「马上十点，还有半个小时」她边说着边恢复到正常的坐姿。<br>「是吗」随便附合了一声，披上外套。然后弄点杯面吃好了，已经12多个小时没吃东西了，这样想着打开了储物柜。<br>「啊……没了啊。」这才想起来上次吃掉的是最后的了，马上在网上再买一点，不过现在需要去便利店解决了。<br>「那我稍微出去一趟，你等着？」<br>「去哪儿？」<br>「楼下便利店」<br>「那我也去好了。坐了10几个小时了，一直看窗外也看腻了」<br>总觉得是第一次有人听见我说要出门，提出要跟我一起去。<br>虽然……是个幽灵？<br>我稍微整顿了一下衣着，她跟在我后面出门了。<br>对话要说还是挺少的。不过她还是喜欢站在电梯中间。我一直觉得站在电梯正当中很让人局促不安，至少有一面能靠着墙才有安全感。或者说那种有可能被他人包围的场景我不太擅长。<br>「为什么你一直站在电梯正当中啊」<br>「基本上没人会站这里吧，也就不会有人会撞到我了」<br>原来如此……反正别人也看不到，就没什么好局促的，反而保住自己的空间是重要的。也许幽灵也觉得自己和别的东西重合了会怪怪的吧。<br>「欢迎光临，XX便利店」<br>总觉得听到这样的播报声有种仪式感。<br>我拿了一杯杯面，要了一瓶常喝的酒。<br>「你也喜欢喝这个啊，我之前也挺喜欢的」<br>哈，果真和外表一样不是那种「好孩子」呢，应该是相处起来比较轻松的类型。<br>「嗯，这种酒喝起来没什么特别浓重的「酒」的实感，但是有点度数，不用多少就能达到半醉的状态。可以说是「性价比」比较高的了。」<br>一不小心说了这么多，身边有个人还真是不一样。<br>「嗯嗯，确实确实」<br>收银员很诧异地看着我。<br>坏了……我看上去就好像在意义不明地自言自语一样。而且刚刚那段话对于自言自语来说实在是太长了。<br>「其实不用特别回应我也行的啦。毕竟会看起来很奇怪」<br>「哈哈哈……倒也没关系，本来我就够奇怪的了」<br>没要塑料袋，两只手分别拿着东西和她并排走着。<br>橙黄色的路灯透过她照射在人行道上，没有留下影子。<br>这让我有了「啊，她确实不属于这个世界」这样的实感。<br>不如说有点羡慕。</p>
+<hr>
+<p>看完新番之后，她到我家来此行的目的也就了结了。<br>「番剧你也看好了，下面你打算怎么办？」<br>「嗯……」仰面躺在床上的她没有立刻回答。<br>一想到家里马上又要只剩下一个「人」了，莫名觉得复杂。<br>「你如果想多呆一会儿也没关系啊。毕竟也不会给我添什么麻烦。」<br>她忽地坐起身。<br>「哈？把幽灵留在家里哎？你是认真的吗？」<br>确实是认真的。<br>跟我这么像的灵魂是第一次见到。追一样的番，喜欢差不多的食物，性恪感觉也很像。<br>真的有种找到了归宿的感觉。<br>我坐到她傍边，当然也没有挨得太近。<br>「总觉得还有不少事情想问的。你如果有什么想要知道的我也可以帮你不是吗？可以算是共赢了吧。」<br>「那倒也是……只要你不觉得晦气的话」<br>晦气什么的……其实我一直对黑魔法什么的很有兴趣的哈哈哈哈……<br>「其实呆在这里也挺开心的。那你愿意的话我就再呆一阵子好了」<br>「嗯」<br>于是和的有点丧的幽灵少女的同居日常就这么开始了。</p>
+<p><strong>by 澄みわたる朝色</strong></p>
+]]></content>
+      <categories>
+        <category>朝色的小说</category>
+      </categories>
+      <tags>
+        <tag>这样就好</tag>
       </tags>
   </entry>
 </search>
