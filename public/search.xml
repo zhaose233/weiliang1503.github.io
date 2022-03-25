@@ -18,6 +18,19 @@
       </tags>
   </entry>
   <entry>
+    <title>FedoraFun 创始人宣布学习Rust</title>
+    <url>/2021/12/18/FedoraFun-%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%AE%A3%E5%B8%83%E5%AD%A6%E4%B9%A0Rust/</url>
+    <content><![CDATA[<h1 id="朝色报创刊号"><a href="#朝色报创刊号" class="headerlink" title="朝色报创刊号"></a>朝色报创刊号</h1><p><img src="/images/21-12-18/pic_version.jpg" alt="使用Word制作的第一则报道"></p>
+<p>2021-12-18 <strong>刊号1</strong> <em>——朝色报</em></p>
+]]></content>
+      <categories>
+        <category>朝色报</category>
+      </categories>
+      <tags>
+        <tag>新闻</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>FedoraFun 重新上线</title>
     <url>/2022/02/06/FedoraFun-%E9%87%8D%E6%96%B0%E4%B8%8A%E7%BA%BF/</url>
     <content><![CDATA[<h1 id="FedoraFun-于下线约10日后重新上线"><a href="#FedoraFun-于下线约10日后重新上线" class="headerlink" title="FedoraFun 于下线约10日后重新上线"></a>FedoraFun 于下线约10日后重新上线</h1><p>2022年02月05日晚，下线许久的 FedoraFun 终于重新上线了。经由<a href="https://github.com/zxc3123857948">创始人</a>的努力，现在博客由 Halo 构建并且运行于独立服务器上。</p>
@@ -29,6 +42,31 @@
 <p>其实创始人在除夕之夜，这个本应与家人共度的节日里，还不忘全国的 FedoraFun 用户们，更新了软件包。并且明明正值新春佳节，却耗费时间与精力修复了 FedoraFun 官网。可见创始人的道德之高尚，与国外弄虚作假，整日不喜上班，浑浑噩噩的所谓“合理劳动”形成了鲜明的反差。创始人正是贯彻社区主义核心价值观的典范。</p>
 <p>最后，朝色报已经受到了 FedoraFun 创始人以及其它相关人员的关注。感谢大家的支持，如有疑问，建议可于评论中提出。</p>
 <p>2022-02-06 <strong>刊号3</strong> <em>——朝色报</em></p>
+]]></content>
+      <categories>
+        <category>朝色报</category>
+      </categories>
+      <tags>
+        <tag>新闻</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>FedoraFun下线七日</title>
+    <url>/2022/02/03/FedoraFun%E4%B8%8B%E7%BA%BF%E4%B8%83%E6%97%A5/</url>
+    <content><![CDATA[<h1 id="国内知名-Fedora-社区-FedoraFun-官网今已下线七日"><a href="#国内知名-Fedora-社区-FedoraFun-官网今已下线七日" class="headerlink" title="国内知名 Fedora 社区 FedoraFun 官网今已下线七日"></a>国内知名 Fedora 社区 FedoraFun 官网今已下线七日</h1><p>2022年02月03日，正月初三，本应是喜汽洋洋过年的日子，我们却不得不告知一件令人忧伤的事实：<strong>FedoraFun 官网已经下线七天了</strong></p>
+<p><img src="/images/22-02-03/521.png" alt="FedoraFun 官网现状"></p>
+<p>FedoraFun 做为国内较知名的 Fedora 社区之一，致力于填补Fedora于日常易用性上的空白。自创始起就充满活力，在短时间内建成了官网，撰写了教程，搭建了软件仓库。幸运的是，目前软件仓库还能访问。不过上一次更新也已经有段时间了。</p>
+<p><img src="/images/22-02-03/new.png" alt="FedoraFun 的软件仓库 repo.fedora.fun 目前仍可访问"></p>
+<p>此次网站的失联问题，外界看来似乎来源于 FedoraFun 创始人兼管理者疏于关心。毕竟创始人本身并未失联，也就是说创始人在明知 FedoraFun 下线的情况下没有恢复网站。但是我们相信这背后是有原因的，于是我们进行了深入的调查。</p>
+<p>首先是从创始人本人的方面，现在正值新春佳节，创始人虽是社交能手，但对于新年的各种事项也必定忙于应对。所以才将重建官网一事后延。</p>
+<p><img src="/images/22-02-03/q.jpg" alt="FedoraFun 是一个非常注重私生活的组织，做到了基本保证法定节假日休息"></p>
+<p>其实，用于构建 FedoraFun 官网的技术也并非易于理解。FedoraFun 创始人于1月28日晚欲对官网进行改良，但是由于 Nginx 十分不易于配置和使用，最后使得官网无法工作。Nginx是来源于国外的httpc服务器与反代软件，在使用过程中需要编写复杂的配置文件，并且可能含有不稳定的魔法因素。其实用于生成页面的 Hugo 也是如此。然而用于搭建软件仓库的 Onemanager则由国内程序员编写，软件仓库目前运行良好。故创始人此次失败也并非不可理解。</p>
+<p>以下是 FedoraFun 从前官网的部分代码：</p>
+<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">footer</span> <span class="attr">class</span>=<span class="string">&quot;site-footer&quot;</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">section</span> <span class="attr">class</span>=<span class="string">&quot;copyright&quot;</span>&gt;</span></span><br><span class="line">        <span class="symbol">&amp;copy;</span> </span><br><span class="line">        </span><br><span class="line">            2021 - </span><br><span class="line">        </span><br><span class="line">        2022 Fedora生存指难</span><br><span class="line">    <span class="tag">&lt;/<span class="name">section</span>&gt;</span></span><br><span class="line">    </span><br><span class="line">    <span class="tag">&lt;<span class="name">section</span> <span class="attr">class</span>=<span class="string">&quot;powerby&quot;</span>&gt;</span></span><br><span class="line">        Built with <span class="tag">&lt;<span class="name">a</span> <span class="attr">href</span>=<span class="string">&quot;https://gohugo.io/&quot;</span> <span class="attr">target</span>=<span class="string">&quot;_blank&quot;</span> <span class="attr">rel</span>=<span class="string">&quot;noopener&quot;</span>&gt;</span>Hugo<span class="tag">&lt;/<span class="name">a</span>&gt;</span> <span class="tag">&lt;<span class="name">br</span> /&gt;</span></span><br><span class="line">        Theme <span class="tag">&lt;<span class="name">b</span>&gt;</span><span class="tag">&lt;<span class="name">a</span> <span class="attr">href</span>=<span class="string">&quot;https://github.com/CaiJimmy/hugo-theme-stack&quot;</span> <span class="attr">target</span>=<span class="string">&quot;_blank&quot;</span> <span class="attr">rel</span>=<span class="string">&quot;noopener&quot;</span> <span class="attr">data-version</span>=<span class="string">&quot;2.5.0&quot;</span>&gt;</span>Stack<span class="tag">&lt;/<span class="name">a</span>&gt;</span><span class="tag">&lt;/<span class="name">b</span>&gt;</span> designed by <span class="tag">&lt;<span class="name">a</span> <span class="attr">href</span>=<span class="string">&quot;https://jimmycai.com&quot;</span> <span class="attr">target</span>=<span class="string">&quot;_blank&quot;</span> <span class="attr">rel</span>=<span class="string">&quot;noopener&quot;</span>&gt;</span>Jimmy<span class="tag">&lt;/<span class="name">a</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;/<span class="name">section</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">footer</span>&gt;</span></span><br></pre></td></tr></table></figure>
+<p>可见其中只有几个汉字能够辨认，非常繁杂</p>
+<p>所以业内人士认为，综和以上来看，尊重人员的私生活以及法定节假日是值得肯定的行为，那么应当在技术的易用性上下功夫。这也在一定程度上反映了国外技术的不可信，违反直觉，难以使用；更加证明了国产化势在必行。FedoraFun 亦是将国外技术引进的组织之一，也应当更加注重这一点。</p>
+<p>于此新春之际，祝愿大家新春快乐，同时，祝愿 FedoraFun 也能从此次变故中涅磐重生，继续作为国内知名技术社区发光发热。</p>
+<p>2022-02-03 <strong>刊号2</strong> <em>——朝色报</em></p>
 ]]></content>
       <categories>
         <category>朝色报</category>
@@ -72,19 +110,6 @@
       </tags>
   </entry>
   <entry>
-    <title>FedoraFun 创始人宣布学习Rust</title>
-    <url>/2021/12/18/FedoraFun-%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%AE%A3%E5%B8%83%E5%AD%A6%E4%B9%A0Rust/</url>
-    <content><![CDATA[<h1 id="朝色报创刊号"><a href="#朝色报创刊号" class="headerlink" title="朝色报创刊号"></a>朝色报创刊号</h1><p><img src="/images/21-12-18/pic_version.jpg" alt="使用Word制作的第一则报道"></p>
-<p>2021-12-18 <strong>刊号1</strong> <em>——朝色报</em></p>
-]]></content>
-      <categories>
-        <category>朝色报</category>
-      </categories>
-      <tags>
-        <tag>新闻</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>PPET看板娘！</title>
     <url>/2020/10/02/PPET%E7%9C%8B%E6%9D%BF%E5%A8%98%EF%BC%81/</url>
     <content><![CDATA[<h1 id="PPET看板娘！"><a href="#PPET看板娘！" class="headerlink" title="PPET看板娘！"></a>PPET看板娘！</h1><p>右下角的看板娘是不是十分地养眼？你完全可以把她布署到你的桌面上喔！</p>
@@ -124,31 +149,6 @@
       </categories>
       <tags>
         <tag>Linux</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>FedoraFun下线七日</title>
-    <url>/2022/02/03/FedoraFun%E4%B8%8B%E7%BA%BF%E4%B8%83%E6%97%A5/</url>
-    <content><![CDATA[<h1 id="国内知名-Fedora-社区-FedoraFun-官网今已下线七日"><a href="#国内知名-Fedora-社区-FedoraFun-官网今已下线七日" class="headerlink" title="国内知名 Fedora 社区 FedoraFun 官网今已下线七日"></a>国内知名 Fedora 社区 FedoraFun 官网今已下线七日</h1><p>2022年02月03日，正月初三，本应是喜汽洋洋过年的日子，我们却不得不告知一件令人忧伤的事实：<strong>FedoraFun 官网已经下线七天了</strong></p>
-<p><img src="/images/22-02-03/521.png" alt="FedoraFun 官网现状"></p>
-<p>FedoraFun 做为国内较知名的 Fedora 社区之一，致力于填补Fedora于日常易用性上的空白。自创始起就充满活力，在短时间内建成了官网，撰写了教程，搭建了软件仓库。幸运的是，目前软件仓库还能访问。不过上一次更新也已经有段时间了。</p>
-<p><img src="/images/22-02-03/new.png" alt="FedoraFun 的软件仓库 repo.fedora.fun 目前仍可访问"></p>
-<p>此次网站的失联问题，外界看来似乎来源于 FedoraFun 创始人兼管理者疏于关心。毕竟创始人本身并未失联，也就是说创始人在明知 FedoraFun 下线的情况下没有恢复网站。但是我们相信这背后是有原因的，于是我们进行了深入的调查。</p>
-<p>首先是从创始人本人的方面，现在正值新春佳节，创始人虽是社交能手，但对于新年的各种事项也必定忙于应对。所以才将重建官网一事后延。</p>
-<p><img src="/images/22-02-03/q.jpg" alt="FedoraFun 是一个非常注重私生活的组织，做到了基本保证法定节假日休息"></p>
-<p>其实，用于构建 FedoraFun 官网的技术也并非易于理解。FedoraFun 创始人于1月28日晚欲对官网进行改良，但是由于 Nginx 十分不易于配置和使用，最后使得官网无法工作。Nginx是来源于国外的httpc服务器与反代软件，在使用过程中需要编写复杂的配置文件，并且可能含有不稳定的魔法因素。其实用于生成页面的 Hugo 也是如此。然而用于搭建软件仓库的 Onemanager则由国内程序员编写，软件仓库目前运行良好。故创始人此次失败也并非不可理解。</p>
-<p>以下是 FedoraFun 从前官网的部分代码：</p>
-<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">footer</span> <span class="attr">class</span>=<span class="string">&quot;site-footer&quot;</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">section</span> <span class="attr">class</span>=<span class="string">&quot;copyright&quot;</span>&gt;</span></span><br><span class="line">        <span class="symbol">&amp;copy;</span> </span><br><span class="line">        </span><br><span class="line">            2021 - </span><br><span class="line">        </span><br><span class="line">        2022 Fedora生存指难</span><br><span class="line">    <span class="tag">&lt;/<span class="name">section</span>&gt;</span></span><br><span class="line">    </span><br><span class="line">    <span class="tag">&lt;<span class="name">section</span> <span class="attr">class</span>=<span class="string">&quot;powerby&quot;</span>&gt;</span></span><br><span class="line">        Built with <span class="tag">&lt;<span class="name">a</span> <span class="attr">href</span>=<span class="string">&quot;https://gohugo.io/&quot;</span> <span class="attr">target</span>=<span class="string">&quot;_blank&quot;</span> <span class="attr">rel</span>=<span class="string">&quot;noopener&quot;</span>&gt;</span>Hugo<span class="tag">&lt;/<span class="name">a</span>&gt;</span> <span class="tag">&lt;<span class="name">br</span> /&gt;</span></span><br><span class="line">        Theme <span class="tag">&lt;<span class="name">b</span>&gt;</span><span class="tag">&lt;<span class="name">a</span> <span class="attr">href</span>=<span class="string">&quot;https://github.com/CaiJimmy/hugo-theme-stack&quot;</span> <span class="attr">target</span>=<span class="string">&quot;_blank&quot;</span> <span class="attr">rel</span>=<span class="string">&quot;noopener&quot;</span> <span class="attr">data-version</span>=<span class="string">&quot;2.5.0&quot;</span>&gt;</span>Stack<span class="tag">&lt;/<span class="name">a</span>&gt;</span><span class="tag">&lt;/<span class="name">b</span>&gt;</span> designed by <span class="tag">&lt;<span class="name">a</span> <span class="attr">href</span>=<span class="string">&quot;https://jimmycai.com&quot;</span> <span class="attr">target</span>=<span class="string">&quot;_blank&quot;</span> <span class="attr">rel</span>=<span class="string">&quot;noopener&quot;</span>&gt;</span>Jimmy<span class="tag">&lt;/<span class="name">a</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;/<span class="name">section</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">footer</span>&gt;</span></span><br></pre></td></tr></table></figure>
-<p>可见其中只有几个汉字能够辨认，非常繁杂</p>
-<p>所以业内人士认为，综和以上来看，尊重人员的私生活以及法定节假日是值得肯定的行为，那么应当在技术的易用性上下功夫。这也在一定程度上反映了国外技术的不可信，违反直觉，难以使用；更加证明了国产化势在必行。FedoraFun 亦是将国外技术引进的组织之一，也应当更加注重这一点。</p>
-<p>于此新春之际，祝愿大家新春快乐，同时，祝愿 FedoraFun 也能从此次变故中涅磐重生，继续作为国内知名技术社区发光发热。</p>
-<p>2022-02-03 <strong>刊号2</strong> <em>——朝色报</em></p>
-]]></content>
-      <categories>
-        <category>朝色报</category>
-      </categories>
-      <tags>
-        <tag>新闻</tag>
       </tags>
   </entry>
   <entry>
