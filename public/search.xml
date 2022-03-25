@@ -31,26 +31,6 @@
       </tags>
   </entry>
   <entry>
-    <title>FedoraFun 重新上线</title>
-    <url>/2022/02/06/FedoraFun-%E9%87%8D%E6%96%B0%E4%B8%8A%E7%BA%BF/</url>
-    <content><![CDATA[<h1 id="FedoraFun-于下线约10日后重新上线"><a href="#FedoraFun-于下线约10日后重新上线" class="headerlink" title="FedoraFun 于下线约10日后重新上线"></a>FedoraFun 于下线约10日后重新上线</h1><p>2022年02月05日晚，下线许久的 FedoraFun 终于重新上线了。经由<a href="https://github.com/zxc3123857948">创始人</a>的努力，现在博客由 Halo 构建并且运行于独立服务器上。</p>
-<p><img src="/images/22-02-06/new.jpg" alt="FedoraFun 新官网截图"></p>
-<p>可以发现，相比之前使用 Hugo 构建的博客系统，更加美观，贴合国内大众审美，页面内容丰富，信息集中，具有交互感。</p>
-<p>据悉，FedoraFun 最新官网使用了 Halo ，一款国人开发的博客框架系统进行构架。该框架运行于 Java ，并且源代码已经开源。这一定程度上也反映了现今国产化的蓬勃发展，产生了许多优于外国的解决方案。</p>
-<p>另外，前次报道中出现了一处错误，这里予以更正：FedoraFun 软件存储仓库最后一次更新时间为01月31日，也就是除夕当日。</p>
-<p><img src="/images/22-02-06/pkg.png" alt="FedoraFun 软件存储仓库的最新包"></p>
-<p>其实创始人在除夕之夜，这个本应与家人共度的节日里，还不忘全国的 FedoraFun 用户们，更新了软件包。并且明明正值新春佳节，却耗费时间与精力修复了 FedoraFun 官网。可见创始人的道德之高尚，与国外弄虚作假，整日不喜上班，浑浑噩噩的所谓“合理劳动”形成了鲜明的反差。创始人正是贯彻社区主义核心价值观的典范。</p>
-<p>最后，朝色报已经受到了 FedoraFun 创始人以及其它相关人员的关注。感谢大家的支持，如有疑问，建议可于评论中提出。</p>
-<p>2022-02-06 <strong>刊号3</strong> <em>——朝色报</em></p>
-]]></content>
-      <categories>
-        <category>朝色报</category>
-      </categories>
-      <tags>
-        <tag>新闻</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>FedoraFun下线七日</title>
     <url>/2022/02/03/FedoraFun%E4%B8%8B%E7%BA%BF%E4%B8%83%E6%97%A5/</url>
     <content><![CDATA[<h1 id="国内知名-Fedora-社区-FedoraFun-官网今已下线七日"><a href="#国内知名-Fedora-社区-FedoraFun-官网今已下线七日" class="headerlink" title="国内知名 Fedora 社区 FedoraFun 官网今已下线七日"></a>国内知名 Fedora 社区 FedoraFun 官网今已下线七日</h1><p>2022年02月03日，正月初三，本应是喜汽洋洋过年的日子，我们却不得不告知一件令人忧伤的事实：<strong>FedoraFun 官网已经下线七天了</strong></p>
@@ -67,6 +47,26 @@
 <p>所以业内人士认为，综和以上来看，尊重人员的私生活以及法定节假日是值得肯定的行为，那么应当在技术的易用性上下功夫。这也在一定程度上反映了国外技术的不可信，违反直觉，难以使用；更加证明了国产化势在必行。FedoraFun 亦是将国外技术引进的组织之一，也应当更加注重这一点。</p>
 <p>于此新春之际，祝愿大家新春快乐，同时，祝愿 FedoraFun 也能从此次变故中涅磐重生，继续作为国内知名技术社区发光发热。</p>
 <p>2022-02-03 <strong>刊号2</strong> <em>——朝色报</em></p>
+]]></content>
+      <categories>
+        <category>朝色报</category>
+      </categories>
+      <tags>
+        <tag>新闻</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>FedoraFun 重新上线</title>
+    <url>/2022/02/06/FedoraFun-%E9%87%8D%E6%96%B0%E4%B8%8A%E7%BA%BF/</url>
+    <content><![CDATA[<h1 id="FedoraFun-于下线约10日后重新上线"><a href="#FedoraFun-于下线约10日后重新上线" class="headerlink" title="FedoraFun 于下线约10日后重新上线"></a>FedoraFun 于下线约10日后重新上线</h1><p>2022年02月05日晚，下线许久的 FedoraFun 终于重新上线了。经由<a href="https://github.com/zxc3123857948">创始人</a>的努力，现在博客由 Halo 构建并且运行于独立服务器上。</p>
+<p><img src="/images/22-02-06/new.jpg" alt="FedoraFun 新官网截图"></p>
+<p>可以发现，相比之前使用 Hugo 构建的博客系统，更加美观，贴合国内大众审美，页面内容丰富，信息集中，具有交互感。</p>
+<p>据悉，FedoraFun 最新官网使用了 Halo ，一款国人开发的博客框架系统进行构架。该框架运行于 Java ，并且源代码已经开源。这一定程度上也反映了现今国产化的蓬勃发展，产生了许多优于外国的解决方案。</p>
+<p>另外，前次报道中出现了一处错误，这里予以更正：FedoraFun 软件存储仓库最后一次更新时间为01月31日，也就是除夕当日。</p>
+<p><img src="/images/22-02-06/pkg.png" alt="FedoraFun 软件存储仓库的最新包"></p>
+<p>其实创始人在除夕之夜，这个本应与家人共度的节日里，还不忘全国的 FedoraFun 用户们，更新了软件包。并且明明正值新春佳节，却耗费时间与精力修复了 FedoraFun 官网。可见创始人的道德之高尚，与国外弄虚作假，整日不喜上班，浑浑噩噩的所谓“合理劳动”形成了鲜明的反差。创始人正是贯彻社区主义核心价值观的典范。</p>
+<p>最后，朝色报已经受到了 FedoraFun 创始人以及其它相关人员的关注。感谢大家的支持，如有疑问，建议可于评论中提出。</p>
+<p>2022-02-06 <strong>刊号3</strong> <em>——朝色报</em></p>
 ]]></content>
       <categories>
         <category>朝色报</category>
@@ -275,22 +275,6 @@
       </tags>
   </entry>
   <entry>
-    <title>2020年10月12日</title>
-    <url>/2020/10/12/%E6%88%91%E4%BB%AC%E6%B4%BB%E5%9C%A8%E4%BD%95%E5%A4%84/</url>
-    <content><![CDATA[<p>#写于2020-10-12</p>
-<p>并非喜剧就能让人感到开心<br>常常一笑了之的背后<br>留下的是与欢乐不相称的孤独与寂莫<br>看在眼中的都是别人的欢乐</p>
-<a id="more"></a>
-<p>自己却没有获得的资格<br>只能感叹自己的不幸<br>没有欢乐<br>没有现实中触及得到的悲伤<br>只有自己一人不断地提醒自己<br>都是自己导致的后果<br>总是期望来自他人的奇迹<br>想要做出改变却从未开始<br>只有自己的情感逐渐麻木<br>到头来还是老样子</p>
-<p><em>by 从晴朗的朝色泛起之际开始</em></p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>随手写</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>实用主义已死</title>
     <url>/2022/03/05/%E5%AE%9E%E7%94%A8%E4%B8%BB%E4%B9%89%E5%B7%B2%E6%AD%BB/</url>
     <content><![CDATA[<h2 id="对于实用主义的批评"><a href="#对于实用主义的批评" class="headerlink" title="对于实用主义的批评"></a>对于实用主义的批评</h2><p>关于尼采，「上帝已死」这一说法非常出名。其指的是在现代人们失去了「上帝」这种绝对法则的存在，而陷入精神判的虚无，无法认定什么是正确的，什么是错误的，因为判断这一切的「上帝」死了。</p>
@@ -310,6 +294,22 @@
       </categories>
       <tags>
         <tag>随手写 Linux</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2020年10月12日</title>
+    <url>/2020/10/12/%E6%88%91%E4%BB%AC%E6%B4%BB%E5%9C%A8%E4%BD%95%E5%A4%84/</url>
+    <content><![CDATA[<p>#写于2020-10-12</p>
+<p>并非喜剧就能让人感到开心<br>常常一笑了之的背后<br>留下的是与欢乐不相称的孤独与寂莫<br>看在眼中的都是别人的欢乐</p>
+<a id="more"></a>
+<p>自己却没有获得的资格<br>只能感叹自己的不幸<br>没有欢乐<br>没有现实中触及得到的悲伤<br>只有自己一人不断地提醒自己<br>都是自己导致的后果<br>总是期望来自他人的奇迹<br>想要做出改变却从未开始<br>只有自己的情感逐渐麻木<br>到头来还是老样子</p>
+<p><em>by 从晴朗的朝色泛起之际开始</em></p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>随手写</tag>
       </tags>
   </entry>
   <entry>
