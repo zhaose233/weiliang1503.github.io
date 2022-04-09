@@ -18,6 +18,19 @@
       </tags>
   </entry>
   <entry>
+    <title>FedoraFun 创始人宣布学习Rust</title>
+    <url>/2021/12/18/FedoraFun-%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%AE%A3%E5%B8%83%E5%AD%A6%E4%B9%A0Rust/</url>
+    <content><![CDATA[<h1 id="朝色报创刊号"><a href="#朝色报创刊号" class="headerlink" title="朝色报创刊号"></a>朝色报创刊号</h1><p><img src="/images/21-12-18/pic_version.jpg" alt="使用Word制作的第一则报道"></p>
+<p>2021-12-18 <strong>刊号1</strong> <em>——朝色报</em></p>
+]]></content>
+      <categories>
+        <category>朝色报</category>
+      </categories>
+      <tags>
+        <tag>新闻</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>FedoraFun 重新上线</title>
     <url>/2022/02/06/FedoraFun-%E9%87%8D%E6%96%B0%E4%B8%8A%E7%BA%BF/</url>
     <content><![CDATA[<h1 id="FedoraFun-于下线约10日后重新上线"><a href="#FedoraFun-于下线约10日后重新上线" class="headerlink" title="FedoraFun 于下线约10日后重新上线"></a>FedoraFun 于下线约10日后重新上线</h1><p>2022年02月05日晚，下线许久的 FedoraFun 终于重新上线了。经由<a href="https://github.com/zxc3123857948">创始人</a>的努力，现在博客由 Halo 构建并且运行于独立服务器上。</p>
@@ -29,19 +42,6 @@
 <p>其实创始人在除夕之夜，这个本应与家人共度的节日里，还不忘全国的 FedoraFun 用户们，更新了软件包。并且明明正值新春佳节，却耗费时间与精力修复了 FedoraFun 官网。可见创始人的道德之高尚，与国外弄虚作假，整日不喜上班，浑浑噩噩的所谓“合理劳动”形成了鲜明的反差。创始人正是贯彻社区主义核心价值观的典范。</p>
 <p>最后，朝色报已经受到了 FedoraFun 创始人以及其它相关人员的关注。感谢大家的支持，如有疑问，建议可于评论中提出。</p>
 <p>2022-02-06 <strong>刊号3</strong> <em>——朝色报</em></p>
-]]></content>
-      <categories>
-        <category>朝色报</category>
-      </categories>
-      <tags>
-        <tag>新闻</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>FedoraFun 创始人宣布学习Rust</title>
-    <url>/2021/12/18/FedoraFun-%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%AE%A3%E5%B8%83%E5%AD%A6%E4%B9%A0Rust/</url>
-    <content><![CDATA[<h1 id="朝色报创刊号"><a href="#朝色报创刊号" class="headerlink" title="朝色报创刊号"></a>朝色报创刊号</h1><p><img src="/images/21-12-18/pic_version.jpg" alt="使用Word制作的第一则报道"></p>
-<p>2021-12-18 <strong>刊号1</strong> <em>——朝色报</em></p>
 ]]></content>
       <categories>
         <category>朝色报</category>
@@ -76,21 +76,6 @@
       </tags>
   </entry>
   <entry>
-    <title>GAME_1</title>
-    <url>/2021/05/16/GAME-1/</url>
-    <content><![CDATA[<p>第一话：</p>
-<p><img src="/images/manga_cn/70035405_p0.jpg" alt="70035405_p0"><br><img src="/images/manga_cn/70035405_p1.jpg" alt="70035405_p1"><br><img src="/images/manga_cn/70035405_p2.jpg" alt="70035405_p2"><br><img src="/images/manga_cn/70035405_p3.jpg" alt="70035405_p3"><br><img src="/images/manga_cn/70035405_p4.jpg" alt="70035405_p4"><br><img src="/images/manga_cn/70035405_p5.jpg" alt="70035405_p5"><br><img src="/images/manga_cn/70035405_p6.jpg" alt="70035405_p6"><br><img src="/images/manga_cn/70035405_p7.jpg" alt="70035405_p7"><br><img src="/images/manga_cn/70035405_p8.jpg" alt="70035405_p8"></p>
-<p>Pixiv链接：<a href="https://www.pixiv.net/artworks/70035405">https://www.pixiv.net/artworks/70035405</a><br>汉化很菜，请将就</p>
-<p><strong>by 从晴朗的朝色泛起之际开始</strong></p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>ゲーム好きな友達とゲームセンに行く話</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Nodejs实现随机图片API</title>
     <url>/2021/03/20/Nodejs%E5%AE%9E%E7%8E%B0%E9%9A%8F%E6%9C%BA%E5%9B%BE%E7%89%87API/</url>
     <content><![CDATA[<h1 id="用node-js实现随机图片API！"><a href="#用node-js实现随机图片API！" class="headerlink" title="用node.js实现随机图片API！"></a>用node.js实现随机图片API！</h1><p>前段时间我们的青河大佬自建了一个基于php的随机图API，然而由于我不愿随大流的性子，决定用不同的方法实现一个［滑稽］</p>
@@ -107,6 +92,37 @@
       </categories>
       <tags>
         <tag>Linux</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>PPET看板娘！</title>
+    <url>/2020/10/02/PPET%E7%9C%8B%E6%9D%BF%E5%A8%98%EF%BC%81/</url>
+    <content><![CDATA[<h1 id="PPET看板娘！"><a href="#PPET看板娘！" class="headerlink" title="PPET看板娘！"></a>PPET看板娘！</h1><p>右下角的看板娘是不是十分地养眼？你完全可以把她布署到你的桌面上喔！</p>
+<p>访问GITHUB地址：<a href="https://github.com/zenghongtu/PPet/releases">https://github.com/zenghongtu/PPet/releases</a></p>
+<a id="more"></a>
+<p>提供了Windows-exe，MacOS-dmg，Debian-deb格式，ArchLinux亲测debtap转包可行</p>
+<p>还支持导入模型（太赞了）</p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>有趣</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>GAME_1</title>
+    <url>/2021/05/16/GAME-1/</url>
+    <content><![CDATA[<p>第一话：</p>
+<p><img src="/images/manga_cn/70035405_p0.jpg" alt="70035405_p0"><br><img src="/images/manga_cn/70035405_p1.jpg" alt="70035405_p1"><br><img src="/images/manga_cn/70035405_p2.jpg" alt="70035405_p2"><br><img src="/images/manga_cn/70035405_p3.jpg" alt="70035405_p3"><br><img src="/images/manga_cn/70035405_p4.jpg" alt="70035405_p4"><br><img src="/images/manga_cn/70035405_p5.jpg" alt="70035405_p5"><br><img src="/images/manga_cn/70035405_p6.jpg" alt="70035405_p6"><br><img src="/images/manga_cn/70035405_p7.jpg" alt="70035405_p7"><br><img src="/images/manga_cn/70035405_p8.jpg" alt="70035405_p8"></p>
+<p>Pixiv链接：<a href="https://www.pixiv.net/artworks/70035405">https://www.pixiv.net/artworks/70035405</a><br>汉化很菜，请将就</p>
+<p><strong>by 从晴朗的朝色泛起之际开始</strong></p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>ゲーム好きな友達とゲームセンに行く話</tag>
       </tags>
   </entry>
   <entry>
@@ -142,22 +158,6 @@
 <a id="more"></a>
 
 <p><img src="http://49.234.70.34:8080/?mode=jump" alt="zhaoseapi"></p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>有趣</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>PPET看板娘！</title>
-    <url>/2020/10/02/PPET%E7%9C%8B%E6%9D%BF%E5%A8%98%EF%BC%81/</url>
-    <content><![CDATA[<h1 id="PPET看板娘！"><a href="#PPET看板娘！" class="headerlink" title="PPET看板娘！"></a>PPET看板娘！</h1><p>右下角的看板娘是不是十分地养眼？你完全可以把她布署到你的桌面上喔！</p>
-<p>访问GITHUB地址：<a href="https://github.com/zenghongtu/PPet/releases">https://github.com/zenghongtu/PPet/releases</a></p>
-<a id="more"></a>
-<p>提供了Windows-exe，MacOS-dmg，Debian-deb格式，ArchLinux亲测debtap转包可行</p>
-<p>还支持导入模型（太赞了）</p>
 ]]></content>
       <categories>
         <category>从晴朗的朝色泛起之际开始</category>
@@ -240,19 +240,6 @@
       </tags>
   </entry>
   <entry>
-    <title>图片-By_EF_Cosmos</title>
-    <url>/2020/10/08/%E5%9B%BE%E7%89%87-By-EF-Cosmos/</url>
-    <content><![CDATA[<p><img src="https://pic.downk.cc/item/5f7f345d1cd1bbb86bd52df9.png" alt="图片"></p>
-<p><em>2020/10/08</em></p>
-]]></content>
-      <categories>
-        <category>EF_Cosmos</category>
-      </categories>
-      <tags>
-        <tag>随手写</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>在Linux系统上开直播</title>
     <url>/2020/11/26/%E5%9C%A8Linux%E7%B3%BB%E7%BB%9F%E4%B8%8A%E5%BC%80%E7%9B%B4%E6%92%AD/</url>
     <content><![CDATA[<h1 id="把你的屏幕分享给大家！"><a href="#把你的屏幕分享给大家！" class="headerlink" title="把你的屏幕分享给大家！"></a>把你的屏幕分享给大家！</h1><p>大家总是会有想要向别人展示东西的时候。也许是向几个同学，或者几个朋友展示自己的电脑展幕。在种时候用QQ或者Skype等等总是体验不太好，犹其在LINUX上的时候。</p>
@@ -272,6 +259,35 @@
       </categories>
       <tags>
         <tag>Linux</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>图片-By_EF_Cosmos</title>
+    <url>/2020/10/08/%E5%9B%BE%E7%89%87-By-EF-Cosmos/</url>
+    <content><![CDATA[<p><img src="https://pic.downk.cc/item/5f7f345d1cd1bbb86bd52df9.png" alt="图片"></p>
+<p><em>2020/10/08</em></p>
+]]></content>
+      <categories>
+        <category>EF_Cosmos</category>
+      </categories>
+      <tags>
+        <tag>随手写</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2020年10月12日</title>
+    <url>/2020/10/12/%E6%88%91%E4%BB%AC%E6%B4%BB%E5%9C%A8%E4%BD%95%E5%A4%84/</url>
+    <content><![CDATA[<p>#写于2020-10-12</p>
+<p>并非喜剧就能让人感到开心<br>常常一笑了之的背后<br>留下的是与欢乐不相称的孤独与寂莫<br>看在眼中的都是别人的欢乐</p>
+<a id="more"></a>
+<p>自己却没有获得的资格<br>只能感叹自己的不幸<br>没有欢乐<br>没有现实中触及得到的悲伤<br>只有自己一人不断地提醒自己<br>都是自己导致的后果<br>总是期望来自他人的奇迹<br>想要做出改变却从未开始<br>只有自己的情感逐渐麻木<br>到头来还是老样子</p>
+<p><em>by 从晴朗的朝色泛起之际开始</em></p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>随手写</tag>
       </tags>
   </entry>
   <entry>
@@ -313,22 +329,6 @@
       </categories>
       <tags>
         <tag>随手写 Linux</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2020年10月12日</title>
-    <url>/2020/10/12/%E6%88%91%E4%BB%AC%E6%B4%BB%E5%9C%A8%E4%BD%95%E5%A4%84/</url>
-    <content><![CDATA[<p>#写于2020-10-12</p>
-<p>并非喜剧就能让人感到开心<br>常常一笑了之的背后<br>留下的是与欢乐不相称的孤独与寂莫<br>看在眼中的都是别人的欢乐</p>
-<a id="more"></a>
-<p>自己却没有获得的资格<br>只能感叹自己的不幸<br>没有欢乐<br>没有现实中触及得到的悲伤<br>只有自己一人不断地提醒自己<br>都是自己导致的后果<br>总是期望来自他人的奇迹<br>想要做出改变却从未开始<br>只有自己的情感逐渐麻木<br>到头来还是老样子</p>
-<p><em>by 从晴朗的朝色泛起之际开始</em></p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>随手写</tag>
       </tags>
   </entry>
   <entry>
@@ -465,6 +465,43 @@
       </tags>
   </entry>
   <entry>
+    <title>给picom开启高性能模糊透明</title>
+    <url>/2020/12/04/%E7%BB%99picom%E5%BC%80%E5%90%AF%E9%AB%98%E6%80%A7%E8%83%BD%E6%A8%A1%E7%B3%8A%E9%80%8F%E6%98%8E/</url>
+    <content><![CDATA[<h1 id="picom混成器模糊透明来了！"><a href="#picom混成器模糊透明来了！" class="headerlink" title="picom混成器模糊透明来了！"></a>picom混成器模糊透明来了！</h1><p>使用windows manager的图形界面的话，如果不想忍受单薄的画面，当然少不了一个窗口混成器。现在kwin，mutter这些集成在DE里面的wm都整合了混成器。但是像i3这种wm，就需要一个外置混成器来撑撑排面了。</p>
+<a id="more"></a>
+
+<p>现在比较流行的是picom，能够提供不亚于kwin之类的淡入淡出，透明效果，但是模糊背景一直表现不佳。从前的模糊方案只有kernel，能直接通占用10%以上的CPU。然而现在有了新的模糊方案了以后性能有了大幅的提升！</p>
+<p>archlinux先填加archlinuxcn源：</p>
+<figure class="highlight ini"><table><tr><td class="code"><pre><span class="line"><span class="section">[archlinuxcn]</span></span><br><span class="line"><span class="attr">SigLevel</span> = Optional TrustAll</span><br><span class="line"><span class="attr">Server</span> = https://mirrors.ustc.edu.cn/archlinuxcn/<span class="variable">$arch</span></span><br></pre></td></tr></table></figure>
+<p>其它发行版可以自行从github下载源码安装。</p>
+<p>在archlinux下</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">sudo pacman -S picom-git</span><br></pre></td></tr></table></figure>
+<p>然后将以下内容填加到picom.conf里：</p>
+<figure class="highlight"><table><tr><td class="code"><pre><span class="line"> blur:</span><br><span class="line">&#123;</span><br><span class="line">  <span class="attr">method</span> = <span class="string">&quot;dual_kawase&quot;</span><span class="comment">;</span></span><br><span class="line">  <span class="attr">size</span> = <span class="number">10</span><span class="comment">;</span></span><br><span class="line">  <span class="attr">strength</span> = <span class="number">3</span><span class="comment">;</span></span><br><span class="line">  <span class="attr">deviation</span> = <span class="number">5.0</span><span class="comment">;</span></span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
+<p>用picom –experimental-backends开启picom可以享受背景模糊了！</p>
+<p>*by 从晴朗的朝色泛起之际开始</p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>Linux</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>病娇日志100搬运</title>
+    <url>/2021/08/15/%E7%97%85%E5%A8%87%E6%97%A5%E5%BF%97100%E6%90%AC%E8%BF%90/</url>
+    <content><![CDATA[<h1 id="来自PIXIV的搬运"><a href="#来自PIXIV的搬运" class="headerlink" title="来自PIXIV的搬运"></a>来自PIXIV的搬运</h1><p><img src="/images/yandere.jpg" alt="p1"></p>
+<p><strong>by 从晴朗的朝色泛起之际开始</strong></p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>随手写 病娇</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>用Linux服务器实现一起听歌</title>
     <url>/2020/10/14/%E7%94%A8Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%AE%9E%E7%8E%B0%E4%B8%80%E8%B5%B7%E5%90%AC%E6%AD%8C/</url>
     <content><![CDATA[<h1 id="用服务器一起听歌！"><a href="#用服务器一起听歌！" class="headerlink" title="用服务器一起听歌！"></a>用服务器一起听歌！</h1><p>近来用了下QQ的一起听歌功能，感觉挺有意思，但是只能听QQ歌单里有的歌，十分受限。所以决定自己用服务器搭一个差不多的听歌方案。</p>
@@ -496,43 +533,6 @@
       </tags>
   </entry>
   <entry>
-    <title>病娇日志100搬运</title>
-    <url>/2021/08/15/%E7%97%85%E5%A8%87%E6%97%A5%E5%BF%97100%E6%90%AC%E8%BF%90/</url>
-    <content><![CDATA[<h1 id="来自PIXIV的搬运"><a href="#来自PIXIV的搬运" class="headerlink" title="来自PIXIV的搬运"></a>来自PIXIV的搬运</h1><p><img src="/images/yandere.jpg" alt="p1"></p>
-<p><strong>by 从晴朗的朝色泛起之际开始</strong></p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>随手写 病娇</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>给picom开启高性能模糊透明</title>
-    <url>/2020/12/04/%E7%BB%99picom%E5%BC%80%E5%90%AF%E9%AB%98%E6%80%A7%E8%83%BD%E6%A8%A1%E7%B3%8A%E9%80%8F%E6%98%8E/</url>
-    <content><![CDATA[<h1 id="picom混成器模糊透明来了！"><a href="#picom混成器模糊透明来了！" class="headerlink" title="picom混成器模糊透明来了！"></a>picom混成器模糊透明来了！</h1><p>使用windows manager的图形界面的话，如果不想忍受单薄的画面，当然少不了一个窗口混成器。现在kwin，mutter这些集成在DE里面的wm都整合了混成器。但是像i3这种wm，就需要一个外置混成器来撑撑排面了。</p>
-<a id="more"></a>
-
-<p>现在比较流行的是picom，能够提供不亚于kwin之类的淡入淡出，透明效果，但是模糊背景一直表现不佳。从前的模糊方案只有kernel，能直接通占用10%以上的CPU。然而现在有了新的模糊方案了以后性能有了大幅的提升！</p>
-<p>archlinux先填加archlinuxcn源：</p>
-<figure class="highlight ini"><table><tr><td class="code"><pre><span class="line"><span class="section">[archlinuxcn]</span></span><br><span class="line"><span class="attr">SigLevel</span> = Optional TrustAll</span><br><span class="line"><span class="attr">Server</span> = https://mirrors.ustc.edu.cn/archlinuxcn/<span class="variable">$arch</span></span><br></pre></td></tr></table></figure>
-<p>其它发行版可以自行从github下载源码安装。</p>
-<p>在archlinux下</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">sudo pacman -S picom-git</span><br></pre></td></tr></table></figure>
-<p>然后将以下内容填加到picom.conf里：</p>
-<figure class="highlight"><table><tr><td class="code"><pre><span class="line"> blur:</span><br><span class="line">&#123;</span><br><span class="line">  <span class="attr">method</span> = <span class="string">&quot;dual_kawase&quot;</span><span class="comment">;</span></span><br><span class="line">  <span class="attr">size</span> = <span class="number">10</span><span class="comment">;</span></span><br><span class="line">  <span class="attr">strength</span> = <span class="number">3</span><span class="comment">;</span></span><br><span class="line">  <span class="attr">deviation</span> = <span class="number">5.0</span><span class="comment">;</span></span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure>
-<p>用picom –experimental-backends开启picom可以享受背景模糊了！</p>
-<p>*by 从晴朗的朝色泛起之际开始</p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>Linux</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>聊天客户端军备竞赛，冷战恐暴发</title>
     <url>/2022/02/16/%E8%81%8A%E5%A4%A9%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%86%9B%E5%A4%87%E7%AB%9E%E8%B5%9B%EF%BC%8C%E5%86%B7%E6%88%98%E6%81%90%E6%9A%B4%E5%8F%91/</url>
     <content><![CDATA[<h1 id="由于保密原因，本报道不提供图片"><a href="#由于保密原因，本报道不提供图片" class="headerlink" title="由于保密原因，本报道不提供图片"></a>由于保密原因，本报道不提供图片</h1><p>2022年02月09日许，其于Gtk4与Vala的GtkChat雏型被公之于世。在此时间点前后，基于Python与Qt的QTalk以及基于Rust与GtkWebEngine的FQ也发布了它们的初始版本。这一系列事件于近几日间已被推向了舆论的巅峰。</p>
@@ -553,7 +553,7 @@
     <title>谜之生物观察日记</title>
     <url>/2022/04/04/%E8%B0%9C%E4%B9%8B%E7%94%9F%E7%89%A9%E8%A7%82%E5%AF%9F%E6%97%A5%E8%AE%B0/</url>
     <content><![CDATA[<p><a href="https://twitter.com/pageratta">关注原作者！</a></p>
-<p><img src="/images/nazoikimono/04_08_(03_26_4)_cn.jpg" alt="3月26日 第39日"><br><img src="/images/nazoikimono/04_07_(03_25_4)_cn.jpg" alt="3月25日 第38日"><br><img src="/images/nazoikimono/04_06_(03_31_3)_cn.jpg" alt="3月31日 第37日"><br><img src="/images/nazoikimono/04_05_(03_30_3)_cn.jpg" alt="3月30日 第36日"><br><img src="/images/nazoikimono/04_04_(03_29_3)_cn.jpg" alt="3月29日 第35日"><br><img src="/images/nazoikimono/04_03_(03_28_3)_cn.jpg" alt="3月28日 第34日"><br><img src="/images/nazoikimono/04_02_(03_27_3).jpg" alt="3月27日 第33日"><br><img src="/images/nazoikimono/04_01_(03_26_3)_cn.jpg" alt="3月26日 第32日"><br><img src="/images/nazoikimono/03_31_(03_25_3)_cn.jpg" alt="3月25日 第31日"><br><img src="/images/nazoikimono/03_30_(03_24_3)_cn.jpg" alt="3月24日 第30日"><br><img src="/images/nazoikimono/03_29_(03_23_3)_cn.jpg" alt="3月23日 第29日"><br><img src="/images/nazoikimono/03_28_(03_23_2)_cn.jpg" alt="3月23日 第28日"><br><img src="/images/nazoikimono/03_27_(03_22_2)_cn.jpg" alt="3月22日 第27日"><br><img src="/images/nazoikimono/03_26_(03_21_2)_cn.jpg" alt="3月21日 第26日"><br><img src="/images/nazoikimono/03_25_(03_20_2)_cn.jpg" alt="3月20日 第25日"><br><img src="/images/nazoikimono/03_24_(03_21_1)_cn.jpg" alt="3月21日 第24日"><br><img src="/images/nazoikimono/03_23_(03_20_1)_cn.jpg" alt="3月20日 第23日"><br><img src="/images/nazoikimono/03_22_(03_19_1)_cn.jpg" alt="3月19日 第22日"><br><img src="/images/nazoikimono/03_21_(03_18_1)_cn.jpg" alt="3月18日 第21日"><br><img src="/images/nazoikimono/03_20_(03_17_1)_cn.jpg" alt="3月17日 第20日"><br><img src="/images/nazoikimono/03_19_(03_16_1)_cn.jpg" alt="3月16日 第19日"><br><img src="/images/nazoikimono/03_18_(03_15_1)_cn.jpg" alt="3月15日 第18日"><br><img src="/images/nazoikimono/03_17_cn.jpg" alt="3月17日 第17日"><br><img src="/images/nazoikimono/03_16_cn.jpg" alt="3月16日 第16日"><br><img src="/images/nazoikimono/03_15_cn.jpg" alt="3月15日 第15日"><br><img src="/images/nazoikimono/03_14_cn.jpg" alt="3月14日 第14日"><br><img src="/images/nazoikimono/03_13_cn.jpg" alt="3月13日 第13日"><br><img src="/images/nazoikimono/03_12_cn.jpg" alt="3月12日 第12日"><br><img src="/images/nazoikimono/03_11_cn.jpg" alt="3月11日 第11日"><br><img src="/images/nazoikimono/03_10_cn.jpg" alt="3月10日 第10日"><br><img src="/images/nazoikimono/03_09_cn.jpg" alt="3月09日 第09日"><br><img src="/images/nazoikimono/03_08_cn.jpg" alt="3月08日 第08日"><br><img src="/images/nazoikimono/03_07_cn.jpg" alt="3月07日 第07日"><br><img src="/images/nazoikimono/03_06_cn.jpg" alt="3月06日 第06日"><br><img src="/images/nazoikimono/03_05_cn.jpg" alt="3月05日 第05日"><br><img src="/images/nazoikimono/03_04_cn.jpg" alt="3月04日 第04日"><br><img src="/images/nazoikimono/03_03_cn.jpg" alt="3月03日 第03日"><br><img src="/images/nazoikimono/03_02_cn.jpg" alt="3月02日 第02日"><br><img src="/images/nazoikimono/03_01_cn.jpg" alt="3月01日 第01日"></p>
+<p><img src="/images/nazoikimono/04_09_(03_27_4)_cn.jpg" alt="3月27日 第40日"><br><img src="/images/nazoikimono/04_08_(03_26_4)_cn.jpg" alt="3月26日 第39日"><br><img src="/images/nazoikimono/04_07_(03_25_4)_cn.jpg" alt="3月25日 第38日"><br><img src="/images/nazoikimono/04_06_(03_31_3)_cn.jpg" alt="3月31日 第37日"><br><img src="/images/nazoikimono/04_05_(03_30_3)_cn.jpg" alt="3月30日 第36日"><br><img src="/images/nazoikimono/04_04_(03_29_3)_cn.jpg" alt="3月29日 第35日"><br><img src="/images/nazoikimono/04_03_(03_28_3)_cn.jpg" alt="3月28日 第34日"><br><img src="/images/nazoikimono/04_02_(03_27_3).jpg" alt="3月27日 第33日"><br><img src="/images/nazoikimono/04_01_(03_26_3)_cn.jpg" alt="3月26日 第32日"><br><img src="/images/nazoikimono/03_31_(03_25_3)_cn.jpg" alt="3月25日 第31日"><br><img src="/images/nazoikimono/03_30_(03_24_3)_cn.jpg" alt="3月24日 第30日"><br><img src="/images/nazoikimono/03_29_(03_23_3)_cn.jpg" alt="3月23日 第29日"><br><img src="/images/nazoikimono/03_28_(03_23_2)_cn.jpg" alt="3月23日 第28日"><br><img src="/images/nazoikimono/03_27_(03_22_2)_cn.jpg" alt="3月22日 第27日"><br><img src="/images/nazoikimono/03_26_(03_21_2)_cn.jpg" alt="3月21日 第26日"><br><img src="/images/nazoikimono/03_25_(03_20_2)_cn.jpg" alt="3月20日 第25日"><br><img src="/images/nazoikimono/03_24_(03_21_1)_cn.jpg" alt="3月21日 第24日"><br><img src="/images/nazoikimono/03_23_(03_20_1)_cn.jpg" alt="3月20日 第23日"><br><img src="/images/nazoikimono/03_22_(03_19_1)_cn.jpg" alt="3月19日 第22日"><br><img src="/images/nazoikimono/03_21_(03_18_1)_cn.jpg" alt="3月18日 第21日"><br><img src="/images/nazoikimono/03_20_(03_17_1)_cn.jpg" alt="3月17日 第20日"><br><img src="/images/nazoikimono/03_19_(03_16_1)_cn.jpg" alt="3月16日 第19日"><br><img src="/images/nazoikimono/03_18_(03_15_1)_cn.jpg" alt="3月15日 第18日"><br><img src="/images/nazoikimono/03_17_cn.jpg" alt="3月17日 第17日"><br><img src="/images/nazoikimono/03_16_cn.jpg" alt="3月16日 第16日"><br><img src="/images/nazoikimono/03_15_cn.jpg" alt="3月15日 第15日"><br><img src="/images/nazoikimono/03_14_cn.jpg" alt="3月14日 第14日"><br><img src="/images/nazoikimono/03_13_cn.jpg" alt="3月13日 第13日"><br><img src="/images/nazoikimono/03_12_cn.jpg" alt="3月12日 第12日"><br><img src="/images/nazoikimono/03_11_cn.jpg" alt="3月11日 第11日"><br><img src="/images/nazoikimono/03_10_cn.jpg" alt="3月10日 第10日"><br><img src="/images/nazoikimono/03_09_cn.jpg" alt="3月09日 第09日"><br><img src="/images/nazoikimono/03_08_cn.jpg" alt="3月08日 第08日"><br><img src="/images/nazoikimono/03_07_cn.jpg" alt="3月07日 第07日"><br><img src="/images/nazoikimono/03_06_cn.jpg" alt="3月06日 第06日"><br><img src="/images/nazoikimono/03_05_cn.jpg" alt="3月05日 第05日"><br><img src="/images/nazoikimono/03_04_cn.jpg" alt="3月04日 第04日"><br><img src="/images/nazoikimono/03_03_cn.jpg" alt="3月03日 第03日"><br><img src="/images/nazoikimono/03_02_cn.jpg" alt="3月02日 第02日"><br><img src="/images/nazoikimono/03_01_cn.jpg" alt="3月01日 第01日"></p>
 <p><em>从朝朗的朝色泛起之际开始</em></p>
 ]]></content>
       <categories>
@@ -608,11 +608,11 @@
       </tags>
   </entry>
   <entry>
-    <title>这样就好-五回目</title>
-    <url>/2022/03/16/%E8%BF%99%E6%A0%B7%E5%B0%B1%E5%A5%BD-%E4%BA%94%E5%9B%9E%E7%9B%AE/</url>
-    <content><![CDATA[<h1 id="旧友：这样就好？"><a href="#旧友：这样就好？" class="headerlink" title="旧友：这样就好？"></a>旧友：这样就好？</h1><p>「本来以为自己会窝在家里直到最后的，没想到竟然会有事情需要出门……」<br>「怎么了？出什么事了？」<br>「我一个老朋友，最近闲下来有空，想要跟我见个面」<br>「诶……原来你还有老朋友啊」<br>「你这话说的……其实很久也没见过了，初中时代的朋友。但是从初中之后就再没交过那么要好的朋友了」<br>「那你就去见见呗」<br>「主要是他现在和从前，变化很大啊」<br>「嗯？」<br>「现在他已经是名利双收的成功人士了……」<br>我仰面往床上一躺。<br>她好像对我的朋友很有兴趣的样子，坐到了在我旁边。<br>「TA是男的，还是女的？」<br>「当然是男的啦，我那会那么有女人缘」<br>「啊哈哈……是这样嘛」<br>总觉得她松了一口气，也许是我的自作多情吧。<br>「高中的时候我一直浑浑噩噩，他也跟着我一起，虽然不怎么见面，但是每天都有联系」<br>「然后他交到了女朋友，应该说是和从前的女朋友复合了吧」<br>「从那以后就变化挺大的，本来在学做动画，现在已经每天单子多到做不完了」<br>「然后我呢……还是个NEET」<br>很想在床上滚几圈，但是旁边她在看着，还是算了。<br>「那你打算去见一下吗？」<br>「拒绝人家也不太好啊，还是答应下来了。他说他时间不多，也就在快餐店里见个面吃点东西」</p>
+    <title>这样就好-六回目</title>
+    <url>/2022/03/16/%E8%BF%99%E6%A0%B7%E5%B0%B1%E5%A5%BD-%E5%85%AD%E5%9B%9E%E7%9B%AE/</url>
+    <content><![CDATA[<h1 id="知道得多了，这样好吗？"><a href="#知道得多了，这样好吗？" class="headerlink" title="知道得多了，这样好吗？"></a>知道得多了，这样好吗？</h1><p>偶尔也想出门呼吸一下新鲜的空气。<br>顺便去超市之类的地方逛逛吧，购物确实是减压的方式。<br>「我出去转转」<br>「噢，来了来了」<br>自然而然地又变成两人出门购物了。晚上刚过七点的街道行人寥寥无几，整个城市都沉浸在夜晚来到之前的寂静中。侧目看向并排走在傍边的她，长发仿佛也被晚风拂动。<br>拐入家边的一条路内，这条路上有个挺出名的古玩城。路边时常有人摆摊卖些古玩之类，偶尔也会卖别的东西，比如……算命之类的？不过现在都是在收拾摊位的时间了。<br>「喂，你！」<br>一个略显嘶哑的声音响起。发生什么事了啊，不过这种地方发生纠分也不奇怪。不理会他，继续走路。<br>「好像在叫你诶。」<br>「诶？」<br>听她这么一说，我转过头，确实看见有一个人看着我这边，用手招乎着我过去。摆得有模有样的算命摊，戴着一副圆框的眼镜，这不是典型的江湖骗子的形象吗。<br>「这也太可疑了吧，果真还是别理他了？」<br>我压低了声音对她说，可是还没等她回答——<br>「那边的小伙子，还有他女朋友，诶对对，就是你，过来下呗」<br>诶？！<br>「他好像能看见我？」<br>「好像是？」<br>喂喂不过还不是女朋友啊喂！<br>「能看见我的话也许是有真本事的？去看看？」<br>「嗯，如果真是这样的话」<br>我们走到他的摊子前面，他眯着眼睛从上倒下打量了我们两人一番。<br>「小伙子，果真是这样啊」<br>「什么？」<br>「你明明知道不是什么正常的东西，为什么还要让她跟着你呢？」<br>「哈？！你在说什么啊？！你能看见我算是你厉害，不过这是我的事情跟你也没什么关系吧」<br>「话是这么说了……小姐啊，你也知道这样下去他就没有回头路可以走了吧」<br>「什！」<br>「轻生的魂魄不得转世，带着生前的忧郁滞留于现世。你能看到她就已经很不妙了，再受她的影响，恐怕更是难逃一劫了。」<br>什么玄幻小说的解说啊。<br>「反正我愿意怎么样是我的事情吧。你能看到也许是有点本事，不过我用不着你来担心。少伪善了。」<br>自己平时是很不愿意用这种口气对人的。<br>「小伙子，这是为了你未来着想啊。你是很有才能的人，这样葬送了可惜了啊。以后还有很多机会的。」<br>火大。<br>我有什么才能啊。<br>就算有才能要这才能有什么用啊。<br>为什么我非得给这个社会做出点贡献不可啊。<br>我会得到什么回报吗？我能获得我想要的吗？<br>可笑。<br>现在对我来说再没有比在我身边的这位幽灵少女更在意的东西了。<br>世界就是毁灭了也无所谓。<br>「走了」<br>我跟她说，然后转身就走。<br>「等一下啊！」<br>那个算命先生一样的人拉住我的手。<br>「放开！」<br>「拿上这个吧！你要是改变想法了会有用的！只要把呆在你身边的幽灵消去，驱散掉邪气，你应该也能回归正常的生活了。」<br>说着他就把一个黄符纸住我手里塞。<br>「不需要。」<br>我的生活早就不正常了。<br>我把符纸往那术士脸上一丢，继续转身就走。<br>走了两步，发现她没有跟上来，还站在摊位前发呆。<br>「走了」<br>「啊，嗯。走吧」</p>
 <hr>
-<p>好久没有到过人这么多的地方了。<br>「你跟来不会觉得无聊吗」<br>「不会啊，这也是观测者乐趣的一部分」<br>似乎我朋友要晚到一点，先找个位置坐下好了。<br>虽然是高峰时段，但我还是找了个4人桌坐下了。<br>「你们不是就两个人吗，4人桌是不是太大了」<br>「你也坐下不就好了」<br>「是这样啊……」<br>于是她坐在了我旁边。<br>事到如今我还紧张个什么啊，明明在家里一直都呆在一起的。<br>坐下来等了几分钟。<br>「不好意思久等了」<br>他来了，呃……还带着她的女朋友。<br>「所以你选了个4人桌」<br>「不……我只是单纯地想让你坐在旁边而已……」<br>他看到了我，朝我这边走过来了。<br>「你刚在在跟谁说话？有电话吗」<br>「没有没有，只是自言自语而已」<br>「我有点晚了哈哈，稍微有点事情」<br>「没事没事，反正我也闲」<br>这不是说辞而是真的闲。<br>「这人看上去好有范儿啊」<br>「是啊，自从他交到女朋友之后就一直很注重这些」<br>他在人对面坐下，然后她女朋友自然地就坐在了幽灵的对面。<br>说起来我还不知道「幽灵」的名字呢。不过先算了吧。<br>「最近工作室刚做完一个单子啊，空出来一点时间」<br>「辛苦了辛苦了，你当时动画那么努力地学也算是有成果了啊」<br>「确实哈哈，没想到能走到这一步」<br>「这是怎么一回事啊」<br>她向我凑过来问。<br>「他在的工作室在网上已经火到出圈的地步了。本来是做游戏主题的动画的，但是很多不玩那个游戏的人也是他动画的粉丝。」<br>有了之前的教训，我这次在手机屏幕上打出来给她看。算是避免了精神错乱的嫌疑了。<br>「那你这边怎么样？大学还好吗？」<br>「还行吧，过得去」<br>其实一点都不行。<br>「啊对了，忘记跟你介绍了，这是我女朋友。」<br>「听说你是他初中同学，他也常跟我提起你，挺感兴趣的就打算见一面哈哈」<br>很讲礼貌的样子。<br>然后进行了一番没什么意义的寒暄。<br>要是之前看到他们两个人我一定会羡慕的，不过现在我不会了。<br>虽然是幽灵，但是应该再没有比她更能理解我的存在了。<br>是不是男女朋友的关系无所谓，有这样的知己就已经很满足了。<br>「喂，他们要呆到什么时候啊」<br>她好像有点不耐烦了。<br>「稍微等一下吧。他马上就会说有事情要走了」<br>「你怎么知道的？」<br>「因为没什么话好说」<br>果真，过了十多分钟，刚好吃完点的一点点东西。<br>「那我下午还有点事情，就先走了」<br>「噢，那加油啊」<br>「之前一直觉得你太消沉了，虽然感觉现在有点变化了，但是一直挺担心你的，你也得努力努力啊」<br>劝别人努力什么的，最无趣了。<br>「劝别人努力什么的，最无趣了。」<br>她直接说出来了。<br>但是对老同学还是直接敷衍过去吧。<br>「啊哈哈……我知道了，你加油]<br>「嗯，那再见，账我结了」<br>刚想说不用帮忙结账，他已经付好钱匆匆地走了。<br>「哎……」<br>「回去吧」<br>「嗯」<br>劝我努力什么的，他又怎么明白我的苦忠呢。<br>我有必要为了什么而努力吗。<br>有人会跟我一起努力吗。<br>努力了就会开心吗，会有人表扬有吗。<br>事到如今了再努力还有什么意义吗。<br>没有，都没有。<br>「快点啊，回家继续看电影了」<br>哈哈，还是这样的催促让人觉得暖心。</p>
+<p>她把手背在身后，加快步子跟上了我。<br>「话说，你叫什么名字啊」<br>一起生活了这么久还不知道互相的名字，确实也挺奇怪的。所以我还是问问吧。<br>「嗯？我的名字吗？」<br>「嗯」<br>「月。就是月亮的月」<br>单字吗。也挺好。<br>「那你叫我椋吧。木字傍一个京」<br>从名字里取出一个单字作为称乎应该也挺好的。<br>「嗯」<br>她一边说，一边低头看着脚尖走路，然后又突然抬起头，看向天空。<br>初升的月，很美。她缓缓开口说：<br>「你真的觉得跟我这样在一起就好吗？」<br>「当然了。对于我来说，再没有比这更想要的了」<br>「是吗。谢谢。」<br>她转过来面对着我笑了笑，那是一种很爽朗的笑，大概。<br>同时她的头发也随着一起飘动着。<br>「铃铃铃——」<br>「啊，我的电话」<br>「谁的？」<br>「我妈的」<br>虽然很不情愿，但是接通吧。<br>「喂？」<br>「喂？你爸这周末要回来，他说要见你」<br>「啊？这周末吗？」<br>「怎么？有别的事情吗？」<br>「倒也没有……」<br>「那就这么定了」<br>通话挂断了。<br>「什么事啊？」<br>「没啥，这个周末回一趟本家，而已」<br>「噢」<br>「你也一起来呗？把你介绍给我父母，哈哈哈，开玩笑的」<br>「诶？啊哈哈」<br>说实话，其实只不过是我觉得害怕罢了。<br>说起来今天星期几来着？好久没注意过了。<br>星期三啊。还有两天。<br>话说，买东西也忘了。</p>
 ]]></content>
       <categories>
         <category>朝色的小说</category>
@@ -622,11 +622,11 @@
       </tags>
   </entry>
   <entry>
-    <title>这样就好-六回目</title>
-    <url>/2022/03/16/%E8%BF%99%E6%A0%B7%E5%B0%B1%E5%A5%BD-%E5%85%AD%E5%9B%9E%E7%9B%AE/</url>
-    <content><![CDATA[<h1 id="知道得多了，这样好吗？"><a href="#知道得多了，这样好吗？" class="headerlink" title="知道得多了，这样好吗？"></a>知道得多了，这样好吗？</h1><p>偶尔也想出门呼吸一下新鲜的空气。<br>顺便去超市之类的地方逛逛吧，购物确实是减压的方式。<br>「我出去转转」<br>「噢，来了来了」<br>自然而然地又变成两人出门购物了。晚上刚过七点的街道行人寥寥无几，整个城市都沉浸在夜晚来到之前的寂静中。侧目看向并排走在傍边的她，长发仿佛也被晚风拂动。<br>拐入家边的一条路内，这条路上有个挺出名的古玩城。路边时常有人摆摊卖些古玩之类，偶尔也会卖别的东西，比如……算命之类的？不过现在都是在收拾摊位的时间了。<br>「喂，你！」<br>一个略显嘶哑的声音响起。发生什么事了啊，不过这种地方发生纠分也不奇怪。不理会他，继续走路。<br>「好像在叫你诶。」<br>「诶？」<br>听她这么一说，我转过头，确实看见有一个人看着我这边，用手招乎着我过去。摆得有模有样的算命摊，戴着一副圆框的眼镜，这不是典型的江湖骗子的形象吗。<br>「这也太可疑了吧，果真还是别理他了？」<br>我压低了声音对她说，可是还没等她回答——<br>「那边的小伙子，还有他女朋友，诶对对，就是你，过来下呗」<br>诶？！<br>「他好像能看见我？」<br>「好像是？」<br>喂喂不过还不是女朋友啊喂！<br>「能看见我的话也许是有真本事的？去看看？」<br>「嗯，如果真是这样的话」<br>我们走到他的摊子前面，他眯着眼睛从上倒下打量了我们两人一番。<br>「小伙子，果真是这样啊」<br>「什么？」<br>「你明明知道不是什么正常的东西，为什么还要让她跟着你呢？」<br>「哈？！你在说什么啊？！你能看见我算是你厉害，不过这是我的事情跟你也没什么关系吧」<br>「话是这么说了……小姐啊，你也知道这样下去他就没有回头路可以走了吧」<br>「什！」<br>「轻生的魂魄不得转世，带着生前的忧郁滞留于现世。你能看到她就已经很不妙了，再受她的影响，恐怕更是难逃一劫了。」<br>什么玄幻小说的解说啊。<br>「反正我愿意怎么样是我的事情吧。你能看到也许是有点本事，不过我用不着你来担心。少伪善了。」<br>自己平时是很不愿意用这种口气对人的。<br>「小伙子，这是为了你未来着想啊。你是很有才能的人，这样葬送了可惜了啊。以后还有很多机会的。」<br>火大。<br>我有什么才能啊。<br>就算有才能要这才能有什么用啊。<br>为什么我非得给这个社会做出点贡献不可啊。<br>我会得到什么回报吗？我能获得我想要的吗？<br>可笑。<br>现在对我来说再没有比在我身边的这位幽灵少女更在意的东西了。<br>世界就是毁灭了也无所谓。<br>「走了」<br>我跟她说，然后转身就走。<br>「等一下啊！」<br>那个算命先生一样的人拉住我的手。<br>「放开！」<br>「拿上这个吧！你要是改变想法了会有用的！只要把呆在你身边的幽灵消去，驱散掉邪气，你应该也能回归正常的生活了。」<br>说着他就把一个黄符纸住我手里塞。<br>「不需要。」<br>我的生活早就不正常了。<br>我把符纸往那术士脸上一丢，继续转身就走。<br>走了两步，发现她没有跟上来，还站在摊位前发呆。<br>「走了」<br>「啊，嗯。走吧」</p>
+    <title>这样就好-五回目</title>
+    <url>/2022/03/16/%E8%BF%99%E6%A0%B7%E5%B0%B1%E5%A5%BD-%E4%BA%94%E5%9B%9E%E7%9B%AE/</url>
+    <content><![CDATA[<h1 id="旧友：这样就好？"><a href="#旧友：这样就好？" class="headerlink" title="旧友：这样就好？"></a>旧友：这样就好？</h1><p>「本来以为自己会窝在家里直到最后的，没想到竟然会有事情需要出门……」<br>「怎么了？出什么事了？」<br>「我一个老朋友，最近闲下来有空，想要跟我见个面」<br>「诶……原来你还有老朋友啊」<br>「你这话说的……其实很久也没见过了，初中时代的朋友。但是从初中之后就再没交过那么要好的朋友了」<br>「那你就去见见呗」<br>「主要是他现在和从前，变化很大啊」<br>「嗯？」<br>「现在他已经是名利双收的成功人士了……」<br>我仰面往床上一躺。<br>她好像对我的朋友很有兴趣的样子，坐到了在我旁边。<br>「TA是男的，还是女的？」<br>「当然是男的啦，我那会那么有女人缘」<br>「啊哈哈……是这样嘛」<br>总觉得她松了一口气，也许是我的自作多情吧。<br>「高中的时候我一直浑浑噩噩，他也跟着我一起，虽然不怎么见面，但是每天都有联系」<br>「然后他交到了女朋友，应该说是和从前的女朋友复合了吧」<br>「从那以后就变化挺大的，本来在学做动画，现在已经每天单子多到做不完了」<br>「然后我呢……还是个NEET」<br>很想在床上滚几圈，但是旁边她在看着，还是算了。<br>「那你打算去见一下吗？」<br>「拒绝人家也不太好啊，还是答应下来了。他说他时间不多，也就在快餐店里见个面吃点东西」</p>
 <hr>
-<p>她把手背在身后，加快步子跟上了我。<br>「话说，你叫什么名字啊」<br>一起生活了这么久还不知道互相的名字，确实也挺奇怪的。所以我还是问问吧。<br>「嗯？我的名字吗？」<br>「嗯」<br>「月。就是月亮的月」<br>单字吗。也挺好。<br>「那你叫我椋吧。木字傍一个京」<br>从名字里取出一个单字作为称乎应该也挺好的。<br>「嗯」<br>她一边说，一边低头看着脚尖走路，然后又突然抬起头，看向天空。<br>初升的月，很美。她缓缓开口说：<br>「你真的觉得跟我这样在一起就好吗？」<br>「当然了。对于我来说，再没有比这更想要的了」<br>「是吗。谢谢。」<br>她转过来面对着我笑了笑，那是一种很爽朗的笑，大概。<br>同时她的头发也随着一起飘动着。<br>「铃铃铃——」<br>「啊，我的电话」<br>「谁的？」<br>「我妈的」<br>虽然很不情愿，但是接通吧。<br>「喂？」<br>「喂？你爸这周末要回来，他说要见你」<br>「啊？这周末吗？」<br>「怎么？有别的事情吗？」<br>「倒也没有……」<br>「那就这么定了」<br>通话挂断了。<br>「什么事啊？」<br>「没啥，这个周末回一趟本家，而已」<br>「噢」<br>「你也一起来呗？把你介绍给我父母，哈哈哈，开玩笑的」<br>「诶？啊哈哈」<br>说实话，其实只不过是我觉得害怕罢了。<br>说起来今天星期几来着？好久没注意过了。<br>星期三啊。还有两天。<br>话说，买东西也忘了。</p>
+<p>好久没有到过人这么多的地方了。<br>「你跟来不会觉得无聊吗」<br>「不会啊，这也是观测者乐趣的一部分」<br>似乎我朋友要晚到一点，先找个位置坐下好了。<br>虽然是高峰时段，但我还是找了个4人桌坐下了。<br>「你们不是就两个人吗，4人桌是不是太大了」<br>「你也坐下不就好了」<br>「是这样啊……」<br>于是她坐在了我旁边。<br>事到如今我还紧张个什么啊，明明在家里一直都呆在一起的。<br>坐下来等了几分钟。<br>「不好意思久等了」<br>他来了，呃……还带着她的女朋友。<br>「所以你选了个4人桌」<br>「不……我只是单纯地想让你坐在旁边而已……」<br>他看到了我，朝我这边走过来了。<br>「你刚在在跟谁说话？有电话吗」<br>「没有没有，只是自言自语而已」<br>「我有点晚了哈哈，稍微有点事情」<br>「没事没事，反正我也闲」<br>这不是说辞而是真的闲。<br>「这人看上去好有范儿啊」<br>「是啊，自从他交到女朋友之后就一直很注重这些」<br>他在人对面坐下，然后她女朋友自然地就坐在了幽灵的对面。<br>说起来我还不知道「幽灵」的名字呢。不过先算了吧。<br>「最近工作室刚做完一个单子啊，空出来一点时间」<br>「辛苦了辛苦了，你当时动画那么努力地学也算是有成果了啊」<br>「确实哈哈，没想到能走到这一步」<br>「这是怎么一回事啊」<br>她向我凑过来问。<br>「他在的工作室在网上已经火到出圈的地步了。本来是做游戏主题的动画的，但是很多不玩那个游戏的人也是他动画的粉丝。」<br>有了之前的教训，我这次在手机屏幕上打出来给她看。算是避免了精神错乱的嫌疑了。<br>「那你这边怎么样？大学还好吗？」<br>「还行吧，过得去」<br>其实一点都不行。<br>「啊对了，忘记跟你介绍了，这是我女朋友。」<br>「听说你是他初中同学，他也常跟我提起你，挺感兴趣的就打算见一面哈哈」<br>很讲礼貌的样子。<br>然后进行了一番没什么意义的寒暄。<br>要是之前看到他们两个人我一定会羡慕的，不过现在我不会了。<br>虽然是幽灵，但是应该再没有比她更能理解我的存在了。<br>是不是男女朋友的关系无所谓，有这样的知己就已经很满足了。<br>「喂，他们要呆到什么时候啊」<br>她好像有点不耐烦了。<br>「稍微等一下吧。他马上就会说有事情要走了」<br>「你怎么知道的？」<br>「因为没什么话好说」<br>果真，过了十多分钟，刚好吃完点的一点点东西。<br>「那我下午还有点事情，就先走了」<br>「噢，那加油啊」<br>「之前一直觉得你太消沉了，虽然感觉现在有点变化了，但是一直挺担心你的，你也得努力努力啊」<br>劝别人努力什么的，最无趣了。<br>「劝别人努力什么的，最无趣了。」<br>她直接说出来了。<br>但是对老同学还是直接敷衍过去吧。<br>「啊哈哈……我知道了，你加油]<br>「嗯，那再见，账我结了」<br>刚想说不用帮忙结账，他已经付好钱匆匆地走了。<br>「哎……」<br>「回去吧」<br>「嗯」<br>劝我努力什么的，他又怎么明白我的苦忠呢。<br>我有必要为了什么而努力吗。<br>有人会跟我一起努力吗。<br>努力了就会开心吗，会有人表扬有吗。<br>事到如今了再努力还有什么意义吗。<br>没有，都没有。<br>「快点啊，回家继续看电影了」<br>哈哈，还是这样的催促让人觉得暖心。</p>
 ]]></content>
       <categories>
         <category>朝色的小说</category>
