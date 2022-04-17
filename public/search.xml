@@ -18,19 +18,6 @@
       </tags>
   </entry>
   <entry>
-    <title>FedoraFun 创始人宣布学习Rust</title>
-    <url>/2021/12/18/FedoraFun-%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%AE%A3%E5%B8%83%E5%AD%A6%E4%B9%A0Rust/</url>
-    <content><![CDATA[<h1 id="朝色报创刊号"><a href="#朝色报创刊号" class="headerlink" title="朝色报创刊号"></a>朝色报创刊号</h1><p><img src="/images/21-12-18/pic_version.jpg" alt="使用Word制作的第一则报道"></p>
-<p>2021-12-18 <strong>刊号1</strong> <em>——朝色报</em></p>
-]]></content>
-      <categories>
-        <category>朝色报</category>
-      </categories>
-      <tags>
-        <tag>新闻</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>FedoraFun 重新上线</title>
     <url>/2022/02/06/FedoraFun-%E9%87%8D%E6%96%B0%E4%B8%8A%E7%BA%BF/</url>
     <content><![CDATA[<h1 id="FedoraFun-于下线约10日后重新上线"><a href="#FedoraFun-于下线约10日后重新上线" class="headerlink" title="FedoraFun 于下线约10日后重新上线"></a>FedoraFun 于下线约10日后重新上线</h1><p>2022年02月05日晚，下线许久的 FedoraFun 终于重新上线了。经由<a href="https://github.com/zxc3123857948">创始人</a>的努力，现在博客由 Halo 构建并且运行于独立服务器上。</p>
@@ -42,6 +29,19 @@
 <p>其实创始人在除夕之夜，这个本应与家人共度的节日里，还不忘全国的 FedoraFun 用户们，更新了软件包。并且明明正值新春佳节，却耗费时间与精力修复了 FedoraFun 官网。可见创始人的道德之高尚，与国外弄虚作假，整日不喜上班，浑浑噩噩的所谓“合理劳动”形成了鲜明的反差。创始人正是贯彻社区主义核心价值观的典范。</p>
 <p>最后，朝色报已经受到了 FedoraFun 创始人以及其它相关人员的关注。感谢大家的支持，如有疑问，建议可于评论中提出。</p>
 <p>2022-02-06 <strong>刊号3</strong> <em>——朝色报</em></p>
+]]></content>
+      <categories>
+        <category>朝色报</category>
+      </categories>
+      <tags>
+        <tag>新闻</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>FedoraFun 创始人宣布学习Rust</title>
+    <url>/2021/12/18/FedoraFun-%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%AE%A3%E5%B8%83%E5%AD%A6%E4%B9%A0Rust/</url>
+    <content><![CDATA[<h1 id="朝色报创刊号"><a href="#朝色报创刊号" class="headerlink" title="朝色报创刊号"></a>朝色报创刊号</h1><p><img src="/images/21-12-18/pic_version.jpg" alt="使用Word制作的第一则报道"></p>
+<p>2021-12-18 <strong>刊号1</strong> <em>——朝色报</em></p>
 ]]></content>
       <categories>
         <category>朝色报</category>
@@ -110,6 +110,22 @@
       </tags>
   </entry>
   <entry>
+    <title>PPET看板娘！</title>
+    <url>/2020/10/02/PPET%E7%9C%8B%E6%9D%BF%E5%A8%98%EF%BC%81/</url>
+    <content><![CDATA[<h1 id="PPET看板娘！"><a href="#PPET看板娘！" class="headerlink" title="PPET看板娘！"></a>PPET看板娘！</h1><p>右下角的看板娘是不是十分地养眼？你完全可以把她布署到你的桌面上喔！</p>
+<p>访问GITHUB地址：<a href="https://github.com/zenghongtu/PPet/releases">https://github.com/zenghongtu/PPet/releases</a></p>
+<a id="more"></a>
+<p>提供了Windows-exe，MacOS-dmg，Debian-deb格式，ArchLinux亲测debtap转包可行</p>
+<p>还支持导入模型（太赞了）</p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>有趣</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>用racket重写随机图片API！</title>
     <url>/2021/07/11/Racket-Random-Pic/</url>
     <content><![CDATA[<h1 id="用racket重写随机图片API！"><a href="#用racket重写随机图片API！" class="headerlink" title="用racket重写随机图片API！"></a>用racket重写随机图片API！</h1><p>之前我写过一篇用nodejs进行随机图片的API，作为一个lisp信徒我决定用racket——一门sheme的方言来重写它</p>
@@ -136,22 +152,6 @@
       </tags>
   </entry>
   <entry>
-    <title>PPET看板娘！</title>
-    <url>/2020/10/02/PPET%E7%9C%8B%E6%9D%BF%E5%A8%98%EF%BC%81/</url>
-    <content><![CDATA[<h1 id="PPET看板娘！"><a href="#PPET看板娘！" class="headerlink" title="PPET看板娘！"></a>PPET看板娘！</h1><p>右下角的看板娘是不是十分地养眼？你完全可以把她布署到你的桌面上喔！</p>
-<p>访问GITHUB地址：<a href="https://github.com/zenghongtu/PPet/releases">https://github.com/zenghongtu/PPet/releases</a></p>
-<a id="more"></a>
-<p>提供了Windows-exe，MacOS-dmg，Debian-deb格式，ArchLinux亲测debtap转包可行</p>
-<p>还支持导入模型（太赞了）</p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>有趣</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Random_Pic</title>
     <url>/2021/03/29/Random-Pic/</url>
     <content><![CDATA[<h1 id="随机图！！！"><a href="#随机图！！！" class="headerlink" title="随机图！！！"></a>随机图！！！</h1><p>快点点进来！</p>
@@ -164,6 +164,51 @@
       </categories>
       <tags>
         <tag>有趣</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>使用开源的软件0成本成为vtuber</title>
+    <url>/2021/09/12/%E4%BD%BF%E7%94%A8%E5%BC%80%E6%BA%90%E7%9A%84%E8%BD%AF%E4%BB%B60%E6%88%90%E6%9C%AC%E6%88%90%E4%B8%BAvtuber/</url>
+    <content><![CDATA[<p>vtuber是现今新兴的网络直播/出道方式，能够很方便地塑造一个人设，避免自己露脸的尴尬（</p>
+<p>不过很多的vtuber使用的软件都有授权限制，包括live2d也是商业项目</p>
+<p>所以！在这里你能够看到0成本的出道方式（硬件还是要成本的，最好有英伟达显卡），不过只能3D出道</p>
+<p>项目网址：</p>
+<ul>
+<li>OpenSeeFace-gd：<a href="https://github.com/you-win/openseeface-gd">https://github.com/you-win/openseeface-gd</a></li>
+<li>OpenSeeFace：<a href="https://github.com/emilianavt/OpenSeeFace">https://github.com/emilianavt/OpenSeeFace</a></li>
+</ul>
+<p>正文开始～始めるよ～</p>
+<p>vtuber软件可以分为两个部分</p>
+<ul>
+<li>一个是你看到的跟随实体主播变化的虚拟形像（前端）</li>
+<li>用来追踪你的五官或者身体的算法程序（后端）</li>
+</ul>
+<p>很多商业软件是将这两个部分整合起来的。因为这样更方便使用。</p>
+<p><strong>OpenSeeface-GD的windows发布版本也是整合好的，直接就可以用</strong></p>
+<p>朝色使用OpenSeeFace-gd作为前端：<br><img src="/images/21-09-12/front-end.png" alt="frontend"><br>下面的那个godot debug就是正在运行的程序</p>
+<p>朝色使用的后端是OpenSeeFace脚本：<br><img src="/images/21-09-12/back-end.png" alt="backend"></p>
+<p>如果你使用的是Windows系统，直接下截它提供的release即可，当然如果你的网络有点小问题不太方便，这是一个镜像站点的下截链接（写本文时最新）：</p>
+<ul>
+<li><a href="https://hub.fastgit.org/you-win/openseeface-gd/releases/download/0.6.0/OpenSeeFace-GD.zip">https://hub.fastgit.org/you-win/openseeface-gd/releases/download/0.6.0/OpenSeeFace-GD.zip</a></li>
+</ul>
+<p>下截好后解压运行exe即可，如果是linux自行按照readme来吧，挺顺利就弄好了（朝色我用的就是linux呢）</p>
+<p>之后你只需要点击“run face tracker”开始追踪面部，如果姿势很奇怪的话点setoffset，然后按空格键就可以恢复到正面对着屏幕的姿势。<br><img src="/images/21-09-12/error.png" alt="error"><br>奇奇怪怪的bug</p>
+<p>当然如果你现在的人物还是那只小黄鸭的话。。。你自然需要一个其它的模型啦。这个项目支持glb与vrm格式的人物模型。vrm的话有个网站上面有很多，有的甚至可以商用和二次发布。</p>
+<ul>
+<li><a href="https://3d.nicovideo.jp/">https://3d.nicovideo.jp</a><br>不知道访问情况如何，当然你也可以制做自己的vrm，steam上有pixiv的制做工具，上手还可以吧，不过linux下的兼容不行，比较麻烦。</li>
+<li><a href="https://store.steampowered.com/app/1486350/VRoid_Studio_v0140/">VRoid Studio</a><br>再用Load Model找到你的vrm就行了<br><img src="/images/21-09-12/load-model.png" alt="loadmodel"></li>
+</ul>
+<p>加截之后如果要调整肢体姿势，在Pose里选上要调的关节，apply一下，用鼠标滚轮就能调啦</p>
+<p>至于直播或者录屏的软件，这里推荐一个跨平台开源的软件OBS Studio<br><img src="/images/21-09-12/obs.png" alt="OBS Studio"></p>
+<ul>
+<li><a href="https://obsproject.com/">https://obsproject.com</a><br>或者你也可以从我的云盘下载：</li>
+<li><a href="https://pan.zhaose.cyou/home/Tools/Windows/OBS-Studio-27.0.1-Full-Installer-x64.exe">OBS 27.0.1 windows</a></li>
+</ul>
+<p>如果你还没看过我发在bilibili上的视频可以去看一下噢～</p>
+<p><em>by 晴朗的朝色泛起之际开始</em></p>
+]]></content>
+      <tags>
+        <tag>vtuber Linux 随手写</tag>
       </tags>
   </entry>
   <entry>
@@ -230,48 +275,19 @@
       </tags>
   </entry>
   <entry>
-    <title>使用开源的软件0成本成为vtuber</title>
-    <url>/2021/09/12/%E4%BD%BF%E7%94%A8%E5%BC%80%E6%BA%90%E7%9A%84%E8%BD%AF%E4%BB%B60%E6%88%90%E6%9C%AC%E6%88%90%E4%B8%BAvtuber/</url>
-    <content><![CDATA[<p>vtuber是现今新兴的网络直播/出道方式，能够很方便地塑造一个人设，避免自己露脸的尴尬（</p>
-<p>不过很多的vtuber使用的软件都有授权限制，包括live2d也是商业项目</p>
-<p>所以！在这里你能够看到0成本的出道方式（硬件还是要成本的，最好有英伟达显卡），不过只能3D出道</p>
-<p>项目网址：</p>
-<ul>
-<li>OpenSeeFace-gd：<a href="https://github.com/you-win/openseeface-gd">https://github.com/you-win/openseeface-gd</a></li>
-<li>OpenSeeFace：<a href="https://github.com/emilianavt/OpenSeeFace">https://github.com/emilianavt/OpenSeeFace</a></li>
-</ul>
-<p>正文开始～始めるよ～</p>
-<p>vtuber软件可以分为两个部分</p>
-<ul>
-<li>一个是你看到的跟随实体主播变化的虚拟形像（前端）</li>
-<li>用来追踪你的五官或者身体的算法程序（后端）</li>
-</ul>
-<p>很多商业软件是将这两个部分整合起来的。因为这样更方便使用。</p>
-<p><strong>OpenSeeface-GD的windows发布版本也是整合好的，直接就可以用</strong></p>
-<p>朝色使用OpenSeeFace-gd作为前端：<br><img src="/images/21-09-12/front-end.png" alt="frontend"><br>下面的那个godot debug就是正在运行的程序</p>
-<p>朝色使用的后端是OpenSeeFace脚本：<br><img src="/images/21-09-12/back-end.png" alt="backend"></p>
-<p>如果你使用的是Windows系统，直接下截它提供的release即可，当然如果你的网络有点小问题不太方便，这是一个镜像站点的下截链接（写本文时最新）：</p>
-<ul>
-<li><a href="https://hub.fastgit.org/you-win/openseeface-gd/releases/download/0.6.0/OpenSeeFace-GD.zip">https://hub.fastgit.org/you-win/openseeface-gd/releases/download/0.6.0/OpenSeeFace-GD.zip</a></li>
-</ul>
-<p>下截好后解压运行exe即可，如果是linux自行按照readme来吧，挺顺利就弄好了（朝色我用的就是linux呢）</p>
-<p>之后你只需要点击“run face tracker”开始追踪面部，如果姿势很奇怪的话点setoffset，然后按空格键就可以恢复到正面对着屏幕的姿势。<br><img src="/images/21-09-12/error.png" alt="error"><br>奇奇怪怪的bug</p>
-<p>当然如果你现在的人物还是那只小黄鸭的话。。。你自然需要一个其它的模型啦。这个项目支持glb与vrm格式的人物模型。vrm的话有个网站上面有很多，有的甚至可以商用和二次发布。</p>
-<ul>
-<li><a href="https://3d.nicovideo.jp/">https://3d.nicovideo.jp</a><br>不知道访问情况如何，当然你也可以制做自己的vrm，steam上有pixiv的制做工具，上手还可以吧，不过linux下的兼容不行，比较麻烦。</li>
-<li><a href="https://store.steampowered.com/app/1486350/VRoid_Studio_v0140/">VRoid Studio</a><br>再用Load Model找到你的vrm就行了<br><img src="/images/21-09-12/load-model.png" alt="loadmodel"></li>
-</ul>
-<p>加截之后如果要调整肢体姿势，在Pose里选上要调的关节，apply一下，用鼠标滚轮就能调啦</p>
-<p>至于直播或者录屏的软件，这里推荐一个跨平台开源的软件OBS Studio<br><img src="/images/21-09-12/obs.png" alt="OBS Studio"></p>
-<ul>
-<li><a href="https://obsproject.com/">https://obsproject.com</a><br>或者你也可以从我的云盘下载：</li>
-<li><a href="https://pan.zhaose.cyou/home/Tools/Windows/OBS-Studio-27.0.1-Full-Installer-x64.exe">OBS 27.0.1 windows</a></li>
-</ul>
-<p>如果你还没看过我发在bilibili上的视频可以去看一下噢～</p>
-<p><em>by 晴朗的朝色泛起之际开始</em></p>
+    <title>2020年10月12日</title>
+    <url>/2020/10/12/%E6%88%91%E4%BB%AC%E6%B4%BB%E5%9C%A8%E4%BD%95%E5%A4%84/</url>
+    <content><![CDATA[<p>#写于2020-10-12</p>
+<p>并非喜剧就能让人感到开心<br>常常一笑了之的背后<br>留下的是与欢乐不相称的孤独与寂莫<br>看在眼中的都是别人的欢乐</p>
+<a id="more"></a>
+<p>自己却没有获得的资格<br>只能感叹自己的不幸<br>没有欢乐<br>没有现实中触及得到的悲伤<br>只有自己一人不断地提醒自己<br>都是自己导致的后果<br>总是期望来自他人的奇迹<br>想要做出改变却从未开始<br>只有自己的情感逐渐麻木<br>到头来还是老样子</p>
+<p><em>by 从晴朗的朝色泛起之际开始</em></p>
 ]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
       <tags>
-        <tag>vtuber Linux 随手写</tag>
+        <tag>随手写</tag>
       </tags>
   </entry>
   <entry>
@@ -297,22 +313,6 @@
       </tags>
   </entry>
   <entry>
-    <title>2020年10月12日</title>
-    <url>/2020/10/12/%E6%88%91%E4%BB%AC%E6%B4%BB%E5%9C%A8%E4%BD%95%E5%A4%84/</url>
-    <content><![CDATA[<p>#写于2020-10-12</p>
-<p>并非喜剧就能让人感到开心<br>常常一笑了之的背后<br>留下的是与欢乐不相称的孤独与寂莫<br>看在眼中的都是别人的欢乐</p>
-<a id="more"></a>
-<p>自己却没有获得的资格<br>只能感叹自己的不幸<br>没有欢乐<br>没有现实中触及得到的悲伤<br>只有自己一人不断地提醒自己<br>都是自己导致的后果<br>总是期望来自他人的奇迹<br>想要做出改变却从未开始<br>只有自己的情感逐渐麻木<br>到头来还是老样子</p>
-<p><em>by 从晴朗的朝色泛起之际开始</em></p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>随手写</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>我关于许可证的看法</title>
     <url>/2021/08/01/%E6%88%91%E5%85%B3%E4%BA%8E%E8%AE%B8%E5%8F%AF%E8%AF%81%E7%9A%84%E7%9C%8B%E6%B3%95/</url>
     <content><![CDATA[<h1 id="我关于许可证的看法"><a href="#我关于许可证的看法" class="headerlink" title="我关于许可证的看法"></a>我关于许可证的看法</h1><p>先事先声明，我本人并不是专职的程序员，说实话也没有认真写过什么太多代码，所以以下就当做片面的个人看法观赏下好了。</p>
@@ -329,6 +329,26 @@
       </categories>
       <tags>
         <tag>随手写 Linux</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>打包软件到AUR</title>
+    <url>/2020/11/12/%E6%89%93%E5%8C%85%E8%BD%AF%E4%BB%B6%E5%88%B0AUR/</url>
+    <content><![CDATA[<h1 id="打包软件并共享到AUR"><a href="#打包软件并共享到AUR" class="headerlink" title="打包软件并共享到AUR"></a>打包软件并共享到AUR</h1><p>对于Arch Linux的用户来说，AUR软件仓库是常常为人所津津乐道的优势。其优点就在于极大的开放性。那么我们也可以打包软件上传到AUR，从白嫖进化到贡献者！</p>
+<p>首先到AUR注册一个账户，并且填入在本机生成的ssh密钥。然后克隆一个空仓库：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git <span class="built_in">clone</span> ssh://aur@aur.archlinux.org/gwm-git.git</span><br></pre></td></tr></table></figure>
+<a id="more"></a>
+<p>像这样，然后放入pkgbuild和校验文件</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git add PKGBUILD .SRCINFO</span><br></pre></td></tr></table></figure>
+<p>然后上传</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git push</span><br></pre></td></tr></table></figure>
+<p>接着在AUR上就可以看到你的软件了，可以用yay安装了！！</p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>Linux</tag>
       </tags>
   </entry>
   <entry>
@@ -399,23 +419,16 @@
       </tags>
   </entry>
   <entry>
-    <title>打包软件到AUR</title>
-    <url>/2020/11/12/%E6%89%93%E5%8C%85%E8%BD%AF%E4%BB%B6%E5%88%B0AUR/</url>
-    <content><![CDATA[<h1 id="打包软件并共享到AUR"><a href="#打包软件并共享到AUR" class="headerlink" title="打包软件并共享到AUR"></a>打包软件并共享到AUR</h1><p>对于Arch Linux的用户来说，AUR软件仓库是常常为人所津津乐道的优势。其优点就在于极大的开放性。那么我们也可以打包软件上传到AUR，从白嫖进化到贡献者！</p>
-<p>首先到AUR注册一个账户，并且填入在本机生成的ssh密钥。然后克隆一个空仓库：</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git <span class="built_in">clone</span> ssh://aur@aur.archlinux.org/gwm-git.git</span><br></pre></td></tr></table></figure>
-<a id="more"></a>
-<p>像这样，然后放入pkgbuild和校验文件</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git add PKGBUILD .SRCINFO</span><br></pre></td></tr></table></figure>
-<p>然后上传</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git push</span><br></pre></td></tr></table></figure>
-<p>接着在AUR上就可以看到你的软件了，可以用yay安装了！！</p>
+    <title>板绘札记-By_EF_Cosmos</title>
+    <url>/2020/10/02/%E6%9D%BF%E7%BB%98%E6%9C%AD%E8%AE%B0-By-Cosmos/</url>
+    <content><![CDATA[<p><img src="https://ftp.bmp.ovh/imgs/2020/10/774dd4eca2fa1c03.png" alt="Cosmos 板绘"></p>
+<p>我心中有颗树苗<br>路过的人都会为它浇水<br>我在等一个人<br>他可以陪我在树下乘凉<br><em>2020/9/6 by EF_Cosmos</em></p>
 ]]></content>
       <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
+        <category>EF_Cosmos</category>
       </categories>
       <tags>
-        <tag>Linux</tag>
+        <tag>EF_Cosmos的板绘</tag>
       </tags>
   </entry>
   <entry>
@@ -438,17 +451,16 @@
       </tags>
   </entry>
   <entry>
-    <title>玩过的ADV游戏</title>
-    <url>/2020/10/01/%E7%8E%A9%E8%BF%87%E7%9A%84ADV%E6%B8%B8%E6%88%8F/</url>
-    <content><![CDATA[<h1 id="我玩过的ADV游戏汇总（强推CLANNAD-Steins-Gate-！！！）"><a href="#我玩过的ADV游戏汇总（强推CLANNAD-Steins-Gate-！！！）" class="headerlink" title="我玩过的ADV游戏汇总（强推CLANNAD, Steins;Gate ！！！）"></a>我玩过的ADV游戏汇总（强推CLANNAD, Steins;Gate ！！！）</h1><p>红楼梦：林黛玉与北静王<br>恋爱与选举与巧克力<br>CLANNAD<br>KANNON<br>AIR</p>
-<a id="more"></a>
-<p>秋之回忆6：三角波澜<br>苍之彼方的四重奏<br>秋之回忆2<br>秋之回忆1<br>秋之回忆4：变成回忆的你<br>秋之回忆5：中断的胶片<br>秋之回忆3：想君<br>秋之回忆7：勾指起誓的回忆<br>秋之回忆6 FD<br>秋之回忆4 FD：从今以后<br>千恋万花<br>谜语小丑<br>纯白交响曲<br>恋花绽放樱飞时<br>天神乱漫<br>天色幻想岛<br>SPPL<br>CLOVER DAY’s<br>将军大人芳华正茂<br>将军大人芳华正茂FD<br>缘之空<br>悠之空<br>向日葵教会与长长的暑假<br>樱之诗（未完）<br>突然发现我已经恋上你<br>管乐恋曲<br>Making * Lovers!<br>Making * Lovers! vol.1<br>见习恋人<br>恋爱选举<br>花咲workingSpring!<br>夏梦渚<br>卡卢玛卢卡同好会<br>花之天使的夏日恋歌<br>牵绊闪耀的恋之伊吕波<br>流星 世界演绎者<br>LAMUNATION!<br>世界与世界的中心<br>秋之回忆8<br>在这片天空下展开一对翅膀<br>Steins;Gate<br>Meltymoments<br>Happiness2<br>与她*心渐近<br>魔女的夜宴<br>星光咖啡馆与死神之蝶<br>H2O赤沙印记<br>超级糖果～王道自有王道的理由<br>寄宿之恋<br>E × E<br>Noble Works<br>幼驯染与十年的夏<br>染成茜色的坂道<br>大图书馆的牧羊人<br>死神之吻乃离别之味<br>晓之护卫<br>鬼的捉迷藏<br>夜晚，徘徊在我们的辅导教室<br>古风萝莉之病娇默示录<br>DRACU-RIOT!<br>如月金星<br>从晴朗的朝色泛起之际开始</p>
+    <title>病娇日志100搬运</title>
+    <url>/2021/08/15/%E7%97%85%E5%A8%87%E6%97%A5%E5%BF%97100%E6%90%AC%E8%BF%90/</url>
+    <content><![CDATA[<h1 id="来自PIXIV的搬运"><a href="#来自PIXIV的搬运" class="headerlink" title="来自PIXIV的搬运"></a>来自PIXIV的搬运</h1><p><img src="/images/yandere.jpg" alt="p1"></p>
+<p><strong>by 从晴朗的朝色泛起之际开始</strong></p>
 ]]></content>
       <categories>
         <category>从晴朗的朝色泛起之际开始</category>
       </categories>
       <tags>
-        <tag>随手写</tag>
+        <tag>随手写 病娇</tag>
       </tags>
   </entry>
   <entry>
@@ -483,16 +495,17 @@
       </tags>
   </entry>
   <entry>
-    <title>病娇日志100搬运</title>
-    <url>/2021/08/15/%E7%97%85%E5%A8%87%E6%97%A5%E5%BF%97100%E6%90%AC%E8%BF%90/</url>
-    <content><![CDATA[<h1 id="来自PIXIV的搬运"><a href="#来自PIXIV的搬运" class="headerlink" title="来自PIXIV的搬运"></a>来自PIXIV的搬运</h1><p><img src="/images/yandere.jpg" alt="p1"></p>
-<p><strong>by 从晴朗的朝色泛起之际开始</strong></p>
+    <title>玩过的ADV游戏</title>
+    <url>/2020/10/01/%E7%8E%A9%E8%BF%87%E7%9A%84ADV%E6%B8%B8%E6%88%8F/</url>
+    <content><![CDATA[<h1 id="我玩过的ADV游戏汇总（强推CLANNAD-Steins-Gate-！！！）"><a href="#我玩过的ADV游戏汇总（强推CLANNAD-Steins-Gate-！！！）" class="headerlink" title="我玩过的ADV游戏汇总（强推CLANNAD, Steins;Gate ！！！）"></a>我玩过的ADV游戏汇总（强推CLANNAD, Steins;Gate ！！！）</h1><p>红楼梦：林黛玉与北静王<br>恋爱与选举与巧克力<br>CLANNAD<br>KANNON<br>AIR</p>
+<a id="more"></a>
+<p>秋之回忆6：三角波澜<br>苍之彼方的四重奏<br>秋之回忆2<br>秋之回忆1<br>秋之回忆4：变成回忆的你<br>秋之回忆5：中断的胶片<br>秋之回忆3：想君<br>秋之回忆7：勾指起誓的回忆<br>秋之回忆6 FD<br>秋之回忆4 FD：从今以后<br>千恋万花<br>谜语小丑<br>纯白交响曲<br>恋花绽放樱飞时<br>天神乱漫<br>天色幻想岛<br>SPPL<br>CLOVER DAY’s<br>将军大人芳华正茂<br>将军大人芳华正茂FD<br>缘之空<br>悠之空<br>向日葵教会与长长的暑假<br>樱之诗（未完）<br>突然发现我已经恋上你<br>管乐恋曲<br>Making * Lovers!<br>Making * Lovers! vol.1<br>见习恋人<br>恋爱选举<br>花咲workingSpring!<br>夏梦渚<br>卡卢玛卢卡同好会<br>花之天使的夏日恋歌<br>牵绊闪耀的恋之伊吕波<br>流星 世界演绎者<br>LAMUNATION!<br>世界与世界的中心<br>秋之回忆8<br>在这片天空下展开一对翅膀<br>Steins;Gate<br>Meltymoments<br>Happiness2<br>与她*心渐近<br>魔女的夜宴<br>星光咖啡馆与死神之蝶<br>H2O赤沙印记<br>超级糖果～王道自有王道的理由<br>寄宿之恋<br>E × E<br>Noble Works<br>幼驯染与十年的夏<br>染成茜色的坂道<br>大图书馆的牧羊人<br>死神之吻乃离别之味<br>晓之护卫<br>鬼的捉迷藏<br>夜晚，徘徊在我们的辅导教室<br>古风萝莉之病娇默示录<br>DRACU-RIOT!<br>如月金星<br>从晴朗的朝色泛起之际开始</p>
 ]]></content>
       <categories>
         <category>从晴朗的朝色泛起之际开始</category>
       </categories>
       <tags>
-        <tag>随手写 病娇</tag>
+        <tag>随手写</tag>
       </tags>
   </entry>
   <entry>
@@ -520,16 +533,20 @@
       </tags>
   </entry>
   <entry>
-    <title>板绘札记-By_EF_Cosmos</title>
-    <url>/2020/10/02/%E6%9D%BF%E7%BB%98%E6%9C%AD%E8%AE%B0-By-Cosmos/</url>
-    <content><![CDATA[<p><img src="https://ftp.bmp.ovh/imgs/2020/10/774dd4eca2fa1c03.png" alt="Cosmos 板绘"></p>
-<p>我心中有颗树苗<br>路过的人都会为它浇水<br>我在等一个人<br>他可以陪我在树下乘凉<br><em>2020/9/6 by EF_Cosmos</em></p>
+    <title>聊天客户端军备竞赛，冷战恐暴发</title>
+    <url>/2022/02/16/%E8%81%8A%E5%A4%A9%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%86%9B%E5%A4%87%E7%AB%9E%E8%B5%9B%EF%BC%8C%E5%86%B7%E6%88%98%E6%81%90%E6%9A%B4%E5%8F%91/</url>
+    <content><![CDATA[<h1 id="由于保密原因，本报道不提供图片"><a href="#由于保密原因，本报道不提供图片" class="headerlink" title="由于保密原因，本报道不提供图片"></a>由于保密原因，本报道不提供图片</h1><p>2022年02月09日许，其于Gtk4与Vala的GtkChat雏型被公之于世。在此时间点前后，基于Python与Qt的QTalk以及基于Rust与GtkWebEngine的FQ也发布了它们的初始版本。这一系列事件于近几日间已被推向了舆论的巅峰。</p>
+<p>聊天客户端的开发本身是一项高技术力的，高难度的，高成本的，高风险的工作。在此之前，有icalingua这一客户端的存在，其对全球造成了巨大的威慑。此次事件的起因，业内推测多与icalingua发生的变故有关。虽然具体的信息未得到披露，但是icalingua的影响力似乎有所减弱，这给了其它势力研发自己的聊天客户端的时间缺口。icalingua的集中威慑力首次受到了区大的威胁，这有可能是世界从单极化步入多极化的转折点。</p>
+<p>当只有一个强大的存在时，人们都不得不折服于其强大。但是当有了势均力敌的存在那么势必会引发竞争。现阶段每个新兴聊天客户端都使用了最新的技术，并且试图于各方面完败对手，处于紧张的发展状态之中。而且由于它们之间的互不相容，可能会产生新的「冷战」格局，并且加强加速各自的军备开发。但是此格局与历史上苏联以及美国之间所爆发的冷战有所不同，因为苏联与美国的冷战是两个超强势力之间的冷战，而现在的状况则存在着多个互不相容的超强势力。它们都有各自的盟友，却又不可能跟其它超强势力结盟。这意味着更加复杂的局势与更加不明郎的未来。</p>
+<p>鉴于现阶段的紧张局势，未来难以预料但不容乐观。卷入军备竞赛势必会对它们的经济民生发展产生影响。如果你处于这几个势力范围内，应当做好提前准备应对突发情况，比如客户端崩溃，内存泄露，运行缓慢等等。另外建立自己的势力开发聊天客户端加入竞争当中，也许也有助于将强大的势力衬托成为许多强大的势力当中平庸的一者，有助于缓解现阶段的「多极冷战」局势。</p>
+<p>在此历史性的时刻，能与大家一同目睹，是本报的荣幸。</p>
+<p>2022-02-17 <strong>刊号4</strong> <em>——朝色报</em></p>
 ]]></content>
       <categories>
-        <category>EF_Cosmos</category>
+        <category>朝色报</category>
       </categories>
       <tags>
-        <tag>EF_Cosmos的板绘</tag>
+        <tag>新闻</tag>
       </tags>
   </entry>
   <entry>
@@ -564,55 +581,12 @@
       </tags>
   </entry>
   <entry>
-    <title>聊天客户端军备竞赛，冷战恐暴发</title>
-    <url>/2022/02/16/%E8%81%8A%E5%A4%A9%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%86%9B%E5%A4%87%E7%AB%9E%E8%B5%9B%EF%BC%8C%E5%86%B7%E6%88%98%E6%81%90%E6%9A%B4%E5%8F%91/</url>
-    <content><![CDATA[<h1 id="由于保密原因，本报道不提供图片"><a href="#由于保密原因，本报道不提供图片" class="headerlink" title="由于保密原因，本报道不提供图片"></a>由于保密原因，本报道不提供图片</h1><p>2022年02月09日许，其于Gtk4与Vala的GtkChat雏型被公之于世。在此时间点前后，基于Python与Qt的QTalk以及基于Rust与GtkWebEngine的FQ也发布了它们的初始版本。这一系列事件于近几日间已被推向了舆论的巅峰。</p>
-<p>聊天客户端的开发本身是一项高技术力的，高难度的，高成本的，高风险的工作。在此之前，有icalingua这一客户端的存在，其对全球造成了巨大的威慑。此次事件的起因，业内推测多与icalingua发生的变故有关。虽然具体的信息未得到披露，但是icalingua的影响力似乎有所减弱，这给了其它势力研发自己的聊天客户端的时间缺口。icalingua的集中威慑力首次受到了区大的威胁，这有可能是世界从单极化步入多极化的转折点。</p>
-<p>当只有一个强大的存在时，人们都不得不折服于其强大。但是当有了势均力敌的存在那么势必会引发竞争。现阶段每个新兴聊天客户端都使用了最新的技术，并且试图于各方面完败对手，处于紧张的发展状态之中。而且由于它们之间的互不相容，可能会产生新的「冷战」格局，并且加强加速各自的军备开发。但是此格局与历史上苏联以及美国之间所爆发的冷战有所不同，因为苏联与美国的冷战是两个超强势力之间的冷战，而现在的状况则存在着多个互不相容的超强势力。它们都有各自的盟友，却又不可能跟其它超强势力结盟。这意味着更加复杂的局势与更加不明郎的未来。</p>
-<p>鉴于现阶段的紧张局势，未来难以预料但不容乐观。卷入军备竞赛势必会对它们的经济民生发展产生影响。如果你处于这几个势力范围内，应当做好提前准备应对突发情况，比如客户端崩溃，内存泄露，运行缓慢等等。另外建立自己的势力开发聊天客户端加入竞争当中，也许也有助于将强大的势力衬托成为许多强大的势力当中平庸的一者，有助于缓解现阶段的「多极冷战」局势。</p>
-<p>在此历史性的时刻，能与大家一同目睹，是本报的荣幸。</p>
-<p>2022-02-17 <strong>刊号4</strong> <em>——朝色报</em></p>
-]]></content>
-      <categories>
-        <category>朝色报</category>
-      </categories>
-      <tags>
-        <tag>新闻</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>这样就好_三回目</title>
     <url>/2021/11/09/%E8%BF%99%E6%A0%B7%E5%B0%B1%E5%A5%BD-%E4%B8%89%E5%9B%9E%E7%9B%AE/</url>
     <content><![CDATA[<h1 id="日常，再多一点就好"><a href="#日常，再多一点就好" class="headerlink" title="日常，再多一点就好"></a>日常，再多一点就好</h1><p>睁开眼，总觉得躺着很舒服。<br>从前不得不早起，现在却已经习惯了大段连续的睡眠与清醒了，但是一直躺着也很无聊。<br>起来好了。<br>随意地把被子扔到床上的一角，然后就往枕头下面摸手机。<br>嗯……平时都是这样醒来的，但是今天家里多了个存在，还是稍微注意一下行为举止吧。<br>她没有保持趴在桌子上看电脑的姿势，而是转身趴在了窗台上眺望。<br>椅子放得离窗户的点远，感觉她这个姿势挺辛苦的。<br>「几点了？」这样问一下刚好能同时告诉她我醒了。<br>「马上十点，还有半个小时」她边说着边恢复到正常的坐姿。<br>「是吗」随便附合了一声，披上外套。然后弄点杯面吃好了，已经12多个小时没吃东西了，这样想着打开了储物柜。<br>「啊……没了啊。」这才想起来上次吃掉的是最后的了，马上在网上再买一点，不过现在需要去便利店解决了。<br>「那我稍微出去一趟，你等着？」<br>「去哪儿？」<br>「楼下便利店」<br>「那我也去好了。坐了10几个小时了，一直看窗外也看腻了」<br>总觉得是第一次有人听见我说要出门，提出要跟我一起去。<br>虽然……是个幽灵？<br>我稍微整顿了一下衣着，她跟在我后面出门了。<br>对话要说还是挺少的。不过她还是喜欢站在电梯中间。我一直觉得站在电梯正当中很让人局促不安，至少有一面能靠着墙才有安全感。或者说那种有可能被他人包围的场景我不太擅长。<br>「为什么你一直站在电梯正当中啊」<br>「基本上没人会站这里吧，也就不会有人会撞到我了」<br>原来如此……反正别人也看不到，就没什么好局促的，反而保住自己的空间是重要的。也许幽灵也觉得自己和别的东西重合了会怪怪的吧。<br>「欢迎光临，XX便利店」<br>总觉得听到这样的播报声有种仪式感。<br>我拿了一杯杯面，要了一瓶常喝的酒。<br>「你也喜欢喝这个啊，我之前也挺喜欢的」<br>哈，果真和外表一样不是那种「好孩子」呢，应该是相处起来比较轻松的类型。<br>「嗯，这种酒喝起来没什么特别浓重的「酒」的实感，但是有点度数，不用多少就能达到半醉的状态。可以说是「性价比」比较高的了。」<br>一不小心说了这么多，身边有个人还真是不一样。<br>「嗯嗯，确实确实」<br>收银员很诧异地看着我。<br>坏了……我看上去就好像在意义不明地自言自语一样。而且刚刚那段话对于自言自语来说实在是太长了。<br>「其实不用特别回应我也行的啦。毕竟会看起来很奇怪」<br>「哈哈哈……倒也没关系，本来我就够奇怪的了」<br>没要塑料袋，两只手分别拿着东西和她并排走着。<br>橙黄色的路灯透过她照射在人行道上，没有留下影子。<br>这让我有了「啊，她确实不属于这个世界」这样的实感。<br>不如说有点羡慕。</p>
 <hr>
 <p>看完新番之后，她到我家来此行的目的也就了结了。<br>「番剧你也看好了，下面你打算怎么办？」<br>「嗯……」仰面躺在床上的她没有立刻回答。<br>一想到家里马上又要只剩下一个「人」了，莫名觉得复杂。<br>「你如果想多呆一会儿也没关系啊。毕竟也不会给我添什么麻烦。」<br>她忽地坐起身。<br>「哈？把幽灵留在家里哎？你是认真的吗？」<br>确实是认真的。<br>跟我这么像的灵魂是第一次见到。追一样的番，喜欢差不多的食物，性恪感觉也很像。<br>真的有种找到了归宿的感觉。<br>我坐到她傍边，当然也没有挨得太近。<br>「总觉得还有不少事情想问的。你如果有什么想要知道的我也可以帮你不是吗？可以算是共赢了吧。」<br>「那倒也是……只要你不觉得晦气的话」<br>晦气什么的……其实我一直对黑魔法什么的很有兴趣的哈哈哈哈……<br>「其实呆在这里也挺开心的。那你愿意的话我就再呆一阵子好了」<br>「嗯」<br>于是和的有点丧的幽灵少女的同居日常就这么开始了。</p>
 <p><strong>by 澄みわたる朝色</strong></p>
-]]></content>
-      <categories>
-        <category>朝色的小说</category>
-      </categories>
-      <tags>
-        <tag>这样就好</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>这样就好_二回目</title>
-    <url>/2021/11/09/%E8%BF%99%E6%A0%B7%E5%B0%B1%E5%A5%BD-%E4%BA%8C%E5%9B%9E%E7%9B%AE/</url>
-    <content><![CDATA[<h1 id="遇见了「幽灵」少女觉得这样不好"><a href="#遇见了「幽灵」少女觉得这样不好" class="headerlink" title="遇见了「幽灵」少女觉得这样不好"></a>遇见了「幽灵」少女觉得这样不好</h1><p>我一时间没能反应过来。<br>「自杀？」<br>「嗯，自杀。」<br>「我为什么要自杀啊？」<br>「不知道，但是最终一定会变成那样」<br>「为什么这么肯定啊」<br>「因为我就是这样啊」<br>啊……有经历吗，那就没法反驳了。<br>嗯？她就是那样？自杀了？还站在这里？还在跟我说话？这该不会……<br>比起害怕，不如说是有点激动。碰到这样的灵异事件我还是头一次，虽然一直相信着超自然的存在，却一次都没有真正见到过。<br>「也就是说，你是亡灵？幽灵？怨魂？」<br>看到我这样激动地问她，她好像很不解。<br>「哎？哎……大概就是普通的亡灵吧，我想」<br>「诶……」我从上到下打量着她，不过几乎看不出来她有什么异样。除了这实在太妹味儿过重的打扮。<br>「不会是在开玩笑吧……你是怎么进到我家里的？」<br>「啊，那很简单的」她直接走到门口，从门穿了出去，又穿过门进来。<br>「……」说实话我不敢相信自己的眼睛。<br>「那你不会踩不到地板什么的吗？」看着她很正常地在走路，这确实是个很大的问题，从物理学上来说。<br>「说白了只是无法做出影响物质世界的行动而已，我想触碰到就能触碰到，但是地板也好，人也是，对我都没有感觉的」<br>「诶……」<br>「那么回到最根本的问题上来。为什么要到我家里来？」<br>「因为你一看就是个宅，想来蹭一下你的动漫看看」<br>「哈？」<br>「今天有个叫那什么的新番更新对吧。感觉想你这样的人肯定会看的，于是我就跟来，如果你看的话我就也能看到了。」<br>「这算是傍观者视角了吧哈哈哈……」<br>「不过你记错了哦，那个明天才更新。」<br>「什！？」她好像小声说了点什么，不过我还是当成没听到吧。<br>「呃……你不介意的话明天再来也行啊？我反正也没事情干，你要看的话我放就是了」<br>「不用了。出去转悠可能就找不到怎么回来了，我今天就呆在这里等着了」<br>「你原来记不住路吗……」<br>「怎么，有意见啊」她走到我床边坐下，双手放在身后撑着，还翘起了二郎腿。很随意的人啊，是因为幽灵当久了吗？<br>「我的床不怎么干净……」刚想这么说，即然她是幽灵（？）那大概没关系吧。<br>「反正难得有能看见我的人，偶尔说说话也不错吧」她仰头望着天花板。<br>「平时你都在干什么？」<br>「反正时间对我来说很廉价。一般就到处转转，到别人家里看看，看到有什么动漫就蹭蹭，然后记住更新的时间，感觉时间差不多了再找地方看下一集」<br>「其它时候就在路上走走，看到有什么热闹了去看看，没什么特别的事情。就这样过了一两年了吧」<br>「能看见我的活人还跟我说话的，你是第一个」<br>「去世一两年了啊……」这么一个人呆着这么久，一定会觉得难受的吧。<br>如果我也时日不多的话，能帮上别人，那怕是个幽灵，也算是行了一份善事，无憾于世了。<br>「那要不一起出门去逛逛？还是说你有什么想在网上看的东西吗，我找给你看。」<br>「哎？没必要做到那样的地步啊，愿意给我看看番剧什么的就已经足够了——」<br>「啊……是吗……」到头来还是谁都帮不上呢，连幽灵都嫌弃的程度哈哈哈哈……<br>「那我睡一会儿，电脑就在那里放着。要是到番剧更新的时间了我还没醒你就叫我好了」<br>「行」她说完从我的床上起来，坐上了我刚离开的椅子，向前趴在桌子上盯着电脑屏幕。<br>也许已经习惯了漫长的时间和等待了吧。<br>「你不用睡觉吗？」<br>「当然不用」<br>想想也是。</p>
-]]></content>
-      <categories>
-        <category>朝色的小说</category>
-      </categories>
-      <tags>
-        <tag>这样就好</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>这样就好-五回目</title>
-    <url>/2022/03/16/%E8%BF%99%E6%A0%B7%E5%B0%B1%E5%A5%BD-%E4%BA%94%E5%9B%9E%E7%9B%AE/</url>
-    <content><![CDATA[<h1 id="旧友：这样就好？"><a href="#旧友：这样就好？" class="headerlink" title="旧友：这样就好？"></a>旧友：这样就好？</h1><p>「本来以为自己会窝在家里直到最后的，没想到竟然会有事情需要出门……」<br>「怎么了？出什么事了？」<br>「我一个老朋友，最近闲下来有空，想要跟我见个面」<br>「诶……原来你还有老朋友啊」<br>「你这话说的……其实很久也没见过了，初中时代的朋友。但是从初中之后就再没交过那么要好的朋友了」<br>「那你就去见见呗」<br>「主要是他现在和从前，变化很大啊」<br>「嗯？」<br>「现在他已经是名利双收的成功人士了……」<br>我仰面往床上一躺。<br>她好像对我的朋友很有兴趣的样子，坐到了在我旁边。<br>「TA是男的，还是女的？」<br>「当然是男的啦，我那会那么有女人缘」<br>「啊哈哈……是这样嘛」<br>总觉得她松了一口气，也许是我的自作多情吧。<br>「高中的时候我一直浑浑噩噩，他也跟着我一起，虽然不怎么见面，但是每天都有联系」<br>「然后他交到了女朋友，应该说是和从前的女朋友复合了吧」<br>「从那以后就变化挺大的，本来在学做动画，现在已经每天单子多到做不完了」<br>「然后我呢……还是个NEET」<br>很想在床上滚几圈，但是旁边她在看着，还是算了。<br>「那你打算去见一下吗？」<br>「拒绝人家也不太好啊，还是答应下来了。他说他时间不多，也就在快餐店里见个面吃点东西」</p>
-<hr>
-<p>好久没有到过人这么多的地方了。<br>「你跟来不会觉得无聊吗」<br>「不会啊，这也是观测者乐趣的一部分」<br>似乎我朋友要晚到一点，先找个位置坐下好了。<br>虽然是高峰时段，但我还是找了个4人桌坐下了。<br>「你们不是就两个人吗，4人桌是不是太大了」<br>「你也坐下不就好了」<br>「是这样啊……」<br>于是她坐在了我旁边。<br>事到如今我还紧张个什么啊，明明在家里一直都呆在一起的。<br>坐下来等了几分钟。<br>「不好意思久等了」<br>他来了，呃……还带着她的女朋友。<br>「所以你选了个4人桌」<br>「不……我只是单纯地想让你坐在旁边而已……」<br>他看到了我，朝我这边走过来了。<br>「你刚在在跟谁说话？有电话吗」<br>「没有没有，只是自言自语而已」<br>「我有点晚了哈哈，稍微有点事情」<br>「没事没事，反正我也闲」<br>这不是说辞而是真的闲。<br>「这人看上去好有范儿啊」<br>「是啊，自从他交到女朋友之后就一直很注重这些」<br>他在人对面坐下，然后她女朋友自然地就坐在了幽灵的对面。<br>说起来我还不知道「幽灵」的名字呢。不过先算了吧。<br>「最近工作室刚做完一个单子啊，空出来一点时间」<br>「辛苦了辛苦了，你当时动画那么努力地学也算是有成果了啊」<br>「确实哈哈，没想到能走到这一步」<br>「这是怎么一回事啊」<br>她向我凑过来问。<br>「他在的工作室在网上已经火到出圈的地步了。本来是做游戏主题的动画的，但是很多不玩那个游戏的人也是他动画的粉丝。」<br>有了之前的教训，我这次在手机屏幕上打出来给她看。算是避免了精神错乱的嫌疑了。<br>「那你这边怎么样？大学还好吗？」<br>「还行吧，过得去」<br>其实一点都不行。<br>「啊对了，忘记跟你介绍了，这是我女朋友。」<br>「听说你是他初中同学，他也常跟我提起你，挺感兴趣的就打算见一面哈哈」<br>很讲礼貌的样子。<br>然后进行了一番没什么意义的寒暄。<br>要是之前看到他们两个人我一定会羡慕的，不过现在我不会了。<br>虽然是幽灵，但是应该再没有比她更能理解我的存在了。<br>是不是男女朋友的关系无所谓，有这样的知己就已经很满足了。<br>「喂，他们要呆到什么时候啊」<br>她好像有点不耐烦了。<br>「稍微等一下吧。他马上就会说有事情要走了」<br>「你怎么知道的？」<br>「因为没什么话好说」<br>果真，过了十多分钟，刚好吃完点的一点点东西。<br>「那我下午还有点事情，就先走了」<br>「噢，那加油啊」<br>「之前一直觉得你太消沉了，虽然感觉现在有点变化了，但是一直挺担心你的，你也得努力努力啊」<br>劝别人努力什么的，最无趣了。<br>「劝别人努力什么的，最无趣了。」<br>她直接说出来了。<br>但是对老同学还是直接敷衍过去吧。<br>「啊哈哈……我知道了，你加油]<br>「嗯，那再见，账我结了」<br>刚想说不用帮忙结账，他已经付好钱匆匆地走了。<br>「哎……」<br>「回去吧」<br>「嗯」<br>劝我努力什么的，他又怎么明白我的苦忠呢。<br>我有必要为了什么而努力吗。<br>有人会跟我一起努力吗。<br>努力了就会开心吗，会有人表扬有吗。<br>事到如今了再努力还有什么意义吗。<br>没有，都没有。<br>「快点啊，回家继续看电影了」<br>哈哈，还是这样的催促让人觉得暖心。</p>
 ]]></content>
       <categories>
         <category>朝色的小说</category>
@@ -636,17 +610,29 @@
       </tags>
   </entry>
   <entry>
-    <title>速写札记-By_EF_Cosmos</title>
-    <url>/2020/10/02/%E9%80%9F%E5%86%99%E6%9C%AD%E8%AE%B0-By-EF-Cosmos/</url>
-    <content><![CDATA[<p><img src="https://ftp.bmp.ovh/imgs/2020/10/d953f82bbfc9aebb.jpg" alt="EF_Cosmos 板绘"></p>
-<p><img src="https://ftp.bmp.ovh/imgs/2020/10/7ce64efdcc79507e.jpg" alt="EF_Cosmos 板绘"></p>
-<p>每日速写<br><em>2020/10/02 by EF_Cosmos</em></p>
+    <title>这样就好-五回目</title>
+    <url>/2022/03/16/%E8%BF%99%E6%A0%B7%E5%B0%B1%E5%A5%BD-%E4%BA%94%E5%9B%9E%E7%9B%AE/</url>
+    <content><![CDATA[<h1 id="旧友：这样就好？"><a href="#旧友：这样就好？" class="headerlink" title="旧友：这样就好？"></a>旧友：这样就好？</h1><p>「本来以为自己会窝在家里直到最后的，没想到竟然会有事情需要出门……」<br>「怎么了？出什么事了？」<br>「我一个老朋友，最近闲下来有空，想要跟我见个面」<br>「诶……原来你还有老朋友啊」<br>「你这话说的……其实很久也没见过了，初中时代的朋友。但是从初中之后就再没交过那么要好的朋友了」<br>「那你就去见见呗」<br>「主要是他现在和从前，变化很大啊」<br>「嗯？」<br>「现在他已经是名利双收的成功人士了……」<br>我仰面往床上一躺。<br>她好像对我的朋友很有兴趣的样子，坐到了在我旁边。<br>「TA是男的，还是女的？」<br>「当然是男的啦，我那会那么有女人缘」<br>「啊哈哈……是这样嘛」<br>总觉得她松了一口气，也许是我的自作多情吧。<br>「高中的时候我一直浑浑噩噩，他也跟着我一起，虽然不怎么见面，但是每天都有联系」<br>「然后他交到了女朋友，应该说是和从前的女朋友复合了吧」<br>「从那以后就变化挺大的，本来在学做动画，现在已经每天单子多到做不完了」<br>「然后我呢……还是个NEET」<br>很想在床上滚几圈，但是旁边她在看着，还是算了。<br>「那你打算去见一下吗？」<br>「拒绝人家也不太好啊，还是答应下来了。他说他时间不多，也就在快餐店里见个面吃点东西」</p>
+<hr>
+<p>好久没有到过人这么多的地方了。<br>「你跟来不会觉得无聊吗」<br>「不会啊，这也是观测者乐趣的一部分」<br>似乎我朋友要晚到一点，先找个位置坐下好了。<br>虽然是高峰时段，但我还是找了个4人桌坐下了。<br>「你们不是就两个人吗，4人桌是不是太大了」<br>「你也坐下不就好了」<br>「是这样啊……」<br>于是她坐在了我旁边。<br>事到如今我还紧张个什么啊，明明在家里一直都呆在一起的。<br>坐下来等了几分钟。<br>「不好意思久等了」<br>他来了，呃……还带着她的女朋友。<br>「所以你选了个4人桌」<br>「不……我只是单纯地想让你坐在旁边而已……」<br>他看到了我，朝我这边走过来了。<br>「你刚在在跟谁说话？有电话吗」<br>「没有没有，只是自言自语而已」<br>「我有点晚了哈哈，稍微有点事情」<br>「没事没事，反正我也闲」<br>这不是说辞而是真的闲。<br>「这人看上去好有范儿啊」<br>「是啊，自从他交到女朋友之后就一直很注重这些」<br>他在人对面坐下，然后她女朋友自然地就坐在了幽灵的对面。<br>说起来我还不知道「幽灵」的名字呢。不过先算了吧。<br>「最近工作室刚做完一个单子啊，空出来一点时间」<br>「辛苦了辛苦了，你当时动画那么努力地学也算是有成果了啊」<br>「确实哈哈，没想到能走到这一步」<br>「这是怎么一回事啊」<br>她向我凑过来问。<br>「他在的工作室在网上已经火到出圈的地步了。本来是做游戏主题的动画的，但是很多不玩那个游戏的人也是他动画的粉丝。」<br>有了之前的教训，我这次在手机屏幕上打出来给她看。算是避免了精神错乱的嫌疑了。<br>「那你这边怎么样？大学还好吗？」<br>「还行吧，过得去」<br>其实一点都不行。<br>「啊对了，忘记跟你介绍了，这是我女朋友。」<br>「听说你是他初中同学，他也常跟我提起你，挺感兴趣的就打算见一面哈哈」<br>很讲礼貌的样子。<br>然后进行了一番没什么意义的寒暄。<br>要是之前看到他们两个人我一定会羡慕的，不过现在我不会了。<br>虽然是幽灵，但是应该再没有比她更能理解我的存在了。<br>是不是男女朋友的关系无所谓，有这样的知己就已经很满足了。<br>「喂，他们要呆到什么时候啊」<br>她好像有点不耐烦了。<br>「稍微等一下吧。他马上就会说有事情要走了」<br>「你怎么知道的？」<br>「因为没什么话好说」<br>果真，过了十多分钟，刚好吃完点的一点点东西。<br>「那我下午还有点事情，就先走了」<br>「噢，那加油啊」<br>「之前一直觉得你太消沉了，虽然感觉现在有点变化了，但是一直挺担心你的，你也得努力努力啊」<br>劝别人努力什么的，最无趣了。<br>「劝别人努力什么的，最无趣了。」<br>她直接说出来了。<br>但是对老同学还是直接敷衍过去吧。<br>「啊哈哈……我知道了，你加油]<br>「嗯，那再见，账我结了」<br>刚想说不用帮忙结账，他已经付好钱匆匆地走了。<br>「哎……」<br>「回去吧」<br>「嗯」<br>劝我努力什么的，他又怎么明白我的苦忠呢。<br>我有必要为了什么而努力吗。<br>有人会跟我一起努力吗。<br>努力了就会开心吗，会有人表扬有吗。<br>事到如今了再努力还有什么意义吗。<br>没有，都没有。<br>「快点啊，回家继续看电影了」<br>哈哈，还是这样的催促让人觉得暖心。</p>
 ]]></content>
       <categories>
-        <category>EF_Cosmos</category>
+        <category>朝色的小说</category>
       </categories>
       <tags>
-        <tag>EF_Cosmos的板绘</tag>
+        <tag>这样就好</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>这样就好_二回目</title>
+    <url>/2021/11/09/%E8%BF%99%E6%A0%B7%E5%B0%B1%E5%A5%BD-%E4%BA%8C%E5%9B%9E%E7%9B%AE/</url>
+    <content><![CDATA[<h1 id="遇见了「幽灵」少女觉得这样不好"><a href="#遇见了「幽灵」少女觉得这样不好" class="headerlink" title="遇见了「幽灵」少女觉得这样不好"></a>遇见了「幽灵」少女觉得这样不好</h1><p>我一时间没能反应过来。<br>「自杀？」<br>「嗯，自杀。」<br>「我为什么要自杀啊？」<br>「不知道，但是最终一定会变成那样」<br>「为什么这么肯定啊」<br>「因为我就是这样啊」<br>啊……有经历吗，那就没法反驳了。<br>嗯？她就是那样？自杀了？还站在这里？还在跟我说话？这该不会……<br>比起害怕，不如说是有点激动。碰到这样的灵异事件我还是头一次，虽然一直相信着超自然的存在，却一次都没有真正见到过。<br>「也就是说，你是亡灵？幽灵？怨魂？」<br>看到我这样激动地问她，她好像很不解。<br>「哎？哎……大概就是普通的亡灵吧，我想」<br>「诶……」我从上到下打量着她，不过几乎看不出来她有什么异样。除了这实在太妹味儿过重的打扮。<br>「不会是在开玩笑吧……你是怎么进到我家里的？」<br>「啊，那很简单的」她直接走到门口，从门穿了出去，又穿过门进来。<br>「……」说实话我不敢相信自己的眼睛。<br>「那你不会踩不到地板什么的吗？」看着她很正常地在走路，这确实是个很大的问题，从物理学上来说。<br>「说白了只是无法做出影响物质世界的行动而已，我想触碰到就能触碰到，但是地板也好，人也是，对我都没有感觉的」<br>「诶……」<br>「那么回到最根本的问题上来。为什么要到我家里来？」<br>「因为你一看就是个宅，想来蹭一下你的动漫看看」<br>「哈？」<br>「今天有个叫那什么的新番更新对吧。感觉想你这样的人肯定会看的，于是我就跟来，如果你看的话我就也能看到了。」<br>「这算是傍观者视角了吧哈哈哈……」<br>「不过你记错了哦，那个明天才更新。」<br>「什！？」她好像小声说了点什么，不过我还是当成没听到吧。<br>「呃……你不介意的话明天再来也行啊？我反正也没事情干，你要看的话我放就是了」<br>「不用了。出去转悠可能就找不到怎么回来了，我今天就呆在这里等着了」<br>「你原来记不住路吗……」<br>「怎么，有意见啊」她走到我床边坐下，双手放在身后撑着，还翘起了二郎腿。很随意的人啊，是因为幽灵当久了吗？<br>「我的床不怎么干净……」刚想这么说，即然她是幽灵（？）那大概没关系吧。<br>「反正难得有能看见我的人，偶尔说说话也不错吧」她仰头望着天花板。<br>「平时你都在干什么？」<br>「反正时间对我来说很廉价。一般就到处转转，到别人家里看看，看到有什么动漫就蹭蹭，然后记住更新的时间，感觉时间差不多了再找地方看下一集」<br>「其它时候就在路上走走，看到有什么热闹了去看看，没什么特别的事情。就这样过了一两年了吧」<br>「能看见我的活人还跟我说话的，你是第一个」<br>「去世一两年了啊……」这么一个人呆着这么久，一定会觉得难受的吧。<br>如果我也时日不多的话，能帮上别人，那怕是个幽灵，也算是行了一份善事，无憾于世了。<br>「那要不一起出门去逛逛？还是说你有什么想在网上看的东西吗，我找给你看。」<br>「哎？没必要做到那样的地步啊，愿意给我看看番剧什么的就已经足够了——」<br>「啊……是吗……」到头来还是谁都帮不上呢，连幽灵都嫌弃的程度哈哈哈哈……<br>「那我睡一会儿，电脑就在那里放着。要是到番剧更新的时间了我还没醒你就叫我好了」<br>「行」她说完从我的床上起来，坐上了我刚离开的椅子，向前趴在桌子上盯着电脑屏幕。<br>也许已经习惯了漫长的时间和等待了吧。<br>「你不用睡觉吗？」<br>「当然不用」<br>想想也是。</p>
+]]></content>
+      <categories>
+        <category>朝色的小说</category>
+      </categories>
+      <tags>
+        <tag>这样就好</tag>
       </tags>
   </entry>
   <entry>
@@ -662,6 +648,20 @@
       </categories>
       <tags>
         <tag>这样就好</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>速写札记-By_EF_Cosmos</title>
+    <url>/2020/10/02/%E9%80%9F%E5%86%99%E6%9C%AD%E8%AE%B0-By-EF-Cosmos/</url>
+    <content><![CDATA[<p><img src="https://ftp.bmp.ovh/imgs/2020/10/d953f82bbfc9aebb.jpg" alt="EF_Cosmos 板绘"></p>
+<p><img src="https://ftp.bmp.ovh/imgs/2020/10/7ce64efdcc79507e.jpg" alt="EF_Cosmos 板绘"></p>
+<p>每日速写<br><em>2020/10/02 by EF_Cosmos</em></p>
+]]></content>
+      <categories>
+        <category>EF_Cosmos</category>
+      </categories>
+      <tags>
+        <tag>EF_Cosmos的板绘</tag>
       </tags>
   </entry>
 </search>
