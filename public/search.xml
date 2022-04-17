@@ -18,6 +18,19 @@
       </tags>
   </entry>
   <entry>
+    <title>FedoraFun 创始人宣布学习Rust</title>
+    <url>/2021/12/18/FedoraFun-%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%AE%A3%E5%B8%83%E5%AD%A6%E4%B9%A0Rust/</url>
+    <content><![CDATA[<h1 id="朝色报创刊号"><a href="#朝色报创刊号" class="headerlink" title="朝色报创刊号"></a>朝色报创刊号</h1><p><img src="/images/21-12-18/pic_version.jpg" alt="使用Word制作的第一则报道"></p>
+<p>2021-12-18 <strong>刊号1</strong> <em>——朝色报</em></p>
+]]></content>
+      <categories>
+        <category>朝色报</category>
+      </categories>
+      <tags>
+        <tag>新闻</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>FedoraFun 重新上线</title>
     <url>/2022/02/06/FedoraFun-%E9%87%8D%E6%96%B0%E4%B8%8A%E7%BA%BF/</url>
     <content><![CDATA[<h1 id="FedoraFun-于下线约10日后重新上线"><a href="#FedoraFun-于下线约10日后重新上线" class="headerlink" title="FedoraFun 于下线约10日后重新上线"></a>FedoraFun 于下线约10日后重新上线</h1><p>2022年02月05日晚，下线许久的 FedoraFun 终于重新上线了。经由<a href="https://github.com/zxc3123857948">创始人</a>的努力，现在博客由 Halo 构建并且运行于独立服务器上。</p>
@@ -29,19 +42,6 @@
 <p>其实创始人在除夕之夜，这个本应与家人共度的节日里，还不忘全国的 FedoraFun 用户们，更新了软件包。并且明明正值新春佳节，却耗费时间与精力修复了 FedoraFun 官网。可见创始人的道德之高尚，与国外弄虚作假，整日不喜上班，浑浑噩噩的所谓“合理劳动”形成了鲜明的反差。创始人正是贯彻社区主义核心价值观的典范。</p>
 <p>最后，朝色报已经受到了 FedoraFun 创始人以及其它相关人员的关注。感谢大家的支持，如有疑问，建议可于评论中提出。</p>
 <p>2022-02-06 <strong>刊号3</strong> <em>——朝色报</em></p>
-]]></content>
-      <categories>
-        <category>朝色报</category>
-      </categories>
-      <tags>
-        <tag>新闻</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>FedoraFun 创始人宣布学习Rust</title>
-    <url>/2021/12/18/FedoraFun-%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%AE%A3%E5%B8%83%E5%AD%A6%E4%B9%A0Rust/</url>
-    <content><![CDATA[<h1 id="朝色报创刊号"><a href="#朝色报创刊号" class="headerlink" title="朝色报创刊号"></a>朝色报创刊号</h1><p><img src="/images/21-12-18/pic_version.jpg" alt="使用Word制作的第一则报道"></p>
-<p>2021-12-18 <strong>刊号1</strong> <em>——朝色报</em></p>
 ]]></content>
       <categories>
         <category>朝色报</category>
@@ -167,6 +167,34 @@
       </tags>
   </entry>
   <entry>
+    <title>i3窗口管理器配置</title>
+    <url>/2021/04/02/i3%E7%AA%97%E5%8F%A3%E7%AE%A1%E7%90%86%E5%99%A8%E9%85%8D%E7%BD%AE/</url>
+    <content><![CDATA[<h1 id="配置你的i3wm！（基于Arch-Linux，i3-gaps）"><a href="#配置你的i3wm！（基于Arch-Linux，i3-gaps）" class="headerlink" title="配置你的i3wm！（基于Arch Linux，i3-gaps）"></a>配置你的i3wm！（基于Arch Linux，i3-gaps）</h1><p>i3wm是一个动态窗口管理器。与通常的桌面环境不同，窗口管理器不含有各种轮子，所以非常轻量。常见的窗口管理器有openbox（堆叠），compiz（极至特效），i3（平铺），awesome（平铺），bspwm（平铺），dwm（平铺）。在这些窗口管理器中openbox与compiz配置好了之后几乎与桌面环境使用起来无异。</p>
+<p>然而，我们用wm只是为了轻量吗？不，当然还有平铺！</p>
+<p><em>在所有的平铺窗口管理器里，i3有着最为灵活的窗口布局方式，多叉树的结构可以排出各式各样的布局</em></p>
+<p>那么，今天就给大家分享一下i3-gaps的配置过程。首先安装一下i3:</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo pacman -S i3-gaps picom i3lock xss-lock polybar alacritty feh rofi</span><br></pre></td></tr></table></figure>
+<p>注意，如果装的不是i3wm那么是不支持窗口间隙的，需要安装i3-gaps这个包。上面的几个包中，picom是负责窗口特效的，诸如透明之类，i3lock是锁屏支持，xss-lock在systemd发出睡眠信号的时候自动调用锁屏，polybar是状态栏，可选。alacritty是个很棒的终端，可选。feh是壁纸支持，应当安装。rofi是应用程序启动器，也可以换成dmenu。</p>
+<p>另外，我本人还使用了一些xfce4以及KDE的组件，安装如下</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo pacman -S xfce4-notifyd xfce4-power-manager spectacle</span><br></pre></td></tr></table></figure>
+<p>分别是通知与电源管理，不装电源管理的话调节屏幕亮度会有点麻烦，建议安装。最后一个是KDE的截图软件，是我目前用过的最好用的截图！</p>
+<p>然后在~/.config/i3/config里进行配置</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">gaps inner 4</span><br><span class="line">gaps outer 3 </span><br><span class="line">exec --no-startup-id picom --experimental-backends</span><br><span class="line">exec --no-startup-id feh --bg-fill ~&#x2F;Pictures&#x2F;</span><br><span class="line">exec --no-startup-id xfce4-power-manager</span><br><span class="line">exec --no-startup-id xss-lock -- i3lock -n -c 000011</span><br><span class="line">exec --no-startup-id spectacle -s</span><br><span class="line">exec --no-startup-id &#x2F;usr&#x2F;lib&#x2F;xfce4&#x2F;notifyd&#x2F;xfce4-notifyd</span><br><span class="line"></span><br><span class="line">hide_edge_borders smart</span><br><span class="line">smart_gaps on</span><br><span class="line">default_border pixel 2</span><br><span class="line">default_floating_border pixel 2</span><br><span class="line"></span><br><span class="line">exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork</span><br></pre></td></tr></table></figure>
+<p>装以上的文字加入配置文件，登出重新进入应该就可以看到桌面了。（picom与polybar的配置是无底洞，这里不多说了）</p>
+<p>如有错误之处请自行更正，还望谅解！</p>
+<p>上图，看鄙人配置结果（由乃赛高！<del>夹带私货</del>）</p>
+<p><img src="/images/yuno.jpg" alt="我妻由乃赛高"></p>
+<p>诸君还可以加这个Q群玩耍哦～<br>859529818<br>（不是我的群）</p>
+<p><em>by从睛朗的朝色泛起之际开始</em></p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>Linux</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>使用开源的软件0成本成为vtuber</title>
     <url>/2021/09/12/%E4%BD%BF%E7%94%A8%E5%BC%80%E6%BA%90%E7%9A%84%E8%BD%AF%E4%BB%B60%E6%88%90%E6%9C%AC%E6%88%90%E4%B8%BAvtuber/</url>
     <content><![CDATA[<p>vtuber是现今新兴的网络直播/出道方式，能够很方便地塑造一个人设，避免自己露脸的尴尬（</p>
@@ -212,34 +240,6 @@
       </tags>
   </entry>
   <entry>
-    <title>i3窗口管理器配置</title>
-    <url>/2021/04/02/i3%E7%AA%97%E5%8F%A3%E7%AE%A1%E7%90%86%E5%99%A8%E9%85%8D%E7%BD%AE/</url>
-    <content><![CDATA[<h1 id="配置你的i3wm！（基于Arch-Linux，i3-gaps）"><a href="#配置你的i3wm！（基于Arch-Linux，i3-gaps）" class="headerlink" title="配置你的i3wm！（基于Arch Linux，i3-gaps）"></a>配置你的i3wm！（基于Arch Linux，i3-gaps）</h1><p>i3wm是一个动态窗口管理器。与通常的桌面环境不同，窗口管理器不含有各种轮子，所以非常轻量。常见的窗口管理器有openbox（堆叠），compiz（极至特效），i3（平铺），awesome（平铺），bspwm（平铺），dwm（平铺）。在这些窗口管理器中openbox与compiz配置好了之后几乎与桌面环境使用起来无异。</p>
-<p>然而，我们用wm只是为了轻量吗？不，当然还有平铺！</p>
-<p><em>在所有的平铺窗口管理器里，i3有着最为灵活的窗口布局方式，多叉树的结构可以排出各式各样的布局</em></p>
-<p>那么，今天就给大家分享一下i3-gaps的配置过程。首先安装一下i3:</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo pacman -S i3-gaps picom i3lock xss-lock polybar alacritty feh rofi</span><br></pre></td></tr></table></figure>
-<p>注意，如果装的不是i3wm那么是不支持窗口间隙的，需要安装i3-gaps这个包。上面的几个包中，picom是负责窗口特效的，诸如透明之类，i3lock是锁屏支持，xss-lock在systemd发出睡眠信号的时候自动调用锁屏，polybar是状态栏，可选。alacritty是个很棒的终端，可选。feh是壁纸支持，应当安装。rofi是应用程序启动器，也可以换成dmenu。</p>
-<p>另外，我本人还使用了一些xfce4以及KDE的组件，安装如下</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo pacman -S xfce4-notifyd xfce4-power-manager spectacle</span><br></pre></td></tr></table></figure>
-<p>分别是通知与电源管理，不装电源管理的话调节屏幕亮度会有点麻烦，建议安装。最后一个是KDE的截图软件，是我目前用过的最好用的截图！</p>
-<p>然后在~/.config/i3/config里进行配置</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">gaps inner 4</span><br><span class="line">gaps outer 3 </span><br><span class="line">exec --no-startup-id picom --experimental-backends</span><br><span class="line">exec --no-startup-id feh --bg-fill ~&#x2F;Pictures&#x2F;</span><br><span class="line">exec --no-startup-id xfce4-power-manager</span><br><span class="line">exec --no-startup-id xss-lock -- i3lock -n -c 000011</span><br><span class="line">exec --no-startup-id spectacle -s</span><br><span class="line">exec --no-startup-id &#x2F;usr&#x2F;lib&#x2F;xfce4&#x2F;notifyd&#x2F;xfce4-notifyd</span><br><span class="line"></span><br><span class="line">hide_edge_borders smart</span><br><span class="line">smart_gaps on</span><br><span class="line">default_border pixel 2</span><br><span class="line">default_floating_border pixel 2</span><br><span class="line"></span><br><span class="line">exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork</span><br></pre></td></tr></table></figure>
-<p>装以上的文字加入配置文件，登出重新进入应该就可以看到桌面了。（picom与polybar的配置是无底洞，这里不多说了）</p>
-<p>如有错误之处请自行更正，还望谅解！</p>
-<p>上图，看鄙人配置结果（由乃赛高！<del>夹带私货</del>）</p>
-<p><img src="/images/yuno.jpg" alt="我妻由乃赛高"></p>
-<p>诸君还可以加这个Q群玩耍哦～<br>859529818<br>（不是我的群）</p>
-<p><em>by从睛朗的朝色泛起之际开始</em></p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>Linux</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>图片-By_EF_Cosmos</title>
     <url>/2020/10/08/%E5%9B%BE%E7%89%87-By-EF-Cosmos/</url>
     <content><![CDATA[<p><img src="https://pic.downk.cc/item/5f7f345d1cd1bbb86bd52df9.png" alt="图片"></p>
@@ -275,22 +275,6 @@
       </tags>
   </entry>
   <entry>
-    <title>2020年10月12日</title>
-    <url>/2020/10/12/%E6%88%91%E4%BB%AC%E6%B4%BB%E5%9C%A8%E4%BD%95%E5%A4%84/</url>
-    <content><![CDATA[<p>#写于2020-10-12</p>
-<p>并非喜剧就能让人感到开心<br>常常一笑了之的背后<br>留下的是与欢乐不相称的孤独与寂莫<br>看在眼中的都是别人的欢乐</p>
-<a id="more"></a>
-<p>自己却没有获得的资格<br>只能感叹自己的不幸<br>没有欢乐<br>没有现实中触及得到的悲伤<br>只有自己一人不断地提醒自己<br>都是自己导致的后果<br>总是期望来自他人的奇迹<br>想要做出改变却从未开始<br>只有自己的情感逐渐麻木<br>到头来还是老样子</p>
-<p><em>by 从晴朗的朝色泛起之际开始</em></p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>随手写</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>实用主义已死</title>
     <url>/2022/03/05/%E5%AE%9E%E7%94%A8%E4%B8%BB%E4%B9%89%E5%B7%B2%E6%AD%BB/</url>
     <content><![CDATA[<h2 id="对于实用主义的批评"><a href="#对于实用主义的批评" class="headerlink" title="对于实用主义的批评"></a>对于实用主义的批评</h2><p>关于尼采，「上帝已死」这一说法非常出名。其指的是在现代人们失去了「上帝」这种绝对法则的存在，而陷入精神判的虚无，无法认定什么是正确的，什么是错误的，因为判断这一切的「上帝」死了。</p>
@@ -310,6 +294,22 @@
       </categories>
       <tags>
         <tag>随手写 Linux</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2020年10月12日</title>
+    <url>/2020/10/12/%E6%88%91%E4%BB%AC%E6%B4%BB%E5%9C%A8%E4%BD%95%E5%A4%84/</url>
+    <content><![CDATA[<p>#写于2020-10-12</p>
+<p>并非喜剧就能让人感到开心<br>常常一笑了之的背后<br>留下的是与欢乐不相称的孤独与寂莫<br>看在眼中的都是别人的欢乐</p>
+<a id="more"></a>
+<p>自己却没有获得的资格<br>只能感叹自己的不幸<br>没有欢乐<br>没有现实中触及得到的悲伤<br>只有自己一人不断地提醒自己<br>都是自己导致的后果<br>总是期望来自他人的奇迹<br>想要做出改变却从未开始<br>只有自己的情感逐渐麻木<br>到头来还是老样子</p>
+<p><em>by 从晴朗的朝色泛起之际开始</em></p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>随手写</tag>
       </tags>
   </entry>
   <entry>
@@ -451,16 +451,17 @@
       </tags>
   </entry>
   <entry>
-    <title>病娇日志100搬运</title>
-    <url>/2021/08/15/%E7%97%85%E5%A8%87%E6%97%A5%E5%BF%97100%E6%90%AC%E8%BF%90/</url>
-    <content><![CDATA[<h1 id="来自PIXIV的搬运"><a href="#来自PIXIV的搬运" class="headerlink" title="来自PIXIV的搬运"></a>来自PIXIV的搬运</h1><p><img src="/images/yandere.jpg" alt="p1"></p>
-<p><strong>by 从晴朗的朝色泛起之际开始</strong></p>
+    <title>玩过的ADV游戏</title>
+    <url>/2020/10/01/%E7%8E%A9%E8%BF%87%E7%9A%84ADV%E6%B8%B8%E6%88%8F/</url>
+    <content><![CDATA[<h1 id="我玩过的ADV游戏汇总（强推CLANNAD-Steins-Gate-！！！）"><a href="#我玩过的ADV游戏汇总（强推CLANNAD-Steins-Gate-！！！）" class="headerlink" title="我玩过的ADV游戏汇总（强推CLANNAD, Steins;Gate ！！！）"></a>我玩过的ADV游戏汇总（强推CLANNAD, Steins;Gate ！！！）</h1><p>红楼梦：林黛玉与北静王<br>恋爱与选举与巧克力<br>CLANNAD<br>KANNON<br>AIR</p>
+<a id="more"></a>
+<p>秋之回忆6：三角波澜<br>苍之彼方的四重奏<br>秋之回忆2<br>秋之回忆1<br>秋之回忆4：变成回忆的你<br>秋之回忆5：中断的胶片<br>秋之回忆3：想君<br>秋之回忆7：勾指起誓的回忆<br>秋之回忆6 FD<br>秋之回忆4 FD：从今以后<br>千恋万花<br>谜语小丑<br>纯白交响曲<br>恋花绽放樱飞时<br>天神乱漫<br>天色幻想岛<br>SPPL<br>CLOVER DAY’s<br>将军大人芳华正茂<br>将军大人芳华正茂FD<br>缘之空<br>悠之空<br>向日葵教会与长长的暑假<br>樱之诗（未完）<br>突然发现我已经恋上你<br>管乐恋曲<br>Making * Lovers!<br>Making * Lovers! vol.1<br>见习恋人<br>恋爱选举<br>花咲workingSpring!<br>夏梦渚<br>卡卢玛卢卡同好会<br>花之天使的夏日恋歌<br>牵绊闪耀的恋之伊吕波<br>流星 世界演绎者<br>LAMUNATION!<br>世界与世界的中心<br>秋之回忆8<br>在这片天空下展开一对翅膀<br>Steins;Gate<br>Meltymoments<br>Happiness2<br>与她*心渐近<br>魔女的夜宴<br>星光咖啡馆与死神之蝶<br>H2O赤沙印记<br>超级糖果～王道自有王道的理由<br>寄宿之恋<br>E × E<br>Noble Works<br>幼驯染与十年的夏<br>染成茜色的坂道<br>大图书馆的牧羊人<br>死神之吻乃离别之味<br>晓之护卫<br>鬼的捉迷藏<br>夜晚，徘徊在我们的辅导教室<br>古风萝莉之病娇默示录<br>DRACU-RIOT!<br>如月金星<br>从晴朗的朝色泛起之际开始</p>
 ]]></content>
       <categories>
         <category>从晴朗的朝色泛起之际开始</category>
       </categories>
       <tags>
-        <tag>随手写 病娇</tag>
+        <tag>随手写</tag>
       </tags>
   </entry>
   <entry>
@@ -495,17 +496,16 @@
       </tags>
   </entry>
   <entry>
-    <title>玩过的ADV游戏</title>
-    <url>/2020/10/01/%E7%8E%A9%E8%BF%87%E7%9A%84ADV%E6%B8%B8%E6%88%8F/</url>
-    <content><![CDATA[<h1 id="我玩过的ADV游戏汇总（强推CLANNAD-Steins-Gate-！！！）"><a href="#我玩过的ADV游戏汇总（强推CLANNAD-Steins-Gate-！！！）" class="headerlink" title="我玩过的ADV游戏汇总（强推CLANNAD, Steins;Gate ！！！）"></a>我玩过的ADV游戏汇总（强推CLANNAD, Steins;Gate ！！！）</h1><p>红楼梦：林黛玉与北静王<br>恋爱与选举与巧克力<br>CLANNAD<br>KANNON<br>AIR</p>
-<a id="more"></a>
-<p>秋之回忆6：三角波澜<br>苍之彼方的四重奏<br>秋之回忆2<br>秋之回忆1<br>秋之回忆4：变成回忆的你<br>秋之回忆5：中断的胶片<br>秋之回忆3：想君<br>秋之回忆7：勾指起誓的回忆<br>秋之回忆6 FD<br>秋之回忆4 FD：从今以后<br>千恋万花<br>谜语小丑<br>纯白交响曲<br>恋花绽放樱飞时<br>天神乱漫<br>天色幻想岛<br>SPPL<br>CLOVER DAY’s<br>将军大人芳华正茂<br>将军大人芳华正茂FD<br>缘之空<br>悠之空<br>向日葵教会与长长的暑假<br>樱之诗（未完）<br>突然发现我已经恋上你<br>管乐恋曲<br>Making * Lovers!<br>Making * Lovers! vol.1<br>见习恋人<br>恋爱选举<br>花咲workingSpring!<br>夏梦渚<br>卡卢玛卢卡同好会<br>花之天使的夏日恋歌<br>牵绊闪耀的恋之伊吕波<br>流星 世界演绎者<br>LAMUNATION!<br>世界与世界的中心<br>秋之回忆8<br>在这片天空下展开一对翅膀<br>Steins;Gate<br>Meltymoments<br>Happiness2<br>与她*心渐近<br>魔女的夜宴<br>星光咖啡馆与死神之蝶<br>H2O赤沙印记<br>超级糖果～王道自有王道的理由<br>寄宿之恋<br>E × E<br>Noble Works<br>幼驯染与十年的夏<br>染成茜色的坂道<br>大图书馆的牧羊人<br>死神之吻乃离别之味<br>晓之护卫<br>鬼的捉迷藏<br>夜晚，徘徊在我们的辅导教室<br>古风萝莉之病娇默示录<br>DRACU-RIOT!<br>如月金星<br>从晴朗的朝色泛起之际开始</p>
+    <title>病娇日志100搬运</title>
+    <url>/2021/08/15/%E7%97%85%E5%A8%87%E6%97%A5%E5%BF%97100%E6%90%AC%E8%BF%90/</url>
+    <content><![CDATA[<h1 id="来自PIXIV的搬运"><a href="#来自PIXIV的搬运" class="headerlink" title="来自PIXIV的搬运"></a>来自PIXIV的搬运</h1><p><img src="/images/yandere.jpg" alt="p1"></p>
+<p><strong>by 从晴朗的朝色泛起之际开始</strong></p>
 ]]></content>
       <categories>
         <category>从晴朗的朝色泛起之际开始</category>
       </categories>
       <tags>
-        <tag>随手写</tag>
+        <tag>随手写 病娇</tag>
       </tags>
   </entry>
   <entry>
@@ -596,11 +596,9 @@
       </tags>
   </entry>
   <entry>
-    <title>这样就好-六回目</title>
-    <url>/2022/03/16/%E8%BF%99%E6%A0%B7%E5%B0%B1%E5%A5%BD-%E5%85%AD%E5%9B%9E%E7%9B%AE/</url>
-    <content><![CDATA[<h1 id="知道得多了，这样好吗？"><a href="#知道得多了，这样好吗？" class="headerlink" title="知道得多了，这样好吗？"></a>知道得多了，这样好吗？</h1><p>偶尔也想出门呼吸一下新鲜的空气。<br>顺便去超市之类的地方逛逛吧，购物确实是减压的方式。<br>「我出去转转」<br>「噢，来了来了」<br>自然而然地又变成两人出门购物了。晚上刚过七点的街道行人寥寥无几，整个城市都沉浸在夜晚来到之前的寂静中。侧目看向并排走在傍边的她，长发仿佛也被晚风拂动。<br>拐入家边的一条路内，这条路上有个挺出名的古玩城。路边时常有人摆摊卖些古玩之类，偶尔也会卖别的东西，比如……算命之类的？不过现在都是在收拾摊位的时间了。<br>「喂，你！」<br>一个略显嘶哑的声音响起。发生什么事了啊，不过这种地方发生纠分也不奇怪。不理会他，继续走路。<br>「好像在叫你诶。」<br>「诶？」<br>听她这么一说，我转过头，确实看见有一个人看着我这边，用手招乎着我过去。摆得有模有样的算命摊，戴着一副圆框的眼镜，这不是典型的江湖骗子的形象吗。<br>「这也太可疑了吧，果真还是别理他了？」<br>我压低了声音对她说，可是还没等她回答——<br>「那边的小伙子，还有他女朋友，诶对对，就是你，过来下呗」<br>诶？！<br>「他好像能看见我？」<br>「好像是？」<br>喂喂不过还不是女朋友啊喂！<br>「能看见我的话也许是有真本事的？去看看？」<br>「嗯，如果真是这样的话」<br>我们走到他的摊子前面，他眯着眼睛从上倒下打量了我们两人一番。<br>「小伙子，果真是这样啊」<br>「什么？」<br>「你明明知道不是什么正常的东西，为什么还要让她跟着你呢？」<br>「哈？！你在说什么啊？！你能看见我算是你厉害，不过这是我的事情跟你也没什么关系吧」<br>「话是这么说了……小姐啊，你也知道这样下去他就没有回头路可以走了吧」<br>「什！」<br>「轻生的魂魄不得转世，带着生前的忧郁滞留于现世。你能看到她就已经很不妙了，再受她的影响，恐怕更是难逃一劫了。」<br>什么玄幻小说的解说啊。<br>「反正我愿意怎么样是我的事情吧。你能看到也许是有点本事，不过我用不着你来担心。少伪善了。」<br>自己平时是很不愿意用这种口气对人的。<br>「小伙子，这是为了你未来着想啊。你是很有才能的人，这样葬送了可惜了啊。以后还有很多机会的。」<br>火大。<br>我有什么才能啊。<br>就算有才能要这才能有什么用啊。<br>为什么我非得给这个社会做出点贡献不可啊。<br>我会得到什么回报吗？我能获得我想要的吗？<br>可笑。<br>现在对我来说再没有比在我身边的这位幽灵少女更在意的东西了。<br>世界就是毁灭了也无所谓。<br>「走了」<br>我跟她说，然后转身就走。<br>「等一下啊！」<br>那个算命先生一样的人拉住我的手。<br>「放开！」<br>「拿上这个吧！你要是改变想法了会有用的！只要把呆在你身边的幽灵消去，驱散掉邪气，你应该也能回归正常的生活了。」<br>说着他就把一个黄符纸住我手里塞。<br>「不需要。」<br>我的生活早就不正常了。<br>我把符纸往那术士脸上一丢，继续转身就走。<br>走了两步，发现她没有跟上来，还站在摊位前发呆。<br>「走了」<br>「啊，嗯。走吧」</p>
-<hr>
-<p>她把手背在身后，加快步子跟上了我。<br>「话说，你叫什么名字啊」<br>一起生活了这么久还不知道互相的名字，确实也挺奇怪的。所以我还是问问吧。<br>「嗯？我的名字吗？」<br>「嗯」<br>「月。就是月亮的月」<br>单字吗。也挺好。<br>「那你叫我椋吧。木字傍一个京」<br>从名字里取出一个单字作为称乎应该也挺好的。<br>「嗯」<br>她一边说，一边低头看着脚尖走路，然后又突然抬起头，看向天空。<br>初升的月，很美。她缓缓开口说：<br>「你真的觉得跟我这样在一起就好吗？」<br>「当然了。对于我来说，再没有比这更想要的了」<br>「是吗。谢谢。」<br>她转过来面对着我笑了笑，那是一种很爽朗的笑，大概。<br>同时她的头发也随着一起飘动着。<br>「铃铃铃——」<br>「啊，我的电话」<br>「谁的？」<br>「我妈的」<br>虽然很不情愿，但是接通吧。<br>「喂？」<br>「喂？你爸这周末要回来，他说要见你」<br>「啊？这周末吗？」<br>「怎么？有别的事情吗？」<br>「倒也没有……」<br>「那就这么定了」<br>通话挂断了。<br>「什么事啊？」<br>「没啥，这个周末回一趟本家，而已」<br>「噢」<br>「你也一起来呗？把你介绍给我父母，哈哈哈，开玩笑的」<br>「诶？啊哈哈」<br>说实话，其实只不过是我觉得害怕罢了。<br>说起来今天星期几来着？好久没注意过了。<br>星期三啊。还有两天。<br>话说，买东西也忘了。</p>
+    <title>这样就好_二回目</title>
+    <url>/2021/11/09/%E8%BF%99%E6%A0%B7%E5%B0%B1%E5%A5%BD-%E4%BA%8C%E5%9B%9E%E7%9B%AE/</url>
+    <content><![CDATA[<h1 id="遇见了「幽灵」少女觉得这样不好"><a href="#遇见了「幽灵」少女觉得这样不好" class="headerlink" title="遇见了「幽灵」少女觉得这样不好"></a>遇见了「幽灵」少女觉得这样不好</h1><p>我一时间没能反应过来。<br>「自杀？」<br>「嗯，自杀。」<br>「我为什么要自杀啊？」<br>「不知道，但是最终一定会变成那样」<br>「为什么这么肯定啊」<br>「因为我就是这样啊」<br>啊……有经历吗，那就没法反驳了。<br>嗯？她就是那样？自杀了？还站在这里？还在跟我说话？这该不会……<br>比起害怕，不如说是有点激动。碰到这样的灵异事件我还是头一次，虽然一直相信着超自然的存在，却一次都没有真正见到过。<br>「也就是说，你是亡灵？幽灵？怨魂？」<br>看到我这样激动地问她，她好像很不解。<br>「哎？哎……大概就是普通的亡灵吧，我想」<br>「诶……」我从上到下打量着她，不过几乎看不出来她有什么异样。除了这实在太妹味儿过重的打扮。<br>「不会是在开玩笑吧……你是怎么进到我家里的？」<br>「啊，那很简单的」她直接走到门口，从门穿了出去，又穿过门进来。<br>「……」说实话我不敢相信自己的眼睛。<br>「那你不会踩不到地板什么的吗？」看着她很正常地在走路，这确实是个很大的问题，从物理学上来说。<br>「说白了只是无法做出影响物质世界的行动而已，我想触碰到就能触碰到，但是地板也好，人也是，对我都没有感觉的」<br>「诶……」<br>「那么回到最根本的问题上来。为什么要到我家里来？」<br>「因为你一看就是个宅，想来蹭一下你的动漫看看」<br>「哈？」<br>「今天有个叫那什么的新番更新对吧。感觉想你这样的人肯定会看的，于是我就跟来，如果你看的话我就也能看到了。」<br>「这算是傍观者视角了吧哈哈哈……」<br>「不过你记错了哦，那个明天才更新。」<br>「什！？」她好像小声说了点什么，不过我还是当成没听到吧。<br>「呃……你不介意的话明天再来也行啊？我反正也没事情干，你要看的话我放就是了」<br>「不用了。出去转悠可能就找不到怎么回来了，我今天就呆在这里等着了」<br>「你原来记不住路吗……」<br>「怎么，有意见啊」她走到我床边坐下，双手放在身后撑着，还翘起了二郎腿。很随意的人啊，是因为幽灵当久了吗？<br>「我的床不怎么干净……」刚想这么说，即然她是幽灵（？）那大概没关系吧。<br>「反正难得有能看见我的人，偶尔说说话也不错吧」她仰头望着天花板。<br>「平时你都在干什么？」<br>「反正时间对我来说很廉价。一般就到处转转，到别人家里看看，看到有什么动漫就蹭蹭，然后记住更新的时间，感觉时间差不多了再找地方看下一集」<br>「其它时候就在路上走走，看到有什么热闹了去看看，没什么特别的事情。就这样过了一两年了吧」<br>「能看见我的活人还跟我说话的，你是第一个」<br>「去世一两年了啊……」这么一个人呆着这么久，一定会觉得难受的吧。<br>如果我也时日不多的话，能帮上别人，那怕是个幽灵，也算是行了一份善事，无憾于世了。<br>「那要不一起出门去逛逛？还是说你有什么想在网上看的东西吗，我找给你看。」<br>「哎？没必要做到那样的地步啊，愿意给我看看番剧什么的就已经足够了——」<br>「啊……是吗……」到头来还是谁都帮不上呢，连幽灵都嫌弃的程度哈哈哈哈……<br>「那我睡一会儿，电脑就在那里放着。要是到番剧更新的时间了我还没醒你就叫我好了」<br>「行」她说完从我的床上起来，坐上了我刚离开的椅子，向前趴在桌子上盯着电脑屏幕。<br>也许已经习惯了漫长的时间和等待了吧。<br>「你不用睡觉吗？」<br>「当然不用」<br>想想也是。</p>
 ]]></content>
       <categories>
         <category>朝色的小说</category>
@@ -624,9 +622,11 @@
       </tags>
   </entry>
   <entry>
-    <title>这样就好_二回目</title>
-    <url>/2021/11/09/%E8%BF%99%E6%A0%B7%E5%B0%B1%E5%A5%BD-%E4%BA%8C%E5%9B%9E%E7%9B%AE/</url>
-    <content><![CDATA[<h1 id="遇见了「幽灵」少女觉得这样不好"><a href="#遇见了「幽灵」少女觉得这样不好" class="headerlink" title="遇见了「幽灵」少女觉得这样不好"></a>遇见了「幽灵」少女觉得这样不好</h1><p>我一时间没能反应过来。<br>「自杀？」<br>「嗯，自杀。」<br>「我为什么要自杀啊？」<br>「不知道，但是最终一定会变成那样」<br>「为什么这么肯定啊」<br>「因为我就是这样啊」<br>啊……有经历吗，那就没法反驳了。<br>嗯？她就是那样？自杀了？还站在这里？还在跟我说话？这该不会……<br>比起害怕，不如说是有点激动。碰到这样的灵异事件我还是头一次，虽然一直相信着超自然的存在，却一次都没有真正见到过。<br>「也就是说，你是亡灵？幽灵？怨魂？」<br>看到我这样激动地问她，她好像很不解。<br>「哎？哎……大概就是普通的亡灵吧，我想」<br>「诶……」我从上到下打量着她，不过几乎看不出来她有什么异样。除了这实在太妹味儿过重的打扮。<br>「不会是在开玩笑吧……你是怎么进到我家里的？」<br>「啊，那很简单的」她直接走到门口，从门穿了出去，又穿过门进来。<br>「……」说实话我不敢相信自己的眼睛。<br>「那你不会踩不到地板什么的吗？」看着她很正常地在走路，这确实是个很大的问题，从物理学上来说。<br>「说白了只是无法做出影响物质世界的行动而已，我想触碰到就能触碰到，但是地板也好，人也是，对我都没有感觉的」<br>「诶……」<br>「那么回到最根本的问题上来。为什么要到我家里来？」<br>「因为你一看就是个宅，想来蹭一下你的动漫看看」<br>「哈？」<br>「今天有个叫那什么的新番更新对吧。感觉想你这样的人肯定会看的，于是我就跟来，如果你看的话我就也能看到了。」<br>「这算是傍观者视角了吧哈哈哈……」<br>「不过你记错了哦，那个明天才更新。」<br>「什！？」她好像小声说了点什么，不过我还是当成没听到吧。<br>「呃……你不介意的话明天再来也行啊？我反正也没事情干，你要看的话我放就是了」<br>「不用了。出去转悠可能就找不到怎么回来了，我今天就呆在这里等着了」<br>「你原来记不住路吗……」<br>「怎么，有意见啊」她走到我床边坐下，双手放在身后撑着，还翘起了二郎腿。很随意的人啊，是因为幽灵当久了吗？<br>「我的床不怎么干净……」刚想这么说，即然她是幽灵（？）那大概没关系吧。<br>「反正难得有能看见我的人，偶尔说说话也不错吧」她仰头望着天花板。<br>「平时你都在干什么？」<br>「反正时间对我来说很廉价。一般就到处转转，到别人家里看看，看到有什么动漫就蹭蹭，然后记住更新的时间，感觉时间差不多了再找地方看下一集」<br>「其它时候就在路上走走，看到有什么热闹了去看看，没什么特别的事情。就这样过了一两年了吧」<br>「能看见我的活人还跟我说话的，你是第一个」<br>「去世一两年了啊……」这么一个人呆着这么久，一定会觉得难受的吧。<br>如果我也时日不多的话，能帮上别人，那怕是个幽灵，也算是行了一份善事，无憾于世了。<br>「那要不一起出门去逛逛？还是说你有什么想在网上看的东西吗，我找给你看。」<br>「哎？没必要做到那样的地步啊，愿意给我看看番剧什么的就已经足够了——」<br>「啊……是吗……」到头来还是谁都帮不上呢，连幽灵都嫌弃的程度哈哈哈哈……<br>「那我睡一会儿，电脑就在那里放着。要是到番剧更新的时间了我还没醒你就叫我好了」<br>「行」她说完从我的床上起来，坐上了我刚离开的椅子，向前趴在桌子上盯着电脑屏幕。<br>也许已经习惯了漫长的时间和等待了吧。<br>「你不用睡觉吗？」<br>「当然不用」<br>想想也是。</p>
+    <title>这样就好-六回目</title>
+    <url>/2022/03/16/%E8%BF%99%E6%A0%B7%E5%B0%B1%E5%A5%BD-%E5%85%AD%E5%9B%9E%E7%9B%AE/</url>
+    <content><![CDATA[<h1 id="知道得多了，这样好吗？"><a href="#知道得多了，这样好吗？" class="headerlink" title="知道得多了，这样好吗？"></a>知道得多了，这样好吗？</h1><p>偶尔也想出门呼吸一下新鲜的空气。<br>顺便去超市之类的地方逛逛吧，购物确实是减压的方式。<br>「我出去转转」<br>「噢，来了来了」<br>自然而然地又变成两人出门购物了。晚上刚过七点的街道行人寥寥无几，整个城市都沉浸在夜晚来到之前的寂静中。侧目看向并排走在傍边的她，长发仿佛也被晚风拂动。<br>拐入家边的一条路内，这条路上有个挺出名的古玩城。路边时常有人摆摊卖些古玩之类，偶尔也会卖别的东西，比如……算命之类的？不过现在都是在收拾摊位的时间了。<br>「喂，你！」<br>一个略显嘶哑的声音响起。发生什么事了啊，不过这种地方发生纠分也不奇怪。不理会他，继续走路。<br>「好像在叫你诶。」<br>「诶？」<br>听她这么一说，我转过头，确实看见有一个人看着我这边，用手招乎着我过去。摆得有模有样的算命摊，戴着一副圆框的眼镜，这不是典型的江湖骗子的形象吗。<br>「这也太可疑了吧，果真还是别理他了？」<br>我压低了声音对她说，可是还没等她回答——<br>「那边的小伙子，还有他女朋友，诶对对，就是你，过来下呗」<br>诶？！<br>「他好像能看见我？」<br>「好像是？」<br>喂喂不过还不是女朋友啊喂！<br>「能看见我的话也许是有真本事的？去看看？」<br>「嗯，如果真是这样的话」<br>我们走到他的摊子前面，他眯着眼睛从上倒下打量了我们两人一番。<br>「小伙子，果真是这样啊」<br>「什么？」<br>「你明明知道不是什么正常的东西，为什么还要让她跟着你呢？」<br>「哈？！你在说什么啊？！你能看见我算是你厉害，不过这是我的事情跟你也没什么关系吧」<br>「话是这么说了……小姐啊，你也知道这样下去他就没有回头路可以走了吧」<br>「什！」<br>「轻生的魂魄不得转世，带着生前的忧郁滞留于现世。你能看到她就已经很不妙了，再受她的影响，恐怕更是难逃一劫了。」<br>什么玄幻小说的解说啊。<br>「反正我愿意怎么样是我的事情吧。你能看到也许是有点本事，不过我用不着你来担心。少伪善了。」<br>自己平时是很不愿意用这种口气对人的。<br>「小伙子，这是为了你未来着想啊。你是很有才能的人，这样葬送了可惜了啊。以后还有很多机会的。」<br>火大。<br>我有什么才能啊。<br>就算有才能要这才能有什么用啊。<br>为什么我非得给这个社会做出点贡献不可啊。<br>我会得到什么回报吗？我能获得我想要的吗？<br>可笑。<br>现在对我来说再没有比在我身边的这位幽灵少女更在意的东西了。<br>世界就是毁灭了也无所谓。<br>「走了」<br>我跟她说，然后转身就走。<br>「等一下啊！」<br>那个算命先生一样的人拉住我的手。<br>「放开！」<br>「拿上这个吧！你要是改变想法了会有用的！只要把呆在你身边的幽灵消去，驱散掉邪气，你应该也能回归正常的生活了。」<br>说着他就把一个黄符纸住我手里塞。<br>「不需要。」<br>我的生活早就不正常了。<br>我把符纸往那术士脸上一丢，继续转身就走。<br>走了两步，发现她没有跟上来，还站在摊位前发呆。<br>「走了」<br>「啊，嗯。走吧」</p>
+<hr>
+<p>她把手背在身后，加快步子跟上了我。<br>「话说，你叫什么名字啊」<br>一起生活了这么久还不知道互相的名字，确实也挺奇怪的。所以我还是问问吧。<br>「嗯？我的名字吗？」<br>「嗯」<br>「月。就是月亮的月」<br>单字吗。也挺好。<br>「那你叫我椋吧。木字傍一个京」<br>从名字里取出一个单字作为称乎应该也挺好的。<br>「嗯」<br>她一边说，一边低头看着脚尖走路，然后又突然抬起头，看向天空。<br>初升的月，很美。她缓缓开口说：<br>「你真的觉得跟我这样在一起就好吗？」<br>「当然了。对于我来说，再没有比这更想要的了」<br>「是吗。谢谢。」<br>她转过来面对着我笑了笑，那是一种很爽朗的笑，大概。<br>同时她的头发也随着一起飘动着。<br>「铃铃铃——」<br>「啊，我的电话」<br>「谁的？」<br>「我妈的」<br>虽然很不情愿，但是接通吧。<br>「喂？」<br>「喂？你爸这周末要回来，他说要见你」<br>「啊？这周末吗？」<br>「怎么？有别的事情吗？」<br>「倒也没有……」<br>「那就这么定了」<br>通话挂断了。<br>「什么事啊？」<br>「没啥，这个周末回一趟本家，而已」<br>「噢」<br>「你也一起来呗？把你介绍给我父母，哈哈哈，开玩笑的」<br>「诶？啊哈哈」<br>说实话，其实只不过是我觉得害怕罢了。<br>说起来今天星期几来着？好久没注意过了。<br>星期三啊。还有两天。<br>话说，买东西也忘了。</p>
 ]]></content>
       <categories>
         <category>朝色的小说</category>
