@@ -14,43 +14,6 @@
       </tags>
   </entry>
   <entry>
-    <title>ADV制做计划</title>
-    <url>/2021/01/06/ADV%E5%88%B6%E5%81%9A%E8%AE%A1%E5%88%92/</url>
-    <content><![CDATA[<h1 id="ADV-Gal-AVG制做计划启动！"><a href="#ADV-Gal-AVG制做计划启动！" class="headerlink" title="ADV/Gal/AVG制做计划启动！"></a>ADV/Gal/AVG制做计划启动！</h1><p>2021年了，计划制做一部ADV（亦可称为AVG，Gal，视觉交互小说），大概的需求有：</p>
-<p>剧本，绘画，音乐，脚本，（CV，宣传）</p>
-<p>引擎的话计划是使用Ren’Py哦，感觉还是挺好用的（我才不告诉你是因为DDLC用的是Ren’Py）<br>万事开头难，一定要有气势！（其实做完大概更难XD）</p>
-<a id="more"></a>
-<p>在下比较穷，尽量还是靠个人兴趣参加吧<br>本人大概会负责脚本(Ren’py)和一部分剧本<br>来张从雨镇一下！！（贫乳loli谁不爱）</p>
-<p><img src="/images/congyu.png" alt="congyu"></p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>记事与通知</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>FedoraFun 重新上线</title>
-    <url>/2022/02/06/FedoraFun-%E9%87%8D%E6%96%B0%E4%B8%8A%E7%BA%BF/</url>
-    <content><![CDATA[<h1 id="FedoraFun-于下线约10日后重新上线"><a href="#FedoraFun-于下线约10日后重新上线" class="headerlink" title="FedoraFun 于下线约10日后重新上线"></a>FedoraFun 于下线约10日后重新上线</h1><p>2022年02月05日晚，下线许久的 FedoraFun 终于重新上线了。经由<a href="https://github.com/zxc3123857948">创始人</a>的努力，现在博客由 Halo 构建并且运行于独立服务器上。</p>
-<p><img src="/images/22-02-06/new.jpg" alt="FedoraFun 新官网截图"></p>
-<p>可以发现，相比之前使用 Hugo 构建的博客系统，更加美观，贴合国内大众审美，页面内容丰富，信息集中，具有交互感。</p>
-<p>据悉，FedoraFun 最新官网使用了 Halo ，一款国人开发的博客框架系统进行构架。该框架运行于 Java ，并且源代码已经开源。这一定程度上也反映了现今国产化的蓬勃发展，产生了许多优于外国的解决方案。</p>
-<p>另外，前次报道中出现了一处错误，这里予以更正：FedoraFun 软件存储仓库最后一次更新时间为01月31日，也就是除夕当日。</p>
-<p><img src="/images/22-02-06/pkg.png" alt="FedoraFun 软件存储仓库的最新包"></p>
-<p>其实创始人在除夕之夜，这个本应与家人共度的节日里，还不忘全国的 FedoraFun 用户们，更新了软件包。并且明明正值新春佳节，却耗费时间与精力修复了 FedoraFun 官网。可见创始人的道德之高尚，与国外弄虚作假，整日不喜上班，浑浑噩噩的所谓“合理劳动”形成了鲜明的反差。创始人正是贯彻社区主义核心价值观的典范。</p>
-<p>最后，朝色报已经受到了 FedoraFun 创始人以及其它相关人员的关注。感谢大家的支持，如有疑问，建议可于评论中提出。</p>
-<p>2022-02-06 <strong>刊号3</strong> <em>——朝色报</em></p>
-]]></content>
-      <categories>
-        <category>朝色报</category>
-      </categories>
-      <tags>
-        <tag>新闻</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>FedoraFun下线七日</title>
     <url>/2022/02/03/FedoraFun%E4%B8%8B%E7%BA%BF%E4%B8%83%E6%97%A5/</url>
     <content><![CDATA[<h1 id="国内知名-Fedora-社区-FedoraFun-官网今已下线七日"><a href="#国内知名-Fedora-社区-FedoraFun-官网今已下线七日" class="headerlink" title="国内知名 Fedora 社区 FedoraFun 官网今已下线七日"></a>国内知名 Fedora 社区 FedoraFun 官网今已下线七日</h1><p>2022年02月03日，正月初三，本应是喜汽洋洋过年的日子，我们却不得不告知一件令人忧伤的事实：<strong>FedoraFun 官网已经下线七天了</strong></p>
@@ -76,6 +39,23 @@
       </tags>
   </entry>
   <entry>
+    <title>ADV制做计划</title>
+    <url>/2021/01/06/ADV%E5%88%B6%E5%81%9A%E8%AE%A1%E5%88%92/</url>
+    <content><![CDATA[<h1 id="ADV-Gal-AVG制做计划启动！"><a href="#ADV-Gal-AVG制做计划启动！" class="headerlink" title="ADV/Gal/AVG制做计划启动！"></a>ADV/Gal/AVG制做计划启动！</h1><p>2021年了，计划制做一部ADV（亦可称为AVG，Gal，视觉交互小说），大概的需求有：</p>
+<p>剧本，绘画，音乐，脚本，（CV，宣传）</p>
+<p>引擎的话计划是使用Ren’Py哦，感觉还是挺好用的（我才不告诉你是因为DDLC用的是Ren’Py）<br>万事开头难，一定要有气势！（其实做完大概更难XD）</p>
+<a id="more"></a>
+<p>在下比较穷，尽量还是靠个人兴趣参加吧<br>本人大概会负责脚本(Ren’py)和一部分剧本<br>来张从雨镇一下！！（贫乳loli谁不爱）</p>
+<p><img src="/images/congyu.png" alt="congyu"></p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>记事与通知</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>GAME_1</title>
     <url>/2021/05/16/GAME-1/</url>
     <content><![CDATA[<p>第一话：</p>
@@ -88,6 +68,26 @@
       </categories>
       <tags>
         <tag>ゲーム好きな友達とゲームセンに行く話</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>FedoraFun 重新上线</title>
+    <url>/2022/02/06/FedoraFun-%E9%87%8D%E6%96%B0%E4%B8%8A%E7%BA%BF/</url>
+    <content><![CDATA[<h1 id="FedoraFun-于下线约10日后重新上线"><a href="#FedoraFun-于下线约10日后重新上线" class="headerlink" title="FedoraFun 于下线约10日后重新上线"></a>FedoraFun 于下线约10日后重新上线</h1><p>2022年02月05日晚，下线许久的 FedoraFun 终于重新上线了。经由<a href="https://github.com/zxc3123857948">创始人</a>的努力，现在博客由 Halo 构建并且运行于独立服务器上。</p>
+<p><img src="/images/22-02-06/new.jpg" alt="FedoraFun 新官网截图"></p>
+<p>可以发现，相比之前使用 Hugo 构建的博客系统，更加美观，贴合国内大众审美，页面内容丰富，信息集中，具有交互感。</p>
+<p>据悉，FedoraFun 最新官网使用了 Halo ，一款国人开发的博客框架系统进行构架。该框架运行于 Java ，并且源代码已经开源。这一定程度上也反映了现今国产化的蓬勃发展，产生了许多优于外国的解决方案。</p>
+<p>另外，前次报道中出现了一处错误，这里予以更正：FedoraFun 软件存储仓库最后一次更新时间为01月31日，也就是除夕当日。</p>
+<p><img src="/images/22-02-06/pkg.png" alt="FedoraFun 软件存储仓库的最新包"></p>
+<p>其实创始人在除夕之夜，这个本应与家人共度的节日里，还不忘全国的 FedoraFun 用户们，更新了软件包。并且明明正值新春佳节，却耗费时间与精力修复了 FedoraFun 官网。可见创始人的道德之高尚，与国外弄虚作假，整日不喜上班，浑浑噩噩的所谓“合理劳动”形成了鲜明的反差。创始人正是贯彻社区主义核心价值观的典范。</p>
+<p>最后，朝色报已经受到了 FedoraFun 创始人以及其它相关人员的关注。感谢大家的支持，如有疑问，建议可于评论中提出。</p>
+<p>2022-02-06 <strong>刊号3</strong> <em>——朝色报</em></p>
+]]></content>
+      <categories>
+        <category>朝色报</category>
+      </categories>
+      <tags>
+        <tag>新闻</tag>
       </tags>
   </entry>
   <entry>
@@ -107,22 +107,6 @@
       </categories>
       <tags>
         <tag>Linux</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>PPET看板娘！</title>
-    <url>/2020/10/02/PPET%E7%9C%8B%E6%9D%BF%E5%A8%98%EF%BC%81/</url>
-    <content><![CDATA[<h1 id="PPET看板娘！"><a href="#PPET看板娘！" class="headerlink" title="PPET看板娘！"></a>PPET看板娘！</h1><p>右下角的看板娘是不是十分地养眼？你完全可以把她布署到你的桌面上喔！</p>
-<p>访问GITHUB地址：<a href="https://github.com/zenghongtu/PPet/releases">https://github.com/zenghongtu/PPet/releases</a></p>
-<a id="more"></a>
-<p>提供了Windows-exe，MacOS-dmg，Debian-deb格式，ArchLinux亲测debtap转包可行</p>
-<p>还支持导入模型（太赞了）</p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>有趣</tag>
       </tags>
   </entry>
   <entry>
@@ -240,6 +224,22 @@
       </tags>
   </entry>
   <entry>
+    <title>PPET看板娘！</title>
+    <url>/2020/10/02/PPET%E7%9C%8B%E6%9D%BF%E5%A8%98%EF%BC%81/</url>
+    <content><![CDATA[<h1 id="PPET看板娘！"><a href="#PPET看板娘！" class="headerlink" title="PPET看板娘！"></a>PPET看板娘！</h1><p>右下角的看板娘是不是十分地养眼？你完全可以把她布署到你的桌面上喔！</p>
+<p>访问GITHUB地址：<a href="https://github.com/zenghongtu/PPet/releases">https://github.com/zenghongtu/PPet/releases</a></p>
+<a id="more"></a>
+<p>提供了Windows-exe，MacOS-dmg，Debian-deb格式，ArchLinux亲测debtap转包可行</p>
+<p>还支持导入模型（太赞了）</p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>有趣</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>图片-By_EF_Cosmos</title>
     <url>/2020/10/08/%E5%9B%BE%E7%89%87-By-EF-Cosmos/</url>
     <content><![CDATA[<p><img src="https://pic.downk.cc/item/5f7f345d1cd1bbb86bd52df9.png" alt="图片"></p>
@@ -272,6 +272,25 @@
       </categories>
       <tags>
         <tag>Linux</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>我关于许可证的看法</title>
+    <url>/2021/08/01/%E6%88%91%E5%85%B3%E4%BA%8E%E8%AE%B8%E5%8F%AF%E8%AF%81%E7%9A%84%E7%9C%8B%E6%B3%95/</url>
+    <content><![CDATA[<h1 id="我关于许可证的看法"><a href="#我关于许可证的看法" class="headerlink" title="我关于许可证的看法"></a>我关于许可证的看法</h1><p>先事先声明，我本人并不是专职的程序员，说实话也没有认真写过什么太多代码，所以以下就当做片面的个人看法观赏下好了。</p>
+<p>我写代码完全就是为了娱乐，自己的本职与计算机并没有什么关系，所以我从来不在意我的代码的私有权，我总是将它们公开。甚至不是代码的东西，比如我用hexo生成的博客，或者一个手写的仅几行的html用来挂在github pages上。</p>
+<p>对于我来说我不在乎别人是不是抄袭了我的代码，因为我的代码并没有好到让我自己骄傲的程度。不如说有人愿意看看我的代码是我的荣幸（虽然也没什么人看）。我不在乎我的commit是否写得很乱，因为我绝大多数的commit都是小打小闹，我几乎不会回滚也不会创建很多分支，因为那都太复杂了我用不到。</p>
+<p>我所有的东西基本都用挂着GPL协议。主要原因是我很喜欢GNU的思想，同时也对于这种维护自由的方式很中意。不过如果真的有人用了我的代码没有GPL开源我也并不在意，用GPL主要是希望能够让人们真的感受到自由罢了。</p>
+<p>面子公程对我来说无关紧要，纠结自己的东西是不是好看也很费神，所以我选择全都放出来，反正没人看。</p>
+<p>如果真的火起来了我相信我会有动力去把它做的好看的，但是即然没有火，那随便一点自在一点不好吗？</p>
+<p>与其在意别人的眼光或者藏着什么，全放出来不就好了嘛。</p>
+<p><strong>by 从晴朗的朝色泛起之际开始</strong></p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>随手写 Linux</tag>
       </tags>
   </entry>
   <entry>
@@ -313,45 +332,6 @@
       </tags>
   </entry>
   <entry>
-    <title>我关于许可证的看法</title>
-    <url>/2021/08/01/%E6%88%91%E5%85%B3%E4%BA%8E%E8%AE%B8%E5%8F%AF%E8%AF%81%E7%9A%84%E7%9C%8B%E6%B3%95/</url>
-    <content><![CDATA[<h1 id="我关于许可证的看法"><a href="#我关于许可证的看法" class="headerlink" title="我关于许可证的看法"></a>我关于许可证的看法</h1><p>先事先声明，我本人并不是专职的程序员，说实话也没有认真写过什么太多代码，所以以下就当做片面的个人看法观赏下好了。</p>
-<p>我写代码完全就是为了娱乐，自己的本职与计算机并没有什么关系，所以我从来不在意我的代码的私有权，我总是将它们公开。甚至不是代码的东西，比如我用hexo生成的博客，或者一个手写的仅几行的html用来挂在github pages上。</p>
-<p>对于我来说我不在乎别人是不是抄袭了我的代码，因为我的代码并没有好到让我自己骄傲的程度。不如说有人愿意看看我的代码是我的荣幸（虽然也没什么人看）。我不在乎我的commit是否写得很乱，因为我绝大多数的commit都是小打小闹，我几乎不会回滚也不会创建很多分支，因为那都太复杂了我用不到。</p>
-<p>我所有的东西基本都用挂着GPL协议。主要原因是我很喜欢GNU的思想，同时也对于这种维护自由的方式很中意。不过如果真的有人用了我的代码没有GPL开源我也并不在意，用GPL主要是希望能够让人们真的感受到自由罢了。</p>
-<p>面子公程对我来说无关紧要，纠结自己的东西是不是好看也很费神，所以我选择全都放出来，反正没人看。</p>
-<p>如果真的火起来了我相信我会有动力去把它做的好看的，但是即然没有火，那随便一点自在一点不好吗？</p>
-<p>与其在意别人的眼光或者藏着什么，全放出来不就好了嘛。</p>
-<p><strong>by 从晴朗的朝色泛起之际开始</strong></p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>随手写 Linux</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>打包软件到AUR</title>
-    <url>/2020/11/12/%E6%89%93%E5%8C%85%E8%BD%AF%E4%BB%B6%E5%88%B0AUR/</url>
-    <content><![CDATA[<h1 id="打包软件并共享到AUR"><a href="#打包软件并共享到AUR" class="headerlink" title="打包软件并共享到AUR"></a>打包软件并共享到AUR</h1><p>对于Arch Linux的用户来说，AUR软件仓库是常常为人所津津乐道的优势。其优点就在于极大的开放性。那么我们也可以打包软件上传到AUR，从白嫖进化到贡献者！</p>
-<p>首先到AUR注册一个账户，并且填入在本机生成的ssh密钥。然后克隆一个空仓库：</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git <span class="built_in">clone</span> ssh://aur@aur.archlinux.org/gwm-git.git</span><br></pre></td></tr></table></figure>
-<a id="more"></a>
-<p>像这样，然后放入pkgbuild和校验文件</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git add PKGBUILD .SRCINFO</span><br></pre></td></tr></table></figure>
-<p>然后上传</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git push</span><br></pre></td></tr></table></figure>
-<p>接着在AUR上就可以看到你的软件了，可以用yay安装了！！</p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>Linux</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>服务器一键LNMP</title>
     <url>/2020/10/02/%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%80%E9%94%AELNMP/</url>
     <content><![CDATA[<h1 id="让你的LINUX电脑或者服务器一键LNMP！"><a href="#让你的LINUX电脑或者服务器一键LNMP！" class="headerlink" title="让你的LINUX电脑或者服务器一键LNMP！"></a>让你的LINUX电脑或者服务器一键LNMP！</h1><p>LINUX服务器配置的时候如果使用包管理很多时候会出现无法解析PHP脚本等疑难杂症。。。<del>大概是我水平问题</del><br>所以！！！这里有一个方便的一键配置脚本！！！</p>
@@ -366,56 +346,6 @@
       </categories>
       <tags>
         <tag>Linux</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>朝色の/bin</title>
-    <url>/2022/01/28/%E6%9C%9D%E8%89%B2%E3%81%AE-bin/</url>
-    <content><![CDATA[<p>22-01-28</p>
-<ul>
-<li>不想做事情的原因很简单。因为做了的话会失败，不做虽然没有成功的可能性，但也没有了失败的风险。已经够了，什么都不做就行了。</li>
-<li>如果没有了过去，或者否定了过去，那么我还剩下什么是真正属于自己的呢。</li>
-<li>总是喜欢说可怜之人必有可恨之处，但是可恨之人呢？难道就没有可怜之处吗？</li>
-</ul>
-<p>22-01-29</p>
-<ul>
-<li>如果觉得自己很优秀，却看到了比自己更优秀的人一定不好受吧。而且我也明白自己是个废物，所以就把自己当成废物就行了。</li>
-<li>任何人的生命都是无价的，那法律为何得以凌驾于此之上，以死刑剥夺这份无价？</li>
-<li>劝说一个人向「善」是不负责任的，你并不知道ta在所谓的「恶」背后有着什么的故事，你更多的是自我满足，甚至伪善。</li>
-</ul>
-<p>22-02-03</p>
-<ul>
-<li>也许比起能够说服更多人，能够接受更多人想法更加伟大。同时也是给了自己坚定自己想法的安慰吧，我都不说别人什么了，别人又有什么理由来改变我的想法呢。</li>
-<li>很多人会觉得喜欢阴暗风挺奇怪，但是更加倾向于完美的「正常向」总让我在比较之下觉得自卑。所以不仅是感情上的共鸣，能够放开了去喜欢，正是「阴暗」与「不完美」的魅力吧。</li>
-</ul>
-<p>22-02-05</p>
-<ul>
-<li>自残之所以能使人感到愉快，是将精神上的压力与伤害一定程度上地转移到了肉体上。当感之到痛疼之后精神上的阴云密布便无暇顾及，从而精神得到放松，感觉到了快乐。这样疼痛便与快乐联系在了一起吧。</li>
-</ul>
-<p>22-02-20</p>
-<ul>
-<li>不仅人有意识，也许分子，原子也有意识。所谓的物理定律与宏观规律不过是他们在一定条件下表现出的「习性」，而不可测的量子力学则是他们的「小任性」。</li>
-<li>追求自我，那怕被孤立，不被理解，也都会变成对于自我存在的证明。虽然其中伴随着的寂寞以及疯狂，也许也是值得的。</li>
-<li>当选择有了原则就不会觉得迷惑，然而最强的原则就是自己的内心。丢掉现实考虑一下选择自然尘埃落定。</li>
-</ul>
-<p>22-03-23</p>
-<ul>
-<li>玩多人游戏总觉得自己融不入队伍，玩单人游戏又觉得寂寞。游戏就挺迷惑的。</li>
-<li>自己那点卑微的自我真的值得牺牲人际关系吗？虽然时常这么问自己，我却从没有改变过保护自我的决定。</li>
-<li>秘密总是希望有些人知道的。害怕但却又渴望着从别人那里得到什么，是多么的矛盾。</li>
-</ul>
-<p>22-04-06</p>
-<ul>
-<li>感觉似乎也没有什么必要的事情或者东西，现在在做的一切不过都是消磨时间罢了。为什么要消磨时间的话，果真还是因为源于对未知的恐惧吧。</li>
-<li>精神上的麻醉其实很脆弱，一点点小的动静又会让人想太多。</li>
-<li>有的时候努力，不过是为了给失败的自己一个「努力过了」的安慰。</li>
-</ul>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>随手写</tag>
       </tags>
   </entry>
   <entry>
@@ -553,7 +483,7 @@
     <title>谜之生物观察日记</title>
     <url>/2022/04/04/%E8%B0%9C%E4%B9%8B%E7%94%9F%E7%89%A9%E8%A7%82%E5%AF%9F%E6%97%A5%E8%AE%B0/</url>
     <content><![CDATA[<p><a href="https://twitter.com/pageratta">关注原作者！</a></p>
-<p><img src="/images/nazoikimono/04_19_(03_26_5)_cn.jpg" alt="3月26日 第50日"><br><img src="/images/nazoikimono/04_18_(03_25_5)_cn.jpg" alt="3月25日 第49日"><br><img src="/images/nazoikimono/04_17_(03_24_5)_cn.jpg" alt="3月24日 第48日"><br><img src="/images/nazoikimono/04_16_(03_23_5)_cn.jpg" alt="3月23日 第47日"><br><img src="/images/nazoikimono/04_15_(03_22_5)_cn.jpg" alt="3月22日 第46日"><br><img src="/images/nazoikimono/04_14_(03_21_5)_cn.jpg" alt="3月21日 第45日"><br><img src="/images/nazoikimono/04_13_(03_20_5)_cn.jpg" alt="3月20日 第44日"><br><img src="/images/nazoikimono/04_12_(03_30_4)_cn.jpg" alt="3月30日 第43日"><br><img src="/images/nazoikimono/04_11_(03_29_4)_cn.jpg" alt="3月29日 第42日"><br><img src="/images/nazoikimono/04_10_(03_28_4)_cn.jpg" alt="3月28日 第41日"><br><img src="/images/nazoikimono/04_09_(03_27_4)_cn.jpg" alt="3月27日 第40日"><br><img src="/images/nazoikimono/04_08_(03_26_4)_cn.jpg" alt="3月26日 第39日"><br><img src="/images/nazoikimono/04_07_(03_25_4)_cn.jpg" alt="3月25日 第38日"><br><img src="/images/nazoikimono/04_06_(03_31_3)_cn.jpg" alt="3月31日 第37日"><br><img src="/images/nazoikimono/04_05_(03_30_3)_cn.jpg" alt="3月30日 第36日"><br><img src="/images/nazoikimono/04_04_(03_29_3)_cn.jpg" alt="3月29日 第35日"><br><img src="/images/nazoikimono/04_03_(03_28_3)_cn.jpg" alt="3月28日 第34日"><br><img src="/images/nazoikimono/04_02_(03_27_3).jpg" alt="3月27日 第33日"><br><img src="/images/nazoikimono/04_01_(03_26_3)_cn.jpg" alt="3月26日 第32日"><br><img src="/images/nazoikimono/03_31_(03_25_3)_cn.jpg" alt="3月25日 第31日"><br><img src="/images/nazoikimono/03_30_(03_24_3)_cn.jpg" alt="3月24日 第30日"><br><img src="/images/nazoikimono/03_29_(03_23_3)_cn.jpg" alt="3月23日 第29日"><br><img src="/images/nazoikimono/03_28_(03_23_2)_cn.jpg" alt="3月23日 第28日"><br><img src="/images/nazoikimono/03_27_(03_22_2)_cn.jpg" alt="3月22日 第27日"><br><img src="/images/nazoikimono/03_26_(03_21_2)_cn.jpg" alt="3月21日 第26日"><br><img src="/images/nazoikimono/03_25_(03_20_2)_cn.jpg" alt="3月20日 第25日"><br><img src="/images/nazoikimono/03_24_(03_21_1)_cn.jpg" alt="3月21日 第24日"><br><img src="/images/nazoikimono/03_23_(03_20_1)_cn.jpg" alt="3月20日 第23日"><br><img src="/images/nazoikimono/03_22_(03_19_1)_cn.jpg" alt="3月19日 第22日"><br><img src="/images/nazoikimono/03_21_(03_18_1)_cn.jpg" alt="3月18日 第21日"><br><img src="/images/nazoikimono/03_20_(03_17_1)_cn.jpg" alt="3月17日 第20日"><br><img src="/images/nazoikimono/03_19_(03_16_1)_cn.jpg" alt="3月16日 第19日"><br><img src="/images/nazoikimono/03_18_(03_15_1)_cn.jpg" alt="3月15日 第18日"><br><img src="/images/nazoikimono/03_17_cn.jpg" alt="3月17日 第17日"><br><img src="/images/nazoikimono/03_16_cn.jpg" alt="3月16日 第16日"><br><img src="/images/nazoikimono/03_15_cn.jpg" alt="3月15日 第15日"><br><img src="/images/nazoikimono/03_14_cn.jpg" alt="3月14日 第14日"><br><img src="/images/nazoikimono/03_13_cn.jpg" alt="3月13日 第13日"><br><img src="/images/nazoikimono/03_12_cn.jpg" alt="3月12日 第12日"><br><img src="/images/nazoikimono/03_11_cn.jpg" alt="3月11日 第11日"><br><img src="/images/nazoikimono/03_10_cn.jpg" alt="3月10日 第10日"><br><img src="/images/nazoikimono/03_09_cn.jpg" alt="3月09日 第09日"><br><img src="/images/nazoikimono/03_08_cn.jpg" alt="3月08日 第08日"><br><img src="/images/nazoikimono/03_07_cn.jpg" alt="3月07日 第07日"><br><img src="/images/nazoikimono/03_06_cn.jpg" alt="3月06日 第06日"><br><img src="/images/nazoikimono/03_05_cn.jpg" alt="3月05日 第05日"><br><img src="/images/nazoikimono/03_04_cn.jpg" alt="3月04日 第04日"><br><img src="/images/nazoikimono/03_03_cn.jpg" alt="3月03日 第03日"><br><img src="/images/nazoikimono/03_02_cn.jpg" alt="3月02日 第02日"><br><img src="/images/nazoikimono/03_01_cn.jpg" alt="3月01日 第01日"></p>
+<p><img src="/images/nazoikimono/04_20_(03_27_5)_cn.jpg" alt="3月27日 第51日"><br><img src="/images/nazoikimono/04_19_(03_26_5)_cn.jpg" alt="3月26日 第50日"><br><img src="/images/nazoikimono/04_18_(03_25_5)_cn.jpg" alt="3月25日 第49日"><br><img src="/images/nazoikimono/04_17_(03_24_5)_cn.jpg" alt="3月24日 第48日"><br><img src="/images/nazoikimono/04_16_(03_23_5)_cn.jpg" alt="3月23日 第47日"><br><img src="/images/nazoikimono/04_15_(03_22_5)_cn.jpg" alt="3月22日 第46日"><br><img src="/images/nazoikimono/04_14_(03_21_5)_cn.jpg" alt="3月21日 第45日"><br><img src="/images/nazoikimono/04_13_(03_20_5)_cn.jpg" alt="3月20日 第44日"><br><img src="/images/nazoikimono/04_12_(03_30_4)_cn.jpg" alt="3月30日 第43日"><br><img src="/images/nazoikimono/04_11_(03_29_4)_cn.jpg" alt="3月29日 第42日"><br><img src="/images/nazoikimono/04_10_(03_28_4)_cn.jpg" alt="3月28日 第41日"><br><img src="/images/nazoikimono/04_09_(03_27_4)_cn.jpg" alt="3月27日 第40日"><br><img src="/images/nazoikimono/04_08_(03_26_4)_cn.jpg" alt="3月26日 第39日"><br><img src="/images/nazoikimono/04_07_(03_25_4)_cn.jpg" alt="3月25日 第38日"><br><img src="/images/nazoikimono/04_06_(03_31_3)_cn.jpg" alt="3月31日 第37日"><br><img src="/images/nazoikimono/04_05_(03_30_3)_cn.jpg" alt="3月30日 第36日"><br><img src="/images/nazoikimono/04_04_(03_29_3)_cn.jpg" alt="3月29日 第35日"><br><img src="/images/nazoikimono/04_03_(03_28_3)_cn.jpg" alt="3月28日 第34日"><br><img src="/images/nazoikimono/04_02_(03_27_3).jpg" alt="3月27日 第33日"><br><img src="/images/nazoikimono/04_01_(03_26_3)_cn.jpg" alt="3月26日 第32日"><br><img src="/images/nazoikimono/03_31_(03_25_3)_cn.jpg" alt="3月25日 第31日"><br><img src="/images/nazoikimono/03_30_(03_24_3)_cn.jpg" alt="3月24日 第30日"><br><img src="/images/nazoikimono/03_29_(03_23_3)_cn.jpg" alt="3月23日 第29日"><br><img src="/images/nazoikimono/03_28_(03_23_2)_cn.jpg" alt="3月23日 第28日"><br><img src="/images/nazoikimono/03_27_(03_22_2)_cn.jpg" alt="3月22日 第27日"><br><img src="/images/nazoikimono/03_26_(03_21_2)_cn.jpg" alt="3月21日 第26日"><br><img src="/images/nazoikimono/03_25_(03_20_2)_cn.jpg" alt="3月20日 第25日"><br><img src="/images/nazoikimono/03_24_(03_21_1)_cn.jpg" alt="3月21日 第24日"><br><img src="/images/nazoikimono/03_23_(03_20_1)_cn.jpg" alt="3月20日 第23日"><br><img src="/images/nazoikimono/03_22_(03_19_1)_cn.jpg" alt="3月19日 第22日"><br><img src="/images/nazoikimono/03_21_(03_18_1)_cn.jpg" alt="3月18日 第21日"><br><img src="/images/nazoikimono/03_20_(03_17_1)_cn.jpg" alt="3月17日 第20日"><br><img src="/images/nazoikimono/03_19_(03_16_1)_cn.jpg" alt="3月16日 第19日"><br><img src="/images/nazoikimono/03_18_(03_15_1)_cn.jpg" alt="3月15日 第18日"><br><img src="/images/nazoikimono/03_17_cn.jpg" alt="3月17日 第17日"><br><img src="/images/nazoikimono/03_16_cn.jpg" alt="3月16日 第16日"><br><img src="/images/nazoikimono/03_15_cn.jpg" alt="3月15日 第15日"><br><img src="/images/nazoikimono/03_14_cn.jpg" alt="3月14日 第14日"><br><img src="/images/nazoikimono/03_13_cn.jpg" alt="3月13日 第13日"><br><img src="/images/nazoikimono/03_12_cn.jpg" alt="3月12日 第12日"><br><img src="/images/nazoikimono/03_11_cn.jpg" alt="3月11日 第11日"><br><img src="/images/nazoikimono/03_10_cn.jpg" alt="3月10日 第10日"><br><img src="/images/nazoikimono/03_09_cn.jpg" alt="3月09日 第09日"><br><img src="/images/nazoikimono/03_08_cn.jpg" alt="3月08日 第08日"><br><img src="/images/nazoikimono/03_07_cn.jpg" alt="3月07日 第07日"><br><img src="/images/nazoikimono/03_06_cn.jpg" alt="3月06日 第06日"><br><img src="/images/nazoikimono/03_05_cn.jpg" alt="3月05日 第05日"><br><img src="/images/nazoikimono/03_04_cn.jpg" alt="3月04日 第04日"><br><img src="/images/nazoikimono/03_03_cn.jpg" alt="3月03日 第03日"><br><img src="/images/nazoikimono/03_02_cn.jpg" alt="3月02日 第02日"><br><img src="/images/nazoikimono/03_01_cn.jpg" alt="3月01日 第01日"></p>
 <p><em>从朝朗的朝色泛起之际开始</em></p>
 ]]></content>
       <categories>
@@ -662,6 +592,76 @@
       </categories>
       <tags>
         <tag>EF_Cosmos的板绘</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>朝色の/bin</title>
+    <url>/2022/01/28/%E6%9C%9D%E8%89%B2%E3%81%AE-bin/</url>
+    <content><![CDATA[<p>22-01-28</p>
+<ul>
+<li>不想做事情的原因很简单。因为做了的话会失败，不做虽然没有成功的可能性，但也没有了失败的风险。已经够了，什么都不做就行了。</li>
+<li>如果没有了过去，或者否定了过去，那么我还剩下什么是真正属于自己的呢。</li>
+<li>总是喜欢说可怜之人必有可恨之处，但是可恨之人呢？难道就没有可怜之处吗？</li>
+</ul>
+<p>22-01-29</p>
+<ul>
+<li>如果觉得自己很优秀，却看到了比自己更优秀的人一定不好受吧。而且我也明白自己是个废物，所以就把自己当成废物就行了。</li>
+<li>任何人的生命都是无价的，那法律为何得以凌驾于此之上，以死刑剥夺这份无价？</li>
+<li>劝说一个人向「善」是不负责任的，你并不知道ta在所谓的「恶」背后有着什么的故事，你更多的是自我满足，甚至伪善。</li>
+</ul>
+<p>22-02-03</p>
+<ul>
+<li>也许比起能够说服更多人，能够接受更多人想法更加伟大。同时也是给了自己坚定自己想法的安慰吧，我都不说别人什么了，别人又有什么理由来改变我的想法呢。</li>
+<li>很多人会觉得喜欢阴暗风挺奇怪，但是更加倾向于完美的「正常向」总让我在比较之下觉得自卑。所以不仅是感情上的共鸣，能够放开了去喜欢，正是「阴暗」与「不完美」的魅力吧。</li>
+</ul>
+<p>22-02-05</p>
+<ul>
+<li>自残之所以能使人感到愉快，是将精神上的压力与伤害一定程度上地转移到了肉体上。当感之到痛疼之后精神上的阴云密布便无暇顾及，从而精神得到放松，感觉到了快乐。这样疼痛便与快乐联系在了一起吧。</li>
+</ul>
+<p>22-02-20</p>
+<ul>
+<li>不仅人有意识，也许分子，原子也有意识。所谓的物理定律与宏观规律不过是他们在一定条件下表现出的「习性」，而不可测的量子力学则是他们的「小任性」。</li>
+<li>追求自我，那怕被孤立，不被理解，也都会变成对于自我存在的证明。虽然其中伴随着的寂寞以及疯狂，也许也是值得的。</li>
+<li>当选择有了原则就不会觉得迷惑，然而最强的原则就是自己的内心。丢掉现实考虑一下选择自然尘埃落定。</li>
+</ul>
+<p>22-03-23</p>
+<ul>
+<li>玩多人游戏总觉得自己融不入队伍，玩单人游戏又觉得寂寞。游戏就挺迷惑的。</li>
+<li>自己那点卑微的自我真的值得牺牲人际关系吗？虽然时常这么问自己，我却从没有改变过保护自我的决定。</li>
+<li>秘密总是希望有些人知道的。害怕但却又渴望着从别人那里得到什么，是多么的矛盾。</li>
+</ul>
+<p>22-04-06</p>
+<ul>
+<li>感觉似乎也没有什么必要的事情或者东西，现在在做的一切不过都是消磨时间罢了。为什么要消磨时间的话，果真还是因为源于对未知的恐惧吧。</li>
+<li>精神上的麻醉其实很脆弱，一点点小的动静又会让人想太多。</li>
+<li>有的时候努力，不过是为了给失败的自己一个「努力过了」的安慰。</li>
+</ul>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>随手写</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>打包软件到AUR</title>
+    <url>/2020/11/12/%E6%89%93%E5%8C%85%E8%BD%AF%E4%BB%B6%E5%88%B0AUR/</url>
+    <content><![CDATA[<h1 id="打包软件并共享到AUR"><a href="#打包软件并共享到AUR" class="headerlink" title="打包软件并共享到AUR"></a>打包软件并共享到AUR</h1><p>对于Arch Linux的用户来说，AUR软件仓库是常常为人所津津乐道的优势。其优点就在于极大的开放性。那么我们也可以打包软件上传到AUR，从白嫖进化到贡献者！</p>
+<p>首先到AUR注册一个账户，并且填入在本机生成的ssh密钥。然后克隆一个空仓库：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git <span class="built_in">clone</span> ssh://aur@aur.archlinux.org/gwm-git.git</span><br></pre></td></tr></table></figure>
+<a id="more"></a>
+<p>像这样，然后放入pkgbuild和校验文件</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git add PKGBUILD .SRCINFO</span><br></pre></td></tr></table></figure>
+<p>然后上传</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git push</span><br></pre></td></tr></table></figure>
+<p>接着在AUR上就可以看到你的软件了，可以用yay安装了！！</p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>Linux</tag>
       </tags>
   </entry>
 </search>
