@@ -313,25 +313,6 @@
       </tags>
   </entry>
   <entry>
-    <title>我关于许可证的看法</title>
-    <url>/2021/08/01/%E6%88%91%E5%85%B3%E4%BA%8E%E8%AE%B8%E5%8F%AF%E8%AF%81%E7%9A%84%E7%9C%8B%E6%B3%95/</url>
-    <content><![CDATA[<h1 id="我关于许可证的看法"><a href="#我关于许可证的看法" class="headerlink" title="我关于许可证的看法"></a>我关于许可证的看法</h1><p>先事先声明，我本人并不是专职的程序员，说实话也没有认真写过什么太多代码，所以以下就当做片面的个人看法观赏下好了。</p>
-<p>我写代码完全就是为了娱乐，自己的本职与计算机并没有什么关系，所以我从来不在意我的代码的私有权，我总是将它们公开。甚至不是代码的东西，比如我用hexo生成的博客，或者一个手写的仅几行的html用来挂在github pages上。</p>
-<p>对于我来说我不在乎别人是不是抄袭了我的代码，因为我的代码并没有好到让我自己骄傲的程度。不如说有人愿意看看我的代码是我的荣幸（虽然也没什么人看）。我不在乎我的commit是否写得很乱，因为我绝大多数的commit都是小打小闹，我几乎不会回滚也不会创建很多分支，因为那都太复杂了我用不到。</p>
-<p>我所有的东西基本都用挂着GPL协议。主要原因是我很喜欢GNU的思想，同时也对于这种维护自由的方式很中意。不过如果真的有人用了我的代码没有GPL开源我也并不在意，用GPL主要是希望能够让人们真的感受到自由罢了。</p>
-<p>面子公程对我来说无关紧要，纠结自己的东西是不是好看也很费神，所以我选择全都放出来，反正没人看。</p>
-<p>如果真的火起来了我相信我会有动力去把它做的好看的，但是即然没有火，那随便一点自在一点不好吗？</p>
-<p>与其在意别人的眼光或者藏着什么，全放出来不就好了嘛。</p>
-<p><strong>by 从晴朗的朝色泛起之际开始</strong></p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>随手写 Linux</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>打包软件到AUR</title>
     <url>/2020/11/12/%E6%89%93%E5%8C%85%E8%BD%AF%E4%BB%B6%E5%88%B0AUR/</url>
     <content><![CDATA[<h1 id="打包软件并共享到AUR"><a href="#打包软件并共享到AUR" class="headerlink" title="打包软件并共享到AUR"></a>打包软件并共享到AUR</h1><p>对于Arch Linux的用户来说，AUR软件仓库是常常为人所津津乐道的优势。其优点就在于极大的开放性。那么我们也可以打包软件上传到AUR，从白嫖进化到贡献者！</p>
@@ -349,6 +330,25 @@
       </categories>
       <tags>
         <tag>Linux</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>我关于许可证的看法</title>
+    <url>/2021/08/01/%E6%88%91%E5%85%B3%E4%BA%8E%E8%AE%B8%E5%8F%AF%E8%AF%81%E7%9A%84%E7%9C%8B%E6%B3%95/</url>
+    <content><![CDATA[<h1 id="我关于许可证的看法"><a href="#我关于许可证的看法" class="headerlink" title="我关于许可证的看法"></a>我关于许可证的看法</h1><p>先事先声明，我本人并不是专职的程序员，说实话也没有认真写过什么太多代码，所以以下就当做片面的个人看法观赏下好了。</p>
+<p>我写代码完全就是为了娱乐，自己的本职与计算机并没有什么关系，所以我从来不在意我的代码的私有权，我总是将它们公开。甚至不是代码的东西，比如我用hexo生成的博客，或者一个手写的仅几行的html用来挂在github pages上。</p>
+<p>对于我来说我不在乎别人是不是抄袭了我的代码，因为我的代码并没有好到让我自己骄傲的程度。不如说有人愿意看看我的代码是我的荣幸（虽然也没什么人看）。我不在乎我的commit是否写得很乱，因为我绝大多数的commit都是小打小闹，我几乎不会回滚也不会创建很多分支，因为那都太复杂了我用不到。</p>
+<p>我所有的东西基本都用挂着GPL协议。主要原因是我很喜欢GNU的思想，同时也对于这种维护自由的方式很中意。不过如果真的有人用了我的代码没有GPL开源我也并不在意，用GPL主要是希望能够让人们真的感受到自由罢了。</p>
+<p>面子公程对我来说无关紧要，纠结自己的东西是不是好看也很费神，所以我选择全都放出来，反正没人看。</p>
+<p>如果真的火起来了我相信我会有动力去把它做的好看的，但是即然没有火，那随便一点自在一点不好吗？</p>
+<p>与其在意别人的眼光或者藏着什么，全放出来不就好了嘛。</p>
+<p><strong>by 从晴朗的朝色泛起之际开始</strong></p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>随手写 Linux</tag>
       </tags>
   </entry>
   <entry>
@@ -465,6 +465,19 @@
       </tags>
   </entry>
   <entry>
+    <title>病娇日志100搬运</title>
+    <url>/2021/08/15/%E7%97%85%E5%A8%87%E6%97%A5%E5%BF%97100%E6%90%AC%E8%BF%90/</url>
+    <content><![CDATA[<h1 id="来自PIXIV的搬运"><a href="#来自PIXIV的搬运" class="headerlink" title="来自PIXIV的搬运"></a>来自PIXIV的搬运</h1><p><img src="/images/yandere.jpg" alt="p1"></p>
+<p><strong>by 从晴朗的朝色泛起之际开始</strong></p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>随手写 病娇</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>用Linux服务器实现一起听歌</title>
     <url>/2020/10/14/%E7%94%A8Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%AE%9E%E7%8E%B0%E4%B8%80%E8%B5%B7%E5%90%AC%E6%AD%8C/</url>
     <content><![CDATA[<h1 id="用服务器一起听歌！"><a href="#用服务器一起听歌！" class="headerlink" title="用服务器一起听歌！"></a>用服务器一起听歌！</h1><p>近来用了下QQ的一起听歌功能，感觉挺有意思，但是只能听QQ歌单里有的歌，十分受限。所以决定自己用服务器搭一个差不多的听歌方案。</p>
@@ -496,6 +509,23 @@
       </tags>
   </entry>
   <entry>
+    <title>聊天客户端军备竞赛，冷战恐暴发</title>
+    <url>/2022/02/16/%E8%81%8A%E5%A4%A9%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%86%9B%E5%A4%87%E7%AB%9E%E8%B5%9B%EF%BC%8C%E5%86%B7%E6%88%98%E6%81%90%E6%9A%B4%E5%8F%91/</url>
+    <content><![CDATA[<h1 id="由于保密原因，本报道不提供图片"><a href="#由于保密原因，本报道不提供图片" class="headerlink" title="由于保密原因，本报道不提供图片"></a>由于保密原因，本报道不提供图片</h1><p>2022年02月09日许，其于Gtk4与Vala的GtkChat雏型被公之于世。在此时间点前后，基于Python与Qt的QTalk以及基于Rust与GtkWebEngine的FQ也发布了它们的初始版本。这一系列事件于近几日间已被推向了舆论的巅峰。</p>
+<p>聊天客户端的开发本身是一项高技术力的，高难度的，高成本的，高风险的工作。在此之前，有icalingua这一客户端的存在，其对全球造成了巨大的威慑。此次事件的起因，业内推测多与icalingua发生的变故有关。虽然具体的信息未得到披露，但是icalingua的影响力似乎有所减弱，这给了其它势力研发自己的聊天客户端的时间缺口。icalingua的集中威慑力首次受到了区大的威胁，这有可能是世界从单极化步入多极化的转折点。</p>
+<p>当只有一个强大的存在时，人们都不得不折服于其强大。但是当有了势均力敌的存在那么势必会引发竞争。现阶段每个新兴聊天客户端都使用了最新的技术，并且试图于各方面完败对手，处于紧张的发展状态之中。而且由于它们之间的互不相容，可能会产生新的「冷战」格局，并且加强加速各自的军备开发。但是此格局与历史上苏联以及美国之间所爆发的冷战有所不同，因为苏联与美国的冷战是两个超强势力之间的冷战，而现在的状况则存在着多个互不相容的超强势力。它们都有各自的盟友，却又不可能跟其它超强势力结盟。这意味着更加复杂的局势与更加不明郎的未来。</p>
+<p>鉴于现阶段的紧张局势，未来难以预料但不容乐观。卷入军备竞赛势必会对它们的经济民生发展产生影响。如果你处于这几个势力范围内，应当做好提前准备应对突发情况，比如客户端崩溃，内存泄露，运行缓慢等等。另外建立自己的势力开发聊天客户端加入竞争当中，也许也有助于将强大的势力衬托成为许多强大的势力当中平庸的一者，有助于缓解现阶段的「多极冷战」局势。</p>
+<p>在此历史性的时刻，能与大家一同目睹，是本报的荣幸。</p>
+<p>2022-02-17 <strong>刊号4</strong> <em>——朝色报</em></p>
+]]></content>
+      <categories>
+        <category>朝色报</category>
+      </categories>
+      <tags>
+        <tag>新闻</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>给picom开启高性能模糊透明</title>
     <url>/2020/12/04/%E7%BB%99picom%E5%BC%80%E5%90%AF%E9%AB%98%E6%80%A7%E8%83%BD%E6%A8%A1%E7%B3%8A%E9%80%8F%E6%98%8E/</url>
     <content><![CDATA[<h1 id="picom混成器模糊透明来了！"><a href="#picom混成器模糊透明来了！" class="headerlink" title="picom混成器模糊透明来了！"></a>picom混成器模糊透明来了！</h1><p>使用windows manager的图形界面的话，如果不想忍受单薄的画面，当然少不了一个窗口混成器。现在kwin，mutter这些集成在DE里面的wm都整合了混成器。但是像i3这种wm，就需要一个外置混成器来撑撑排面了。</p>
@@ -520,27 +550,10 @@
       </tags>
   </entry>
   <entry>
-    <title>聊天客户端军备竞赛，冷战恐暴发</title>
-    <url>/2022/02/16/%E8%81%8A%E5%A4%A9%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%86%9B%E5%A4%87%E7%AB%9E%E8%B5%9B%EF%BC%8C%E5%86%B7%E6%88%98%E6%81%90%E6%9A%B4%E5%8F%91/</url>
-    <content><![CDATA[<h1 id="由于保密原因，本报道不提供图片"><a href="#由于保密原因，本报道不提供图片" class="headerlink" title="由于保密原因，本报道不提供图片"></a>由于保密原因，本报道不提供图片</h1><p>2022年02月09日许，其于Gtk4与Vala的GtkChat雏型被公之于世。在此时间点前后，基于Python与Qt的QTalk以及基于Rust与GtkWebEngine的FQ也发布了它们的初始版本。这一系列事件于近几日间已被推向了舆论的巅峰。</p>
-<p>聊天客户端的开发本身是一项高技术力的，高难度的，高成本的，高风险的工作。在此之前，有icalingua这一客户端的存在，其对全球造成了巨大的威慑。此次事件的起因，业内推测多与icalingua发生的变故有关。虽然具体的信息未得到披露，但是icalingua的影响力似乎有所减弱，这给了其它势力研发自己的聊天客户端的时间缺口。icalingua的集中威慑力首次受到了区大的威胁，这有可能是世界从单极化步入多极化的转折点。</p>
-<p>当只有一个强大的存在时，人们都不得不折服于其强大。但是当有了势均力敌的存在那么势必会引发竞争。现阶段每个新兴聊天客户端都使用了最新的技术，并且试图于各方面完败对手，处于紧张的发展状态之中。而且由于它们之间的互不相容，可能会产生新的「冷战」格局，并且加强加速各自的军备开发。但是此格局与历史上苏联以及美国之间所爆发的冷战有所不同，因为苏联与美国的冷战是两个超强势力之间的冷战，而现在的状况则存在着多个互不相容的超强势力。它们都有各自的盟友，却又不可能跟其它超强势力结盟。这意味着更加复杂的局势与更加不明郎的未来。</p>
-<p>鉴于现阶段的紧张局势，未来难以预料但不容乐观。卷入军备竞赛势必会对它们的经济民生发展产生影响。如果你处于这几个势力范围内，应当做好提前准备应对突发情况，比如客户端崩溃，内存泄露，运行缓慢等等。另外建立自己的势力开发聊天客户端加入竞争当中，也许也有助于将强大的势力衬托成为许多强大的势力当中平庸的一者，有助于缓解现阶段的「多极冷战」局势。</p>
-<p>在此历史性的时刻，能与大家一同目睹，是本报的荣幸。</p>
-<p>2022-02-17 <strong>刊号4</strong> <em>——朝色报</em></p>
-]]></content>
-      <categories>
-        <category>朝色报</category>
-      </categories>
-      <tags>
-        <tag>新闻</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>谜之生物观察日记</title>
     <url>/2022/04/04/%E8%B0%9C%E4%B9%8B%E7%94%9F%E7%89%A9%E8%A7%82%E5%AF%9F%E6%97%A5%E8%AE%B0/</url>
     <content><![CDATA[<p><a href="https://twitter.com/pageratta">关注原作者！</a></p>
-<p><img src="/images/nazoikimono/04_23_(03_30_5)_cn.jpg" alt="3月30日 第52日"><br><img src="/images/nazoikimono/04_20_(03_27_5)_cn.jpg" alt="3月27日 第51日"><br><img src="/images/nazoikimono/04_19_(03_26_5)_cn.jpg" alt="3月26日 第50日"><br><img src="/images/nazoikimono/04_18_(03_25_5)_cn.jpg" alt="3月25日 第49日"><br><img src="/images/nazoikimono/04_17_(03_24_5)_cn.jpg" alt="3月24日 第48日"><br><img src="/images/nazoikimono/04_16_(03_23_5)_cn.jpg" alt="3月23日 第47日"><br><img src="/images/nazoikimono/04_15_(03_22_5)_cn.jpg" alt="3月22日 第46日"><br><img src="/images/nazoikimono/04_14_(03_21_5)_cn.jpg" alt="3月21日 第45日"><br><img src="/images/nazoikimono/04_13_(03_20_5)_cn.jpg" alt="3月20日 第44日"><br><img src="/images/nazoikimono/04_12_(03_30_4)_cn.jpg" alt="3月30日 第43日"><br><img src="/images/nazoikimono/04_11_(03_29_4)_cn.jpg" alt="3月29日 第42日"><br><img src="/images/nazoikimono/04_10_(03_28_4)_cn.jpg" alt="3月28日 第41日"><br><img src="/images/nazoikimono/04_09_(03_27_4)_cn.jpg" alt="3月27日 第40日"><br><img src="/images/nazoikimono/04_08_(03_26_4)_cn.jpg" alt="3月26日 第39日"><br><img src="/images/nazoikimono/04_07_(03_25_4)_cn.jpg" alt="3月25日 第38日"><br><img src="/images/nazoikimono/04_06_(03_31_3)_cn.jpg" alt="3月31日 第37日"><br><img src="/images/nazoikimono/04_05_(03_30_3)_cn.jpg" alt="3月30日 第36日"><br><img src="/images/nazoikimono/04_04_(03_29_3)_cn.jpg" alt="3月29日 第35日"><br><img src="/images/nazoikimono/04_03_(03_28_3)_cn.jpg" alt="3月28日 第34日"><br><img src="/images/nazoikimono/04_02_(03_27_3).jpg" alt="3月27日 第33日"><br><img src="/images/nazoikimono/04_01_(03_26_3)_cn.jpg" alt="3月26日 第32日"><br><img src="/images/nazoikimono/03_31_(03_25_3)_cn.jpg" alt="3月25日 第31日"><br><img src="/images/nazoikimono/03_30_(03_24_3)_cn.jpg" alt="3月24日 第30日"><br><img src="/images/nazoikimono/03_29_(03_23_3)_cn.jpg" alt="3月23日 第29日"><br><img src="/images/nazoikimono/03_28_(03_23_2)_cn.jpg" alt="3月23日 第28日"><br><img src="/images/nazoikimono/03_27_(03_22_2)_cn.jpg" alt="3月22日 第27日"><br><img src="/images/nazoikimono/03_26_(03_21_2)_cn.jpg" alt="3月21日 第26日"><br><img src="/images/nazoikimono/03_25_(03_20_2)_cn.jpg" alt="3月20日 第25日"><br><img src="/images/nazoikimono/03_24_(03_21_1)_cn.jpg" alt="3月21日 第24日"><br><img src="/images/nazoikimono/03_23_(03_20_1)_cn.jpg" alt="3月20日 第23日"><br><img src="/images/nazoikimono/03_22_(03_19_1)_cn.jpg" alt="3月19日 第22日"><br><img src="/images/nazoikimono/03_21_(03_18_1)_cn.jpg" alt="3月18日 第21日"><br><img src="/images/nazoikimono/03_20_(03_17_1)_cn.jpg" alt="3月17日 第20日"><br><img src="/images/nazoikimono/03_19_(03_16_1)_cn.jpg" alt="3月16日 第19日"><br><img src="/images/nazoikimono/03_18_(03_15_1)_cn.jpg" alt="3月15日 第18日"><br><img src="/images/nazoikimono/03_17_cn.jpg" alt="3月17日 第17日"><br><img src="/images/nazoikimono/03_16_cn.jpg" alt="3月16日 第16日"><br><img src="/images/nazoikimono/03_15_cn.jpg" alt="3月15日 第15日"><br><img src="/images/nazoikimono/03_14_cn.jpg" alt="3月14日 第14日"><br><img src="/images/nazoikimono/03_13_cn.jpg" alt="3月13日 第13日"><br><img src="/images/nazoikimono/03_12_cn.jpg" alt="3月12日 第12日"><br><img src="/images/nazoikimono/03_11_cn.jpg" alt="3月11日 第11日"><br><img src="/images/nazoikimono/03_10_cn.jpg" alt="3月10日 第10日"><br><img src="/images/nazoikimono/03_09_cn.jpg" alt="3月09日 第09日"><br><img src="/images/nazoikimono/03_08_cn.jpg" alt="3月08日 第08日"><br><img src="/images/nazoikimono/03_07_cn.jpg" alt="3月07日 第07日"><br><img src="/images/nazoikimono/03_06_cn.jpg" alt="3月06日 第06日"><br><img src="/images/nazoikimono/03_05_cn.jpg" alt="3月05日 第05日"><br><img src="/images/nazoikimono/03_04_cn.jpg" alt="3月04日 第04日"><br><img src="/images/nazoikimono/03_03_cn.jpg" alt="3月03日 第03日"><br><img src="/images/nazoikimono/03_02_cn.jpg" alt="3月02日 第02日"><br><img src="/images/nazoikimono/03_01_cn.jpg" alt="3月01日 第01日"></p>
+<p><img src="/images/nazoikimono/04_24_(03_26_06)_cn.jpg" alt="3月26日 第53日"><br><img src="/images/nazoikimono/04_23_(03_30_5)_cn.jpg" alt="3月30日 第52日"><br><img src="/images/nazoikimono/04_20_(03_27_5)_cn.jpg" alt="3月27日 第51日"><br><img src="/images/nazoikimono/04_19_(03_26_5)_cn.jpg" alt="3月26日 第50日"><br><img src="/images/nazoikimono/04_18_(03_25_5)_cn.jpg" alt="3月25日 第49日"><br><img src="/images/nazoikimono/04_17_(03_24_5)_cn.jpg" alt="3月24日 第48日"><br><img src="/images/nazoikimono/04_16_(03_23_5)_cn.jpg" alt="3月23日 第47日"><br><img src="/images/nazoikimono/04_15_(03_22_5)_cn.jpg" alt="3月22日 第46日"><br><img src="/images/nazoikimono/04_14_(03_21_5)_cn.jpg" alt="3月21日 第45日"><br><img src="/images/nazoikimono/04_13_(03_20_5)_cn.jpg" alt="3月20日 第44日"><br><img src="/images/nazoikimono/04_12_(03_30_4)_cn.jpg" alt="3月30日 第43日"><br><img src="/images/nazoikimono/04_11_(03_29_4)_cn.jpg" alt="3月29日 第42日"><br><img src="/images/nazoikimono/04_10_(03_28_4)_cn.jpg" alt="3月28日 第41日"><br><img src="/images/nazoikimono/04_09_(03_27_4)_cn.jpg" alt="3月27日 第40日"><br><img src="/images/nazoikimono/04_08_(03_26_4)_cn.jpg" alt="3月26日 第39日"><br><img src="/images/nazoikimono/04_07_(03_25_4)_cn.jpg" alt="3月25日 第38日"><br><img src="/images/nazoikimono/04_06_(03_31_3)_cn.jpg" alt="3月31日 第37日"><br><img src="/images/nazoikimono/04_05_(03_30_3)_cn.jpg" alt="3月30日 第36日"><br><img src="/images/nazoikimono/04_04_(03_29_3)_cn.jpg" alt="3月29日 第35日"><br><img src="/images/nazoikimono/04_03_(03_28_3)_cn.jpg" alt="3月28日 第34日"><br><img src="/images/nazoikimono/04_02_(03_27_3).jpg" alt="3月27日 第33日"><br><img src="/images/nazoikimono/04_01_(03_26_3)_cn.jpg" alt="3月26日 第32日"><br><img src="/images/nazoikimono/03_31_(03_25_3)_cn.jpg" alt="3月25日 第31日"><br><img src="/images/nazoikimono/03_30_(03_24_3)_cn.jpg" alt="3月24日 第30日"><br><img src="/images/nazoikimono/03_29_(03_23_3)_cn.jpg" alt="3月23日 第29日"><br><img src="/images/nazoikimono/03_28_(03_23_2)_cn.jpg" alt="3月23日 第28日"><br><img src="/images/nazoikimono/03_27_(03_22_2)_cn.jpg" alt="3月22日 第27日"><br><img src="/images/nazoikimono/03_26_(03_21_2)_cn.jpg" alt="3月21日 第26日"><br><img src="/images/nazoikimono/03_25_(03_20_2)_cn.jpg" alt="3月20日 第25日"><br><img src="/images/nazoikimono/03_24_(03_21_1)_cn.jpg" alt="3月21日 第24日"><br><img src="/images/nazoikimono/03_23_(03_20_1)_cn.jpg" alt="3月20日 第23日"><br><img src="/images/nazoikimono/03_22_(03_19_1)_cn.jpg" alt="3月19日 第22日"><br><img src="/images/nazoikimono/03_21_(03_18_1)_cn.jpg" alt="3月18日 第21日"><br><img src="/images/nazoikimono/03_20_(03_17_1)_cn.jpg" alt="3月17日 第20日"><br><img src="/images/nazoikimono/03_19_(03_16_1)_cn.jpg" alt="3月16日 第19日"><br><img src="/images/nazoikimono/03_18_(03_15_1)_cn.jpg" alt="3月15日 第18日"><br><img src="/images/nazoikimono/03_17_cn.jpg" alt="3月17日 第17日"><br><img src="/images/nazoikimono/03_16_cn.jpg" alt="3月16日 第16日"><br><img src="/images/nazoikimono/03_15_cn.jpg" alt="3月15日 第15日"><br><img src="/images/nazoikimono/03_14_cn.jpg" alt="3月14日 第14日"><br><img src="/images/nazoikimono/03_13_cn.jpg" alt="3月13日 第13日"><br><img src="/images/nazoikimono/03_12_cn.jpg" alt="3月12日 第12日"><br><img src="/images/nazoikimono/03_11_cn.jpg" alt="3月11日 第11日"><br><img src="/images/nazoikimono/03_10_cn.jpg" alt="3月10日 第10日"><br><img src="/images/nazoikimono/03_09_cn.jpg" alt="3月09日 第09日"><br><img src="/images/nazoikimono/03_08_cn.jpg" alt="3月08日 第08日"><br><img src="/images/nazoikimono/03_07_cn.jpg" alt="3月07日 第07日"><br><img src="/images/nazoikimono/03_06_cn.jpg" alt="3月06日 第06日"><br><img src="/images/nazoikimono/03_05_cn.jpg" alt="3月05日 第05日"><br><img src="/images/nazoikimono/03_04_cn.jpg" alt="3月04日 第04日"><br><img src="/images/nazoikimono/03_03_cn.jpg" alt="3月03日 第03日"><br><img src="/images/nazoikimono/03_02_cn.jpg" alt="3月02日 第02日"><br><img src="/images/nazoikimono/03_01_cn.jpg" alt="3月01日 第01日"></p>
 <p><em>从朝朗的朝色泛起之际开始</em></p>
 ]]></content>
       <categories>
@@ -548,19 +561,6 @@
       </categories>
       <tags>
         <tag>翻译</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>病娇日志100搬运</title>
-    <url>/2021/08/15/%E7%97%85%E5%A8%87%E6%97%A5%E5%BF%97100%E6%90%AC%E8%BF%90/</url>
-    <content><![CDATA[<h1 id="来自PIXIV的搬运"><a href="#来自PIXIV的搬运" class="headerlink" title="来自PIXIV的搬运"></a>来自PIXIV的搬运</h1><p><img src="/images/yandere.jpg" alt="p1"></p>
-<p><strong>by 从晴朗的朝色泛起之际开始</strong></p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>随手写 病娇</tag>
       </tags>
   </entry>
   <entry>
