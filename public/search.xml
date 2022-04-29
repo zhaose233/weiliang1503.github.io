@@ -1,19 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>FedoraFun 创始人宣布学习Rust</title>
-    <url>/2021/12/18/FedoraFun-%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%AE%A3%E5%B8%83%E5%AD%A6%E4%B9%A0Rust/</url>
-    <content><![CDATA[<h1 id="朝色报创刊号"><a href="#朝色报创刊号" class="headerlink" title="朝色报创刊号"></a>朝色报创刊号</h1><p><img src="/images/21-12-18/pic_version.jpg" alt="使用Word制作的第一则报道"></p>
-<p>2021-12-18 <strong>刊号1</strong> <em>——朝色报</em></p>
-]]></content>
-      <categories>
-        <category>朝色报</category>
-      </categories>
-      <tags>
-        <tag>新闻</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>ADV制做计划</title>
     <url>/2021/01/06/ADV%E5%88%B6%E5%81%9A%E8%AE%A1%E5%88%92/</url>
     <content><![CDATA[<h1 id="ADV-Gal-AVG制做计划启动！"><a href="#ADV-Gal-AVG制做计划启动！" class="headerlink" title="ADV/Gal/AVG制做计划启动！"></a>ADV/Gal/AVG制做计划启动！</h1><p>2021年了，计划制做一部ADV（亦可称为AVG，Gal，视觉交互小说），大概的需求有：</p>
@@ -28,6 +15,19 @@
       </categories>
       <tags>
         <tag>记事与通知</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>FedoraFun 创始人宣布学习Rust</title>
+    <url>/2021/12/18/FedoraFun-%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%AE%A3%E5%B8%83%E5%AD%A6%E4%B9%A0Rust/</url>
+    <content><![CDATA[<h1 id="朝色报创刊号"><a href="#朝色报创刊号" class="headerlink" title="朝色报创刊号"></a>朝色报创刊号</h1><p><img src="/images/21-12-18/pic_version.jpg" alt="使用Word制作的第一则报道"></p>
+<p>2021-12-18 <strong>刊号1</strong> <em>——朝色报</em></p>
+]]></content>
+      <categories>
+        <category>朝色报</category>
+      </categories>
+      <tags>
+        <tag>新闻</tag>
       </tags>
   </entry>
   <entry>
@@ -48,21 +48,6 @@
       </categories>
       <tags>
         <tag>新闻</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>GAME_1</title>
-    <url>/2021/05/16/GAME-1/</url>
-    <content><![CDATA[<p>第一话：</p>
-<p><img src="/images/manga_cn/70035405_p0.jpg" alt="70035405_p0"><br><img src="/images/manga_cn/70035405_p1.jpg" alt="70035405_p1"><br><img src="/images/manga_cn/70035405_p2.jpg" alt="70035405_p2"><br><img src="/images/manga_cn/70035405_p3.jpg" alt="70035405_p3"><br><img src="/images/manga_cn/70035405_p4.jpg" alt="70035405_p4"><br><img src="/images/manga_cn/70035405_p5.jpg" alt="70035405_p5"><br><img src="/images/manga_cn/70035405_p6.jpg" alt="70035405_p6"><br><img src="/images/manga_cn/70035405_p7.jpg" alt="70035405_p7"><br><img src="/images/manga_cn/70035405_p8.jpg" alt="70035405_p8"></p>
-<p>Pixiv链接：<a href="https://www.pixiv.net/artworks/70035405">https://www.pixiv.net/artworks/70035405</a><br>汉化很菜，请将就</p>
-<p><strong>by 从晴朗的朝色泛起之际开始</strong></p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>ゲーム好きな友達とゲームセンに行く話</tag>
       </tags>
   </entry>
   <entry>
@@ -88,6 +73,21 @@
       </categories>
       <tags>
         <tag>新闻</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>GAME_1</title>
+    <url>/2021/05/16/GAME-1/</url>
+    <content><![CDATA[<p>第一话：</p>
+<p><img src="/images/manga_cn/70035405_p0.jpg" alt="70035405_p0"><br><img src="/images/manga_cn/70035405_p1.jpg" alt="70035405_p1"><br><img src="/images/manga_cn/70035405_p2.jpg" alt="70035405_p2"><br><img src="/images/manga_cn/70035405_p3.jpg" alt="70035405_p3"><br><img src="/images/manga_cn/70035405_p4.jpg" alt="70035405_p4"><br><img src="/images/manga_cn/70035405_p5.jpg" alt="70035405_p5"><br><img src="/images/manga_cn/70035405_p6.jpg" alt="70035405_p6"><br><img src="/images/manga_cn/70035405_p7.jpg" alt="70035405_p7"><br><img src="/images/manga_cn/70035405_p8.jpg" alt="70035405_p8"></p>
+<p>Pixiv链接：<a href="https://www.pixiv.net/artworks/70035405">https://www.pixiv.net/artworks/70035405</a><br>汉化很菜，请将就</p>
+<p><strong>by 从晴朗的朝色泛起之际开始</strong></p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>ゲーム好きな友達とゲームセンに行く話</tag>
       </tags>
   </entry>
   <entry>
@@ -195,6 +195,51 @@
       </tags>
   </entry>
   <entry>
+    <title>使用开源的软件0成本成为vtuber</title>
+    <url>/2021/09/12/%E4%BD%BF%E7%94%A8%E5%BC%80%E6%BA%90%E7%9A%84%E8%BD%AF%E4%BB%B60%E6%88%90%E6%9C%AC%E6%88%90%E4%B8%BAvtuber/</url>
+    <content><![CDATA[<p>vtuber是现今新兴的网络直播/出道方式，能够很方便地塑造一个人设，避免自己露脸的尴尬（</p>
+<p>不过很多的vtuber使用的软件都有授权限制，包括live2d也是商业项目</p>
+<p>所以！在这里你能够看到0成本的出道方式（硬件还是要成本的，最好有英伟达显卡），不过只能3D出道</p>
+<p>项目网址：</p>
+<ul>
+<li>OpenSeeFace-gd：<a href="https://github.com/you-win/openseeface-gd">https://github.com/you-win/openseeface-gd</a></li>
+<li>OpenSeeFace：<a href="https://github.com/emilianavt/OpenSeeFace">https://github.com/emilianavt/OpenSeeFace</a></li>
+</ul>
+<p>正文开始～始めるよ～</p>
+<p>vtuber软件可以分为两个部分</p>
+<ul>
+<li>一个是你看到的跟随实体主播变化的虚拟形像（前端）</li>
+<li>用来追踪你的五官或者身体的算法程序（后端）</li>
+</ul>
+<p>很多商业软件是将这两个部分整合起来的。因为这样更方便使用。</p>
+<p><strong>OpenSeeface-GD的windows发布版本也是整合好的，直接就可以用</strong></p>
+<p>朝色使用OpenSeeFace-gd作为前端：<br><img src="/images/21-09-12/front-end.png" alt="frontend"><br>下面的那个godot debug就是正在运行的程序</p>
+<p>朝色使用的后端是OpenSeeFace脚本：<br><img src="/images/21-09-12/back-end.png" alt="backend"></p>
+<p>如果你使用的是Windows系统，直接下截它提供的release即可，当然如果你的网络有点小问题不太方便，这是一个镜像站点的下截链接（写本文时最新）：</p>
+<ul>
+<li><a href="https://hub.fastgit.org/you-win/openseeface-gd/releases/download/0.6.0/OpenSeeFace-GD.zip">https://hub.fastgit.org/you-win/openseeface-gd/releases/download/0.6.0/OpenSeeFace-GD.zip</a></li>
+</ul>
+<p>下截好后解压运行exe即可，如果是linux自行按照readme来吧，挺顺利就弄好了（朝色我用的就是linux呢）</p>
+<p>之后你只需要点击“run face tracker”开始追踪面部，如果姿势很奇怪的话点setoffset，然后按空格键就可以恢复到正面对着屏幕的姿势。<br><img src="/images/21-09-12/error.png" alt="error"><br>奇奇怪怪的bug</p>
+<p>当然如果你现在的人物还是那只小黄鸭的话。。。你自然需要一个其它的模型啦。这个项目支持glb与vrm格式的人物模型。vrm的话有个网站上面有很多，有的甚至可以商用和二次发布。</p>
+<ul>
+<li><a href="https://3d.nicovideo.jp/">https://3d.nicovideo.jp</a><br>不知道访问情况如何，当然你也可以制做自己的vrm，steam上有pixiv的制做工具，上手还可以吧，不过linux下的兼容不行，比较麻烦。</li>
+<li><a href="https://store.steampowered.com/app/1486350/VRoid_Studio_v0140/">VRoid Studio</a><br>再用Load Model找到你的vrm就行了<br><img src="/images/21-09-12/load-model.png" alt="loadmodel"></li>
+</ul>
+<p>加截之后如果要调整肢体姿势，在Pose里选上要调的关节，apply一下，用鼠标滚轮就能调啦</p>
+<p>至于直播或者录屏的软件，这里推荐一个跨平台开源的软件OBS Studio<br><img src="/images/21-09-12/obs.png" alt="OBS Studio"></p>
+<ul>
+<li><a href="https://obsproject.com/">https://obsproject.com</a><br>或者你也可以从我的云盘下载：</li>
+<li><a href="https://pan.zhaose.cyou/home/Tools/Windows/OBS-Studio-27.0.1-Full-Installer-x64.exe">OBS 27.0.1 windows</a></li>
+</ul>
+<p>如果你还没看过我发在bilibili上的视频可以去看一下噢～</p>
+<p><em>by 晴朗的朝色泛起之际开始</em></p>
+]]></content>
+      <tags>
+        <tag>vtuber Linux 随手写</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>图片-By_EF_Cosmos</title>
     <url>/2020/10/08/%E5%9B%BE%E7%89%87-By-EF-Cosmos/</url>
     <content><![CDATA[<p><img src="https://pic.downk.cc/item/5f7f345d1cd1bbb86bd52df9.png" alt="图片"></p>
@@ -249,51 +294,6 @@
       </categories>
       <tags>
         <tag>随手写 Linux</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>使用开源的软件0成本成为vtuber</title>
-    <url>/2021/09/12/%E4%BD%BF%E7%94%A8%E5%BC%80%E6%BA%90%E7%9A%84%E8%BD%AF%E4%BB%B60%E6%88%90%E6%9C%AC%E6%88%90%E4%B8%BAvtuber/</url>
-    <content><![CDATA[<p>vtuber是现今新兴的网络直播/出道方式，能够很方便地塑造一个人设，避免自己露脸的尴尬（</p>
-<p>不过很多的vtuber使用的软件都有授权限制，包括live2d也是商业项目</p>
-<p>所以！在这里你能够看到0成本的出道方式（硬件还是要成本的，最好有英伟达显卡），不过只能3D出道</p>
-<p>项目网址：</p>
-<ul>
-<li>OpenSeeFace-gd：<a href="https://github.com/you-win/openseeface-gd">https://github.com/you-win/openseeface-gd</a></li>
-<li>OpenSeeFace：<a href="https://github.com/emilianavt/OpenSeeFace">https://github.com/emilianavt/OpenSeeFace</a></li>
-</ul>
-<p>正文开始～始めるよ～</p>
-<p>vtuber软件可以分为两个部分</p>
-<ul>
-<li>一个是你看到的跟随实体主播变化的虚拟形像（前端）</li>
-<li>用来追踪你的五官或者身体的算法程序（后端）</li>
-</ul>
-<p>很多商业软件是将这两个部分整合起来的。因为这样更方便使用。</p>
-<p><strong>OpenSeeface-GD的windows发布版本也是整合好的，直接就可以用</strong></p>
-<p>朝色使用OpenSeeFace-gd作为前端：<br><img src="/images/21-09-12/front-end.png" alt="frontend"><br>下面的那个godot debug就是正在运行的程序</p>
-<p>朝色使用的后端是OpenSeeFace脚本：<br><img src="/images/21-09-12/back-end.png" alt="backend"></p>
-<p>如果你使用的是Windows系统，直接下截它提供的release即可，当然如果你的网络有点小问题不太方便，这是一个镜像站点的下截链接（写本文时最新）：</p>
-<ul>
-<li><a href="https://hub.fastgit.org/you-win/openseeface-gd/releases/download/0.6.0/OpenSeeFace-GD.zip">https://hub.fastgit.org/you-win/openseeface-gd/releases/download/0.6.0/OpenSeeFace-GD.zip</a></li>
-</ul>
-<p>下截好后解压运行exe即可，如果是linux自行按照readme来吧，挺顺利就弄好了（朝色我用的就是linux呢）</p>
-<p>之后你只需要点击“run face tracker”开始追踪面部，如果姿势很奇怪的话点setoffset，然后按空格键就可以恢复到正面对着屏幕的姿势。<br><img src="/images/21-09-12/error.png" alt="error"><br>奇奇怪怪的bug</p>
-<p>当然如果你现在的人物还是那只小黄鸭的话。。。你自然需要一个其它的模型啦。这个项目支持glb与vrm格式的人物模型。vrm的话有个网站上面有很多，有的甚至可以商用和二次发布。</p>
-<ul>
-<li><a href="https://3d.nicovideo.jp/">https://3d.nicovideo.jp</a><br>不知道访问情况如何，当然你也可以制做自己的vrm，steam上有pixiv的制做工具，上手还可以吧，不过linux下的兼容不行，比较麻烦。</li>
-<li><a href="https://store.steampowered.com/app/1486350/VRoid_Studio_v0140/">VRoid Studio</a><br>再用Load Model找到你的vrm就行了<br><img src="/images/21-09-12/load-model.png" alt="loadmodel"></li>
-</ul>
-<p>加截之后如果要调整肢体姿势，在Pose里选上要调的关节，apply一下，用鼠标滚轮就能调啦</p>
-<p>至于直播或者录屏的软件，这里推荐一个跨平台开源的软件OBS Studio<br><img src="/images/21-09-12/obs.png" alt="OBS Studio"></p>
-<ul>
-<li><a href="https://obsproject.com/">https://obsproject.com</a><br>或者你也可以从我的云盘下载：</li>
-<li><a href="https://pan.zhaose.cyou/home/Tools/Windows/OBS-Studio-27.0.1-Full-Installer-x64.exe">OBS 27.0.1 windows</a></li>
-</ul>
-<p>如果你还没看过我发在bilibili上的视频可以去看一下噢～</p>
-<p><em>by 晴朗的朝色泛起之际开始</em></p>
-]]></content>
-      <tags>
-        <tag>vtuber Linux 随手写</tag>
       </tags>
   </entry>
   <entry>
@@ -451,6 +451,20 @@
       </tags>
   </entry>
   <entry>
+    <title>玩过的ADV游戏</title>
+    <url>/2020/10/01/%E7%8E%A9%E8%BF%87%E7%9A%84ADV%E6%B8%B8%E6%88%8F/</url>
+    <content><![CDATA[<h1 id="我玩过的ADV游戏汇总（强推CLANNAD-Steins-Gate-！！！）"><a href="#我玩过的ADV游戏汇总（强推CLANNAD-Steins-Gate-！！！）" class="headerlink" title="我玩过的ADV游戏汇总（强推CLANNAD, Steins;Gate ！！！）"></a>我玩过的ADV游戏汇总（强推CLANNAD, Steins;Gate ！！！）</h1><p>红楼梦：林黛玉与北静王<br>恋爱与选举与巧克力<br>CLANNAD<br>KANNON<br>AIR</p>
+<a id="more"></a>
+<p>秋之回忆6：三角波澜<br>苍之彼方的四重奏<br>秋之回忆2<br>秋之回忆1<br>秋之回忆4：变成回忆的你<br>秋之回忆5：中断的胶片<br>秋之回忆3：想君<br>秋之回忆7：勾指起誓的回忆<br>秋之回忆6 FD<br>秋之回忆4 FD：从今以后<br>千恋万花<br>谜语小丑<br>纯白交响曲<br>恋花绽放樱飞时<br>天神乱漫<br>天色幻想岛<br>SPPL<br>CLOVER DAY’s<br>将军大人芳华正茂<br>将军大人芳华正茂FD<br>缘之空<br>悠之空<br>向日葵教会与长长的暑假<br>樱之诗（未完）<br>突然发现我已经恋上你<br>管乐恋曲<br>Making * Lovers!<br>Making * Lovers! vol.1<br>见习恋人<br>恋爱选举<br>花咲workingSpring!<br>夏梦渚<br>卡卢玛卢卡同好会<br>花之天使的夏日恋歌<br>牵绊闪耀的恋之伊吕波<br>流星 世界演绎者<br>LAMUNATION!<br>世界与世界的中心<br>秋之回忆8<br>在这片天空下展开一对翅膀<br>Steins;Gate<br>Meltymoments<br>Happiness2<br>与她*心渐近<br>魔女的夜宴<br>星光咖啡馆与死神之蝶<br>H2O赤沙印记<br>超级糖果～王道自有王道的理由<br>寄宿之恋<br>E × E<br>Noble Works<br>幼驯染与十年的夏<br>染成茜色的坂道<br>大图书馆的牧羊人<br>死神之吻乃离别之味<br>晓之护卫<br>鬼的捉迷藏<br>夜晚，徘徊在我们的辅导教室<br>古风萝莉之病娇默示录<br>DRACU-RIOT!<br>如月金星<br>从晴朗的朝色泛起之际开始</p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>随手写</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>用Linux服务器实现一起听歌</title>
     <url>/2020/10/14/%E7%94%A8Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%AE%9E%E7%8E%B0%E4%B8%80%E8%B5%B7%E5%90%AC%E6%AD%8C/</url>
     <content><![CDATA[<h1 id="用服务器一起听歌！"><a href="#用服务器一起听歌！" class="headerlink" title="用服务器一起听歌！"></a>用服务器一起听歌！</h1><p>近来用了下QQ的一起听歌功能，感觉挺有意思，但是只能听QQ歌单里有的歌，十分受限。所以决定自己用服务器搭一个差不多的听歌方案。</p>
@@ -495,20 +509,6 @@
       </tags>
   </entry>
   <entry>
-    <title>玩过的ADV游戏</title>
-    <url>/2020/10/01/%E7%8E%A9%E8%BF%87%E7%9A%84ADV%E6%B8%B8%E6%88%8F/</url>
-    <content><![CDATA[<h1 id="我玩过的ADV游戏汇总（强推CLANNAD-Steins-Gate-！！！）"><a href="#我玩过的ADV游戏汇总（强推CLANNAD-Steins-Gate-！！！）" class="headerlink" title="我玩过的ADV游戏汇总（强推CLANNAD, Steins;Gate ！！！）"></a>我玩过的ADV游戏汇总（强推CLANNAD, Steins;Gate ！！！）</h1><p>红楼梦：林黛玉与北静王<br>恋爱与选举与巧克力<br>CLANNAD<br>KANNON<br>AIR</p>
-<a id="more"></a>
-<p>秋之回忆6：三角波澜<br>苍之彼方的四重奏<br>秋之回忆2<br>秋之回忆1<br>秋之回忆4：变成回忆的你<br>秋之回忆5：中断的胶片<br>秋之回忆3：想君<br>秋之回忆7：勾指起誓的回忆<br>秋之回忆6 FD<br>秋之回忆4 FD：从今以后<br>千恋万花<br>谜语小丑<br>纯白交响曲<br>恋花绽放樱飞时<br>天神乱漫<br>天色幻想岛<br>SPPL<br>CLOVER DAY’s<br>将军大人芳华正茂<br>将军大人芳华正茂FD<br>缘之空<br>悠之空<br>向日葵教会与长长的暑假<br>樱之诗（未完）<br>突然发现我已经恋上你<br>管乐恋曲<br>Making * Lovers!<br>Making * Lovers! vol.1<br>见习恋人<br>恋爱选举<br>花咲workingSpring!<br>夏梦渚<br>卡卢玛卢卡同好会<br>花之天使的夏日恋歌<br>牵绊闪耀的恋之伊吕波<br>流星 世界演绎者<br>LAMUNATION!<br>世界与世界的中心<br>秋之回忆8<br>在这片天空下展开一对翅膀<br>Steins;Gate<br>Meltymoments<br>Happiness2<br>与她*心渐近<br>魔女的夜宴<br>星光咖啡馆与死神之蝶<br>H2O赤沙印记<br>超级糖果～王道自有王道的理由<br>寄宿之恋<br>E × E<br>Noble Works<br>幼驯染与十年的夏<br>染成茜色的坂道<br>大图书馆的牧羊人<br>死神之吻乃离别之味<br>晓之护卫<br>鬼的捉迷藏<br>夜晚，徘徊在我们的辅导教室<br>古风萝莉之病娇默示录<br>DRACU-RIOT!<br>如月金星<br>从晴朗的朝色泛起之际开始</p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>随手写</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>给picom开启高性能模糊透明</title>
     <url>/2020/12/04/%E7%BB%99picom%E5%BC%80%E5%90%AF%E9%AB%98%E6%80%A7%E8%83%BD%E6%A8%A1%E7%B3%8A%E9%80%8F%E6%98%8E/</url>
     <content><![CDATA[<h1 id="picom混成器模糊透明来了！"><a href="#picom混成器模糊透明来了！" class="headerlink" title="picom混成器模糊透明来了！"></a>picom混成器模糊透明来了！</h1><p>使用windows manager的图形界面的话，如果不想忍受单薄的画面，当然少不了一个窗口混成器。现在kwin，mutter这些集成在DE里面的wm都整合了混成器。但是像i3这种wm，就需要一个外置混成器来撑撑排面了。</p>
@@ -550,20 +550,6 @@
       </tags>
   </entry>
   <entry>
-    <title>谜之生物观察日记</title>
-    <url>/2022/04/04/%E8%B0%9C%E4%B9%8B%E7%94%9F%E7%89%A9%E8%A7%82%E5%AF%9F%E6%97%A5%E8%AE%B0/</url>
-    <content><![CDATA[<p><a href="https://twitter.com/pageratta">关注原作者！</a></p>
-<p><img src="/images/nazoikimono/04_28_(03_30_6)_cn.jpg" alt="3月30日 第57日"><br><img src="/images/nazoikimono/04_27_(03_29_6)_cn.jpg" alt="3月29日 第56日"><br><img src="/images/nazoikimono/04_26_(03_28_6)_cn.jpg" alt="3月28日 第55日"><br><img src="/images/nazoikimono/04_25_(03_27_6)_cn.jpg" alt="3月27日 第54日"><br><img src="/images/nazoikimono/04_24_(03_26_6)_cn.jpg" alt="3月26日 第53日"><br><img src="/images/nazoikimono/04_23_(03_30_5)_cn.jpg" alt="3月30日 第52日"><br><img src="/images/nazoikimono/04_20_(03_27_5)_cn.jpg" alt="3月27日 第51日"><br><img src="/images/nazoikimono/04_19_(03_26_5)_cn.jpg" alt="3月26日 第50日"><br><img src="/images/nazoikimono/04_18_(03_25_5)_cn.jpg" alt="3月25日 第49日"><br><img src="/images/nazoikimono/04_17_(03_24_5)_cn.jpg" alt="3月24日 第48日"><br><img src="/images/nazoikimono/04_16_(03_23_5)_cn.jpg" alt="3月23日 第47日"><br><img src="/images/nazoikimono/04_15_(03_22_5)_cn.jpg" alt="3月22日 第46日"><br><img src="/images/nazoikimono/04_14_(03_21_5)_cn.jpg" alt="3月21日 第45日"><br><img src="/images/nazoikimono/04_13_(03_20_5)_cn.jpg" alt="3月20日 第44日"><br><img src="/images/nazoikimono/04_12_(03_30_4)_cn.jpg" alt="3月30日 第43日"><br><img src="/images/nazoikimono/04_11_(03_29_4)_cn.jpg" alt="3月29日 第42日"><br><img src="/images/nazoikimono/04_10_(03_28_4)_cn.jpg" alt="3月28日 第41日"><br><img src="/images/nazoikimono/04_09_(03_27_4)_cn.jpg" alt="3月27日 第40日"><br><img src="/images/nazoikimono/04_08_(03_26_4)_cn.jpg" alt="3月26日 第39日"><br><img src="/images/nazoikimono/04_07_(03_25_4)_cn.jpg" alt="3月25日 第38日"><br><img src="/images/nazoikimono/04_06_(03_31_3)_cn.jpg" alt="3月31日 第37日"><br><img src="/images/nazoikimono/04_05_(03_30_3)_cn.jpg" alt="3月30日 第36日"><br><img src="/images/nazoikimono/04_04_(03_29_3)_cn.jpg" alt="3月29日 第35日"><br><img src="/images/nazoikimono/04_03_(03_28_3)_cn.jpg" alt="3月28日 第34日"><br><img src="/images/nazoikimono/04_02_(03_27_3).jpg" alt="3月27日 第33日"><br><img src="/images/nazoikimono/04_01_(03_26_3)_cn.jpg" alt="3月26日 第32日"><br><img src="/images/nazoikimono/03_31_(03_25_3)_cn.jpg" alt="3月25日 第31日"><br><img src="/images/nazoikimono/03_30_(03_24_3)_cn.jpg" alt="3月24日 第30日"><br><img src="/images/nazoikimono/03_29_(03_23_3)_cn.jpg" alt="3月23日 第29日"><br><img src="/images/nazoikimono/03_28_(03_23_2)_cn.jpg" alt="3月23日 第28日"><br><img src="/images/nazoikimono/03_27_(03_22_2)_cn.jpg" alt="3月22日 第27日"><br><img src="/images/nazoikimono/03_26_(03_21_2)_cn.jpg" alt="3月21日 第26日"><br><img src="/images/nazoikimono/03_25_(03_20_2)_cn.jpg" alt="3月20日 第25日"><br><img src="/images/nazoikimono/03_24_(03_21_1)_cn.jpg" alt="3月21日 第24日"><br><img src="/images/nazoikimono/03_23_(03_20_1)_cn.jpg" alt="3月20日 第23日"><br><img src="/images/nazoikimono/03_22_(03_19_1)_cn.jpg" alt="3月19日 第22日"><br><img src="/images/nazoikimono/03_21_(03_18_1)_cn.jpg" alt="3月18日 第21日"><br><img src="/images/nazoikimono/03_20_(03_17_1)_cn.jpg" alt="3月17日 第20日"><br><img src="/images/nazoikimono/03_19_(03_16_1)_cn.jpg" alt="3月16日 第19日"><br><img src="/images/nazoikimono/03_18_(03_15_1)_cn.jpg" alt="3月15日 第18日"><br><img src="/images/nazoikimono/03_17_cn.jpg" alt="3月17日 第17日"><br><img src="/images/nazoikimono/03_16_cn.jpg" alt="3月16日 第16日"><br><img src="/images/nazoikimono/03_15_cn.jpg" alt="3月15日 第15日"><br><img src="/images/nazoikimono/03_14_cn.jpg" alt="3月14日 第14日"><br><img src="/images/nazoikimono/03_13_cn.jpg" alt="3月13日 第13日"><br><img src="/images/nazoikimono/03_12_cn.jpg" alt="3月12日 第12日"><br><img src="/images/nazoikimono/03_11_cn.jpg" alt="3月11日 第11日"><br><img src="/images/nazoikimono/03_10_cn.jpg" alt="3月10日 第10日"><br><img src="/images/nazoikimono/03_09_cn.jpg" alt="3月09日 第09日"><br><img src="/images/nazoikimono/03_08_cn.jpg" alt="3月08日 第08日"><br><img src="/images/nazoikimono/03_07_cn.jpg" alt="3月07日 第07日"><br><img src="/images/nazoikimono/03_06_cn.jpg" alt="3月06日 第06日"><br><img src="/images/nazoikimono/03_05_cn.jpg" alt="3月05日 第05日"><br><img src="/images/nazoikimono/03_04_cn.jpg" alt="3月04日 第04日"><br><img src="/images/nazoikimono/03_03_cn.jpg" alt="3月03日 第03日"><br><img src="/images/nazoikimono/03_02_cn.jpg" alt="3月02日 第02日"><br><img src="/images/nazoikimono/03_01_cn.jpg" alt="3月01日 第01日"></p>
-<p><em>从朝朗的朝色泛起之际开始</em></p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>翻译</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>这样就好_一回目</title>
     <url>/2021/11/09/%E8%BF%99%E6%A0%B7%E5%B0%B1%E5%A5%BD-%E4%B8%80%E5%9B%9E%E7%9B%AE/</url>
     <content><![CDATA[<h1 id="本来觉得这样就好"><a href="#本来觉得这样就好" class="headerlink" title="本来觉得这样就好"></a>本来觉得这样就好</h1><p>这是一个没什么特别意义的故事。<br>它不会教会你奋斗，不会劝告你去努力，不能促使你去改变这个世界，让世界变得更好。<br>但是这样就好。<br>改变世界什么的，留给别人去做吧。</p>
@@ -578,6 +564,20 @@
       </categories>
       <tags>
         <tag>这样就好</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>谜之生物观察日记</title>
+    <url>/2022/04/04/%E8%B0%9C%E4%B9%8B%E7%94%9F%E7%89%A9%E8%A7%82%E5%AF%9F%E6%97%A5%E8%AE%B0/</url>
+    <content><![CDATA[<p><a href="https://twitter.com/pageratta">关注原作者！</a></p>
+<p><img src="/images/nazoikimono/04_29_(03_29_07)_cn.jpg" alt="3月29日 第58日"><br><img src="/images/nazoikimono/04_28_(03_30_6)_cn.jpg" alt="3月30日 第57日"><br><img src="/images/nazoikimono/04_27_(03_29_6)_cn.jpg" alt="3月29日 第56日"><br><img src="/images/nazoikimono/04_26_(03_28_6)_cn.jpg" alt="3月28日 第55日"><br><img src="/images/nazoikimono/04_25_(03_27_6)_cn.jpg" alt="3月27日 第54日"><br><img src="/images/nazoikimono/04_24_(03_26_6)_cn.jpg" alt="3月26日 第53日"><br><img src="/images/nazoikimono/04_23_(03_30_5)_cn.jpg" alt="3月30日 第52日"><br><img src="/images/nazoikimono/04_20_(03_27_5)_cn.jpg" alt="3月27日 第51日"><br><img src="/images/nazoikimono/04_19_(03_26_5)_cn.jpg" alt="3月26日 第50日"><br><img src="/images/nazoikimono/04_18_(03_25_5)_cn.jpg" alt="3月25日 第49日"><br><img src="/images/nazoikimono/04_17_(03_24_5)_cn.jpg" alt="3月24日 第48日"><br><img src="/images/nazoikimono/04_16_(03_23_5)_cn.jpg" alt="3月23日 第47日"><br><img src="/images/nazoikimono/04_15_(03_22_5)_cn.jpg" alt="3月22日 第46日"><br><img src="/images/nazoikimono/04_14_(03_21_5)_cn.jpg" alt="3月21日 第45日"><br><img src="/images/nazoikimono/04_13_(03_20_5)_cn.jpg" alt="3月20日 第44日"><br><img src="/images/nazoikimono/04_12_(03_30_4)_cn.jpg" alt="3月30日 第43日"><br><img src="/images/nazoikimono/04_11_(03_29_4)_cn.jpg" alt="3月29日 第42日"><br><img src="/images/nazoikimono/04_10_(03_28_4)_cn.jpg" alt="3月28日 第41日"><br><img src="/images/nazoikimono/04_09_(03_27_4)_cn.jpg" alt="3月27日 第40日"><br><img src="/images/nazoikimono/04_08_(03_26_4)_cn.jpg" alt="3月26日 第39日"><br><img src="/images/nazoikimono/04_07_(03_25_4)_cn.jpg" alt="3月25日 第38日"><br><img src="/images/nazoikimono/04_06_(03_31_3)_cn.jpg" alt="3月31日 第37日"><br><img src="/images/nazoikimono/04_05_(03_30_3)_cn.jpg" alt="3月30日 第36日"><br><img src="/images/nazoikimono/04_04_(03_29_3)_cn.jpg" alt="3月29日 第35日"><br><img src="/images/nazoikimono/04_03_(03_28_3)_cn.jpg" alt="3月28日 第34日"><br><img src="/images/nazoikimono/04_02_(03_27_3).jpg" alt="3月27日 第33日"><br><img src="/images/nazoikimono/04_01_(03_26_3)_cn.jpg" alt="3月26日 第32日"><br><img src="/images/nazoikimono/03_31_(03_25_3)_cn.jpg" alt="3月25日 第31日"><br><img src="/images/nazoikimono/03_30_(03_24_3)_cn.jpg" alt="3月24日 第30日"><br><img src="/images/nazoikimono/03_29_(03_23_3)_cn.jpg" alt="3月23日 第29日"><br><img src="/images/nazoikimono/03_28_(03_23_2)_cn.jpg" alt="3月23日 第28日"><br><img src="/images/nazoikimono/03_27_(03_22_2)_cn.jpg" alt="3月22日 第27日"><br><img src="/images/nazoikimono/03_26_(03_21_2)_cn.jpg" alt="3月21日 第26日"><br><img src="/images/nazoikimono/03_25_(03_20_2)_cn.jpg" alt="3月20日 第25日"><br><img src="/images/nazoikimono/03_24_(03_21_1)_cn.jpg" alt="3月21日 第24日"><br><img src="/images/nazoikimono/03_23_(03_20_1)_cn.jpg" alt="3月20日 第23日"><br><img src="/images/nazoikimono/03_22_(03_19_1)_cn.jpg" alt="3月19日 第22日"><br><img src="/images/nazoikimono/03_21_(03_18_1)_cn.jpg" alt="3月18日 第21日"><br><img src="/images/nazoikimono/03_20_(03_17_1)_cn.jpg" alt="3月17日 第20日"><br><img src="/images/nazoikimono/03_19_(03_16_1)_cn.jpg" alt="3月16日 第19日"><br><img src="/images/nazoikimono/03_18_(03_15_1)_cn.jpg" alt="3月15日 第18日"><br><img src="/images/nazoikimono/03_17_cn.jpg" alt="3月17日 第17日"><br><img src="/images/nazoikimono/03_16_cn.jpg" alt="3月16日 第16日"><br><img src="/images/nazoikimono/03_15_cn.jpg" alt="3月15日 第15日"><br><img src="/images/nazoikimono/03_14_cn.jpg" alt="3月14日 第14日"><br><img src="/images/nazoikimono/03_13_cn.jpg" alt="3月13日 第13日"><br><img src="/images/nazoikimono/03_12_cn.jpg" alt="3月12日 第12日"><br><img src="/images/nazoikimono/03_11_cn.jpg" alt="3月11日 第11日"><br><img src="/images/nazoikimono/03_10_cn.jpg" alt="3月10日 第10日"><br><img src="/images/nazoikimono/03_09_cn.jpg" alt="3月09日 第09日"><br><img src="/images/nazoikimono/03_08_cn.jpg" alt="3月08日 第08日"><br><img src="/images/nazoikimono/03_07_cn.jpg" alt="3月07日 第07日"><br><img src="/images/nazoikimono/03_06_cn.jpg" alt="3月06日 第06日"><br><img src="/images/nazoikimono/03_05_cn.jpg" alt="3月05日 第05日"><br><img src="/images/nazoikimono/03_04_cn.jpg" alt="3月04日 第04日"><br><img src="/images/nazoikimono/03_03_cn.jpg" alt="3月03日 第03日"><br><img src="/images/nazoikimono/03_02_cn.jpg" alt="3月02日 第02日"><br><img src="/images/nazoikimono/03_01_cn.jpg" alt="3月01日 第01日"></p>
+<p><em>从朝朗的朝色泛起之际开始</em></p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>翻译</tag>
       </tags>
   </entry>
   <entry>
