@@ -31,26 +31,6 @@
       </tags>
   </entry>
   <entry>
-    <title>FedoraFun 重新上线</title>
-    <url>/2022/02/06/FedoraFun-%E9%87%8D%E6%96%B0%E4%B8%8A%E7%BA%BF/</url>
-    <content><![CDATA[<h1 id="FedoraFun-于下线约10日后重新上线"><a href="#FedoraFun-于下线约10日后重新上线" class="headerlink" title="FedoraFun 于下线约10日后重新上线"></a>FedoraFun 于下线约10日后重新上线</h1><p>2022年02月05日晚，下线许久的 FedoraFun 终于重新上线了。经由<a href="https://github.com/zxc3123857948">创始人</a>的努力，现在博客由 Halo 构建并且运行于独立服务器上。</p>
-<p><img src="/images/22-02-06/new.jpg" alt="FedoraFun 新官网截图"></p>
-<p>可以发现，相比之前使用 Hugo 构建的博客系统，更加美观，贴合国内大众审美，页面内容丰富，信息集中，具有交互感。</p>
-<p>据悉，FedoraFun 最新官网使用了 Halo ，一款国人开发的博客框架系统进行构架。该框架运行于 Java ，并且源代码已经开源。这一定程度上也反映了现今国产化的蓬勃发展，产生了许多优于外国的解决方案。</p>
-<p>另外，前次报道中出现了一处错误，这里予以更正：FedoraFun 软件存储仓库最后一次更新时间为01月31日，也就是除夕当日。</p>
-<p><img src="/images/22-02-06/pkg.png" alt="FedoraFun 软件存储仓库的最新包"></p>
-<p>其实创始人在除夕之夜，这个本应与家人共度的节日里，还不忘全国的 FedoraFun 用户们，更新了软件包。并且明明正值新春佳节，却耗费时间与精力修复了 FedoraFun 官网。可见创始人的道德之高尚，与国外弄虚作假，整日不喜上班，浑浑噩噩的所谓“合理劳动”形成了鲜明的反差。创始人正是贯彻社区主义核心价值观的典范。</p>
-<p>最后，朝色报已经受到了 FedoraFun 创始人以及其它相关人员的关注。感谢大家的支持，如有疑问，建议可于评论中提出。</p>
-<p>2022-02-06 <strong>刊号3</strong> <em>——朝色报</em></p>
-]]></content>
-      <categories>
-        <category>朝色报</category>
-      </categories>
-      <tags>
-        <tag>新闻</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>FedoraFun下线七日</title>
     <url>/2022/02/03/FedoraFun%E4%B8%8B%E7%BA%BF%E4%B8%83%E6%97%A5/</url>
     <content><![CDATA[<h1 id="国内知名-Fedora-社区-FedoraFun-官网今已下线七日"><a href="#国内知名-Fedora-社区-FedoraFun-官网今已下线七日" class="headerlink" title="国内知名 Fedora 社区 FedoraFun 官网今已下线七日"></a>国内知名 Fedora 社区 FedoraFun 官网今已下线七日</h1><p>2022年02月03日，正月初三，本应是喜汽洋洋过年的日子，我们却不得不告知一件令人忧伤的事实：<strong>FedoraFun 官网已经下线七天了</strong></p>
@@ -67,6 +47,26 @@
 <p>所以业内人士认为，综和以上来看，尊重人员的私生活以及法定节假日是值得肯定的行为，那么应当在技术的易用性上下功夫。这也在一定程度上反映了国外技术的不可信，违反直觉，难以使用；更加证明了国产化势在必行。FedoraFun 亦是将国外技术引进的组织之一，也应当更加注重这一点。</p>
 <p>于此新春之际，祝愿大家新春快乐，同时，祝愿 FedoraFun 也能从此次变故中涅磐重生，继续作为国内知名技术社区发光发热。</p>
 <p>2022-02-03 <strong>刊号2</strong> <em>——朝色报</em></p>
+]]></content>
+      <categories>
+        <category>朝色报</category>
+      </categories>
+      <tags>
+        <tag>新闻</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>FedoraFun 重新上线</title>
+    <url>/2022/02/06/FedoraFun-%E9%87%8D%E6%96%B0%E4%B8%8A%E7%BA%BF/</url>
+    <content><![CDATA[<h1 id="FedoraFun-于下线约10日后重新上线"><a href="#FedoraFun-于下线约10日后重新上线" class="headerlink" title="FedoraFun 于下线约10日后重新上线"></a>FedoraFun 于下线约10日后重新上线</h1><p>2022年02月05日晚，下线许久的 FedoraFun 终于重新上线了。经由<a href="https://github.com/zxc3123857948">创始人</a>的努力，现在博客由 Halo 构建并且运行于独立服务器上。</p>
+<p><img src="/images/22-02-06/new.jpg" alt="FedoraFun 新官网截图"></p>
+<p>可以发现，相比之前使用 Hugo 构建的博客系统，更加美观，贴合国内大众审美，页面内容丰富，信息集中，具有交互感。</p>
+<p>据悉，FedoraFun 最新官网使用了 Halo ，一款国人开发的博客框架系统进行构架。该框架运行于 Java ，并且源代码已经开源。这一定程度上也反映了现今国产化的蓬勃发展，产生了许多优于外国的解决方案。</p>
+<p>另外，前次报道中出现了一处错误，这里予以更正：FedoraFun 软件存储仓库最后一次更新时间为01月31日，也就是除夕当日。</p>
+<p><img src="/images/22-02-06/pkg.png" alt="FedoraFun 软件存储仓库的最新包"></p>
+<p>其实创始人在除夕之夜，这个本应与家人共度的节日里，还不忘全国的 FedoraFun 用户们，更新了软件包。并且明明正值新春佳节，却耗费时间与精力修复了 FedoraFun 官网。可见创始人的道德之高尚，与国外弄虚作假，整日不喜上班，浑浑噩噩的所谓“合理劳动”形成了鲜明的反差。创始人正是贯彻社区主义核心价值观的典范。</p>
+<p>最后，朝色报已经受到了 FedoraFun 创始人以及其它相关人员的关注。感谢大家的支持，如有疑问，建议可于评论中提出。</p>
+<p>2022-02-06 <strong>刊号3</strong> <em>——朝色报</em></p>
 ]]></content>
       <categories>
         <category>朝色报</category>
@@ -550,6 +550,20 @@
       </tags>
   </entry>
   <entry>
+    <title>谜之生物观察日记</title>
+    <url>/2022/04/04/%E8%B0%9C%E4%B9%8B%E7%94%9F%E7%89%A9%E8%A7%82%E5%AF%9F%E6%97%A5%E8%AE%B0/</url>
+    <content><![CDATA[<p><a href="https://twitter.com/pageratta">关注原作者！</a></p>
+<p><img src="/images/nazoikimono/04_29_(03_29_07)_cn.jpg" alt="3月29日 第58日"><br><img src="/images/nazoikimono/04_28_(03_30_6)_cn.jpg" alt="3月30日 第57日"><br><img src="/images/nazoikimono/04_27_(03_29_6)_cn.jpg" alt="3月29日 第56日"><br><img src="/images/nazoikimono/04_26_(03_28_6)_cn.jpg" alt="3月28日 第55日"><br><img src="/images/nazoikimono/04_25_(03_27_6)_cn.jpg" alt="3月27日 第54日"><br><img src="/images/nazoikimono/04_24_(03_26_6)_cn.jpg" alt="3月26日 第53日"><br><img src="/images/nazoikimono/04_23_(03_30_5)_cn.jpg" alt="3月30日 第52日"><br><img src="/images/nazoikimono/04_20_(03_27_5)_cn.jpg" alt="3月27日 第51日"><br><img src="/images/nazoikimono/04_19_(03_26_5)_cn.jpg" alt="3月26日 第50日"><br><img src="/images/nazoikimono/04_18_(03_25_5)_cn.jpg" alt="3月25日 第49日"><br><img src="/images/nazoikimono/04_17_(03_24_5)_cn.jpg" alt="3月24日 第48日"><br><img src="/images/nazoikimono/04_16_(03_23_5)_cn.jpg" alt="3月23日 第47日"><br><img src="/images/nazoikimono/04_15_(03_22_5)_cn.jpg" alt="3月22日 第46日"><br><img src="/images/nazoikimono/04_14_(03_21_5)_cn.jpg" alt="3月21日 第45日"><br><img src="/images/nazoikimono/04_13_(03_20_5)_cn.jpg" alt="3月20日 第44日"><br><img src="/images/nazoikimono/04_12_(03_30_4)_cn.jpg" alt="3月30日 第43日"><br><img src="/images/nazoikimono/04_11_(03_29_4)_cn.jpg" alt="3月29日 第42日"><br><img src="/images/nazoikimono/04_10_(03_28_4)_cn.jpg" alt="3月28日 第41日"><br><img src="/images/nazoikimono/04_09_(03_27_4)_cn.jpg" alt="3月27日 第40日"><br><img src="/images/nazoikimono/04_08_(03_26_4)_cn.jpg" alt="3月26日 第39日"><br><img src="/images/nazoikimono/04_07_(03_25_4)_cn.jpg" alt="3月25日 第38日"><br><img src="/images/nazoikimono/04_06_(03_31_3)_cn.jpg" alt="3月31日 第37日"><br><img src="/images/nazoikimono/04_05_(03_30_3)_cn.jpg" alt="3月30日 第36日"><br><img src="/images/nazoikimono/04_04_(03_29_3)_cn.jpg" alt="3月29日 第35日"><br><img src="/images/nazoikimono/04_03_(03_28_3)_cn.jpg" alt="3月28日 第34日"><br><img src="/images/nazoikimono/04_02_(03_27_3).jpg" alt="3月27日 第33日"><br><img src="/images/nazoikimono/04_01_(03_26_3)_cn.jpg" alt="3月26日 第32日"><br><img src="/images/nazoikimono/03_31_(03_25_3)_cn.jpg" alt="3月25日 第31日"><br><img src="/images/nazoikimono/03_30_(03_24_3)_cn.jpg" alt="3月24日 第30日"><br><img src="/images/nazoikimono/03_29_(03_23_3)_cn.jpg" alt="3月23日 第29日"><br><img src="/images/nazoikimono/03_28_(03_23_2)_cn.jpg" alt="3月23日 第28日"><br><img src="/images/nazoikimono/03_27_(03_22_2)_cn.jpg" alt="3月22日 第27日"><br><img src="/images/nazoikimono/03_26_(03_21_2)_cn.jpg" alt="3月21日 第26日"><br><img src="/images/nazoikimono/03_25_(03_20_2)_cn.jpg" alt="3月20日 第25日"><br><img src="/images/nazoikimono/03_24_(03_21_1)_cn.jpg" alt="3月21日 第24日"><br><img src="/images/nazoikimono/03_23_(03_20_1)_cn.jpg" alt="3月20日 第23日"><br><img src="/images/nazoikimono/03_22_(03_19_1)_cn.jpg" alt="3月19日 第22日"><br><img src="/images/nazoikimono/03_21_(03_18_1)_cn.jpg" alt="3月18日 第21日"><br><img src="/images/nazoikimono/03_20_(03_17_1)_cn.jpg" alt="3月17日 第20日"><br><img src="/images/nazoikimono/03_19_(03_16_1)_cn.jpg" alt="3月16日 第19日"><br><img src="/images/nazoikimono/03_18_(03_15_1)_cn.jpg" alt="3月15日 第18日"><br><img src="/images/nazoikimono/03_17_cn.jpg" alt="3月17日 第17日"><br><img src="/images/nazoikimono/03_16_cn.jpg" alt="3月16日 第16日"><br><img src="/images/nazoikimono/03_15_cn.jpg" alt="3月15日 第15日"><br><img src="/images/nazoikimono/03_14_cn.jpg" alt="3月14日 第14日"><br><img src="/images/nazoikimono/03_13_cn.jpg" alt="3月13日 第13日"><br><img src="/images/nazoikimono/03_12_cn.jpg" alt="3月12日 第12日"><br><img src="/images/nazoikimono/03_11_cn.jpg" alt="3月11日 第11日"><br><img src="/images/nazoikimono/03_10_cn.jpg" alt="3月10日 第10日"><br><img src="/images/nazoikimono/03_09_cn.jpg" alt="3月09日 第09日"><br><img src="/images/nazoikimono/03_08_cn.jpg" alt="3月08日 第08日"><br><img src="/images/nazoikimono/03_07_cn.jpg" alt="3月07日 第07日"><br><img src="/images/nazoikimono/03_06_cn.jpg" alt="3月06日 第06日"><br><img src="/images/nazoikimono/03_05_cn.jpg" alt="3月05日 第05日"><br><img src="/images/nazoikimono/03_04_cn.jpg" alt="3月04日 第04日"><br><img src="/images/nazoikimono/03_03_cn.jpg" alt="3月03日 第03日"><br><img src="/images/nazoikimono/03_02_cn.jpg" alt="3月02日 第02日"><br><img src="/images/nazoikimono/03_01_cn.jpg" alt="3月01日 第01日"></p>
+<p><em>从朝朗的朝色泛起之际开始</em></p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>翻译</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>这样就好_一回目</title>
     <url>/2021/11/09/%E8%BF%99%E6%A0%B7%E5%B0%B1%E5%A5%BD-%E4%B8%80%E5%9B%9E%E7%9B%AE/</url>
     <content><![CDATA[<h1 id="本来觉得这样就好"><a href="#本来觉得这样就好" class="headerlink" title="本来觉得这样就好"></a>本来觉得这样就好</h1><p>这是一个没什么特别意义的故事。<br>它不会教会你奋斗，不会劝告你去努力，不能促使你去改变这个世界，让世界变得更好。<br>但是这样就好。<br>改变世界什么的，留给别人去做吧。</p>
@@ -564,20 +578,6 @@
       </categories>
       <tags>
         <tag>这样就好</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>谜之生物观察日记</title>
-    <url>/2022/04/04/%E8%B0%9C%E4%B9%8B%E7%94%9F%E7%89%A9%E8%A7%82%E5%AF%9F%E6%97%A5%E8%AE%B0/</url>
-    <content><![CDATA[<p><a href="https://twitter.com/pageratta">关注原作者！</a></p>
-<p><img src="/images/nazoikimono/04_29_(03_29_07)_cn.jpg" alt="3月29日 第58日"><br><img src="/images/nazoikimono/04_28_(03_30_6)_cn.jpg" alt="3月30日 第57日"><br><img src="/images/nazoikimono/04_27_(03_29_6)_cn.jpg" alt="3月29日 第56日"><br><img src="/images/nazoikimono/04_26_(03_28_6)_cn.jpg" alt="3月28日 第55日"><br><img src="/images/nazoikimono/04_25_(03_27_6)_cn.jpg" alt="3月27日 第54日"><br><img src="/images/nazoikimono/04_24_(03_26_6)_cn.jpg" alt="3月26日 第53日"><br><img src="/images/nazoikimono/04_23_(03_30_5)_cn.jpg" alt="3月30日 第52日"><br><img src="/images/nazoikimono/04_20_(03_27_5)_cn.jpg" alt="3月27日 第51日"><br><img src="/images/nazoikimono/04_19_(03_26_5)_cn.jpg" alt="3月26日 第50日"><br><img src="/images/nazoikimono/04_18_(03_25_5)_cn.jpg" alt="3月25日 第49日"><br><img src="/images/nazoikimono/04_17_(03_24_5)_cn.jpg" alt="3月24日 第48日"><br><img src="/images/nazoikimono/04_16_(03_23_5)_cn.jpg" alt="3月23日 第47日"><br><img src="/images/nazoikimono/04_15_(03_22_5)_cn.jpg" alt="3月22日 第46日"><br><img src="/images/nazoikimono/04_14_(03_21_5)_cn.jpg" alt="3月21日 第45日"><br><img src="/images/nazoikimono/04_13_(03_20_5)_cn.jpg" alt="3月20日 第44日"><br><img src="/images/nazoikimono/04_12_(03_30_4)_cn.jpg" alt="3月30日 第43日"><br><img src="/images/nazoikimono/04_11_(03_29_4)_cn.jpg" alt="3月29日 第42日"><br><img src="/images/nazoikimono/04_10_(03_28_4)_cn.jpg" alt="3月28日 第41日"><br><img src="/images/nazoikimono/04_09_(03_27_4)_cn.jpg" alt="3月27日 第40日"><br><img src="/images/nazoikimono/04_08_(03_26_4)_cn.jpg" alt="3月26日 第39日"><br><img src="/images/nazoikimono/04_07_(03_25_4)_cn.jpg" alt="3月25日 第38日"><br><img src="/images/nazoikimono/04_06_(03_31_3)_cn.jpg" alt="3月31日 第37日"><br><img src="/images/nazoikimono/04_05_(03_30_3)_cn.jpg" alt="3月30日 第36日"><br><img src="/images/nazoikimono/04_04_(03_29_3)_cn.jpg" alt="3月29日 第35日"><br><img src="/images/nazoikimono/04_03_(03_28_3)_cn.jpg" alt="3月28日 第34日"><br><img src="/images/nazoikimono/04_02_(03_27_3).jpg" alt="3月27日 第33日"><br><img src="/images/nazoikimono/04_01_(03_26_3)_cn.jpg" alt="3月26日 第32日"><br><img src="/images/nazoikimono/03_31_(03_25_3)_cn.jpg" alt="3月25日 第31日"><br><img src="/images/nazoikimono/03_30_(03_24_3)_cn.jpg" alt="3月24日 第30日"><br><img src="/images/nazoikimono/03_29_(03_23_3)_cn.jpg" alt="3月23日 第29日"><br><img src="/images/nazoikimono/03_28_(03_23_2)_cn.jpg" alt="3月23日 第28日"><br><img src="/images/nazoikimono/03_27_(03_22_2)_cn.jpg" alt="3月22日 第27日"><br><img src="/images/nazoikimono/03_26_(03_21_2)_cn.jpg" alt="3月21日 第26日"><br><img src="/images/nazoikimono/03_25_(03_20_2)_cn.jpg" alt="3月20日 第25日"><br><img src="/images/nazoikimono/03_24_(03_21_1)_cn.jpg" alt="3月21日 第24日"><br><img src="/images/nazoikimono/03_23_(03_20_1)_cn.jpg" alt="3月20日 第23日"><br><img src="/images/nazoikimono/03_22_(03_19_1)_cn.jpg" alt="3月19日 第22日"><br><img src="/images/nazoikimono/03_21_(03_18_1)_cn.jpg" alt="3月18日 第21日"><br><img src="/images/nazoikimono/03_20_(03_17_1)_cn.jpg" alt="3月17日 第20日"><br><img src="/images/nazoikimono/03_19_(03_16_1)_cn.jpg" alt="3月16日 第19日"><br><img src="/images/nazoikimono/03_18_(03_15_1)_cn.jpg" alt="3月15日 第18日"><br><img src="/images/nazoikimono/03_17_cn.jpg" alt="3月17日 第17日"><br><img src="/images/nazoikimono/03_16_cn.jpg" alt="3月16日 第16日"><br><img src="/images/nazoikimono/03_15_cn.jpg" alt="3月15日 第15日"><br><img src="/images/nazoikimono/03_14_cn.jpg" alt="3月14日 第14日"><br><img src="/images/nazoikimono/03_13_cn.jpg" alt="3月13日 第13日"><br><img src="/images/nazoikimono/03_12_cn.jpg" alt="3月12日 第12日"><br><img src="/images/nazoikimono/03_11_cn.jpg" alt="3月11日 第11日"><br><img src="/images/nazoikimono/03_10_cn.jpg" alt="3月10日 第10日"><br><img src="/images/nazoikimono/03_09_cn.jpg" alt="3月09日 第09日"><br><img src="/images/nazoikimono/03_08_cn.jpg" alt="3月08日 第08日"><br><img src="/images/nazoikimono/03_07_cn.jpg" alt="3月07日 第07日"><br><img src="/images/nazoikimono/03_06_cn.jpg" alt="3月06日 第06日"><br><img src="/images/nazoikimono/03_05_cn.jpg" alt="3月05日 第05日"><br><img src="/images/nazoikimono/03_04_cn.jpg" alt="3月04日 第04日"><br><img src="/images/nazoikimono/03_03_cn.jpg" alt="3月03日 第03日"><br><img src="/images/nazoikimono/03_02_cn.jpg" alt="3月02日 第02日"><br><img src="/images/nazoikimono/03_01_cn.jpg" alt="3月01日 第01日"></p>
-<p><em>从朝朗的朝色泛起之际开始</em></p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>翻译</tag>
       </tags>
   </entry>
   <entry>
