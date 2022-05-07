@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>ADV制做计划</title>
+    <url>/2021/01/06/ADV%E5%88%B6%E5%81%9A%E8%AE%A1%E5%88%92/</url>
+    <content><![CDATA[<h1 id="ADV-Gal-AVG制做计划启动！"><a href="#ADV-Gal-AVG制做计划启动！" class="headerlink" title="ADV/Gal/AVG制做计划启动！"></a>ADV/Gal/AVG制做计划启动！</h1><p>2021年了，计划制做一部ADV（亦可称为AVG，Gal，视觉交互小说），大概的需求有：</p>
+<p>剧本，绘画，音乐，脚本，（CV，宣传）</p>
+<p>引擎的话计划是使用Ren’Py哦，感觉还是挺好用的（我才不告诉你是因为DDLC用的是Ren’Py）<br>万事开头难，一定要有气势！（其实做完大概更难XD）</p>
+<a id="more"></a>
+<p>在下比较穷，尽量还是靠个人兴趣参加吧<br>本人大概会负责脚本(Ren’py)和一部分剧本<br>来张从雨镇一下！！（贫乳loli谁不爱）</p>
+<p><img src="/images/congyu.png" alt="congyu"></p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>记事与通知</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>FedoraFun 创始人宣布学习Rust</title>
     <url>/2021/12/18/FedoraFun-%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%AE%A3%E5%B8%83%E5%AD%A6%E4%B9%A0Rust/</url>
     <content><![CDATA[<h1 id="朝色报创刊号"><a href="#朝色报创刊号" class="headerlink" title="朝色报创刊号"></a>朝色报创刊号</h1><p><img src="/images/21-12-18/pic_version.jpg" alt="使用Word制作的第一则报道"></p>
@@ -34,39 +51,18 @@
       </tags>
   </entry>
   <entry>
-    <title>ADV制做计划</title>
-    <url>/2021/01/06/ADV%E5%88%B6%E5%81%9A%E8%AE%A1%E5%88%92/</url>
-    <content><![CDATA[<h1 id="ADV-Gal-AVG制做计划启动！"><a href="#ADV-Gal-AVG制做计划启动！" class="headerlink" title="ADV/Gal/AVG制做计划启动！"></a>ADV/Gal/AVG制做计划启动！</h1><p>2021年了，计划制做一部ADV（亦可称为AVG，Gal，视觉交互小说），大概的需求有：</p>
-<p>剧本，绘画，音乐，脚本，（CV，宣传）</p>
-<p>引擎的话计划是使用Ren’Py哦，感觉还是挺好用的（我才不告诉你是因为DDLC用的是Ren’Py）<br>万事开头难，一定要有气势！（其实做完大概更难XD）</p>
-<a id="more"></a>
-<p>在下比较穷，尽量还是靠个人兴趣参加吧<br>本人大概会负责脚本(Ren’py)和一部分剧本<br>来张从雨镇一下！！（贫乳loli谁不爱）</p>
-<p><img src="/images/congyu.png" alt="congyu"></p>
+    <title>GAME_1</title>
+    <url>/2021/05/16/GAME-1/</url>
+    <content><![CDATA[<p>第一话：</p>
+<p><img src="/images/manga_cn/70035405_p0.jpg" alt="70035405_p0"><br><img src="/images/manga_cn/70035405_p1.jpg" alt="70035405_p1"><br><img src="/images/manga_cn/70035405_p2.jpg" alt="70035405_p2"><br><img src="/images/manga_cn/70035405_p3.jpg" alt="70035405_p3"><br><img src="/images/manga_cn/70035405_p4.jpg" alt="70035405_p4"><br><img src="/images/manga_cn/70035405_p5.jpg" alt="70035405_p5"><br><img src="/images/manga_cn/70035405_p6.jpg" alt="70035405_p6"><br><img src="/images/manga_cn/70035405_p7.jpg" alt="70035405_p7"><br><img src="/images/manga_cn/70035405_p8.jpg" alt="70035405_p8"></p>
+<p>Pixiv链接：<a href="https://www.pixiv.net/artworks/70035405">https://www.pixiv.net/artworks/70035405</a><br>汉化很菜，请将就</p>
+<p><strong>by 从晴朗的朝色泛起之际开始</strong></p>
 ]]></content>
       <categories>
         <category>从晴朗的朝色泛起之际开始</category>
       </categories>
       <tags>
-        <tag>记事与通知</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Nodejs实现随机图片API</title>
-    <url>/2021/03/20/Nodejs%E5%AE%9E%E7%8E%B0%E9%9A%8F%E6%9C%BA%E5%9B%BE%E7%89%87API/</url>
-    <content><![CDATA[<h1 id="用node-js实现随机图片API！"><a href="#用node-js实现随机图片API！" class="headerlink" title="用node.js实现随机图片API！"></a>用node.js实现随机图片API！</h1><p>前段时间我们的青河大佬自建了一个基于php的随机图API，然而由于我不愿随大流的性子，决定用不同的方法实现一个［滑稽］</p>
-<h3 id="都说了是基于node-js那当然要安装node-js啦！"><a href="#都说了是基于node-js那当然要安装node-js啦！" class="headerlink" title="都说了是基于node.js那当然要安装node.js啦！"></a>都说了是基于node.js那当然要安装node.js啦！</h3><p>首先要有一些图片，然后有这些图片的链接，把它们放到一个叫做data.txt的文本文件里，在相同目录下新建一个js文件：</p>
-<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="keyword">var</span> http = <span class="built_in">require</span>(<span class="string">&quot;http&quot;</span>);</span><br><span class="line"><span class="keyword">var</span> readline = <span class="built_in">require</span>(<span class="string">&#x27;readline&#x27;</span>);</span><br><span class="line"><span class="keyword">var</span> fs = <span class="built_in">require</span>(<span class="string">&#x27;fs&#x27;</span>);</span><br><span class="line"></span><br><span class="line"><span class="keyword">var</span> filearr;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">readarr</span>(<span class="params"> filename, callback </span>)</span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="keyword">var</span> file = fs.createReadStream( filename );</span><br><span class="line">    <span class="keyword">var</span> line_arr = readline.createInterface(</span><br><span class="line">        &#123;</span><br><span class="line">            input:file</span><br><span class="line">        &#125;</span><br><span class="line">    )</span><br><span class="line">    <span class="keyword">var</span> arr = <span class="keyword">new</span> <span class="built_in">Array</span>();</span><br><span class="line"></span><br><span class="line">    line_arr.on(<span class="string">&#x27;line&#x27;</span>, <span class="function">(<span class="params">line</span>) =&gt;</span> &#123;</span><br><span class="line">        arr.push( line );</span><br><span class="line"><span class="comment">//        console.log( arr );</span></span><br><span class="line">    &#125;)</span><br><span class="line"></span><br><span class="line">    line_arr.on(<span class="string">&#x27;close&#x27;</span>, <span class="function">() =&gt;</span>&#123;</span><br><span class="line">        filearr = arr.concat();</span><br><span class="line">        callback();</span><br><span class="line">    &#125;)</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">readarr( <span class="string">&#x27;data.txt&#x27;</span>, <span class="function">() =&gt;</span> &#123;</span><br><span class="line">    <span class="built_in">console</span>.log(<span class="string">&quot;Read data.txt Finished&quot;</span>);</span><br><span class="line">    <span class="built_in">console</span>.log( <span class="string">&quot;The file has &quot;</span> + filearr.length + <span class="string">&quot; lines&quot;</span> );</span><br><span class="line">&#125;)</span><br><span class="line"></span><br><span class="line">http.createServer( <span class="function">(<span class="params">req, res</span>) =&gt;</span> &#123;</span><br><span class="line"></span><br><span class="line">    res.writeHead(<span class="number">200</span>, &#123;<span class="string">&#x27;Content-Type&#x27;</span>: <span class="string">&#x27;text/plain&#x27;</span>&#125;);</span><br><span class="line"></span><br><span class="line">    <span class="keyword">var</span> whicharr = <span class="built_in">Math</span>.floor( <span class="built_in">Math</span>.random()*filearr.length );</span><br><span class="line"></span><br><span class="line">    res.end( filearr[whicharr] );</span><br><span class="line">&#125;).listen(<span class="number">2880</span>);</span><br><span class="line"></span><br><span class="line">http.createServer( <span class="function">(<span class="params">req, res</span>) =&gt;</span> &#123;</span><br><span class="line"></span><br><span class="line">    res.writeHead(<span class="number">200</span>, &#123;<span class="string">&#x27;Content-Type&#x27;</span>: <span class="string">&#x27;text/html; charset=utf-8&#x27;</span>&#125;);</span><br><span class="line"></span><br><span class="line">    <span class="keyword">var</span> whicharr = <span class="built_in">Math</span>.floor( <span class="built_in">Math</span>.random()*filearr.length );</span><br><span class="line"></span><br><span class="line">    res.end( <span class="string">`&lt;!DOCTYPE html&gt;</span></span><br><span class="line"><span class="string">&lt;html&gt;</span></span><br><span class="line"><span class="string">  &lt;head&gt;</span></span><br><span class="line"><span class="string">    &lt;meta charset=&quot;utf-8&quot;&gt;</span></span><br><span class="line"><span class="string">    &lt;title&gt;Zhaose&#x27;s repo&lt;/title&gt;</span></span><br><span class="line"><span class="string">    &lt;style&gt;</span></span><br><span class="line"><span class="string">      body</span></span><br><span class="line"><span class="string">      &#123;</span></span><br><span class="line"><span class="string">	  background-color:#d0e4fe;</span></span><br><span class="line"><span class="string">      &#125;</span></span><br><span class="line"><span class="string">      h1</span></span><br><span class="line"><span class="string">      &#123;</span></span><br><span class="line"><span class="string">	  color:orange;</span></span><br><span class="line"><span class="string">	  text-align:center;</span></span><br><span class="line"><span class="string">      &#125;</span></span><br><span class="line"><span class="string">      p</span></span><br><span class="line"><span class="string">      &#123;</span></span><br><span class="line"><span class="string">	  font-family:&quot;Times New Roman&quot;;</span></span><br><span class="line"><span class="string">	  font-size:20px;</span></span><br><span class="line"><span class="string">          background-color:#dddddd;</span></span><br><span class="line"><span class="string">          text-align: center;</span></span><br><span class="line"><span class="string">      &#125;</span></span><br><span class="line"><span class="string">    &lt;/style&gt;</span></span><br><span class="line"><span class="string">  &lt;/head&gt;</span></span><br><span class="line"><span class="string">  &lt;body&gt;</span></span><br><span class="line"><span class="string">    &lt;h1&gt;zhaose&#x27;s API&lt;/h1&gt;</span></span><br><span class="line"><span class="string">    &lt;p&gt;&lt;img src=&quot;`</span> + filearr[whicharr] + <span class="string">`&quot;/&gt;&lt;/p&gt;</span></span><br><span class="line"><span class="string">  &lt;/body&gt;</span></span><br><span class="line"><span class="string">&lt;/html&gt;`</span> );</span><br><span class="line">&#125;).listen(<span class="number">2881</span>);</span><br><span class="line"></span><br><span class="line">http.createServer( <span class="function">(<span class="params">req, res</span>) =&gt;</span> &#123;</span><br><span class="line"></span><br><span class="line">    <span class="keyword">var</span> whicharr = <span class="built_in">Math</span>.floor( <span class="built_in">Math</span>.random()*filearr.length );</span><br><span class="line"></span><br><span class="line">    <span class="keyword">var</span> url = filearr[whicharr]</span><br><span class="line"></span><br><span class="line">    res.writeHead(<span class="number">301</span>, &#123;<span class="string">&#x27;Location&#x27;</span>: url &#125;);</span><br><span class="line"></span><br><span class="line">    res.end();</span><br><span class="line">&#125;).listen(<span class="number">2882</span>);</span><br><span class="line"></span><br></pre></td></tr></table></figure>
-
-<p>把这些代码输入进去以后，使用</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ node XXX.js</span><br></pre></td></tr></table></figure>
-<p>就可以启动API服务了。其中访问2880端口是返回链接，2881是一个随机的html页面，2882是直接跳转到原图链接。<br>祝大家愉快！</p>
-<p>*by 从晴朗的朝色泛起之际开始</p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>Linux</tag>
+        <tag>ゲーム好きな友達とゲームセンに行く話</tag>
       </tags>
   </entry>
   <entry>
@@ -111,6 +107,25 @@
       </tags>
   </entry>
   <entry>
+    <title>Nodejs实现随机图片API</title>
+    <url>/2021/03/20/Nodejs%E5%AE%9E%E7%8E%B0%E9%9A%8F%E6%9C%BA%E5%9B%BE%E7%89%87API/</url>
+    <content><![CDATA[<h1 id="用node-js实现随机图片API！"><a href="#用node-js实现随机图片API！" class="headerlink" title="用node.js实现随机图片API！"></a>用node.js实现随机图片API！</h1><p>前段时间我们的青河大佬自建了一个基于php的随机图API，然而由于我不愿随大流的性子，决定用不同的方法实现一个［滑稽］</p>
+<h3 id="都说了是基于node-js那当然要安装node-js啦！"><a href="#都说了是基于node-js那当然要安装node-js啦！" class="headerlink" title="都说了是基于node.js那当然要安装node.js啦！"></a>都说了是基于node.js那当然要安装node.js啦！</h3><p>首先要有一些图片，然后有这些图片的链接，把它们放到一个叫做data.txt的文本文件里，在相同目录下新建一个js文件：</p>
+<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="keyword">var</span> http = <span class="built_in">require</span>(<span class="string">&quot;http&quot;</span>);</span><br><span class="line"><span class="keyword">var</span> readline = <span class="built_in">require</span>(<span class="string">&#x27;readline&#x27;</span>);</span><br><span class="line"><span class="keyword">var</span> fs = <span class="built_in">require</span>(<span class="string">&#x27;fs&#x27;</span>);</span><br><span class="line"></span><br><span class="line"><span class="keyword">var</span> filearr;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">readarr</span>(<span class="params"> filename, callback </span>)</span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="keyword">var</span> file = fs.createReadStream( filename );</span><br><span class="line">    <span class="keyword">var</span> line_arr = readline.createInterface(</span><br><span class="line">        &#123;</span><br><span class="line">            input:file</span><br><span class="line">        &#125;</span><br><span class="line">    )</span><br><span class="line">    <span class="keyword">var</span> arr = <span class="keyword">new</span> <span class="built_in">Array</span>();</span><br><span class="line"></span><br><span class="line">    line_arr.on(<span class="string">&#x27;line&#x27;</span>, <span class="function">(<span class="params">line</span>) =&gt;</span> &#123;</span><br><span class="line">        arr.push( line );</span><br><span class="line"><span class="comment">//        console.log( arr );</span></span><br><span class="line">    &#125;)</span><br><span class="line"></span><br><span class="line">    line_arr.on(<span class="string">&#x27;close&#x27;</span>, <span class="function">() =&gt;</span>&#123;</span><br><span class="line">        filearr = arr.concat();</span><br><span class="line">        callback();</span><br><span class="line">    &#125;)</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">readarr( <span class="string">&#x27;data.txt&#x27;</span>, <span class="function">() =&gt;</span> &#123;</span><br><span class="line">    <span class="built_in">console</span>.log(<span class="string">&quot;Read data.txt Finished&quot;</span>);</span><br><span class="line">    <span class="built_in">console</span>.log( <span class="string">&quot;The file has &quot;</span> + filearr.length + <span class="string">&quot; lines&quot;</span> );</span><br><span class="line">&#125;)</span><br><span class="line"></span><br><span class="line">http.createServer( <span class="function">(<span class="params">req, res</span>) =&gt;</span> &#123;</span><br><span class="line"></span><br><span class="line">    res.writeHead(<span class="number">200</span>, &#123;<span class="string">&#x27;Content-Type&#x27;</span>: <span class="string">&#x27;text/plain&#x27;</span>&#125;);</span><br><span class="line"></span><br><span class="line">    <span class="keyword">var</span> whicharr = <span class="built_in">Math</span>.floor( <span class="built_in">Math</span>.random()*filearr.length );</span><br><span class="line"></span><br><span class="line">    res.end( filearr[whicharr] );</span><br><span class="line">&#125;).listen(<span class="number">2880</span>);</span><br><span class="line"></span><br><span class="line">http.createServer( <span class="function">(<span class="params">req, res</span>) =&gt;</span> &#123;</span><br><span class="line"></span><br><span class="line">    res.writeHead(<span class="number">200</span>, &#123;<span class="string">&#x27;Content-Type&#x27;</span>: <span class="string">&#x27;text/html; charset=utf-8&#x27;</span>&#125;);</span><br><span class="line"></span><br><span class="line">    <span class="keyword">var</span> whicharr = <span class="built_in">Math</span>.floor( <span class="built_in">Math</span>.random()*filearr.length );</span><br><span class="line"></span><br><span class="line">    res.end( <span class="string">`&lt;!DOCTYPE html&gt;</span></span><br><span class="line"><span class="string">&lt;html&gt;</span></span><br><span class="line"><span class="string">  &lt;head&gt;</span></span><br><span class="line"><span class="string">    &lt;meta charset=&quot;utf-8&quot;&gt;</span></span><br><span class="line"><span class="string">    &lt;title&gt;Zhaose&#x27;s repo&lt;/title&gt;</span></span><br><span class="line"><span class="string">    &lt;style&gt;</span></span><br><span class="line"><span class="string">      body</span></span><br><span class="line"><span class="string">      &#123;</span></span><br><span class="line"><span class="string">	  background-color:#d0e4fe;</span></span><br><span class="line"><span class="string">      &#125;</span></span><br><span class="line"><span class="string">      h1</span></span><br><span class="line"><span class="string">      &#123;</span></span><br><span class="line"><span class="string">	  color:orange;</span></span><br><span class="line"><span class="string">	  text-align:center;</span></span><br><span class="line"><span class="string">      &#125;</span></span><br><span class="line"><span class="string">      p</span></span><br><span class="line"><span class="string">      &#123;</span></span><br><span class="line"><span class="string">	  font-family:&quot;Times New Roman&quot;;</span></span><br><span class="line"><span class="string">	  font-size:20px;</span></span><br><span class="line"><span class="string">          background-color:#dddddd;</span></span><br><span class="line"><span class="string">          text-align: center;</span></span><br><span class="line"><span class="string">      &#125;</span></span><br><span class="line"><span class="string">    &lt;/style&gt;</span></span><br><span class="line"><span class="string">  &lt;/head&gt;</span></span><br><span class="line"><span class="string">  &lt;body&gt;</span></span><br><span class="line"><span class="string">    &lt;h1&gt;zhaose&#x27;s API&lt;/h1&gt;</span></span><br><span class="line"><span class="string">    &lt;p&gt;&lt;img src=&quot;`</span> + filearr[whicharr] + <span class="string">`&quot;/&gt;&lt;/p&gt;</span></span><br><span class="line"><span class="string">  &lt;/body&gt;</span></span><br><span class="line"><span class="string">&lt;/html&gt;`</span> );</span><br><span class="line">&#125;).listen(<span class="number">2881</span>);</span><br><span class="line"></span><br><span class="line">http.createServer( <span class="function">(<span class="params">req, res</span>) =&gt;</span> &#123;</span><br><span class="line"></span><br><span class="line">    <span class="keyword">var</span> whicharr = <span class="built_in">Math</span>.floor( <span class="built_in">Math</span>.random()*filearr.length );</span><br><span class="line"></span><br><span class="line">    <span class="keyword">var</span> url = filearr[whicharr]</span><br><span class="line"></span><br><span class="line">    res.writeHead(<span class="number">301</span>, &#123;<span class="string">&#x27;Location&#x27;</span>: url &#125;);</span><br><span class="line"></span><br><span class="line">    res.end();</span><br><span class="line">&#125;).listen(<span class="number">2882</span>);</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+<p>把这些代码输入进去以后，使用</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ node XXX.js</span><br></pre></td></tr></table></figure>
+<p>就可以启动API服务了。其中访问2880端口是返回链接，2881是一个随机的html页面，2882是直接跳转到原图链接。<br>祝大家愉快！</p>
+<p>*by 从晴朗的朝色泛起之际开始</p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>Linux</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>用racket重写随机图片API！</title>
     <url>/2021/07/11/Racket-Random-Pic/</url>
     <content><![CDATA[<h1 id="用racket重写随机图片API！"><a href="#用racket重写随机图片API！" class="headerlink" title="用racket重写随机图片API！"></a>用racket重写随机图片API！</h1><p>之前我写过一篇用nodejs进行随机图片的API，作为一个lisp信徒我决定用racket——一门sheme的方言来重写它</p>
@@ -137,18 +152,18 @@
       </tags>
   </entry>
   <entry>
-    <title>GAME_1</title>
-    <url>/2021/05/16/GAME-1/</url>
-    <content><![CDATA[<p>第一话：</p>
-<p><img src="/images/manga_cn/70035405_p0.jpg" alt="70035405_p0"><br><img src="/images/manga_cn/70035405_p1.jpg" alt="70035405_p1"><br><img src="/images/manga_cn/70035405_p2.jpg" alt="70035405_p2"><br><img src="/images/manga_cn/70035405_p3.jpg" alt="70035405_p3"><br><img src="/images/manga_cn/70035405_p4.jpg" alt="70035405_p4"><br><img src="/images/manga_cn/70035405_p5.jpg" alt="70035405_p5"><br><img src="/images/manga_cn/70035405_p6.jpg" alt="70035405_p6"><br><img src="/images/manga_cn/70035405_p7.jpg" alt="70035405_p7"><br><img src="/images/manga_cn/70035405_p8.jpg" alt="70035405_p8"></p>
-<p>Pixiv链接：<a href="https://www.pixiv.net/artworks/70035405">https://www.pixiv.net/artworks/70035405</a><br>汉化很菜，请将就</p>
-<p><strong>by 从晴朗的朝色泛起之际开始</strong></p>
+    <title>Random_Pic</title>
+    <url>/2021/03/29/Random-Pic/</url>
+    <content><![CDATA[<h1 id="随机图！！！"><a href="#随机图！！！" class="headerlink" title="随机图！！！"></a>随机图！！！</h1><p>快点点进来！</p>
+<a id="more"></a>
+
+<p><img src="http://49.234.70.34:8080/?mode=jump" alt="zhaoseapi"></p>
 ]]></content>
       <categories>
         <category>从晴朗的朝色泛起之际开始</category>
       </categories>
       <tags>
-        <tag>ゲーム好きな友達とゲームセンに行く話</tag>
+        <tag>有趣</tag>
       </tags>
   </entry>
   <entry>
@@ -177,21 +192,6 @@
       </categories>
       <tags>
         <tag>Linux</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Random_Pic</title>
-    <url>/2021/03/29/Random-Pic/</url>
-    <content><![CDATA[<h1 id="随机图！！！"><a href="#随机图！！！" class="headerlink" title="随机图！！！"></a>随机图！！！</h1><p>快点点进来！</p>
-<a id="more"></a>
-
-<p><img src="http://49.234.70.34:8080/?mode=jump" alt="zhaoseapi"></p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>有趣</tag>
       </tags>
   </entry>
   <entry>
@@ -240,6 +240,19 @@
       </tags>
   </entry>
   <entry>
+    <title>图片-By_EF_Cosmos</title>
+    <url>/2020/10/08/%E5%9B%BE%E7%89%87-By-EF-Cosmos/</url>
+    <content><![CDATA[<p><img src="https://pic.downk.cc/item/5f7f345d1cd1bbb86bd52df9.png" alt="图片"></p>
+<p><em>2020/10/08</em></p>
+]]></content>
+      <categories>
+        <category>EF_Cosmos</category>
+      </categories>
+      <tags>
+        <tag>随手写</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>实用主义已死</title>
     <url>/2022/03/05/%E5%AE%9E%E7%94%A8%E4%B8%BB%E4%B9%89%E5%B7%B2%E6%AD%BB/</url>
     <content><![CDATA[<h2 id="对于实用主义的批评"><a href="#对于实用主义的批评" class="headerlink" title="对于实用主义的批评"></a>对于实用主义的批评</h2><p>关于尼采，「上帝已死」这一说法非常出名。其指的是在现代人们失去了「上帝」这种绝对法则的存在，而陷入精神判的虚无，无法认定什么是正确的，什么是错误的，因为判断这一切的「上帝」死了。</p>
@@ -284,19 +297,6 @@
       </tags>
   </entry>
   <entry>
-    <title>图片-By_EF_Cosmos</title>
-    <url>/2020/10/08/%E5%9B%BE%E7%89%87-By-EF-Cosmos/</url>
-    <content><![CDATA[<p><img src="https://pic.downk.cc/item/5f7f345d1cd1bbb86bd52df9.png" alt="图片"></p>
-<p><em>2020/10/08</em></p>
-]]></content>
-      <categories>
-        <category>EF_Cosmos</category>
-      </categories>
-      <tags>
-        <tag>随手写</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>2020年10月12日</title>
     <url>/2020/10/12/%E6%88%91%E4%BB%AC%E6%B4%BB%E5%9C%A8%E4%BD%95%E5%A4%84/</url>
     <content><![CDATA[<p>#写于2020-10-12</p>
@@ -332,23 +332,6 @@
       </tags>
   </entry>
   <entry>
-    <title>服务器一键LNMP</title>
-    <url>/2020/10/02/%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%80%E9%94%AELNMP/</url>
-    <content><![CDATA[<h1 id="让你的LINUX电脑或者服务器一键LNMP！"><a href="#让你的LINUX电脑或者服务器一键LNMP！" class="headerlink" title="让你的LINUX电脑或者服务器一键LNMP！"></a>让你的LINUX电脑或者服务器一键LNMP！</h1><p>LINUX服务器配置的时候如果使用包管理很多时候会出现无法解析PHP脚本等疑难杂症。。。<del>大概是我水平问题</del><br>所以！！！这里有一个方便的一键配置脚本！！！</p>
-<a id="more"></a>
-<p>这个脚本是有更新的，请随时关注<a href="https://lnmp.org/">https://lnmp.org/</a></p>
-<p>对于服务器，这样使用它（此时最新为1.7）</p>
-<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">wget http://soft.vpser.net/lnmp/lnmp1.7.tar.gz</span><br><span class="line">tar -xzvf lnmp*</span><br></pre></td></tr></table></figure>
-<p>接着进入目录执行脚本即可，当中需要对参数进行一些基础配置，然后就可以使用你的服务器了!</p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>Linux</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>打包软件到AUR</title>
     <url>/2020/11/12/%E6%89%93%E5%8C%85%E8%BD%AF%E4%BB%B6%E5%88%B0AUR/</url>
     <content><![CDATA[<h1 id="打包软件并共享到AUR"><a href="#打包软件并共享到AUR" class="headerlink" title="打包软件并共享到AUR"></a>打包软件并共享到AUR</h1><p>对于Arch Linux的用户来说，AUR软件仓库是常常为人所津津乐道的优势。其优点就在于极大的开放性。那么我们也可以打包软件上传到AUR，从白嫖进化到贡献者！</p>
@@ -360,6 +343,23 @@
 <p>然后上传</p>
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git push</span><br></pre></td></tr></table></figure>
 <p>接着在AUR上就可以看到你的软件了，可以用yay安装了！！</p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>Linux</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>服务器一键LNMP</title>
+    <url>/2020/10/02/%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%80%E9%94%AELNMP/</url>
+    <content><![CDATA[<h1 id="让你的LINUX电脑或者服务器一键LNMP！"><a href="#让你的LINUX电脑或者服务器一键LNMP！" class="headerlink" title="让你的LINUX电脑或者服务器一键LNMP！"></a>让你的LINUX电脑或者服务器一键LNMP！</h1><p>LINUX服务器配置的时候如果使用包管理很多时候会出现无法解析PHP脚本等疑难杂症。。。<del>大概是我水平问题</del><br>所以！！！这里有一个方便的一键配置脚本！！！</p>
+<a id="more"></a>
+<p>这个脚本是有更新的，请随时关注<a href="https://lnmp.org/">https://lnmp.org/</a></p>
+<p>对于服务器，这样使用它（此时最新为1.7）</p>
+<figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">wget http://soft.vpser.net/lnmp/lnmp1.7.tar.gz</span><br><span class="line">tar -xzvf lnmp*</span><br></pre></td></tr></table></figure>
+<p>接着进入目录执行脚本即可，当中需要对参数进行一些基础配置，然后就可以使用你的服务器了!</p>
 ]]></content>
       <categories>
         <category>从晴朗的朝色泛起之际开始</category>
@@ -432,25 +432,6 @@
       </tags>
   </entry>
   <entry>
-    <title>点墨的小Y文</title>
-    <url>/2021/02/17/%E7%82%B9%E5%A2%A8%E7%9A%84%E5%B0%8FY%E6%96%87/</url>
-    <content><![CDATA[<h1 id="点墨的同人小Y文"><a href="#点墨的同人小Y文" class="headerlink" title="点墨的同人小Y文"></a>点墨的同人小Y文</h1><p>身边女性的芳香使点墨心乱神迷，他目不转睛地盯着身边的美人。<br>“虽说胸只要不太小就行，但是这波涛汹涌，谁顶得住啊。”</p>
-<p>点墨暗自感叹道，他的双手情不自禁地在她的翘臀上轻抚。</p>
-<a id="more"></a>
-<p>感觉到屁股上传来的热度，苏雪的脸色羞红，但是眼眸中却满是笑意，这个男孩子看起来年纪还不大，竟然这般的色眯眯，真是不知羞耻。她的手臂不由自主地挽上了点墨的脖颈，将他拉进怀里。</p>
-<p>感觉着那温软而柔嫩的娇躯紧贴在自己的胸膛，点墨忍不住将嘴唇贴近了那饱满而光滑的额头，轻吻了上去。<br>他的嘴唇很冰凉，但是却带着丝丝的火热，令苏雪感觉到浑身酥麻。<br>“我好像喜欢上你了怎么办？你会不会拒绝？”苏雪轻声问道，她现在已经完全沉浸于他那充满阳刚之气的怀抱。</p>
-<p>“怎么会？”<br>点墨的声音听起来很平静。<br>苏雪抬头看向眼前这个看起来年纪并不大的男生，他长得倒也不算很丑，棱角分明的脸庞，浓眉大眼，挺直的鼻梁，还有那双薄厚适中，如同花瓣般的嘴唇。<br>她顺从自己的内心吻了了去，两人的唾液就这样交合在一起，不分彼此。<br>感觉到她那柔软的舌头在他的口中纠缠，点墨感觉到了一种异样的快感。<br>他不再犹豫，加深了自己的亲吻。</p>
-<p>“嗯~~！”<br>苏雪发出了一声闷哼。<br>两人相互吮吸，直至彼此的气息混乱、呼吸急促，这才停了下来。<br>“小丫头！”<br>看着那张粉嘟嘟的俏丽容颜，点墨心中一荡，情不自禁地喊道。<br>他伸手在她那光洁细腻的脸蛋上轻抚。<br>他的手指在她的肌肤上摩挲着，带起一阵阵战栗，令苏雪情不自禁地颤抖起来。</p>
-<p>苏雪低着头，眼睛一眨不眨地盯着自己的脚尖，似乎在考虑着什么。<br>她的身体在不断颤抖着，脸颊红润的几乎可以滴出血来，这令点墨看得心里痒痒的。</p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>随手写</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>玩过的ADV游戏</title>
     <url>/2020/10/01/%E7%8E%A9%E8%BF%87%E7%9A%84ADV%E6%B8%B8%E6%88%8F/</url>
     <content><![CDATA[<h1 id="我玩过的ADV游戏汇总（强推CLANNAD-Steins-Gate-！！！）"><a href="#我玩过的ADV游戏汇总（强推CLANNAD-Steins-Gate-！！！）" class="headerlink" title="我玩过的ADV游戏汇总（强推CLANNAD, Steins;Gate ！！！）"></a>我玩过的ADV游戏汇总（强推CLANNAD, Steins;Gate ！！！）</h1><p>红楼梦：林黛玉与北静王<br>恋爱与选举与巧克力<br>CLANNAD<br>KANNON<br>AIR</p>
@@ -462,19 +443,6 @@
       </categories>
       <tags>
         <tag>随手写</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>病娇日志100搬运</title>
-    <url>/2021/08/15/%E7%97%85%E5%A8%87%E6%97%A5%E5%BF%97100%E6%90%AC%E8%BF%90/</url>
-    <content><![CDATA[<h1 id="来自PIXIV的搬运"><a href="#来自PIXIV的搬运" class="headerlink" title="来自PIXIV的搬运"></a>来自PIXIV的搬运</h1><p><img src="/images/yandere.jpg" alt="p1"></p>
-<p><strong>by 从晴朗的朝色泛起之际开始</strong></p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>随手写 病娇</tag>
       </tags>
   </entry>
   <entry>
@@ -506,6 +474,38 @@
       </categories>
       <tags>
         <tag>Linux</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>点墨的小Y文</title>
+    <url>/2021/02/17/%E7%82%B9%E5%A2%A8%E7%9A%84%E5%B0%8FY%E6%96%87/</url>
+    <content><![CDATA[<h1 id="点墨的同人小Y文"><a href="#点墨的同人小Y文" class="headerlink" title="点墨的同人小Y文"></a>点墨的同人小Y文</h1><p>身边女性的芳香使点墨心乱神迷，他目不转睛地盯着身边的美人。<br>“虽说胸只要不太小就行，但是这波涛汹涌，谁顶得住啊。”</p>
+<p>点墨暗自感叹道，他的双手情不自禁地在她的翘臀上轻抚。</p>
+<a id="more"></a>
+<p>感觉到屁股上传来的热度，苏雪的脸色羞红，但是眼眸中却满是笑意，这个男孩子看起来年纪还不大，竟然这般的色眯眯，真是不知羞耻。她的手臂不由自主地挽上了点墨的脖颈，将他拉进怀里。</p>
+<p>感觉着那温软而柔嫩的娇躯紧贴在自己的胸膛，点墨忍不住将嘴唇贴近了那饱满而光滑的额头，轻吻了上去。<br>他的嘴唇很冰凉，但是却带着丝丝的火热，令苏雪感觉到浑身酥麻。<br>“我好像喜欢上你了怎么办？你会不会拒绝？”苏雪轻声问道，她现在已经完全沉浸于他那充满阳刚之气的怀抱。</p>
+<p>“怎么会？”<br>点墨的声音听起来很平静。<br>苏雪抬头看向眼前这个看起来年纪并不大的男生，他长得倒也不算很丑，棱角分明的脸庞，浓眉大眼，挺直的鼻梁，还有那双薄厚适中，如同花瓣般的嘴唇。<br>她顺从自己的内心吻了了去，两人的唾液就这样交合在一起，不分彼此。<br>感觉到她那柔软的舌头在他的口中纠缠，点墨感觉到了一种异样的快感。<br>他不再犹豫，加深了自己的亲吻。</p>
+<p>“嗯~~！”<br>苏雪发出了一声闷哼。<br>两人相互吮吸，直至彼此的气息混乱、呼吸急促，这才停了下来。<br>“小丫头！”<br>看着那张粉嘟嘟的俏丽容颜，点墨心中一荡，情不自禁地喊道。<br>他伸手在她那光洁细腻的脸蛋上轻抚。<br>他的手指在她的肌肤上摩挲着，带起一阵阵战栗，令苏雪情不自禁地颤抖起来。</p>
+<p>苏雪低着头，眼睛一眨不眨地盯着自己的脚尖，似乎在考虑着什么。<br>她的身体在不断颤抖着，脸颊红润的几乎可以滴出血来，这令点墨看得心里痒痒的。</p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>随手写</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>病娇日志100搬运</title>
+    <url>/2021/08/15/%E7%97%85%E5%A8%87%E6%97%A5%E5%BF%97100%E6%90%AC%E8%BF%90/</url>
+    <content><![CDATA[<h1 id="来自PIXIV的搬运"><a href="#来自PIXIV的搬运" class="headerlink" title="来自PIXIV的搬运"></a>来自PIXIV的搬运</h1><p><img src="/images/yandere.jpg" alt="p1"></p>
+<p><strong>by 从晴朗的朝色泛起之际开始</strong></p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>随手写 病娇</tag>
       </tags>
   </entry>
   <entry>
@@ -550,6 +550,20 @@
       </tags>
   </entry>
   <entry>
+    <title>谜之生物观察日记</title>
+    <url>/2022/04/04/%E8%B0%9C%E4%B9%8B%E7%94%9F%E7%89%A9%E8%A7%82%E5%AF%9F%E6%97%A5%E8%AE%B0/</url>
+    <content><![CDATA[<p><a href="https://twitter.com/pageratta">关注原作者！</a></p>
+<p><img src="/images/nazoikimono/05_06_kansatsu_cn.jpg" alt="2023年5月6日 第65日"><br><img src="/images/nazoikimono/05_05_(05_05_9)_cn.jpg" alt="5月5日 第64日"><br><img src="/images/nazoikimono/05_04_(04_01_9)_cn.jpg" alt="4月1日 第63日"><br><img src="/images/nazoikimono/05_02_(03_31_9)_cn.jpg" alt="3月31日 第62日"><br><img src="/images/nazoikimono/05_02_(03_30_9)_cn.jpg" alt="3月30日 第61日"><br><img src="/images/nazoikimono/05_01_(03_30_8)_cn.jpg" alt="3月30日 第60日"><br><img src="/images/nazoikimono/04_30_(03_30_7)_cn.jpg" alt="3月30日 第59日"><br><img src="/images/nazoikimono/04_29_(03_29_7)_cn.jpg" alt="3月29日 第58日"><br><img src="/images/nazoikimono/04_28_(03_30_6)_cn.jpg" alt="3月30日 第57日"><br><img src="/images/nazoikimono/04_27_(03_29_6)_cn.jpg" alt="3月29日 第56日"><br><img src="/images/nazoikimono/04_26_(03_28_6)_cn.jpg" alt="3月28日 第55日"><br><img src="/images/nazoikimono/04_25_(03_27_6)_cn.jpg" alt="3月27日 第54日"><br><img src="/images/nazoikimono/04_24_(03_26_6)_cn.jpg" alt="3月26日 第53日"><br><img src="/images/nazoikimono/04_23_(03_30_5)_cn.jpg" alt="3月30日 第52日"><br><img src="/images/nazoikimono/04_20_(03_27_5)_cn.jpg" alt="3月27日 第51日"><br><img src="/images/nazoikimono/04_19_(03_26_5)_cn.jpg" alt="3月26日 第50日"><br><img src="/images/nazoikimono/04_18_(03_25_5)_cn.jpg" alt="3月25日 第49日"><br><img src="/images/nazoikimono/04_17_(03_24_5)_cn.jpg" alt="3月24日 第48日"><br><img src="/images/nazoikimono/04_16_(03_23_5)_cn.jpg" alt="3月23日 第47日"><br><img src="/images/nazoikimono/04_15_(03_22_5)_cn.jpg" alt="3月22日 第46日"><br><img src="/images/nazoikimono/04_14_(03_21_5)_cn.jpg" alt="3月21日 第45日"><br><img src="/images/nazoikimono/04_13_(03_20_5)_cn.jpg" alt="3月20日 第44日"><br><img src="/images/nazoikimono/04_12_(03_30_4)_cn.jpg" alt="3月30日 第43日"><br><img src="/images/nazoikimono/04_11_(03_29_4)_cn.jpg" alt="3月29日 第42日"><br><img src="/images/nazoikimono/04_10_(03_28_4)_cn.jpg" alt="3月28日 第41日"><br><img src="/images/nazoikimono/04_09_(03_27_4)_cn.jpg" alt="3月27日 第40日"><br><img src="/images/nazoikimono/04_08_(03_26_4)_cn.jpg" alt="3月26日 第39日"><br><img src="/images/nazoikimono/04_07_(03_25_4)_cn.jpg" alt="3月25日 第38日"><br><img src="/images/nazoikimono/04_06_(03_31_3)_cn.jpg" alt="3月31日 第37日"><br><img src="/images/nazoikimono/04_05_(03_30_3)_cn.jpg" alt="3月30日 第36日"><br><img src="/images/nazoikimono/04_04_(03_29_3)_cn.jpg" alt="3月29日 第35日"><br><img src="/images/nazoikimono/04_03_(03_28_3)_cn.jpg" alt="3月28日 第34日"><br><img src="/images/nazoikimono/04_02_(03_27_3).jpg" alt="3月27日 第33日"><br><img src="/images/nazoikimono/04_01_(03_26_3)_cn.jpg" alt="3月26日 第32日"><br><img src="/images/nazoikimono/03_31_(03_25_3)_cn.jpg" alt="3月25日 第31日"><br><img src="/images/nazoikimono/03_30_(03_24_3)_cn.jpg" alt="3月24日 第30日"><br><img src="/images/nazoikimono/03_29_(03_23_3)_cn.jpg" alt="3月23日 第29日"><br><img src="/images/nazoikimono/03_28_(03_23_2)_cn.jpg" alt="3月23日 第28日"><br><img src="/images/nazoikimono/03_27_(03_22_2)_cn.jpg" alt="3月22日 第27日"><br><img src="/images/nazoikimono/03_26_(03_21_2)_cn.jpg" alt="3月21日 第26日"><br><img src="/images/nazoikimono/03_25_(03_20_2)_cn.jpg" alt="3月20日 第25日"><br><img src="/images/nazoikimono/03_24_(03_21_1)_cn.jpg" alt="3月21日 第24日"><br><img src="/images/nazoikimono/03_23_(03_20_1)_cn.jpg" alt="3月20日 第23日"><br><img src="/images/nazoikimono/03_22_(03_19_1)_cn.jpg" alt="3月19日 第22日"><br><img src="/images/nazoikimono/03_21_(03_18_1)_cn.jpg" alt="3月18日 第21日"><br><img src="/images/nazoikimono/03_20_(03_17_1)_cn.jpg" alt="3月17日 第20日"><br><img src="/images/nazoikimono/03_19_(03_16_1)_cn.jpg" alt="3月16日 第19日"><br><img src="/images/nazoikimono/03_18_(03_15_1)_cn.jpg" alt="3月15日 第18日"><br><img src="/images/nazoikimono/03_17_cn.jpg" alt="3月17日 第17日"><br><img src="/images/nazoikimono/03_16_cn.jpg" alt="3月16日 第16日"><br><img src="/images/nazoikimono/03_15_cn.jpg" alt="3月15日 第15日"><br><img src="/images/nazoikimono/03_14_cn.jpg" alt="3月14日 第14日"><br><img src="/images/nazoikimono/03_13_cn.jpg" alt="3月13日 第13日"><br><img src="/images/nazoikimono/03_12_cn.jpg" alt="3月12日 第12日"><br><img src="/images/nazoikimono/03_11_cn.jpg" alt="3月11日 第11日"><br><img src="/images/nazoikimono/03_10_cn.jpg" alt="3月10日 第10日"><br><img src="/images/nazoikimono/03_09_cn.jpg" alt="3月09日 第09日"><br><img src="/images/nazoikimono/03_08_cn.jpg" alt="3月08日 第08日"><br><img src="/images/nazoikimono/03_07_cn.jpg" alt="3月07日 第07日"><br><img src="/images/nazoikimono/03_06_cn.jpg" alt="3月06日 第06日"><br><img src="/images/nazoikimono/03_05_cn.jpg" alt="3月05日 第05日"><br><img src="/images/nazoikimono/03_04_cn.jpg" alt="3月04日 第04日"><br><img src="/images/nazoikimono/03_03_cn.jpg" alt="3月03日 第03日"><br><img src="/images/nazoikimono/03_02_cn.jpg" alt="3月02日 第02日"><br><img src="/images/nazoikimono/03_01_cn.jpg" alt="3月01日 第01日"></p>
+<p><em>从朝朗的朝色泛起之际开始</em></p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>翻译</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>这样就好_一回目</title>
     <url>/2021/11/09/%E8%BF%99%E6%A0%B7%E5%B0%B1%E5%A5%BD-%E4%B8%80%E5%9B%9E%E7%9B%AE/</url>
     <content><![CDATA[<h1 id="本来觉得这样就好"><a href="#本来觉得这样就好" class="headerlink" title="本来觉得这样就好"></a>本来觉得这样就好</h1><p>这是一个没什么特别意义的故事。<br>它不会教会你奋斗，不会劝告你去努力，不能促使你去改变这个世界，让世界变得更好。<br>但是这样就好。<br>改变世界什么的，留给别人去做吧。</p>
@@ -567,38 +581,12 @@
       </tags>
   </entry>
   <entry>
-    <title>谜之生物观察日记</title>
-    <url>/2022/04/04/%E8%B0%9C%E4%B9%8B%E7%94%9F%E7%89%A9%E8%A7%82%E5%AF%9F%E6%97%A5%E8%AE%B0/</url>
-    <content><![CDATA[<p><a href="https://twitter.com/pageratta">关注原作者！</a></p>
-<p><img src="/images/nazoikimono/05_05_(05_05_9)_cn.jpg" alt="5月5日 第64日"><br><img src="/images/nazoikimono/05_04_(04_01_9)_cn.jpg" alt="4月1日 第63日"><br><img src="/images/nazoikimono/05_02_(03_31_9)_cn.jpg" alt="3月31日 第62日"><br><img src="/images/nazoikimono/05_02_(03_30_9)_cn.jpg" alt="3月30日 第61日"><br><img src="/images/nazoikimono/05_01_(03_30_8)_cn.jpg" alt="3月30日 第60日"><br><img src="/images/nazoikimono/04_30_(03_30_7)_cn.jpg" alt="3月30日 第59日"><br><img src="/images/nazoikimono/04_29_(03_29_7)_cn.jpg" alt="3月29日 第58日"><br><img src="/images/nazoikimono/04_28_(03_30_6)_cn.jpg" alt="3月30日 第57日"><br><img src="/images/nazoikimono/04_27_(03_29_6)_cn.jpg" alt="3月29日 第56日"><br><img src="/images/nazoikimono/04_26_(03_28_6)_cn.jpg" alt="3月28日 第55日"><br><img src="/images/nazoikimono/04_25_(03_27_6)_cn.jpg" alt="3月27日 第54日"><br><img src="/images/nazoikimono/04_24_(03_26_6)_cn.jpg" alt="3月26日 第53日"><br><img src="/images/nazoikimono/04_23_(03_30_5)_cn.jpg" alt="3月30日 第52日"><br><img src="/images/nazoikimono/04_20_(03_27_5)_cn.jpg" alt="3月27日 第51日"><br><img src="/images/nazoikimono/04_19_(03_26_5)_cn.jpg" alt="3月26日 第50日"><br><img src="/images/nazoikimono/04_18_(03_25_5)_cn.jpg" alt="3月25日 第49日"><br><img src="/images/nazoikimono/04_17_(03_24_5)_cn.jpg" alt="3月24日 第48日"><br><img src="/images/nazoikimono/04_16_(03_23_5)_cn.jpg" alt="3月23日 第47日"><br><img src="/images/nazoikimono/04_15_(03_22_5)_cn.jpg" alt="3月22日 第46日"><br><img src="/images/nazoikimono/04_14_(03_21_5)_cn.jpg" alt="3月21日 第45日"><br><img src="/images/nazoikimono/04_13_(03_20_5)_cn.jpg" alt="3月20日 第44日"><br><img src="/images/nazoikimono/04_12_(03_30_4)_cn.jpg" alt="3月30日 第43日"><br><img src="/images/nazoikimono/04_11_(03_29_4)_cn.jpg" alt="3月29日 第42日"><br><img src="/images/nazoikimono/04_10_(03_28_4)_cn.jpg" alt="3月28日 第41日"><br><img src="/images/nazoikimono/04_09_(03_27_4)_cn.jpg" alt="3月27日 第40日"><br><img src="/images/nazoikimono/04_08_(03_26_4)_cn.jpg" alt="3月26日 第39日"><br><img src="/images/nazoikimono/04_07_(03_25_4)_cn.jpg" alt="3月25日 第38日"><br><img src="/images/nazoikimono/04_06_(03_31_3)_cn.jpg" alt="3月31日 第37日"><br><img src="/images/nazoikimono/04_05_(03_30_3)_cn.jpg" alt="3月30日 第36日"><br><img src="/images/nazoikimono/04_04_(03_29_3)_cn.jpg" alt="3月29日 第35日"><br><img src="/images/nazoikimono/04_03_(03_28_3)_cn.jpg" alt="3月28日 第34日"><br><img src="/images/nazoikimono/04_02_(03_27_3).jpg" alt="3月27日 第33日"><br><img src="/images/nazoikimono/04_01_(03_26_3)_cn.jpg" alt="3月26日 第32日"><br><img src="/images/nazoikimono/03_31_(03_25_3)_cn.jpg" alt="3月25日 第31日"><br><img src="/images/nazoikimono/03_30_(03_24_3)_cn.jpg" alt="3月24日 第30日"><br><img src="/images/nazoikimono/03_29_(03_23_3)_cn.jpg" alt="3月23日 第29日"><br><img src="/images/nazoikimono/03_28_(03_23_2)_cn.jpg" alt="3月23日 第28日"><br><img src="/images/nazoikimono/03_27_(03_22_2)_cn.jpg" alt="3月22日 第27日"><br><img src="/images/nazoikimono/03_26_(03_21_2)_cn.jpg" alt="3月21日 第26日"><br><img src="/images/nazoikimono/03_25_(03_20_2)_cn.jpg" alt="3月20日 第25日"><br><img src="/images/nazoikimono/03_24_(03_21_1)_cn.jpg" alt="3月21日 第24日"><br><img src="/images/nazoikimono/03_23_(03_20_1)_cn.jpg" alt="3月20日 第23日"><br><img src="/images/nazoikimono/03_22_(03_19_1)_cn.jpg" alt="3月19日 第22日"><br><img src="/images/nazoikimono/03_21_(03_18_1)_cn.jpg" alt="3月18日 第21日"><br><img src="/images/nazoikimono/03_20_(03_17_1)_cn.jpg" alt="3月17日 第20日"><br><img src="/images/nazoikimono/03_19_(03_16_1)_cn.jpg" alt="3月16日 第19日"><br><img src="/images/nazoikimono/03_18_(03_15_1)_cn.jpg" alt="3月15日 第18日"><br><img src="/images/nazoikimono/03_17_cn.jpg" alt="3月17日 第17日"><br><img src="/images/nazoikimono/03_16_cn.jpg" alt="3月16日 第16日"><br><img src="/images/nazoikimono/03_15_cn.jpg" alt="3月15日 第15日"><br><img src="/images/nazoikimono/03_14_cn.jpg" alt="3月14日 第14日"><br><img src="/images/nazoikimono/03_13_cn.jpg" alt="3月13日 第13日"><br><img src="/images/nazoikimono/03_12_cn.jpg" alt="3月12日 第12日"><br><img src="/images/nazoikimono/03_11_cn.jpg" alt="3月11日 第11日"><br><img src="/images/nazoikimono/03_10_cn.jpg" alt="3月10日 第10日"><br><img src="/images/nazoikimono/03_09_cn.jpg" alt="3月09日 第09日"><br><img src="/images/nazoikimono/03_08_cn.jpg" alt="3月08日 第08日"><br><img src="/images/nazoikimono/03_07_cn.jpg" alt="3月07日 第07日"><br><img src="/images/nazoikimono/03_06_cn.jpg" alt="3月06日 第06日"><br><img src="/images/nazoikimono/03_05_cn.jpg" alt="3月05日 第05日"><br><img src="/images/nazoikimono/03_04_cn.jpg" alt="3月04日 第04日"><br><img src="/images/nazoikimono/03_03_cn.jpg" alt="3月03日 第03日"><br><img src="/images/nazoikimono/03_02_cn.jpg" alt="3月02日 第02日"><br><img src="/images/nazoikimono/03_01_cn.jpg" alt="3月01日 第01日"></p>
-<p><em>从朝朗的朝色泛起之际开始</em></p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>翻译</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>这样就好_三回目</title>
     <url>/2021/11/09/%E8%BF%99%E6%A0%B7%E5%B0%B1%E5%A5%BD-%E4%B8%89%E5%9B%9E%E7%9B%AE/</url>
     <content><![CDATA[<h1 id="日常，再多一点就好"><a href="#日常，再多一点就好" class="headerlink" title="日常，再多一点就好"></a>日常，再多一点就好</h1><p>睁开眼，总觉得躺着很舒服。<br>从前不得不早起，现在却已经习惯了大段连续的睡眠与清醒了，但是一直躺着也很无聊。<br>起来好了。<br>随意地把被子扔到床上的一角，然后就往枕头下面摸手机。<br>嗯……平时都是这样醒来的，但是今天家里多了个存在，还是稍微注意一下行为举止吧。<br>她没有保持趴在桌子上看电脑的姿势，而是转身趴在了窗台上眺望。<br>椅子放得离窗户的点远，感觉她这个姿势挺辛苦的。<br>「几点了？」这样问一下刚好能同时告诉她我醒了。<br>「马上十点，还有半个小时」她边说着边恢复到正常的坐姿。<br>「是吗」随便附合了一声，披上外套。然后弄点杯面吃好了，已经12多个小时没吃东西了，这样想着打开了储物柜。<br>「啊……没了啊。」这才想起来上次吃掉的是最后的了，马上在网上再买一点，不过现在需要去便利店解决了。<br>「那我稍微出去一趟，你等着？」<br>「去哪儿？」<br>「楼下便利店」<br>「那我也去好了。坐了10几个小时了，一直看窗外也看腻了」<br>总觉得是第一次有人听见我说要出门，提出要跟我一起去。<br>虽然……是个幽灵？<br>我稍微整顿了一下衣着，她跟在我后面出门了。<br>对话要说还是挺少的。不过她还是喜欢站在电梯中间。我一直觉得站在电梯正当中很让人局促不安，至少有一面能靠着墙才有安全感。或者说那种有可能被他人包围的场景我不太擅长。<br>「为什么你一直站在电梯正当中啊」<br>「基本上没人会站这里吧，也就不会有人会撞到我了」<br>原来如此……反正别人也看不到，就没什么好局促的，反而保住自己的空间是重要的。也许幽灵也觉得自己和别的东西重合了会怪怪的吧。<br>「欢迎光临，XX便利店」<br>总觉得听到这样的播报声有种仪式感。<br>我拿了一杯杯面，要了一瓶常喝的酒。<br>「你也喜欢喝这个啊，我之前也挺喜欢的」<br>哈，果真和外表一样不是那种「好孩子」呢，应该是相处起来比较轻松的类型。<br>「嗯，这种酒喝起来没什么特别浓重的「酒」的实感，但是有点度数，不用多少就能达到半醉的状态。可以说是「性价比」比较高的了。」<br>一不小心说了这么多，身边有个人还真是不一样。<br>「嗯嗯，确实确实」<br>收银员很诧异地看着我。<br>坏了……我看上去就好像在意义不明地自言自语一样。而且刚刚那段话对于自言自语来说实在是太长了。<br>「其实不用特别回应我也行的啦。毕竟会看起来很奇怪」<br>「哈哈哈……倒也没关系，本来我就够奇怪的了」<br>没要塑料袋，两只手分别拿着东西和她并排走着。<br>橙黄色的路灯透过她照射在人行道上，没有留下影子。<br>这让我有了「啊，她确实不属于这个世界」这样的实感。<br>不如说有点羡慕。</p>
 <hr>
 <p>看完新番之后，她到我家来此行的目的也就了结了。<br>「番剧你也看好了，下面你打算怎么办？」<br>「嗯……」仰面躺在床上的她没有立刻回答。<br>一想到家里马上又要只剩下一个「人」了，莫名觉得复杂。<br>「你如果想多呆一会儿也没关系啊。毕竟也不会给我添什么麻烦。」<br>她忽地坐起身。<br>「哈？把幽灵留在家里哎？你是认真的吗？」<br>确实是认真的。<br>跟我这么像的灵魂是第一次见到。追一样的番，喜欢差不多的食物，性恪感觉也很像。<br>真的有种找到了归宿的感觉。<br>我坐到她傍边，当然也没有挨得太近。<br>「总觉得还有不少事情想问的。你如果有什么想要知道的我也可以帮你不是吗？可以算是共赢了吧。」<br>「那倒也是……只要你不觉得晦气的话」<br>晦气什么的……其实我一直对黑魔法什么的很有兴趣的哈哈哈哈……<br>「其实呆在这里也挺开心的。那你愿意的话我就再呆一阵子好了」<br>「嗯」<br>于是和的有点丧的幽灵少女的同居日常就这么开始了。</p>
 <p><strong>by 澄みわたる朝色</strong></p>
-]]></content>
-      <categories>
-        <category>朝色的小说</category>
-      </categories>
-      <tags>
-        <tag>这样就好</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>这样就好_二回目</title>
-    <url>/2021/11/09/%E8%BF%99%E6%A0%B7%E5%B0%B1%E5%A5%BD-%E4%BA%8C%E5%9B%9E%E7%9B%AE/</url>
-    <content><![CDATA[<h1 id="遇见了「幽灵」少女觉得这样不好"><a href="#遇见了「幽灵」少女觉得这样不好" class="headerlink" title="遇见了「幽灵」少女觉得这样不好"></a>遇见了「幽灵」少女觉得这样不好</h1><p>我一时间没能反应过来。<br>「自杀？」<br>「嗯，自杀。」<br>「我为什么要自杀啊？」<br>「不知道，但是最终一定会变成那样」<br>「为什么这么肯定啊」<br>「因为我就是这样啊」<br>啊……有经历吗，那就没法反驳了。<br>嗯？她就是那样？自杀了？还站在这里？还在跟我说话？这该不会……<br>比起害怕，不如说是有点激动。碰到这样的灵异事件我还是头一次，虽然一直相信着超自然的存在，却一次都没有真正见到过。<br>「也就是说，你是亡灵？幽灵？怨魂？」<br>看到我这样激动地问她，她好像很不解。<br>「哎？哎……大概就是普通的亡灵吧，我想」<br>「诶……」我从上到下打量着她，不过几乎看不出来她有什么异样。除了这实在太妹味儿过重的打扮。<br>「不会是在开玩笑吧……你是怎么进到我家里的？」<br>「啊，那很简单的」她直接走到门口，从门穿了出去，又穿过门进来。<br>「……」说实话我不敢相信自己的眼睛。<br>「那你不会踩不到地板什么的吗？」看着她很正常地在走路，这确实是个很大的问题，从物理学上来说。<br>「说白了只是无法做出影响物质世界的行动而已，我想触碰到就能触碰到，但是地板也好，人也是，对我都没有感觉的」<br>「诶……」<br>「那么回到最根本的问题上来。为什么要到我家里来？」<br>「因为你一看就是个宅，想来蹭一下你的动漫看看」<br>「哈？」<br>「今天有个叫那什么的新番更新对吧。感觉想你这样的人肯定会看的，于是我就跟来，如果你看的话我就也能看到了。」<br>「这算是傍观者视角了吧哈哈哈……」<br>「不过你记错了哦，那个明天才更新。」<br>「什！？」她好像小声说了点什么，不过我还是当成没听到吧。<br>「呃……你不介意的话明天再来也行啊？我反正也没事情干，你要看的话我放就是了」<br>「不用了。出去转悠可能就找不到怎么回来了，我今天就呆在这里等着了」<br>「你原来记不住路吗……」<br>「怎么，有意见啊」她走到我床边坐下，双手放在身后撑着，还翘起了二郎腿。很随意的人啊，是因为幽灵当久了吗？<br>「我的床不怎么干净……」刚想这么说，即然她是幽灵（？）那大概没关系吧。<br>「反正难得有能看见我的人，偶尔说说话也不错吧」她仰头望着天花板。<br>「平时你都在干什么？」<br>「反正时间对我来说很廉价。一般就到处转转，到别人家里看看，看到有什么动漫就蹭蹭，然后记住更新的时间，感觉时间差不多了再找地方看下一集」<br>「其它时候就在路上走走，看到有什么热闹了去看看，没什么特别的事情。就这样过了一两年了吧」<br>「能看见我的活人还跟我说话的，你是第一个」<br>「去世一两年了啊……」这么一个人呆着这么久，一定会觉得难受的吧。<br>如果我也时日不多的话，能帮上别人，那怕是个幽灵，也算是行了一份善事，无憾于世了。<br>「那要不一起出门去逛逛？还是说你有什么想在网上看的东西吗，我找给你看。」<br>「哎？没必要做到那样的地步啊，愿意给我看看番剧什么的就已经足够了——」<br>「啊……是吗……」到头来还是谁都帮不上呢，连幽灵都嫌弃的程度哈哈哈哈……<br>「那我睡一会儿，电脑就在那里放着。要是到番剧更新的时间了我还没醒你就叫我好了」<br>「行」她说完从我的床上起来，坐上了我刚离开的椅子，向前趴在桌子上盯着电脑屏幕。<br>也许已经习惯了漫长的时间和等待了吧。<br>「你不用睡觉吗？」<br>「当然不用」<br>想想也是。</p>
 ]]></content>
       <categories>
         <category>朝色的小说</category>
@@ -622,12 +610,11 @@
       </tags>
   </entry>
   <entry>
-    <title>这样就好_四回目</title>
-    <url>/2021/11/14/%E8%BF%99%E6%A0%B7%E5%B0%B1%E5%A5%BD-%E5%9B%9B%E5%9B%9E%E7%9B%AE/</url>
-    <content><![CDATA[<h1 id="新日常，这样就好"><a href="#新日常，这样就好" class="headerlink" title="新日常，这样就好"></a>新日常，这样就好</h1><p>自她来到我家以来已经过了一周了。虽然日常发生了点变化，但是也渐渐习惯了家里有另一个「人」了。<br>与从前跟父母住在一起的时候不同，没有烦人的指责与多嘴。不会让人觉得厌倦，反而觉得安心了。<br>从前在家里撞到桌角都会被说「不长眼睛啊，真是活该」,所以受了伤也不愿发出声响。<br>不过她会对我说「没事吗？」<br>真的很令人开心。<br>每天醒来就有能说话的对象，不用上网找人聊些不着边际的话题。<br>出去买东西或者上网也会在旁边看着我。有些小麻烦的时候也可以商讨。虽然她是幽灵一样的存在，不能对我有什么现实上的帮助，但我感觉生活被她改变了。<br>又是一个「早晨」。<br>「醒了？」<br>「醒了」<br>「继续看昨天看到一半的那个吧。还挺有趣的，挺期待后续的」<br>「好好，这就放。去年我追这个番的时候也觉得等一个星期太久了哈哈」<br>「果真还是看着轻松没什么大道理的作品舒服」<br>「嗯，不过有的经典作品也不错啊。但是现在还是喜欢轻松欢乐一点的」<br>「看个番剧都要找不开心干什么啊」<br>「确实确实」<br>基本上都是这样的对话。<br>她也没怎么跟我说起过她的事情，想必也是有什么缘故吧。<br>这几天基本上都在帮她补最近一两年她错过的，或者一些她想看却还没有来得及看过的。<br>我特地添置了一把椅子，能够一起坐着。<br>「说起来了，为什么我能看见你就说明我会自杀呢？」<br>当时过于在意她的幽灵身份竟然忘记问了。<br>「嗯……这个感觉比较微妙，因为我之前也看到了各种各样的东西」<br>「本来觉得只是奇怪而已，不知不觉心境就发生了变化，然后我就是现在的样子了」<br>「也许是因为有着「倾向」一样的东西吧」<br>当倾向发展到一定程度，就会能看到幽灵。<br>只不过这时候还没有察觉到这种倾向而已。<br>如果将死之人能看到不可思议的存在，那我大概也是「将死之人」了吧。<br>也就是说不知道什么时候，我也会发生心境上的根本改变，然后自取灭亡。</p>
+    <title>这样就好-五回目</title>
+    <url>/2022/03/16/%E8%BF%99%E6%A0%B7%E5%B0%B1%E5%A5%BD-%E4%BA%94%E5%9B%9E%E7%9B%AE/</url>
+    <content><![CDATA[<h1 id="旧友：这样就好？"><a href="#旧友：这样就好？" class="headerlink" title="旧友：这样就好？"></a>旧友：这样就好？</h1><p>「本来以为自己会窝在家里直到最后的，没想到竟然会有事情需要出门……」<br>「怎么了？出什么事了？」<br>「我一个老朋友，最近闲下来有空，想要跟我见个面」<br>「诶……原来你还有老朋友啊」<br>「你这话说的……其实很久也没见过了，初中时代的朋友。但是从初中之后就再没交过那么要好的朋友了」<br>「那你就去见见呗」<br>「主要是他现在和从前，变化很大啊」<br>「嗯？」<br>「现在他已经是名利双收的成功人士了……」<br>我仰面往床上一躺。<br>她好像对我的朋友很有兴趣的样子，坐到了在我旁边。<br>「TA是男的，还是女的？」<br>「当然是男的啦，我那会那么有女人缘」<br>「啊哈哈……是这样嘛」<br>总觉得她松了一口气，也许是我的自作多情吧。<br>「高中的时候我一直浑浑噩噩，他也跟着我一起，虽然不怎么见面，但是每天都有联系」<br>「然后他交到了女朋友，应该说是和从前的女朋友复合了吧」<br>「从那以后就变化挺大的，本来在学做动画，现在已经每天单子多到做不完了」<br>「然后我呢……还是个NEET」<br>很想在床上滚几圈，但是旁边她在看着，还是算了。<br>「那你打算去见一下吗？」<br>「拒绝人家也不太好啊，还是答应下来了。他说他时间不多，也就在快餐店里见个面吃点东西」</p>
 <hr>
-<p>每次仔细审视她的时候，都会觉得她这身打扮真是有勇气。<br>那么多的耳钉和那样的衣服，给人以冷酷干练的印象，却在这里跟我一起看番剧。<br>身材看上去也很好。明明应该是受到欢迎的那一类吧……为什么会是这种性格呢。<br>虽然我不讨厌就是了。<br>「你这样子的打扮，有什么理由吗？」<br>「嗯？」<br>「耳钉啦，之类的」<br>「啊，因为我觉得如果我是男生的话，我也许会喜欢这样的吧——所以最后就这样打扮了」<br>「啊哈哈哈……那如果你是男生的话喜好可能跟我很像吧」<br>等下，自己说的这句话是不是包含了过多的要素。<br>「诶……你是在夸我吗，就当你在夸我好了。」<br>被发现了。<br>偶尔也有这样的对话呢。<br>然后等到饿了的时候。<br>「我去泡碗面，等会儿再继续吧」<br>「嗯」<br>她说着也从椅子上站起来了，跟我走到了狭小的厨房里。<br>我也从来做过什么饭，都是烧个开水泡个面罢了。<br>「话说这个方便面，之前是不是配料没加鸡蛋来着？」<br>「嗯，最近才开始加的。」<br>她绕到泡面的包装后面，身体和不锈钢台面重合了。<br>「对这个方便面这么有兴趣啊」<br>「因为以后如果再看到这个方便面发生了什么变化的话，会有一种「啊，已经过去好久了」的感觉，很有意思。所以现在要好好观察观察。」<br>看着世事变迁是再有趣不过的事情了，如果能一直看下去，那就更加有趣了。对她来说一定也是这样吧。<br>「小时候觉得天天吃方便面好幸福啊，那么好吃，结果现在真的天天吃了，有点感慨」<br>「毕竟小时候一直被说吃这种东西对身体不好不让多吃嘛」<br>我把泡好的面端到一张专门用来吃东西的小台子上，说实话很久没用过了。<br>她坐在我对面，用双手撑着下巴，饶有兴致地看着我吃完。<br>这当中没有什么对话，我也习惯了她呆在我旁边，她也许也习惯了寻求还有物质存在的我的帮助。<br>新的日常大概就是这样吧，挺好的。</p>
-<p><strong>by 澄みわたる朝色</strong></p>
+<p>好久没有到过人这么多的地方了。<br>「你跟来不会觉得无聊吗」<br>「不会啊，这也是观测者乐趣的一部分」<br>似乎我朋友要晚到一点，先找个位置坐下好了。<br>虽然是高峰时段，但我还是找了个4人桌坐下了。<br>「你们不是就两个人吗，4人桌是不是太大了」<br>「你也坐下不就好了」<br>「是这样啊……」<br>于是她坐在了我旁边。<br>事到如今我还紧张个什么啊，明明在家里一直都呆在一起的。<br>坐下来等了几分钟。<br>「不好意思久等了」<br>他来了，呃……还带着她的女朋友。<br>「所以你选了个4人桌」<br>「不……我只是单纯地想让你坐在旁边而已……」<br>他看到了我，朝我这边走过来了。<br>「你刚在在跟谁说话？有电话吗」<br>「没有没有，只是自言自语而已」<br>「我有点晚了哈哈，稍微有点事情」<br>「没事没事，反正我也闲」<br>这不是说辞而是真的闲。<br>「这人看上去好有范儿啊」<br>「是啊，自从他交到女朋友之后就一直很注重这些」<br>他在人对面坐下，然后她女朋友自然地就坐在了幽灵的对面。<br>说起来我还不知道「幽灵」的名字呢。不过先算了吧。<br>「最近工作室刚做完一个单子啊，空出来一点时间」<br>「辛苦了辛苦了，你当时动画那么努力地学也算是有成果了啊」<br>「确实哈哈，没想到能走到这一步」<br>「这是怎么一回事啊」<br>她向我凑过来问。<br>「他在的工作室在网上已经火到出圈的地步了。本来是做游戏主题的动画的，但是很多不玩那个游戏的人也是他动画的粉丝。」<br>有了之前的教训，我这次在手机屏幕上打出来给她看。算是避免了精神错乱的嫌疑了。<br>「那你这边怎么样？大学还好吗？」<br>「还行吧，过得去」<br>其实一点都不行。<br>「啊对了，忘记跟你介绍了，这是我女朋友。」<br>「听说你是他初中同学，他也常跟我提起你，挺感兴趣的就打算见一面哈哈」<br>很讲礼貌的样子。<br>然后进行了一番没什么意义的寒暄。<br>要是之前看到他们两个人我一定会羡慕的，不过现在我不会了。<br>虽然是幽灵，但是应该再没有比她更能理解我的存在了。<br>是不是男女朋友的关系无所谓，有这样的知己就已经很满足了。<br>「喂，他们要呆到什么时候啊」<br>她好像有点不耐烦了。<br>「稍微等一下吧。他马上就会说有事情要走了」<br>「你怎么知道的？」<br>「因为没什么话好说」<br>果真，过了十多分钟，刚好吃完点的一点点东西。<br>「那我下午还有点事情，就先走了」<br>「噢，那加油啊」<br>「之前一直觉得你太消沉了，虽然感觉现在有点变化了，但是一直挺担心你的，你也得努力努力啊」<br>劝别人努力什么的，最无趣了。<br>「劝别人努力什么的，最无趣了。」<br>她直接说出来了。<br>但是对老同学还是直接敷衍过去吧。<br>「啊哈哈……我知道了，你加油]<br>「嗯，那再见，账我结了」<br>刚想说不用帮忙结账，他已经付好钱匆匆地走了。<br>「哎……」<br>「回去吧」<br>「嗯」<br>劝我努力什么的，他又怎么明白我的苦忠呢。<br>我有必要为了什么而努力吗。<br>有人会跟我一起努力吗。<br>努力了就会开心吗，会有人表扬有吗。<br>事到如今了再努力还有什么意义吗。<br>没有，都没有。<br>「快点啊，回家继续看电影了」<br>哈哈，还是这样的催促让人觉得暖心。</p>
 ]]></content>
       <categories>
         <category>朝色的小说</category>
@@ -637,11 +624,9 @@
       </tags>
   </entry>
   <entry>
-    <title>这样就好-五回目</title>
-    <url>/2022/03/16/%E8%BF%99%E6%A0%B7%E5%B0%B1%E5%A5%BD-%E4%BA%94%E5%9B%9E%E7%9B%AE/</url>
-    <content><![CDATA[<h1 id="旧友：这样就好？"><a href="#旧友：这样就好？" class="headerlink" title="旧友：这样就好？"></a>旧友：这样就好？</h1><p>「本来以为自己会窝在家里直到最后的，没想到竟然会有事情需要出门……」<br>「怎么了？出什么事了？」<br>「我一个老朋友，最近闲下来有空，想要跟我见个面」<br>「诶……原来你还有老朋友啊」<br>「你这话说的……其实很久也没见过了，初中时代的朋友。但是从初中之后就再没交过那么要好的朋友了」<br>「那你就去见见呗」<br>「主要是他现在和从前，变化很大啊」<br>「嗯？」<br>「现在他已经是名利双收的成功人士了……」<br>我仰面往床上一躺。<br>她好像对我的朋友很有兴趣的样子，坐到了在我旁边。<br>「TA是男的，还是女的？」<br>「当然是男的啦，我那会那么有女人缘」<br>「啊哈哈……是这样嘛」<br>总觉得她松了一口气，也许是我的自作多情吧。<br>「高中的时候我一直浑浑噩噩，他也跟着我一起，虽然不怎么见面，但是每天都有联系」<br>「然后他交到了女朋友，应该说是和从前的女朋友复合了吧」<br>「从那以后就变化挺大的，本来在学做动画，现在已经每天单子多到做不完了」<br>「然后我呢……还是个NEET」<br>很想在床上滚几圈，但是旁边她在看着，还是算了。<br>「那你打算去见一下吗？」<br>「拒绝人家也不太好啊，还是答应下来了。他说他时间不多，也就在快餐店里见个面吃点东西」</p>
-<hr>
-<p>好久没有到过人这么多的地方了。<br>「你跟来不会觉得无聊吗」<br>「不会啊，这也是观测者乐趣的一部分」<br>似乎我朋友要晚到一点，先找个位置坐下好了。<br>虽然是高峰时段，但我还是找了个4人桌坐下了。<br>「你们不是就两个人吗，4人桌是不是太大了」<br>「你也坐下不就好了」<br>「是这样啊……」<br>于是她坐在了我旁边。<br>事到如今我还紧张个什么啊，明明在家里一直都呆在一起的。<br>坐下来等了几分钟。<br>「不好意思久等了」<br>他来了，呃……还带着她的女朋友。<br>「所以你选了个4人桌」<br>「不……我只是单纯地想让你坐在旁边而已……」<br>他看到了我，朝我这边走过来了。<br>「你刚在在跟谁说话？有电话吗」<br>「没有没有，只是自言自语而已」<br>「我有点晚了哈哈，稍微有点事情」<br>「没事没事，反正我也闲」<br>这不是说辞而是真的闲。<br>「这人看上去好有范儿啊」<br>「是啊，自从他交到女朋友之后就一直很注重这些」<br>他在人对面坐下，然后她女朋友自然地就坐在了幽灵的对面。<br>说起来我还不知道「幽灵」的名字呢。不过先算了吧。<br>「最近工作室刚做完一个单子啊，空出来一点时间」<br>「辛苦了辛苦了，你当时动画那么努力地学也算是有成果了啊」<br>「确实哈哈，没想到能走到这一步」<br>「这是怎么一回事啊」<br>她向我凑过来问。<br>「他在的工作室在网上已经火到出圈的地步了。本来是做游戏主题的动画的，但是很多不玩那个游戏的人也是他动画的粉丝。」<br>有了之前的教训，我这次在手机屏幕上打出来给她看。算是避免了精神错乱的嫌疑了。<br>「那你这边怎么样？大学还好吗？」<br>「还行吧，过得去」<br>其实一点都不行。<br>「啊对了，忘记跟你介绍了，这是我女朋友。」<br>「听说你是他初中同学，他也常跟我提起你，挺感兴趣的就打算见一面哈哈」<br>很讲礼貌的样子。<br>然后进行了一番没什么意义的寒暄。<br>要是之前看到他们两个人我一定会羡慕的，不过现在我不会了。<br>虽然是幽灵，但是应该再没有比她更能理解我的存在了。<br>是不是男女朋友的关系无所谓，有这样的知己就已经很满足了。<br>「喂，他们要呆到什么时候啊」<br>她好像有点不耐烦了。<br>「稍微等一下吧。他马上就会说有事情要走了」<br>「你怎么知道的？」<br>「因为没什么话好说」<br>果真，过了十多分钟，刚好吃完点的一点点东西。<br>「那我下午还有点事情，就先走了」<br>「噢，那加油啊」<br>「之前一直觉得你太消沉了，虽然感觉现在有点变化了，但是一直挺担心你的，你也得努力努力啊」<br>劝别人努力什么的，最无趣了。<br>「劝别人努力什么的，最无趣了。」<br>她直接说出来了。<br>但是对老同学还是直接敷衍过去吧。<br>「啊哈哈……我知道了，你加油]<br>「嗯，那再见，账我结了」<br>刚想说不用帮忙结账，他已经付好钱匆匆地走了。<br>「哎……」<br>「回去吧」<br>「嗯」<br>劝我努力什么的，他又怎么明白我的苦忠呢。<br>我有必要为了什么而努力吗。<br>有人会跟我一起努力吗。<br>努力了就会开心吗，会有人表扬有吗。<br>事到如今了再努力还有什么意义吗。<br>没有，都没有。<br>「快点啊，回家继续看电影了」<br>哈哈，还是这样的催促让人觉得暖心。</p>
+    <title>这样就好_二回目</title>
+    <url>/2021/11/09/%E8%BF%99%E6%A0%B7%E5%B0%B1%E5%A5%BD-%E4%BA%8C%E5%9B%9E%E7%9B%AE/</url>
+    <content><![CDATA[<h1 id="遇见了「幽灵」少女觉得这样不好"><a href="#遇见了「幽灵」少女觉得这样不好" class="headerlink" title="遇见了「幽灵」少女觉得这样不好"></a>遇见了「幽灵」少女觉得这样不好</h1><p>我一时间没能反应过来。<br>「自杀？」<br>「嗯，自杀。」<br>「我为什么要自杀啊？」<br>「不知道，但是最终一定会变成那样」<br>「为什么这么肯定啊」<br>「因为我就是这样啊」<br>啊……有经历吗，那就没法反驳了。<br>嗯？她就是那样？自杀了？还站在这里？还在跟我说话？这该不会……<br>比起害怕，不如说是有点激动。碰到这样的灵异事件我还是头一次，虽然一直相信着超自然的存在，却一次都没有真正见到过。<br>「也就是说，你是亡灵？幽灵？怨魂？」<br>看到我这样激动地问她，她好像很不解。<br>「哎？哎……大概就是普通的亡灵吧，我想」<br>「诶……」我从上到下打量着她，不过几乎看不出来她有什么异样。除了这实在太妹味儿过重的打扮。<br>「不会是在开玩笑吧……你是怎么进到我家里的？」<br>「啊，那很简单的」她直接走到门口，从门穿了出去，又穿过门进来。<br>「……」说实话我不敢相信自己的眼睛。<br>「那你不会踩不到地板什么的吗？」看着她很正常地在走路，这确实是个很大的问题，从物理学上来说。<br>「说白了只是无法做出影响物质世界的行动而已，我想触碰到就能触碰到，但是地板也好，人也是，对我都没有感觉的」<br>「诶……」<br>「那么回到最根本的问题上来。为什么要到我家里来？」<br>「因为你一看就是个宅，想来蹭一下你的动漫看看」<br>「哈？」<br>「今天有个叫那什么的新番更新对吧。感觉想你这样的人肯定会看的，于是我就跟来，如果你看的话我就也能看到了。」<br>「这算是傍观者视角了吧哈哈哈……」<br>「不过你记错了哦，那个明天才更新。」<br>「什！？」她好像小声说了点什么，不过我还是当成没听到吧。<br>「呃……你不介意的话明天再来也行啊？我反正也没事情干，你要看的话我放就是了」<br>「不用了。出去转悠可能就找不到怎么回来了，我今天就呆在这里等着了」<br>「你原来记不住路吗……」<br>「怎么，有意见啊」她走到我床边坐下，双手放在身后撑着，还翘起了二郎腿。很随意的人啊，是因为幽灵当久了吗？<br>「我的床不怎么干净……」刚想这么说，即然她是幽灵（？）那大概没关系吧。<br>「反正难得有能看见我的人，偶尔说说话也不错吧」她仰头望着天花板。<br>「平时你都在干什么？」<br>「反正时间对我来说很廉价。一般就到处转转，到别人家里看看，看到有什么动漫就蹭蹭，然后记住更新的时间，感觉时间差不多了再找地方看下一集」<br>「其它时候就在路上走走，看到有什么热闹了去看看，没什么特别的事情。就这样过了一两年了吧」<br>「能看见我的活人还跟我说话的，你是第一个」<br>「去世一两年了啊……」这么一个人呆着这么久，一定会觉得难受的吧。<br>如果我也时日不多的话，能帮上别人，那怕是个幽灵，也算是行了一份善事，无憾于世了。<br>「那要不一起出门去逛逛？还是说你有什么想在网上看的东西吗，我找给你看。」<br>「哎？没必要做到那样的地步啊，愿意给我看看番剧什么的就已经足够了——」<br>「啊……是吗……」到头来还是谁都帮不上呢，连幽灵都嫌弃的程度哈哈哈哈……<br>「那我睡一会儿，电脑就在那里放着。要是到番剧更新的时间了我还没醒你就叫我好了」<br>「行」她说完从我的床上起来，坐上了我刚离开的椅子，向前趴在桌子上盯着电脑屏幕。<br>也许已经习惯了漫长的时间和等待了吧。<br>「你不用睡觉吗？」<br>「当然不用」<br>想想也是。</p>
 ]]></content>
       <categories>
         <category>朝色的小说</category>
@@ -662,6 +647,21 @@
       </categories>
       <tags>
         <tag>EF_Cosmos的板绘</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>这样就好_四回目</title>
+    <url>/2021/11/14/%E8%BF%99%E6%A0%B7%E5%B0%B1%E5%A5%BD-%E5%9B%9B%E5%9B%9E%E7%9B%AE/</url>
+    <content><![CDATA[<h1 id="新日常，这样就好"><a href="#新日常，这样就好" class="headerlink" title="新日常，这样就好"></a>新日常，这样就好</h1><p>自她来到我家以来已经过了一周了。虽然日常发生了点变化，但是也渐渐习惯了家里有另一个「人」了。<br>与从前跟父母住在一起的时候不同，没有烦人的指责与多嘴。不会让人觉得厌倦，反而觉得安心了。<br>从前在家里撞到桌角都会被说「不长眼睛啊，真是活该」,所以受了伤也不愿发出声响。<br>不过她会对我说「没事吗？」<br>真的很令人开心。<br>每天醒来就有能说话的对象，不用上网找人聊些不着边际的话题。<br>出去买东西或者上网也会在旁边看着我。有些小麻烦的时候也可以商讨。虽然她是幽灵一样的存在，不能对我有什么现实上的帮助，但我感觉生活被她改变了。<br>又是一个「早晨」。<br>「醒了？」<br>「醒了」<br>「继续看昨天看到一半的那个吧。还挺有趣的，挺期待后续的」<br>「好好，这就放。去年我追这个番的时候也觉得等一个星期太久了哈哈」<br>「果真还是看着轻松没什么大道理的作品舒服」<br>「嗯，不过有的经典作品也不错啊。但是现在还是喜欢轻松欢乐一点的」<br>「看个番剧都要找不开心干什么啊」<br>「确实确实」<br>基本上都是这样的对话。<br>她也没怎么跟我说起过她的事情，想必也是有什么缘故吧。<br>这几天基本上都在帮她补最近一两年她错过的，或者一些她想看却还没有来得及看过的。<br>我特地添置了一把椅子，能够一起坐着。<br>「说起来了，为什么我能看见你就说明我会自杀呢？」<br>当时过于在意她的幽灵身份竟然忘记问了。<br>「嗯……这个感觉比较微妙，因为我之前也看到了各种各样的东西」<br>「本来觉得只是奇怪而已，不知不觉心境就发生了变化，然后我就是现在的样子了」<br>「也许是因为有着「倾向」一样的东西吧」<br>当倾向发展到一定程度，就会能看到幽灵。<br>只不过这时候还没有察觉到这种倾向而已。<br>如果将死之人能看到不可思议的存在，那我大概也是「将死之人」了吧。<br>也就是说不知道什么时候，我也会发生心境上的根本改变，然后自取灭亡。</p>
+<hr>
+<p>每次仔细审视她的时候，都会觉得她这身打扮真是有勇气。<br>那么多的耳钉和那样的衣服，给人以冷酷干练的印象，却在这里跟我一起看番剧。<br>身材看上去也很好。明明应该是受到欢迎的那一类吧……为什么会是这种性格呢。<br>虽然我不讨厌就是了。<br>「你这样子的打扮，有什么理由吗？」<br>「嗯？」<br>「耳钉啦，之类的」<br>「啊，因为我觉得如果我是男生的话，我也许会喜欢这样的吧——所以最后就这样打扮了」<br>「啊哈哈哈……那如果你是男生的话喜好可能跟我很像吧」<br>等下，自己说的这句话是不是包含了过多的要素。<br>「诶……你是在夸我吗，就当你在夸我好了。」<br>被发现了。<br>偶尔也有这样的对话呢。<br>然后等到饿了的时候。<br>「我去泡碗面，等会儿再继续吧」<br>「嗯」<br>她说着也从椅子上站起来了，跟我走到了狭小的厨房里。<br>我也从来做过什么饭，都是烧个开水泡个面罢了。<br>「话说这个方便面，之前是不是配料没加鸡蛋来着？」<br>「嗯，最近才开始加的。」<br>她绕到泡面的包装后面，身体和不锈钢台面重合了。<br>「对这个方便面这么有兴趣啊」<br>「因为以后如果再看到这个方便面发生了什么变化的话，会有一种「啊，已经过去好久了」的感觉，很有意思。所以现在要好好观察观察。」<br>看着世事变迁是再有趣不过的事情了，如果能一直看下去，那就更加有趣了。对她来说一定也是这样吧。<br>「小时候觉得天天吃方便面好幸福啊，那么好吃，结果现在真的天天吃了，有点感慨」<br>「毕竟小时候一直被说吃这种东西对身体不好不让多吃嘛」<br>我把泡好的面端到一张专门用来吃东西的小台子上，说实话很久没用过了。<br>她坐在我对面，用双手撑着下巴，饶有兴致地看着我吃完。<br>这当中没有什么对话，我也习惯了她呆在我旁边，她也许也习惯了寻求还有物质存在的我的帮助。<br>新的日常大概就是这样吧，挺好的。</p>
+<p><strong>by 澄みわたる朝色</strong></p>
+]]></content>
+      <categories>
+        <category>朝色的小说</category>
+      </categories>
+      <tags>
+        <tag>这样就好</tag>
       </tags>
   </entry>
 </search>
