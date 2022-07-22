@@ -18,6 +18,19 @@
       </tags>
   </entry>
   <entry>
+    <title>FedoraFun 创始人宣布学习Rust</title>
+    <url>/2021/12/18/FedoraFun-%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%AE%A3%E5%B8%83%E5%AD%A6%E4%B9%A0Rust/</url>
+    <content><![CDATA[<h1 id="朝色报创刊号"><a href="#朝色报创刊号" class="headerlink" title="朝色报创刊号"></a>朝色报创刊号</h1><p><img src="/images/21-12-18/pic_version.jpg" alt="使用Word制作的第一则报道"></p>
+<p>2021-12-18 <strong>刊号1</strong> <em>——朝色报</em></p>
+]]></content>
+      <categories>
+        <category>朝色报</category>
+      </categories>
+      <tags>
+        <tag>新闻</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>FedoraFun 重新上线</title>
     <url>/2022/02/06/FedoraFun-%E9%87%8D%E6%96%B0%E4%B8%8A%E7%BA%BF/</url>
     <content><![CDATA[<h1 id="FedoraFun-于下线约10日后重新上线"><a href="#FedoraFun-于下线约10日后重新上线" class="headerlink" title="FedoraFun 于下线约10日后重新上线"></a>FedoraFun 于下线约10日后重新上线</h1><p>2022年02月05日晚，下线许久的 FedoraFun 终于重新上线了。经由<a href="https://github.com/zxc3123857948">创始人</a>的努力，现在博客由 Halo 构建并且运行于独立服务器上。</p>
@@ -29,19 +42,6 @@
 <p>其实创始人在除夕之夜，这个本应与家人共度的节日里，还不忘全国的 FedoraFun 用户们，更新了软件包。并且明明正值新春佳节，却耗费时间与精力修复了 FedoraFun 官网。可见创始人的道德之高尚，与国外弄虚作假，整日不喜上班，浑浑噩噩的所谓“合理劳动”形成了鲜明的反差。创始人正是贯彻社区主义核心价值观的典范。</p>
 <p>最后，朝色报已经受到了 FedoraFun 创始人以及其它相关人员的关注。感谢大家的支持，如有疑问，建议可于评论中提出。</p>
 <p>2022-02-06 <strong>刊号3</strong> <em>——朝色报</em></p>
-]]></content>
-      <categories>
-        <category>朝色报</category>
-      </categories>
-      <tags>
-        <tag>新闻</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>FedoraFun 创始人宣布学习Rust</title>
-    <url>/2021/12/18/FedoraFun-%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%AE%A3%E5%B8%83%E5%AD%A6%E4%B9%A0Rust/</url>
-    <content><![CDATA[<h1 id="朝色报创刊号"><a href="#朝色报创刊号" class="headerlink" title="朝色报创刊号"></a>朝色报创刊号</h1><p><img src="/images/21-12-18/pic_version.jpg" alt="使用Word制作的第一则报道"></p>
-<p>2021-12-18 <strong>刊号1</strong> <em>——朝色报</em></p>
 ]]></content>
       <categories>
         <category>朝色报</category>
@@ -91,22 +91,6 @@
       </tags>
   </entry>
   <entry>
-    <title>PPET看板娘！</title>
-    <url>/2020/10/02/PPET%E7%9C%8B%E6%9D%BF%E5%A8%98%EF%BC%81/</url>
-    <content><![CDATA[<h1 id="PPET看板娘！"><a href="#PPET看板娘！" class="headerlink" title="PPET看板娘！"></a>PPET看板娘！</h1><p>右下角的看板娘是不是十分地养眼？你完全可以把她布署到你的桌面上喔！</p>
-<p>访问GITHUB地址：<a href="https://github.com/zenghongtu/PPet/releases">https://github.com/zenghongtu/PPet/releases</a></p>
-<a id="more"></a>
-<p>提供了Windows-exe，MacOS-dmg，Debian-deb格式，ArchLinux亲测debtap转包可行</p>
-<p>还支持导入模型（太赞了）</p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>有趣</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Nodejs实现随机图片API</title>
     <url>/2021/03/20/Nodejs%E5%AE%9E%E7%8E%B0%E9%9A%8F%E6%9C%BA%E5%9B%BE%E7%89%87API/</url>
     <content><![CDATA[<h1 id="用node-js实现随机图片API！"><a href="#用node-js实现随机图片API！" class="headerlink" title="用node.js实现随机图片API！"></a>用node.js实现随机图片API！</h1><p>前段时间我们的青河大佬自建了一个基于php的随机图API，然而由于我不愿随大流的性子，决定用不同的方法实现一个［滑稽］</p>
@@ -123,6 +107,22 @@
       </categories>
       <tags>
         <tag>Linux</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>PPET看板娘！</title>
+    <url>/2020/10/02/PPET%E7%9C%8B%E6%9D%BF%E5%A8%98%EF%BC%81/</url>
+    <content><![CDATA[<h1 id="PPET看板娘！"><a href="#PPET看板娘！" class="headerlink" title="PPET看板娘！"></a>PPET看板娘！</h1><p>右下角的看板娘是不是十分地养眼？你完全可以把她布署到你的桌面上喔！</p>
+<p>访问GITHUB地址：<a href="https://github.com/zenghongtu/PPet/releases">https://github.com/zenghongtu/PPet/releases</a></p>
+<a id="more"></a>
+<p>提供了Windows-exe，MacOS-dmg，Debian-deb格式，ArchLinux亲测debtap转包可行</p>
+<p>还支持导入模型（太赞了）</p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>有趣</tag>
       </tags>
   </entry>
   <entry>
@@ -195,19 +195,6 @@
       </tags>
   </entry>
   <entry>
-    <title>图片-By_EF_Cosmos</title>
-    <url>/2020/10/08/%E5%9B%BE%E7%89%87-By-EF-Cosmos/</url>
-    <content><![CDATA[<p><img src="https://pic.downk.cc/item/5f7f345d1cd1bbb86bd52df9.png" alt="图片"></p>
-<p><em>2020/10/08</em></p>
-]]></content>
-      <categories>
-        <category>EF_Cosmos</category>
-      </categories>
-      <tags>
-        <tag>随手写</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>使用开源的软件0成本成为vtuber</title>
     <url>/2021/09/12/%E4%BD%BF%E7%94%A8%E5%BC%80%E6%BA%90%E7%9A%84%E8%BD%AF%E4%BB%B60%E6%88%90%E6%9C%AC%E6%88%90%E4%B8%BAvtuber/</url>
     <content><![CDATA[<p>vtuber是现今新兴的网络直播/出道方式，能够很方便地塑造一个人设，避免自己露脸的尴尬（</p>
@@ -253,6 +240,19 @@
       </tags>
   </entry>
   <entry>
+    <title>图片-By_EF_Cosmos</title>
+    <url>/2020/10/08/%E5%9B%BE%E7%89%87-By-EF-Cosmos/</url>
+    <content><![CDATA[<p><img src="https://pic.downk.cc/item/5f7f345d1cd1bbb86bd52df9.png" alt="图片"></p>
+<p><em>2020/10/08</em></p>
+]]></content>
+      <categories>
+        <category>EF_Cosmos</category>
+      </categories>
+      <tags>
+        <tag>随手写</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>在Linux系统上开直播</title>
     <url>/2020/11/26/%E5%9C%A8Linux%E7%B3%BB%E7%BB%9F%E4%B8%8A%E5%BC%80%E7%9B%B4%E6%92%AD/</url>
     <content><![CDATA[<h1 id="把你的屏幕分享给大家！"><a href="#把你的屏幕分享给大家！" class="headerlink" title="把你的屏幕分享给大家！"></a>把你的屏幕分享给大家！</h1><p>大家总是会有想要向别人展示东西的时候。也许是向几个同学，或者几个朋友展示自己的电脑展幕。在种时候用QQ或者Skype等等总是体验不太好，犹其在LINUX上的时候。</p>
@@ -275,22 +275,6 @@
       </tags>
   </entry>
   <entry>
-    <title>2020年10月12日</title>
-    <url>/2020/10/12/%E6%88%91%E4%BB%AC%E6%B4%BB%E5%9C%A8%E4%BD%95%E5%A4%84/</url>
-    <content><![CDATA[<p>#写于2020-10-12</p>
-<p>并非喜剧就能让人感到开心<br>常常一笑了之的背后<br>留下的是与欢乐不相称的孤独与寂莫<br>看在眼中的都是别人的欢乐</p>
-<a id="more"></a>
-<p>自己却没有获得的资格<br>只能感叹自己的不幸<br>没有欢乐<br>没有现实中触及得到的悲伤<br>只有自己一人不断地提醒自己<br>都是自己导致的后果<br>总是期望来自他人的奇迹<br>想要做出改变却从未开始<br>只有自己的情感逐渐麻木<br>到头来还是老样子</p>
-<p><em>by 从晴朗的朝色泛起之际开始</em></p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>随手写</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>实用主义已死</title>
     <url>/2022/03/05/%E5%AE%9E%E7%94%A8%E4%B8%BB%E4%B9%89%E5%B7%B2%E6%AD%BB/</url>
     <content><![CDATA[<h2 id="对于实用主义的批评"><a href="#对于实用主义的批评" class="headerlink" title="对于实用主义的批评"></a>对于实用主义的批评</h2><p>关于尼采，「上帝已死」这一说法非常出名。其指的是在现代人们失去了「上帝」这种绝对法则的存在，而陷入精神判的虚无，无法认定什么是正确的，什么是错误的，因为判断这一切的「上帝」死了。</p>
@@ -310,6 +294,22 @@
       </categories>
       <tags>
         <tag>随手写 Linux</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2020年10月12日</title>
+    <url>/2020/10/12/%E6%88%91%E4%BB%AC%E6%B4%BB%E5%9C%A8%E4%BD%95%E5%A4%84/</url>
+    <content><![CDATA[<p>#写于2020-10-12</p>
+<p>并非喜剧就能让人感到开心<br>常常一笑了之的背后<br>留下的是与欢乐不相称的孤独与寂莫<br>看在眼中的都是别人的欢乐</p>
+<a id="more"></a>
+<p>自己却没有获得的资格<br>只能感叹自己的不幸<br>没有欢乐<br>没有现实中触及得到的悲伤<br>只有自己一人不断地提醒自己<br>都是自己导致的后果<br>总是期望来自他人的奇迹<br>想要做出改变却从未开始<br>只有自己的情感逐渐麻木<br>到头来还是老样子</p>
+<p><em>by 从晴朗的朝色泛起之际开始</em></p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>随手写</tag>
       </tags>
   </entry>
   <entry>
@@ -338,6 +338,25 @@
       </tags>
   </entry>
   <entry>
+    <title>我关于许可证的看法</title>
+    <url>/2021/08/01/%E6%88%91%E5%85%B3%E4%BA%8E%E8%AE%B8%E5%8F%AF%E8%AF%81%E7%9A%84%E7%9C%8B%E6%B3%95/</url>
+    <content><![CDATA[<h1 id="我关于许可证的看法"><a href="#我关于许可证的看法" class="headerlink" title="我关于许可证的看法"></a>我关于许可证的看法</h1><p>先事先声明，我本人并不是专职的程序员，说实话也没有认真写过什么太多代码，所以以下就当做片面的个人看法观赏下好了。</p>
+<p>我写代码完全就是为了娱乐，自己的本职与计算机并没有什么关系，所以我从来不在意我的代码的私有权，我总是将它们公开。甚至不是代码的东西，比如我用hexo生成的博客，或者一个手写的仅几行的html用来挂在github pages上。</p>
+<p>对于我来说我不在乎别人是不是抄袭了我的代码，因为我的代码并没有好到让我自己骄傲的程度。不如说有人愿意看看我的代码是我的荣幸（虽然也没什么人看）。我不在乎我的commit是否写得很乱，因为我绝大多数的commit都是小打小闹，我几乎不会回滚也不会创建很多分支，因为那都太复杂了我用不到。</p>
+<p>我所有的东西基本都用挂着GPL协议。主要原因是我很喜欢GNU的思想，同时也对于这种维护自由的方式很中意。不过如果真的有人用了我的代码没有GPL开源我也并不在意，用GPL主要是希望能够让人们真的感受到自由罢了。</p>
+<p>面子公程对我来说无关紧要，纠结自己的东西是不是好看也很费神，所以我选择全都放出来，反正没人看。</p>
+<p>如果真的火起来了我相信我会有动力去把它做的好看的，但是即然没有火，那随便一点自在一点不好吗？</p>
+<p>与其在意别人的眼光或者藏着什么，全放出来不就好了嘛。</p>
+<p><strong>by 从晴朗的朝色泛起之际开始</strong></p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>随手写 Linux</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>打包软件到AUR</title>
     <url>/2020/11/12/%E6%89%93%E5%8C%85%E8%BD%AF%E4%BB%B6%E5%88%B0AUR/</url>
     <content><![CDATA[<h1 id="打包软件并共享到AUR"><a href="#打包软件并共享到AUR" class="headerlink" title="打包软件并共享到AUR"></a>打包软件并共享到AUR</h1><p>对于Arch Linux的用户来说，AUR软件仓库是常常为人所津津乐道的优势。其优点就在于极大的开放性。那么我们也可以打包软件上传到AUR，从白嫖进化到贡献者！</p>
@@ -355,25 +374,6 @@
       </categories>
       <tags>
         <tag>Linux</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>我关于许可证的看法</title>
-    <url>/2021/08/01/%E6%88%91%E5%85%B3%E4%BA%8E%E8%AE%B8%E5%8F%AF%E8%AF%81%E7%9A%84%E7%9C%8B%E6%B3%95/</url>
-    <content><![CDATA[<h1 id="我关于许可证的看法"><a href="#我关于许可证的看法" class="headerlink" title="我关于许可证的看法"></a>我关于许可证的看法</h1><p>先事先声明，我本人并不是专职的程序员，说实话也没有认真写过什么太多代码，所以以下就当做片面的个人看法观赏下好了。</p>
-<p>我写代码完全就是为了娱乐，自己的本职与计算机并没有什么关系，所以我从来不在意我的代码的私有权，我总是将它们公开。甚至不是代码的东西，比如我用hexo生成的博客，或者一个手写的仅几行的html用来挂在github pages上。</p>
-<p>对于我来说我不在乎别人是不是抄袭了我的代码，因为我的代码并没有好到让我自己骄傲的程度。不如说有人愿意看看我的代码是我的荣幸（虽然也没什么人看）。我不在乎我的commit是否写得很乱，因为我绝大多数的commit都是小打小闹，我几乎不会回滚也不会创建很多分支，因为那都太复杂了我用不到。</p>
-<p>我所有的东西基本都用挂着GPL协议。主要原因是我很喜欢GNU的思想，同时也对于这种维护自由的方式很中意。不过如果真的有人用了我的代码没有GPL开源我也并不在意，用GPL主要是希望能够让人们真的感受到自由罢了。</p>
-<p>面子公程对我来说无关紧要，纠结自己的东西是不是好看也很费神，所以我选择全都放出来，反正没人看。</p>
-<p>如果真的火起来了我相信我会有动力去把它做的好看的，但是即然没有火，那随便一点自在一点不好吗？</p>
-<p>与其在意别人的眼光或者藏着什么，全放出来不就好了嘛。</p>
-<p><strong>by 从晴朗的朝色泛起之际开始</strong></p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>随手写 Linux</tag>
       </tags>
   </entry>
   <entry>
