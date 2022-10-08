@@ -18,22 +18,6 @@
       </tags>
   </entry>
   <entry>
-    <title>AI 使我心情複雜</title>
-    <url>/2022/10/08/AI-Which-Makes-Me-Feel-Complex/</url>
-    <content><![CDATA[<p>很多事情的發展快得超乎預期。最近幾天一個訓練模型的泄露讓我被現在的AI 作畫技術……可能應該說是，被嚇到了。AI 作為一個還算比較熱門的話題平時也不乏听到 AI 的相關消息。有听說過 AI 作曲，然後也看到 AI 先打敗了國際象棋冠軍又打敗了圍棋冠軍，然而這些事情好像都沒有什麼感覺，因為平時不太听古典，也不太喜歡下棋，但是這次自己也玩了玩，帶來的感覺……真的完全不一樣。</p>
-<p>人們一直對於藝術有一種埶念，認為這些東西是人類最神聖的東西。這種神聖的想法在我看來源自於人們的感情本身。認為一種行業或者行為比另一種更優雅更高深，似乎沒有什麼道理。也許，這種對藝術與創造的差別性過高的對待，是人類不夠理性的體現。然而在人們進入現代，又再步入文字與符號背後的根源與像徵都變成了垃圾的後現代，AI 的出現，讓我感覺到了它可能將要擊破人類對非完全理性最後的防線，把人們帶到一種名為理智的無情感空虛之中。</p>
-<p>我覺得在有情感影響的情況下人類是不可能拥有完全理性的看法的。換而言之，人類正是因為這樣的一種現象才體現出了與紙上數式，計算譏程式所不一樣的決策模式。我們對事情移入感情，從而感受到與世界的聯係，我們用偏見與刻板印相或是自己所相信的信念去衡量現象的合理與否還有發生的可能性。但是 AI 今者夠畫插畫，也許以後可以創作出完整的漫畫劇情，寫出電影劇本，或者直接生成一支電影出來。所有人們情感的結晶，都變得與計算一樣沒有特別的意義。構成人類情感的特別的部分消失了之後，人類又會變成什麼樣呢。想到這些，不禁對身邊的電腦手機產生了一些恐惧，有點向往沒有那麼多技術的生活了，雖然離開它們也許早已不可能。</p>
-<p>說了一堆亂七八糟的好像也沒什麼條理。看到 AI 發展得這麼快，拿 AI 畫兩張插畫……確實也挺好玩的。只是我心存顧慮沒法由衷地為此開心，可能有那麼一點點像想到推動核能最大發展的其實也許是它要被用來造原子彈……其實不同的人看法肯定不盡相同，也許我只是像清末不願剪掉辮子的人對封建的毒孽心有不舍一樣對人類的情感感到不舍，也有可能我也會像那些反對漢字拉丁化的學者們一樣看到自己欣慰的結果，然後被論為正確。</p>
-<p>變化總是快的，但是我呢，也許還是會經常拿筆寫寫字那怕可以用電腦打，也許還是會更傾心於木工而非3D打印，也許還是會想要自己翻一翻詞典弄明白一句洋文是什麼意思勝於往翻譯裡一輸，啪地一下出結果。也許我最後的倔強也就只能到這個程度罷了。</p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>随手写</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>於 ROG 幻 13 2022 上安裝 archlinux 後</title>
     <url>/2022/08/15/Arch-Linux-on-ROG-Flow-X13/</url>
     <content><![CDATA[<h1 id="幻-13-筆電（核顯版）在-linux-上感覺效棘手的方面"><a href="#幻-13-筆電（核顯版）在-linux-上感覺效棘手的方面" class="headerlink" title="幻 13 筆電（核顯版）在 linux 上感覺效棘手的方面"></a>幻 13 筆電（核顯版）在 linux 上感覺效棘手的方面</h1><p>根據在筆記本型電腦上安裝 linux 的常識，比較棘手的有以下（”*”號表示使用良好）</p>
@@ -64,39 +48,6 @@
       </tags>
   </entry>
   <entry>
-    <title>FedoraFun 创始人宣布学习Rust</title>
-    <url>/2021/12/18/FedoraFun-%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%AE%A3%E5%B8%83%E5%AD%A6%E4%B9%A0Rust/</url>
-    <content><![CDATA[<h1 id="朝色报创刊号"><a href="#朝色报创刊号" class="headerlink" title="朝色报创刊号"></a>朝色报创刊号</h1><p><img src="/images/21-12-18/pic_version.jpg" alt="使用Word制作的第一则报道"></p>
-<p>2021-12-18 <strong>刊号1</strong> <em>——朝色报</em></p>
-]]></content>
-      <categories>
-        <category>朝色报</category>
-      </categories>
-      <tags>
-        <tag>新闻</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>FedoraFun 重新上线</title>
-    <url>/2022/02/06/FedoraFun-%E9%87%8D%E6%96%B0%E4%B8%8A%E7%BA%BF/</url>
-    <content><![CDATA[<h1 id="FedoraFun-于下线约10日后重新上线"><a href="#FedoraFun-于下线约10日后重新上线" class="headerlink" title="FedoraFun 于下线约10日后重新上线"></a>FedoraFun 于下线约10日后重新上线</h1><p>2022年02月05日晚，下线许久的 FedoraFun 终于重新上线了。经由<a href="https://github.com/zxc3123857948">创始人</a>的努力，现在博客由 Halo 构建并且运行于独立服务器上。</p>
-<p><img src="/images/22-02-06/new.jpg" alt="FedoraFun 新官网截图"></p>
-<p>可以发现，相比之前使用 Hugo 构建的博客系统，更加美观，贴合国内大众审美，页面内容丰富，信息集中，具有交互感。</p>
-<p>据悉，FedoraFun 最新官网使用了 Halo ，一款国人开发的博客框架系统进行构架。该框架运行于 Java ，并且源代码已经开源。这一定程度上也反映了现今国产化的蓬勃发展，产生了许多优于外国的解决方案。</p>
-<p>另外，前次报道中出现了一处错误，这里予以更正：FedoraFun 软件存储仓库最后一次更新时间为01月31日，也就是除夕当日。</p>
-<p><img src="/images/22-02-06/pkg.png" alt="FedoraFun 软件存储仓库的最新包"></p>
-<p>其实创始人在除夕之夜，这个本应与家人共度的节日里，还不忘全国的 FedoraFun 用户们，更新了软件包。并且明明正值新春佳节，却耗费时间与精力修复了 FedoraFun 官网。可见创始人的道德之高尚，与国外弄虚作假，整日不喜上班，浑浑噩噩的所谓“合理劳动”形成了鲜明的反差。创始人正是贯彻社区主义核心价值观的典范。</p>
-<p>最后，朝色报已经受到了 FedoraFun 创始人以及其它相关人员的关注。感谢大家的支持，如有疑问，建议可于评论中提出。</p>
-<p>2022-02-06 <strong>刊号3</strong> <em>——朝色报</em></p>
-]]></content>
-      <categories>
-        <category>朝色报</category>
-      </categories>
-      <tags>
-        <tag>新闻</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>FedoraFun下线七日</title>
     <url>/2022/02/03/FedoraFun%E4%B8%8B%E7%BA%BF%E4%B8%83%E6%97%A5/</url>
     <content><![CDATA[<h1 id="国内知名-Fedora-社区-FedoraFun-官网今已下线七日"><a href="#国内知名-Fedora-社区-FedoraFun-官网今已下线七日" class="headerlink" title="国内知名 Fedora 社区 FedoraFun 官网今已下线七日"></a>国内知名 Fedora 社区 FedoraFun 官网今已下线七日</h1><p>2022年02月03日，正月初三，本应是喜汽洋洋过年的日子，我们却不得不告知一件令人忧伤的事实：<strong>FedoraFun 官网已经下线七天了</strong></p>
@@ -122,6 +73,55 @@
       </tags>
   </entry>
   <entry>
+    <title>AI 使我心情複雜</title>
+    <url>/2022/10/08/AI-Which-Makes-Me-Feel-Complex/</url>
+    <content><![CDATA[<p>很多事情的發展快得超乎預期。最近幾天一個訓練模型的泄露讓我被現在的AI 作畫技術……可能應該說是，被嚇到了。AI 作為一個還算比較熱門的話題平時也不乏听到 AI 的相關消息。有听說過 AI 作曲，然後也看到 AI 先打敗了國際象棋冠軍又打敗了圍棋冠軍，然而這些事情好像都沒有什麼感覺，因為平時不太听古典，也不太喜歡下棋，但是這次自己也玩了玩，帶來的感覺……真的完全不一樣。</p>
+<p>人們一直對於藝術有一種埶念，認為這些東西是人類最神聖的東西。這種神聖的想法在我看來源自於人們的感情本身。認為一種行業或者行為比另一種更優雅更高深，似乎沒有什麼道理。也許，這種對藝術與創造的差別性過高的對待，是人類不夠理性的體現。然而在人們進入現代，又再步入文字與符號背後的根源與像徵都變成了垃圾的後現代，AI 的出現，讓我感覺到了它可能將要擊破人類對非完全理性最後的防線，把人們帶到一種名為理智的無情感空虛之中。</p>
+<p>我覺得在有情感影響的情況下人類是不可能拥有完全理性的看法的。換而言之，人類正是因為這樣的一種現象才體現出了與紙上數式，計算譏程式所不一樣的決策模式。我們對事情移入感情，從而感受到與世界的聯係，我們用偏見與刻板印相或是自己所相信的信念去衡量現象的合理與否還有發生的可能性。但是 AI 今者夠畫插畫，也許以後可以創作出完整的漫畫劇情，寫出電影劇本，或者直接生成一支電影出來。所有人們情感的結晶，都變得與計算一樣沒有特別的意義。構成人類情感的特別的部分消失了之後，人類又會變成什麼樣呢。想到這些，不禁對身邊的電腦手機產生了一些恐惧，有點向往沒有那麼多技術的生活了，雖然離開它們也許早已不可能。</p>
+<p>說了一堆亂七八糟的好像也沒什麼條理。看到 AI 發展得這麼快，拿 AI 畫兩張插畫……確實也挺好玩的。只是我心存顧慮沒法由衷地為此開心，可能有那麼一點點像想到推動核能最大發展的其實也許是它要被用來造原子彈……其實不同的人看法肯定不盡相同，也許我只是像清末不願剪掉辮子的人對封建的毒孽心有不舍一樣對人類的情感感到不舍，也有可能我也會像那些反對漢字拉丁化的學者們一樣看到自己欣慰的結果，然後被論為正確。</p>
+<p>變化總是快的，但是我呢，也許還是會經常拿筆寫寫字那怕可以用電腦打，也許還是會更傾心於木工而非3D打印，也許還是會想要自己翻一翻詞典弄明白一句洋文是什麼意思勝於往翻譯裡一輸，啪地一下出結果。也許我最後的倔強也就只能到這個程度罷了。</p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>随手写</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>FedoraFun 重新上线</title>
+    <url>/2022/02/06/FedoraFun-%E9%87%8D%E6%96%B0%E4%B8%8A%E7%BA%BF/</url>
+    <content><![CDATA[<h1 id="FedoraFun-于下线约10日后重新上线"><a href="#FedoraFun-于下线约10日后重新上线" class="headerlink" title="FedoraFun 于下线约10日后重新上线"></a>FedoraFun 于下线约10日后重新上线</h1><p>2022年02月05日晚，下线许久的 FedoraFun 终于重新上线了。经由<a href="https://github.com/zxc3123857948">创始人</a>的努力，现在博客由 Halo 构建并且运行于独立服务器上。</p>
+<p><img src="/images/22-02-06/new.jpg" alt="FedoraFun 新官网截图"></p>
+<p>可以发现，相比之前使用 Hugo 构建的博客系统，更加美观，贴合国内大众审美，页面内容丰富，信息集中，具有交互感。</p>
+<p>据悉，FedoraFun 最新官网使用了 Halo ，一款国人开发的博客框架系统进行构架。该框架运行于 Java ，并且源代码已经开源。这一定程度上也反映了现今国产化的蓬勃发展，产生了许多优于外国的解决方案。</p>
+<p>另外，前次报道中出现了一处错误，这里予以更正：FedoraFun 软件存储仓库最后一次更新时间为01月31日，也就是除夕当日。</p>
+<p><img src="/images/22-02-06/pkg.png" alt="FedoraFun 软件存储仓库的最新包"></p>
+<p>其实创始人在除夕之夜，这个本应与家人共度的节日里，还不忘全国的 FedoraFun 用户们，更新了软件包。并且明明正值新春佳节，却耗费时间与精力修复了 FedoraFun 官网。可见创始人的道德之高尚，与国外弄虚作假，整日不喜上班，浑浑噩噩的所谓“合理劳动”形成了鲜明的反差。创始人正是贯彻社区主义核心价值观的典范。</p>
+<p>最后，朝色报已经受到了 FedoraFun 创始人以及其它相关人员的关注。感谢大家的支持，如有疑问，建议可于评论中提出。</p>
+<p>2022-02-06 <strong>刊号3</strong> <em>——朝色报</em></p>
+]]></content>
+      <categories>
+        <category>朝色报</category>
+      </categories>
+      <tags>
+        <tag>新闻</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>FedoraFun 创始人宣布学习Rust</title>
+    <url>/2021/12/18/FedoraFun-%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%AE%A3%E5%B8%83%E5%AD%A6%E4%B9%A0Rust/</url>
+    <content><![CDATA[<h1 id="朝色报创刊号"><a href="#朝色报创刊号" class="headerlink" title="朝色报创刊号"></a>朝色报创刊号</h1><p><img src="/images/21-12-18/pic_version.jpg" alt="使用Word制作的第一则报道"></p>
+<p>2021-12-18 <strong>刊号1</strong> <em>——朝色报</em></p>
+]]></content>
+      <categories>
+        <category>朝色报</category>
+      </categories>
+      <tags>
+        <tag>新闻</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>GAME_1</title>
     <url>/2021/05/16/GAME-1/</url>
     <content><![CDATA[<p>第一话：</p>
@@ -134,25 +134,6 @@
       </categories>
       <tags>
         <tag>ゲーム好きな友達とゲームセンに行く話</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Nodejs实现随机图片API</title>
-    <url>/2021/03/20/Nodejs%E5%AE%9E%E7%8E%B0%E9%9A%8F%E6%9C%BA%E5%9B%BE%E7%89%87API/</url>
-    <content><![CDATA[<h1 id="用node-js实现随机图片API！"><a href="#用node-js实现随机图片API！" class="headerlink" title="用node.js实现随机图片API！"></a>用node.js实现随机图片API！</h1><p>前段时间我们的青河大佬自建了一个基于php的随机图API，然而由于我不愿随大流的性子，决定用不同的方法实现一个［滑稽］</p>
-<h3 id="都说了是基于node-js那当然要安装node-js啦！"><a href="#都说了是基于node-js那当然要安装node-js啦！" class="headerlink" title="都说了是基于node.js那当然要安装node.js啦！"></a>都说了是基于node.js那当然要安装node.js啦！</h3><p>首先要有一些图片，然后有这些图片的链接，把它们放到一个叫做data.txt的文本文件里，在相同目录下新建一个js文件：</p>
-<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="keyword">var</span> http = <span class="built_in">require</span>(<span class="string">&quot;http&quot;</span>);</span><br><span class="line"><span class="keyword">var</span> readline = <span class="built_in">require</span>(<span class="string">&#x27;readline&#x27;</span>);</span><br><span class="line"><span class="keyword">var</span> fs = <span class="built_in">require</span>(<span class="string">&#x27;fs&#x27;</span>);</span><br><span class="line"></span><br><span class="line"><span class="keyword">var</span> filearr;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">readarr</span>(<span class="params"> filename, callback </span>)</span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="keyword">var</span> file = fs.createReadStream( filename );</span><br><span class="line">    <span class="keyword">var</span> line_arr = readline.createInterface(</span><br><span class="line">        &#123;</span><br><span class="line">            input:file</span><br><span class="line">        &#125;</span><br><span class="line">    )</span><br><span class="line">    <span class="keyword">var</span> arr = <span class="keyword">new</span> <span class="built_in">Array</span>();</span><br><span class="line"></span><br><span class="line">    line_arr.on(<span class="string">&#x27;line&#x27;</span>, <span class="function">(<span class="params">line</span>) =&gt;</span> &#123;</span><br><span class="line">        arr.push( line );</span><br><span class="line"><span class="comment">//        console.log( arr );</span></span><br><span class="line">    &#125;)</span><br><span class="line"></span><br><span class="line">    line_arr.on(<span class="string">&#x27;close&#x27;</span>, <span class="function">() =&gt;</span>&#123;</span><br><span class="line">        filearr = arr.concat();</span><br><span class="line">        callback();</span><br><span class="line">    &#125;)</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">readarr( <span class="string">&#x27;data.txt&#x27;</span>, <span class="function">() =&gt;</span> &#123;</span><br><span class="line">    <span class="built_in">console</span>.log(<span class="string">&quot;Read data.txt Finished&quot;</span>);</span><br><span class="line">    <span class="built_in">console</span>.log( <span class="string">&quot;The file has &quot;</span> + filearr.length + <span class="string">&quot; lines&quot;</span> );</span><br><span class="line">&#125;)</span><br><span class="line"></span><br><span class="line">http.createServer( <span class="function">(<span class="params">req, res</span>) =&gt;</span> &#123;</span><br><span class="line"></span><br><span class="line">    res.writeHead(<span class="number">200</span>, &#123;<span class="string">&#x27;Content-Type&#x27;</span>: <span class="string">&#x27;text/plain&#x27;</span>&#125;);</span><br><span class="line"></span><br><span class="line">    <span class="keyword">var</span> whicharr = <span class="built_in">Math</span>.floor( <span class="built_in">Math</span>.random()*filearr.length );</span><br><span class="line"></span><br><span class="line">    res.end( filearr[whicharr] );</span><br><span class="line">&#125;).listen(<span class="number">2880</span>);</span><br><span class="line"></span><br><span class="line">http.createServer( <span class="function">(<span class="params">req, res</span>) =&gt;</span> &#123;</span><br><span class="line"></span><br><span class="line">    res.writeHead(<span class="number">200</span>, &#123;<span class="string">&#x27;Content-Type&#x27;</span>: <span class="string">&#x27;text/html; charset=utf-8&#x27;</span>&#125;);</span><br><span class="line"></span><br><span class="line">    <span class="keyword">var</span> whicharr = <span class="built_in">Math</span>.floor( <span class="built_in">Math</span>.random()*filearr.length );</span><br><span class="line"></span><br><span class="line">    res.end( <span class="string">`&lt;!DOCTYPE html&gt;</span></span><br><span class="line"><span class="string">&lt;html&gt;</span></span><br><span class="line"><span class="string">  &lt;head&gt;</span></span><br><span class="line"><span class="string">    &lt;meta charset=&quot;utf-8&quot;&gt;</span></span><br><span class="line"><span class="string">    &lt;title&gt;Zhaose&#x27;s repo&lt;/title&gt;</span></span><br><span class="line"><span class="string">    &lt;style&gt;</span></span><br><span class="line"><span class="string">      body</span></span><br><span class="line"><span class="string">      &#123;</span></span><br><span class="line"><span class="string">	  background-color:#d0e4fe;</span></span><br><span class="line"><span class="string">      &#125;</span></span><br><span class="line"><span class="string">      h1</span></span><br><span class="line"><span class="string">      &#123;</span></span><br><span class="line"><span class="string">	  color:orange;</span></span><br><span class="line"><span class="string">	  text-align:center;</span></span><br><span class="line"><span class="string">      &#125;</span></span><br><span class="line"><span class="string">      p</span></span><br><span class="line"><span class="string">      &#123;</span></span><br><span class="line"><span class="string">	  font-family:&quot;Times New Roman&quot;;</span></span><br><span class="line"><span class="string">	  font-size:20px;</span></span><br><span class="line"><span class="string">          background-color:#dddddd;</span></span><br><span class="line"><span class="string">          text-align: center;</span></span><br><span class="line"><span class="string">      &#125;</span></span><br><span class="line"><span class="string">    &lt;/style&gt;</span></span><br><span class="line"><span class="string">  &lt;/head&gt;</span></span><br><span class="line"><span class="string">  &lt;body&gt;</span></span><br><span class="line"><span class="string">    &lt;h1&gt;zhaose&#x27;s API&lt;/h1&gt;</span></span><br><span class="line"><span class="string">    &lt;p&gt;&lt;img src=&quot;`</span> + filearr[whicharr] + <span class="string">`&quot;/&gt;&lt;/p&gt;</span></span><br><span class="line"><span class="string">  &lt;/body&gt;</span></span><br><span class="line"><span class="string">&lt;/html&gt;`</span> );</span><br><span class="line">&#125;).listen(<span class="number">2881</span>);</span><br><span class="line"></span><br><span class="line">http.createServer( <span class="function">(<span class="params">req, res</span>) =&gt;</span> &#123;</span><br><span class="line"></span><br><span class="line">    <span class="keyword">var</span> whicharr = <span class="built_in">Math</span>.floor( <span class="built_in">Math</span>.random()*filearr.length );</span><br><span class="line"></span><br><span class="line">    <span class="keyword">var</span> url = filearr[whicharr]</span><br><span class="line"></span><br><span class="line">    res.writeHead(<span class="number">301</span>, &#123;<span class="string">&#x27;Location&#x27;</span>: url &#125;);</span><br><span class="line"></span><br><span class="line">    res.end();</span><br><span class="line">&#125;).listen(<span class="number">2882</span>);</span><br><span class="line"></span><br></pre></td></tr></table></figure>
-
-<p>把这些代码输入进去以后，使用</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ node XXX.js</span><br></pre></td></tr></table></figure>
-<p>就可以启动API服务了。其中访问2880端口是返回链接，2881是一个随机的html页面，2882是直接跳转到原图链接。<br>祝大家愉快！</p>
-<p>*by 从晴朗的朝色泛起之际开始</p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>Linux</tag>
       </tags>
   </entry>
   <entry>
@@ -169,6 +150,32 @@
       </categories>
       <tags>
         <tag>有趣</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>用racket重写随机图片API！</title>
+    <url>/2021/07/11/Racket-Random-Pic/</url>
+    <content><![CDATA[<h1 id="用racket重写随机图片API！"><a href="#用racket重写随机图片API！" class="headerlink" title="用racket重写随机图片API！"></a>用racket重写随机图片API！</h1><p>之前我写过一篇用nodejs进行随机图片的API，作为一个lisp信徒我决定用racket——一门sheme的方言来重写它</p>
+<h3 id="先安装racket"><a href="#先安装racket" class="headerlink" title="先安装racket"></a>先安装racket</h3><p>以下是Ubuntu上的安装方法</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">sudo apt install racket</span><br></pre></td></tr></table></figure>
+
+<p>然后在一个目录下新建data.txt，把你的图片的链接都放进去</p>
+<p>接着新建一个web.rkt：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">#lang racket</span><br><span class="line"></span><br><span class="line">(require web-server&#x2F;servlet)</span><br><span class="line">(require web-server&#x2F;servlet-env)</span><br><span class="line"></span><br><span class="line">(define url-list &#39;())</span><br><span class="line"></span><br><span class="line">(call-with-input-file &quot;data.txt&quot;</span><br><span class="line">  (lambda (in)</span><br><span class="line">    (let loop ((this-line (read-line in)))</span><br><span class="line">      (cond ((not (eof-object? this-line)) (set! url-list (append url-list (list this-line)))</span><br><span class="line">                                          (loop (read-line in))</span><br><span class="line">                                          )</span><br><span class="line">           )</span><br><span class="line">      )))</span><br><span class="line"></span><br><span class="line">(define (random-url req)</span><br><span class="line">  (response&#x2F;xexpr (list-ref url-list (random (length url-list))))</span><br><span class="line">  )</span><br><span class="line"></span><br><span class="line">(define (random-html req)</span><br><span class="line"></span><br><span class="line">  (response&#x2F;xexpr &#96;(html (head (title &quot;zhaose&#39;s api&quot;))</span><br><span class="line">                        (body (h1 &quot;zhaose&#39;s api&quot;)</span><br><span class="line">                             (p (img (( src ,(list-ref url-list (random (length url-list)))))))</span><br><span class="line">                             )</span><br><span class="line">                        )</span><br><span class="line">                 ))</span><br><span class="line"></span><br><span class="line">(define (my-random req)</span><br><span class="line">  (if (empty? (url-query (request-uri req))) (random-html req)</span><br><span class="line">     (random-url req)</span><br><span class="line">     ))</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">(serve&#x2F;servlet my-random #:port 8080 #:listen-ip &quot;0.0.0.0&quot; #:servlet-path &quot;&#x2F;&quot;)</span><br></pre></td></tr></table></figure>
+
+<p>保存好之后用racket web.rkt就可以运行了</p>
+<p>这是要注意的是如果你不加get请求参数返回的是一个html界百，加了get请求参数的话则会返回一个链接或者303跳转，可以用于机器人等的使用，如：</p>
+<p><a href="http://49.234.70.34:8080/">http://49.234.70.34:8080</a>是html界面</p>
+<p><a href="http://49.234.70.34:8080/?mode=text">http://49.234.70.34:8080?mode=text</a>返回的是链接</p>
+<p><a href="http://49.234.70.34:8080/?mode=jump">http://49.234.70.34:8080?mode=jump</a>是303跳转</p>
+<p>这确实是lisper的自我修养</p>
+<p><strong>by 从晴朗的朝色泛起之际开始</strong></p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>Linux</tag>
       </tags>
   </entry>
   <entry>
@@ -202,32 +209,6 @@
       </tags>
   </entry>
   <entry>
-    <title>用racket重写随机图片API！</title>
-    <url>/2021/07/11/Racket-Random-Pic/</url>
-    <content><![CDATA[<h1 id="用racket重写随机图片API！"><a href="#用racket重写随机图片API！" class="headerlink" title="用racket重写随机图片API！"></a>用racket重写随机图片API！</h1><p>之前我写过一篇用nodejs进行随机图片的API，作为一个lisp信徒我决定用racket——一门sheme的方言来重写它</p>
-<h3 id="先安装racket"><a href="#先安装racket" class="headerlink" title="先安装racket"></a>先安装racket</h3><p>以下是Ubuntu上的安装方法</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">sudo apt install racket</span><br></pre></td></tr></table></figure>
-
-<p>然后在一个目录下新建data.txt，把你的图片的链接都放进去</p>
-<p>接着新建一个web.rkt：</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">#lang racket</span><br><span class="line"></span><br><span class="line">(require web-server&#x2F;servlet)</span><br><span class="line">(require web-server&#x2F;servlet-env)</span><br><span class="line"></span><br><span class="line">(define url-list &#39;())</span><br><span class="line"></span><br><span class="line">(call-with-input-file &quot;data.txt&quot;</span><br><span class="line">  (lambda (in)</span><br><span class="line">    (let loop ((this-line (read-line in)))</span><br><span class="line">      (cond ((not (eof-object? this-line)) (set! url-list (append url-list (list this-line)))</span><br><span class="line">                                          (loop (read-line in))</span><br><span class="line">                                          )</span><br><span class="line">           )</span><br><span class="line">      )))</span><br><span class="line"></span><br><span class="line">(define (random-url req)</span><br><span class="line">  (response&#x2F;xexpr (list-ref url-list (random (length url-list))))</span><br><span class="line">  )</span><br><span class="line"></span><br><span class="line">(define (random-html req)</span><br><span class="line"></span><br><span class="line">  (response&#x2F;xexpr &#96;(html (head (title &quot;zhaose&#39;s api&quot;))</span><br><span class="line">                        (body (h1 &quot;zhaose&#39;s api&quot;)</span><br><span class="line">                             (p (img (( src ,(list-ref url-list (random (length url-list)))))))</span><br><span class="line">                             )</span><br><span class="line">                        )</span><br><span class="line">                 ))</span><br><span class="line"></span><br><span class="line">(define (my-random req)</span><br><span class="line">  (if (empty? (url-query (request-uri req))) (random-html req)</span><br><span class="line">     (random-url req)</span><br><span class="line">     ))</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">(serve&#x2F;servlet my-random #:port 8080 #:listen-ip &quot;0.0.0.0&quot; #:servlet-path &quot;&#x2F;&quot;)</span><br></pre></td></tr></table></figure>
-
-<p>保存好之后用racket web.rkt就可以运行了</p>
-<p>这是要注意的是如果你不加get请求参数返回的是一个html界百，加了get请求参数的话则会返回一个链接或者303跳转，可以用于机器人等的使用，如：</p>
-<p><a href="http://49.234.70.34:8080/">http://49.234.70.34:8080</a>是html界面</p>
-<p><a href="http://49.234.70.34:8080/?mode=text">http://49.234.70.34:8080?mode=text</a>返回的是链接</p>
-<p><a href="http://49.234.70.34:8080/?mode=jump">http://49.234.70.34:8080?mode=jump</a>是303跳转</p>
-<p>这确实是lisper的自我修养</p>
-<p><strong>by 从晴朗的朝色泛起之际开始</strong></p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>Linux</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Random_Pic</title>
     <url>/2021/03/29/Random-Pic/</url>
     <content><![CDATA[<h1 id="随机图！！！"><a href="#随机图！！！" class="headerlink" title="随机图！！！"></a>随机图！！！</h1><p>快点点进来！</p>
@@ -243,25 +224,16 @@
       </tags>
   </entry>
   <entry>
-    <title>i3窗口管理器配置</title>
-    <url>/2021/04/02/i3%E7%AA%97%E5%8F%A3%E7%AE%A1%E7%90%86%E5%99%A8%E9%85%8D%E7%BD%AE/</url>
-    <content><![CDATA[<h1 id="配置你的i3wm！（基于Arch-Linux，i3-gaps）"><a href="#配置你的i3wm！（基于Arch-Linux，i3-gaps）" class="headerlink" title="配置你的i3wm！（基于Arch Linux，i3-gaps）"></a>配置你的i3wm！（基于Arch Linux，i3-gaps）</h1><p>i3wm是一个动态窗口管理器。与通常的桌面环境不同，窗口管理器不含有各种轮子，所以非常轻量。常见的窗口管理器有openbox（堆叠），compiz（极至特效），i3（平铺），awesome（平铺），bspwm（平铺），dwm（平铺）。在这些窗口管理器中openbox与compiz配置好了之后几乎与桌面环境使用起来无异。</p>
-<p>然而，我们用wm只是为了轻量吗？不，当然还有平铺！</p>
-<p><em>在所有的平铺窗口管理器里，i3有着最为灵活的窗口布局方式，多叉树的结构可以排出各式各样的布局</em></p>
-<p>那么，今天就给大家分享一下i3-gaps的配置过程。首先安装一下i3:</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo pacman -S i3-gaps picom i3lock xss-lock polybar alacritty feh rofi</span><br></pre></td></tr></table></figure>
-<p>注意，如果装的不是i3wm那么是不支持窗口间隙的，需要安装i3-gaps这个包。上面的几个包中，picom是负责窗口特效的，诸如透明之类，i3lock是锁屏支持，xss-lock在systemd发出睡眠信号的时候自动调用锁屏，polybar是状态栏，可选。alacritty是个很棒的终端，可选。feh是壁纸支持，应当安装。rofi是应用程序启动器，也可以换成dmenu。</p>
-<p>另外，我本人还使用了一些xfce4以及KDE的组件，安装如下</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo pacman -S xfce4-notifyd xfce4-power-manager spectacle</span><br></pre></td></tr></table></figure>
-<p>分别是通知与电源管理，不装电源管理的话调节屏幕亮度会有点麻烦，建议安装。最后一个是KDE的截图软件，是我目前用过的最好用的截图！</p>
-<p>然后在~/.config/i3/config里进行配置</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">gaps inner 4</span><br><span class="line">gaps outer 3 </span><br><span class="line">exec --no-startup-id picom --experimental-backends</span><br><span class="line">exec --no-startup-id feh --bg-fill ~&#x2F;Pictures&#x2F;</span><br><span class="line">exec --no-startup-id xfce4-power-manager</span><br><span class="line">exec --no-startup-id xss-lock -- i3lock -n -c 000011</span><br><span class="line">exec --no-startup-id spectacle -s</span><br><span class="line">exec --no-startup-id &#x2F;usr&#x2F;lib&#x2F;xfce4&#x2F;notifyd&#x2F;xfce4-notifyd</span><br><span class="line"></span><br><span class="line">hide_edge_borders smart</span><br><span class="line">smart_gaps on</span><br><span class="line">default_border pixel 2</span><br><span class="line">default_floating_border pixel 2</span><br><span class="line"></span><br><span class="line">exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork</span><br></pre></td></tr></table></figure>
-<p>装以上的文字加入配置文件，登出重新进入应该就可以看到桌面了。（picom与polybar的配置是无底洞，这里不多说了）</p>
-<p>如有错误之处请自行更正，还望谅解！</p>
-<p>上图，看鄙人配置结果（由乃赛高！<del>夹带私货</del>）</p>
-<p><img src="/images/yuno.jpg" alt="我妻由乃赛高"></p>
-<p>诸君还可以加这个Q群玩耍哦～<br>859529818<br>（不是我的群）</p>
-<p><em>by从睛朗的朝色泛起之际开始</em></p>
+    <title>Nodejs实现随机图片API</title>
+    <url>/2021/03/20/Nodejs%E5%AE%9E%E7%8E%B0%E9%9A%8F%E6%9C%BA%E5%9B%BE%E7%89%87API/</url>
+    <content><![CDATA[<h1 id="用node-js实现随机图片API！"><a href="#用node-js实现随机图片API！" class="headerlink" title="用node.js实现随机图片API！"></a>用node.js实现随机图片API！</h1><p>前段时间我们的青河大佬自建了一个基于php的随机图API，然而由于我不愿随大流的性子，决定用不同的方法实现一个［滑稽］</p>
+<h3 id="都说了是基于node-js那当然要安装node-js啦！"><a href="#都说了是基于node-js那当然要安装node-js啦！" class="headerlink" title="都说了是基于node.js那当然要安装node.js啦！"></a>都说了是基于node.js那当然要安装node.js啦！</h3><p>首先要有一些图片，然后有这些图片的链接，把它们放到一个叫做data.txt的文本文件里，在相同目录下新建一个js文件：</p>
+<figure class="highlight javascript"><table><tr><td class="code"><pre><span class="line"><span class="keyword">var</span> http = <span class="built_in">require</span>(<span class="string">&quot;http&quot;</span>);</span><br><span class="line"><span class="keyword">var</span> readline = <span class="built_in">require</span>(<span class="string">&#x27;readline&#x27;</span>);</span><br><span class="line"><span class="keyword">var</span> fs = <span class="built_in">require</span>(<span class="string">&#x27;fs&#x27;</span>);</span><br><span class="line"></span><br><span class="line"><span class="keyword">var</span> filearr;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">readarr</span>(<span class="params"> filename, callback </span>)</span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="keyword">var</span> file = fs.createReadStream( filename );</span><br><span class="line">    <span class="keyword">var</span> line_arr = readline.createInterface(</span><br><span class="line">        &#123;</span><br><span class="line">            input:file</span><br><span class="line">        &#125;</span><br><span class="line">    )</span><br><span class="line">    <span class="keyword">var</span> arr = <span class="keyword">new</span> <span class="built_in">Array</span>();</span><br><span class="line"></span><br><span class="line">    line_arr.on(<span class="string">&#x27;line&#x27;</span>, <span class="function">(<span class="params">line</span>) =&gt;</span> &#123;</span><br><span class="line">        arr.push( line );</span><br><span class="line"><span class="comment">//        console.log( arr );</span></span><br><span class="line">    &#125;)</span><br><span class="line"></span><br><span class="line">    line_arr.on(<span class="string">&#x27;close&#x27;</span>, <span class="function">() =&gt;</span>&#123;</span><br><span class="line">        filearr = arr.concat();</span><br><span class="line">        callback();</span><br><span class="line">    &#125;)</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">readarr( <span class="string">&#x27;data.txt&#x27;</span>, <span class="function">() =&gt;</span> &#123;</span><br><span class="line">    <span class="built_in">console</span>.log(<span class="string">&quot;Read data.txt Finished&quot;</span>);</span><br><span class="line">    <span class="built_in">console</span>.log( <span class="string">&quot;The file has &quot;</span> + filearr.length + <span class="string">&quot; lines&quot;</span> );</span><br><span class="line">&#125;)</span><br><span class="line"></span><br><span class="line">http.createServer( <span class="function">(<span class="params">req, res</span>) =&gt;</span> &#123;</span><br><span class="line"></span><br><span class="line">    res.writeHead(<span class="number">200</span>, &#123;<span class="string">&#x27;Content-Type&#x27;</span>: <span class="string">&#x27;text/plain&#x27;</span>&#125;);</span><br><span class="line"></span><br><span class="line">    <span class="keyword">var</span> whicharr = <span class="built_in">Math</span>.floor( <span class="built_in">Math</span>.random()*filearr.length );</span><br><span class="line"></span><br><span class="line">    res.end( filearr[whicharr] );</span><br><span class="line">&#125;).listen(<span class="number">2880</span>);</span><br><span class="line"></span><br><span class="line">http.createServer( <span class="function">(<span class="params">req, res</span>) =&gt;</span> &#123;</span><br><span class="line"></span><br><span class="line">    res.writeHead(<span class="number">200</span>, &#123;<span class="string">&#x27;Content-Type&#x27;</span>: <span class="string">&#x27;text/html; charset=utf-8&#x27;</span>&#125;);</span><br><span class="line"></span><br><span class="line">    <span class="keyword">var</span> whicharr = <span class="built_in">Math</span>.floor( <span class="built_in">Math</span>.random()*filearr.length );</span><br><span class="line"></span><br><span class="line">    res.end( <span class="string">`&lt;!DOCTYPE html&gt;</span></span><br><span class="line"><span class="string">&lt;html&gt;</span></span><br><span class="line"><span class="string">  &lt;head&gt;</span></span><br><span class="line"><span class="string">    &lt;meta charset=&quot;utf-8&quot;&gt;</span></span><br><span class="line"><span class="string">    &lt;title&gt;Zhaose&#x27;s repo&lt;/title&gt;</span></span><br><span class="line"><span class="string">    &lt;style&gt;</span></span><br><span class="line"><span class="string">      body</span></span><br><span class="line"><span class="string">      &#123;</span></span><br><span class="line"><span class="string">	  background-color:#d0e4fe;</span></span><br><span class="line"><span class="string">      &#125;</span></span><br><span class="line"><span class="string">      h1</span></span><br><span class="line"><span class="string">      &#123;</span></span><br><span class="line"><span class="string">	  color:orange;</span></span><br><span class="line"><span class="string">	  text-align:center;</span></span><br><span class="line"><span class="string">      &#125;</span></span><br><span class="line"><span class="string">      p</span></span><br><span class="line"><span class="string">      &#123;</span></span><br><span class="line"><span class="string">	  font-family:&quot;Times New Roman&quot;;</span></span><br><span class="line"><span class="string">	  font-size:20px;</span></span><br><span class="line"><span class="string">          background-color:#dddddd;</span></span><br><span class="line"><span class="string">          text-align: center;</span></span><br><span class="line"><span class="string">      &#125;</span></span><br><span class="line"><span class="string">    &lt;/style&gt;</span></span><br><span class="line"><span class="string">  &lt;/head&gt;</span></span><br><span class="line"><span class="string">  &lt;body&gt;</span></span><br><span class="line"><span class="string">    &lt;h1&gt;zhaose&#x27;s API&lt;/h1&gt;</span></span><br><span class="line"><span class="string">    &lt;p&gt;&lt;img src=&quot;`</span> + filearr[whicharr] + <span class="string">`&quot;/&gt;&lt;/p&gt;</span></span><br><span class="line"><span class="string">  &lt;/body&gt;</span></span><br><span class="line"><span class="string">&lt;/html&gt;`</span> );</span><br><span class="line">&#125;).listen(<span class="number">2881</span>);</span><br><span class="line"></span><br><span class="line">http.createServer( <span class="function">(<span class="params">req, res</span>) =&gt;</span> &#123;</span><br><span class="line"></span><br><span class="line">    <span class="keyword">var</span> whicharr = <span class="built_in">Math</span>.floor( <span class="built_in">Math</span>.random()*filearr.length );</span><br><span class="line"></span><br><span class="line">    <span class="keyword">var</span> url = filearr[whicharr]</span><br><span class="line"></span><br><span class="line">    res.writeHead(<span class="number">301</span>, &#123;<span class="string">&#x27;Location&#x27;</span>: url &#125;);</span><br><span class="line"></span><br><span class="line">    res.end();</span><br><span class="line">&#125;).listen(<span class="number">2882</span>);</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+<p>把这些代码输入进去以后，使用</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ node XXX.js</span><br></pre></td></tr></table></figure>
+<p>就可以启动API服务了。其中访问2880端口是返回链接，2881是一个随机的html页面，2882是直接跳转到原图链接。<br>祝大家愉快！</p>
+<p>*by 从晴朗的朝色泛起之际开始</p>
 ]]></content>
       <categories>
         <category>从晴朗的朝色泛起之际开始</category>
@@ -316,16 +288,31 @@
       </tags>
   </entry>
   <entry>
-    <title>图片-By_EF_Cosmos</title>
-    <url>/2020/10/08/%E5%9B%BE%E7%89%87-By-EF-Cosmos/</url>
-    <content><![CDATA[<p><img src="https://pic.downk.cc/item/5f7f345d1cd1bbb86bd52df9.png" alt="图片"></p>
-<p><em>2020/10/08</em></p>
+    <title>i3窗口管理器配置</title>
+    <url>/2021/04/02/i3%E7%AA%97%E5%8F%A3%E7%AE%A1%E7%90%86%E5%99%A8%E9%85%8D%E7%BD%AE/</url>
+    <content><![CDATA[<h1 id="配置你的i3wm！（基于Arch-Linux，i3-gaps）"><a href="#配置你的i3wm！（基于Arch-Linux，i3-gaps）" class="headerlink" title="配置你的i3wm！（基于Arch Linux，i3-gaps）"></a>配置你的i3wm！（基于Arch Linux，i3-gaps）</h1><p>i3wm是一个动态窗口管理器。与通常的桌面环境不同，窗口管理器不含有各种轮子，所以非常轻量。常见的窗口管理器有openbox（堆叠），compiz（极至特效），i3（平铺），awesome（平铺），bspwm（平铺），dwm（平铺）。在这些窗口管理器中openbox与compiz配置好了之后几乎与桌面环境使用起来无异。</p>
+<p>然而，我们用wm只是为了轻量吗？不，当然还有平铺！</p>
+<p><em>在所有的平铺窗口管理器里，i3有着最为灵活的窗口布局方式，多叉树的结构可以排出各式各样的布局</em></p>
+<p>那么，今天就给大家分享一下i3-gaps的配置过程。首先安装一下i3:</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo pacman -S i3-gaps picom i3lock xss-lock polybar alacritty feh rofi</span><br></pre></td></tr></table></figure>
+<p>注意，如果装的不是i3wm那么是不支持窗口间隙的，需要安装i3-gaps这个包。上面的几个包中，picom是负责窗口特效的，诸如透明之类，i3lock是锁屏支持，xss-lock在systemd发出睡眠信号的时候自动调用锁屏，polybar是状态栏，可选。alacritty是个很棒的终端，可选。feh是壁纸支持，应当安装。rofi是应用程序启动器，也可以换成dmenu。</p>
+<p>另外，我本人还使用了一些xfce4以及KDE的组件，安装如下</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo pacman -S xfce4-notifyd xfce4-power-manager spectacle</span><br></pre></td></tr></table></figure>
+<p>分别是通知与电源管理，不装电源管理的话调节屏幕亮度会有点麻烦，建议安装。最后一个是KDE的截图软件，是我目前用过的最好用的截图！</p>
+<p>然后在~/.config/i3/config里进行配置</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">gaps inner 4</span><br><span class="line">gaps outer 3 </span><br><span class="line">exec --no-startup-id picom --experimental-backends</span><br><span class="line">exec --no-startup-id feh --bg-fill ~&#x2F;Pictures&#x2F;</span><br><span class="line">exec --no-startup-id xfce4-power-manager</span><br><span class="line">exec --no-startup-id xss-lock -- i3lock -n -c 000011</span><br><span class="line">exec --no-startup-id spectacle -s</span><br><span class="line">exec --no-startup-id &#x2F;usr&#x2F;lib&#x2F;xfce4&#x2F;notifyd&#x2F;xfce4-notifyd</span><br><span class="line"></span><br><span class="line">hide_edge_borders smart</span><br><span class="line">smart_gaps on</span><br><span class="line">default_border pixel 2</span><br><span class="line">default_floating_border pixel 2</span><br><span class="line"></span><br><span class="line">exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork</span><br></pre></td></tr></table></figure>
+<p>装以上的文字加入配置文件，登出重新进入应该就可以看到桌面了。（picom与polybar的配置是无底洞，这里不多说了）</p>
+<p>如有错误之处请自行更正，还望谅解！</p>
+<p>上图，看鄙人配置结果（由乃赛高！<del>夹带私货</del>）</p>
+<p><img src="/images/yuno.jpg" alt="我妻由乃赛高"></p>
+<p>诸君还可以加这个Q群玩耍哦～<br>859529818<br>（不是我的群）</p>
+<p><em>by从睛朗的朝色泛起之际开始</em></p>
 ]]></content>
       <categories>
-        <category>EF_Cosmos</category>
+        <category>从晴朗的朝色泛起之际开始</category>
       </categories>
       <tags>
-        <tag>随手写</tag>
+        <tag>Linux</tag>
       </tags>
   </entry>
   <entry>
@@ -348,6 +335,19 @@
       </categories>
       <tags>
         <tag>Linux</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>图片-By_EF_Cosmos</title>
+    <url>/2020/10/08/%E5%9B%BE%E7%89%87-By-EF-Cosmos/</url>
+    <content><![CDATA[<p><img src="https://pic.downk.cc/item/5f7f345d1cd1bbb86bd52df9.png" alt="图片"></p>
+<p><em>2020/10/08</em></p>
+]]></content>
+      <categories>
+        <category>EF_Cosmos</category>
+      </categories>
+      <tags>
+        <tag>随手写</tag>
       </tags>
   </entry>
   <entry>
@@ -597,19 +597,6 @@
       </tags>
   </entry>
   <entry>
-    <title>病娇日志100搬运</title>
-    <url>/2021/08/15/%E7%97%85%E5%A8%87%E6%97%A5%E5%BF%97100%E6%90%AC%E8%BF%90/</url>
-    <content><![CDATA[<h1 id="来自PIXIV的搬运"><a href="#来自PIXIV的搬运" class="headerlink" title="来自PIXIV的搬运"></a>来自PIXIV的搬运</h1><p><img src="/images/yandere.jpg" alt="p1"></p>
-<p><strong>by 从晴朗的朝色泛起之际开始</strong></p>
-]]></content>
-      <categories>
-        <category>从晴朗的朝色泛起之际开始</category>
-      </categories>
-      <tags>
-        <tag>随手写 病娇</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>给picom开启高性能模糊透明</title>
     <url>/2020/12/04/%E7%BB%99picom%E5%BC%80%E5%90%AF%E9%AB%98%E6%80%A7%E8%83%BD%E6%A8%A1%E7%B3%8A%E9%80%8F%E6%98%8E/</url>
     <content><![CDATA[<h1 id="picom混成器模糊透明来了！"><a href="#picom混成器模糊透明来了！" class="headerlink" title="picom混成器模糊透明来了！"></a>picom混成器模糊透明来了！</h1><p>使用windows manager的图形界面的话，如果不想忍受单薄的画面，当然少不了一个窗口混成器。现在kwin，mutter这些集成在DE里面的wm都整合了混成器。但是像i3这种wm，就需要一个外置混成器来撑撑排面了。</p>
@@ -631,6 +618,19 @@
       </categories>
       <tags>
         <tag>Linux</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>病娇日志100搬运</title>
+    <url>/2021/08/15/%E7%97%85%E5%A8%87%E6%97%A5%E5%BF%97100%E6%90%AC%E8%BF%90/</url>
+    <content><![CDATA[<h1 id="来自PIXIV的搬运"><a href="#来自PIXIV的搬运" class="headerlink" title="来自PIXIV的搬运"></a>来自PIXIV的搬运</h1><p><img src="/images/yandere.jpg" alt="p1"></p>
+<p><strong>by 从晴朗的朝色泛起之际开始</strong></p>
+]]></content>
+      <categories>
+        <category>从晴朗的朝色泛起之际开始</category>
+      </categories>
+      <tags>
+        <tag>随手写 病娇</tag>
       </tags>
   </entry>
   <entry>
