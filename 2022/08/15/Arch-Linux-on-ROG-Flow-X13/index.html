@@ -15,16 +15,16 @@
   
     <meta name="keywords" content="Linux" />
   
-  <meta name="description" content="幻 13 筆電（核顯版）在 linux 上感覺效棘手的方面根據在筆記本型電腦上安裝 linux 的常識，比較棘手的有以下（”*”號表示使用良好）  [ ]網卡 [*]觸摸屏 [ ]重力感應，自動旋轉新的銳龍 CPU 在小米等筆電上出現的問題 [*]鍵盤我發現的問題 [*]風扇  沒說明的常用功能都於 5.18.16-g14 內核下運行良好 常見棘手問題網卡聯發科這個型號的網卡在內核內與內核外似乎都">
+  <meta name="description" content="幻 13 筆電（核顯版）在 linux 上感覺效棘手的方面下面這些基本上是2022年中的情況，支持情況可能隨時間有所變化 根據在筆記本型電腦上安裝 linux 的常識，比較棘手的有以下（”*”號表示使用良好）  [ ]網卡 [*]觸摸屏 [*]重力感應，自動旋轉 [?]指紋新的銳龍 CPU 在小米等筆電上出現的問題 [*]鍵盤我發現的問題 [*]風扇  沒說明的常用功能都於 5.18.16-g14">
 <meta property="og:type" content="article">
 <meta property="og:title" content="於 ROG 幻 13 2022 上安裝 archlinux 後">
 <meta property="og:url" content="https://blog.zhaose.cyou/2022/08/15/Arch-Linux-on-ROG-Flow-X13/index.html">
 <meta property="og:site_name" content="朝色のBLOG">
-<meta property="og:description" content="幻 13 筆電（核顯版）在 linux 上感覺效棘手的方面根據在筆記本型電腦上安裝 linux 的常識，比較棘手的有以下（”*”號表示使用良好）  [ ]網卡 [*]觸摸屏 [ ]重力感應，自動旋轉新的銳龍 CPU 在小米等筆電上出現的問題 [*]鍵盤我發現的問題 [*]風扇  沒說明的常用功能都於 5.18.16-g14 內核下運行良好 常見棘手問題網卡聯發科這個型號的網卡在內核內與內核外似乎都">
+<meta property="og:description" content="幻 13 筆電（核顯版）在 linux 上感覺效棘手的方面下面這些基本上是2022年中的情況，支持情況可能隨時間有所變化 根據在筆記本型電腦上安裝 linux 的常識，比較棘手的有以下（”*”號表示使用良好）  [ ]網卡 [*]觸摸屏 [*]重力感應，自動旋轉 [?]指紋新的銳龍 CPU 在小米等筆電上出現的問題 [*]鍵盤我發現的問題 [*]風扇  沒說明的常用功能都於 5.18.16-g14">
 <meta property="og:locale" content="zh_TW">
 <meta property="og:image" content="https://blog.zhaose.cyou/images/avatar.webp">
 <meta property="article:published_time" content="2022-08-15T02:41:51.000Z">
-<meta property="article:modified_time" content="2022-08-15T04:35:35.414Z">
+<meta property="article:modified_time" content="2023-02-09T10:02:18.092Z">
 <meta property="article:author" content="Weiliang1503">
 <meta property="article:tag" content="Linux">
 <meta name="twitter:card" content="summary">
@@ -133,7 +133,7 @@
                         <i class="fa fa-edit"></i> 
                         
                         
-                            694
+                            983
                         
                         字
                         
@@ -142,29 +142,36 @@
             </header>
             <div class="kratos-post-content">
                 <div id="expire-alert" class="alert alert-warning hidden" role="alert">
-                    本文最后编辑于 <time datetime="1660538135414"></time> 前，其中的内容可能需要更新。
+                    本文最后编辑于 <time datetime="1675936938092"></time> 前，其中的内容可能需要更新。
                 </div>
                 
                 <hr />
-                <h1 id="幻-13-筆電（核顯版）在-linux-上感覺效棘手的方面"><a href="#幻-13-筆電（核顯版）在-linux-上感覺效棘手的方面" class="headerlink" title="幻 13 筆電（核顯版）在 linux 上感覺效棘手的方面"></a>幻 13 筆電（核顯版）在 linux 上感覺效棘手的方面</h1><p>根據在筆記本型電腦上安裝 linux 的常識，比較棘手的有以下（”*”號表示使用良好）</p>
+                <h1 id="幻-13-筆電（核顯版）在-linux-上感覺效棘手的方面"><a href="#幻-13-筆電（核顯版）在-linux-上感覺效棘手的方面" class="headerlink" title="幻 13 筆電（核顯版）在 linux 上感覺效棘手的方面"></a>幻 13 筆電（核顯版）在 linux 上感覺效棘手的方面</h1><p><strong>下面這些基本上是2022年中的情況，支持情況可能隨時間有所變化</strong></p>
+<p>根據在筆記本型電腦上安裝 linux 的常識，比較棘手的有以下（”*”號表示使用良好）</p>
 <ul>
 <li>[ ]網卡</li>
 <li>[*]觸摸屏</li>
-<li>[ ]重力感應，自動旋轉<br>新的銳龍 CPU 在小米等筆電上出現的問題</li>
+<li>[*]重力感應，自動旋轉</li>
+<li>[?]指紋<br>新的銳龍 CPU 在小米等筆電上出現的問題</li>
 <li>[*]鍵盤<br>我發現的問題</li>
 <li>[*]風扇</li>
 </ul>
 <p><strong>沒說明的常用功能都於 5.18.16-g14 內核下運行良好</strong></p>
 <h1 id="常見棘手問題"><a href="#常見棘手問題" class="headerlink" title="常見棘手問題"></a>常見棘手問題</h1><h2 id="網卡"><a href="#網卡" class="headerlink" title="網卡"></a>網卡</h2><p>聯發科這個型號的網卡在內核內與內核外似乎都沒有正式完全支持的驅動，雖可以另一款聯發網卡的驅動直接拿來使用，但不支持藍牙，且存在缺陷。</p>
 <p>所幸更換網卡很方便，更換 Inte AX210 可完美解決問題。</p>
+<p>新的內核有沒有加入驅動未知，沒有試過。</p>
 <h2 id="觸摸屏"><a href="#觸摸屏" class="headerlink" title="觸摸屏"></a>觸摸屏</h2><p>似乎不用多余配置，裝好 GNOME 後可以直接使用。</p>
-<h2 id="重力感應"><a href="#重力感應" class="headerlink" title="重力感應"></a>重力感應</h2><p>無法工作，看到網上有帖子說安裝 iio-sensor-proxy ，安裝後並無變化。</p>
+<h2 id="重力感應"><a href="#重力感應" class="headerlink" title="重力感應"></a>重力感應</h2><p><del>無法工作，看到網上有帖子說安裝 iio-sensor-proxy ，安裝後並無變化。</del></p>
+<p>平板模式的判斷有問題，導致無法自動旋轉。但其實傳感器工作良好。在 GNOME43 下可以使用我更改的這個插件來旋轉：<a target="_blank" rel="noopener" href="https://github.com/weiliang1503/gnome-shell-extension-screen-autorotate">https://github.com/weiliang1503/gnome-shell-extension-screen-autorotate</a>，直接將文件放到擴展文件夾裡即可。</p>
+<h2 id="指紋"><a href="#指紋" class="headerlink" title="指紋"></a>指紋</h2><p>有驅動，可以錄入，但識別率極低，幾乎無法識別正確，所以基本不可用。</p>
 <h1 id="新的銳龍-CPU-在小米等筆電上出現的問題"><a href="#新的銳龍-CPU-在小米等筆電上出現的問題" class="headerlink" title="新的銳龍 CPU 在小米等筆電上出現的問題"></a>新的銳龍 CPU 在小米等筆電上出現的問題</h1><h2 id="鍵盤"><a href="#鍵盤" class="headerlink" title="鍵盤"></a>鍵盤</h2><p>可以直接使用，包括背光調節也工作良好。</p>
 <h1 id="我發現的問題"><a href="#我發現的問題" class="headerlink" title="我發現的問題"></a>我發現的問題</h1><h2 id="風扇"><a href="#風扇" class="headerlink" title="風扇"></a>風扇</h2><p>風扇控制工作確實良好，但是當從掛起中喚醒後，風扇便不再工作，致使機體溫度飆升。</p>
-<p>解決方法是按照 <a target="_blank" rel="noopener" href="https://asus-linux.org/">https://asus-linux.org</a>  中 archlinux 版块添加 g14 源，然後安裝 linux-g14 內核。同時在內核參數（以 gurb 為例）加上一點東西，大概是讓硬件把系統認為是 windows：</p>
+<p>解決方法是按照 <a target="_blank" rel="noopener" href="https://asus-linux.org/">https://asus-linux.org</a>  中 archlinux 版块添加 g14 源，然後安裝 linux-g14 內核。</p>
+<p><del>同時在內核參數（以 gurb 為例）加上一點東西，大概是讓硬件把系統認為是 windows：</del></p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">GRUB_CMDLINE_LINUX_DEFAULT&#x3D;&quot;loglevel&#x3D;3 quiet acpi_osi&#x3D;\&quot;Windows 2022\&quot;&quot;</span><br></pre></td></tr></table></figure>
-
+<p><strong>實測以上在使用 g14 內核的情況下不用添加</strong></p>
 <p>這樣從掛起中喚醒之後風扇還會工作。</p>
+<p>新的未打補丁的主線內核沒有再進行嘗試，情況不明。</p>
 
             </div>
             
@@ -232,11 +239,11 @@
             const twitterBase   = "https://twitter.com/intent/tweet?";
             const hostUrl       = "https://blog.zhaose.cyou/2022/08/15/Arch-Linux-on-ROG-Flow-X13/";
             const title         = "「於 ROG 幻 13 2022 上安裝 archlinux 後」";
-            const excerpt       = `幻 13 筆電（核顯版）在 linux 上感覺效棘手的方面根據在筆記本型電腦上安裝 linux 的常識，比較棘手的有以下（”*”號表示使用良好）
+            const excerpt       = `幻 13 筆電（核顯版）在 linux 上感覺效棘手的方面下面這些基本上是2022年中的情況，支持情況可能隨時間有所變化
+根據在筆記本型電腦上安裝 linux 的常識，比較棘手的有以下（”*”號表示使用良好）
 
 [ ]網卡
-[*]觸摸屏
-[ ]重力感應，自動旋轉新的銳龍 CPU 在小米等筆電上出現...`;
+[*]觸摸...`;
             let _URL;
             switch (dest) {
                 case "qq"       : _URL = qqBase+"url="+hostUrl+"&title="+title+"&desc=&summary="+excerpt+"&site=cxpy";     break;
@@ -258,7 +265,7 @@
                         <a class="tag-none-link" href="/tags/Linux/" rel="tag">Linux</a>
                     </div>
                     <div class="pull-date">
-                    <span>最后编辑：2022-08-15</span>
+                    <span>最后编辑：2023-02-09</span>
                     </div>
                 </div>
             </footer>
