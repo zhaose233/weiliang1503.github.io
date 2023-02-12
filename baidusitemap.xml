@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://blog.zhaose.cyou/2020/10/01/%E7%8E%A9%E8%BF%87%E7%9A%84ADV%E6%B8%B8%E6%88%8F/</loc>
+    <lastmod>2023-02-12</lastmod>
+  </url>
+  <url>
     <loc>https://blog.zhaose.cyou/2022/08/15/Arch-Linux-on-ROG-Flow-X13/</loc>
     <lastmod>2023-02-09</lastmod>
   </url>
@@ -99,10 +103,6 @@
   <url>
     <loc>https://blog.zhaose.cyou/2021/04/02/i3%E7%AA%97%E5%8F%A3%E7%AE%A1%E7%90%86%E5%99%A8%E9%85%8D%E7%BD%AE/</loc>
     <lastmod>2021-04-02</lastmod>
-  </url>
-  <url>
-    <loc>https://blog.zhaose.cyou/2020/10/01/%E7%8E%A9%E8%BF%87%E7%9A%84ADV%E6%B8%B8%E6%88%8F/</loc>
-    <lastmod>2021-03-25</lastmod>
   </url>
   <url>
     <loc>https://blog.zhaose.cyou/2021/03/20/Nodejs%E5%AE%9E%E7%8E%B0%E9%9A%8F%E6%9C%BA%E5%9B%BE%E7%89%87API/</loc>
